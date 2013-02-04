@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="38" item="Westmark Baranof" rating="1">
+	<title>
+		<sentence id="1">
+			Sad(1) little(2) hotel(3) 
+			<opinion featWords="3" feature="hotel" opWords="1" polarity="-"/>
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) here(2) only(3) if(4) it(5) is(6) your(7) last(8) resort(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Stayed(1) at(2) the(3) Westmark(4) Baranof(5) for(6) 7(7) days(8) on(9) a(10) business(11) trip(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			PROS(1) :(2) Nice(3) Lobby(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Great(1) downtown(2) location(3) .(4) 
+			<opinion featWords="3" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Walking(1) distance(2) to(3) restaurants(4) ,(5) bars(6) ,(7) movie(8) theaters(9) and(10) gift(11) shops(12) ,(13) and(14) cruise(15) ship(16) terminals(17) .(18) ((19) If(20) you(21) are(22) walking(23) ,(24) ignore(25) the(26) fact(27) that(28) the(29) streets(30) are(31) packed(32) with(33) drunks(34) .(35) They(36) are(37) all(38) very(39) harmless(40) and(41) some(42) are(43) quite(44) nice(45) .(46) )(47) If(48) you(49) need(50) a(51) department(52) store(53) ,(54) you(55) will(56) have(57) a(58) bit(59) of(60) a(61) drive(62) .(63) 
+		</sentence>
+		<sentence id="5">
+			Airport(1) is(2) a(3) bit(4) of(5) a(6) drive(7) also(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			Price(1) seemed(2) to(3) be(4) about(5) on(6) course(7) for(8) Juneau(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			CONS(1) :(2) Very(3) old(4) hotel(5) and(6) not(7) even(8) as(9) close(10) to(11) being(12) grand(13) as(14) their(15) advertising(16) would(17) suggest(18) .(19) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-" potency="3"/>
+		</sentence>
+		<sentence id="8">
+			I(1) am(2) sure(3) in(4) the(5) 40(6) s(7) it(8) was(9) great(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Very(1) small(2) rooms(3) .(4) 
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="-" potency="1"/>
+		</sentence>
+		<sentence id="10">
+			I(1) only(2) had(3) about(4) 1.5(5) feet(6) at(7) the(8) end(9) of(10) the(11) bed(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			Cheap(1) furniture(2) ,(3) ZERO(4) extras(5) .(6) 
+			<opinion featWords="2" feature="furnishings" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			I(1) had(2) a(3) major(4) problem(5) with(6) the(7) serious(8) mold(9) issue(10) in(11) the(12) shower(13) and(14) in(15) the(16) closet(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			If(1) you(2) have(3) health(4) or(5) respiratory(6) issues(7) ,(8) this(9) is(10) definitely(11) not(12) the(13) place(14) to(15) stay(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			I(1) travel(2) a(3) lot(4) and(5) can(6) say(7) without(8) a(9) doubt(10) ,(11) this(12) is(13) the(14) worst(15) bed(16) I(17) have(18) ever(19) slept(20) in(21) in(22) a(23) long(24) time(25) .(26) 
+			<opinion featWords="16" feature="bed" opWords="15" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			I(1) also(2) did(3) not(4) like(5) the(6) two(7) very(8) thin(9) pillows(10) they(11) give(12) you(13) .(14) 
+			<opinion featWords="10" feature="bedding" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="16">
+			A(1) queen(2) size(3) bed(4) only(5) gets(6) you(7) two(8) flat(9) pillows(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			No(1) extras(2) in(3) the(4) closet(5) .(6) 
+		</sentence>
+		<sentence id="18">
+			Zero(1) ventilation(2) in(3) the(4) room(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) take(3) a(4) shower(5) ,(6) the(7) room(8) is(9) still(10) humid(11) that(12) afternoon(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			This(1) could(2) explain(3) the(4) mold(5) problem(6) .(7) 
+		</sentence>
+		<sentence id="21">
+			Parking(1) lot(2) in(3) the(4) back(5) of(6) the(7) building(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			When(1) you(2) are(3) trying(4) to(5) haul(6) luggage(7) to(8) and(9) from(10) your(11) car(12) ,(13) you(14) have(15) to(16) walk(17) around(18) the(19) building(20) and(21) up(22) a(23) hill(24) .(25) 
+		</sentence>
+		<sentence id="23">
+			In(1) bad(2) weather(3) ,(4) this(5) may(6) not(7) be(8) ideal(9) for(10) you(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			They(1) offer(2) non-smoking(3) rooms(4) ,(5) but(6) my(7) room(8) definitely(9) had(10) been(11) smoked(12) in(13) .(14) furthermore(15) ,(16) the(17) other(18) rooms(19) in(20) the(21) hallway(22) were(23) smoking(24) and(25) the(26) nasty(27) smell(28) would(29) seep(30) into(31) my(32) room(33) .(34) 
+		</sentence>
+		<sentence id="25">
+			Walls(1) are(2) paper(3) thin(4) .(5) 
+			<opinion featWords="1" feature="walls" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			Better(1) hope(2) that(3) you(4) do(5) not(6) get(7) neighbors(8) that(9) snore(10) or(11) like(12) to(13) watch(14) TV(15) late(16) like(17) I(18) did(19) .(20) 7(21) nights(22) ,(23) not(24) a(25) single(26) night(27) of(28) good(29) sleep(30) .(31) 
+		</sentence>
+		<sentence id="27">
+			I(1) was(2) a(3) zero(4) maintenance(5) guest(6) ,(7) so(8) I(9) can(10) not(11) comment(12) on(13) the(14) staff(15) other(16) than(17) for(18) check(19) in(20) and(21) check(22) out(23) .(24) 
+		</sentence>
+		<sentence id="28">
+			The(1) clerks(2) there(3) seemed(4) to(5) be(6) very(7) unprofessional(8) .(9) 
+		</sentence>
+		<sentence id="29">
+			I(1) had(2) to(3) wait(4) quite(5) a(6) while(7) for(8) the(9) clerk(10) to(11) come(12) out(13) from(14) the(15) back(16) room(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			Sounded(1) like(2) they(3) were(4) watching(5) TV(6) .(7) 
+		</sentence>
+		<sentence id="31">
+			I(1) probably(2) should(3) not(4) have(5) interrupted(6) them(7) .(8) 
+		</sentence>
+		<sentence id="32">
+			There(1) was(2) no(3) greeting(4) ,(5) thank(6) you(7) ,(8) come(9) again(10) or(11) any(12) other(13) comments(14) that(15) you(16) would(17) expect(18) from(19) hotel(20) staff(21) .(22) 
+		</sentence>
+		<sentence id="33">
+			Did(1) not(2) eat(3) at(4) the(5) restaurant(6) since(7) I(8) thought(9) it(10) was(11) overpriced(12) .(13) 
+			<opinion feature="price" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="34">
+			Given(1) all(2) that(3) ,(4) I(5) will(6) not(7) stay(8) here(9) again(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			However(1) ,(2) after(3) driving(4) around(5) ,(6) I(7) am(8) not(9) sure(10) if(11) there(12) are(13) any(14) stand(15) out(16) hotels(17) .(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="113" item="Stonehedge Inn" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) will(2) not(3) return(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) Wine(2) List(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) Service(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) the(2) money(3) you(4) would(5) spend(6) here(7) ,(8) go(9) into(10) Boston(11) and(12) enjoy(13) one(14) of(15) the(16) many(17) fine(18) Hotels(19) that(20) the(21) city(22) has(23) to(24) offer(25) .(26) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) saw(2) this(3) establishment(4) highlighted(5) on(6) a(7) Boston(8) Television(9) Show(10) and(11) thought(12) that(13) it(14) would(15) make(16) for(17) a(18) great(19) get(20) away(21) week(22) end(23) for(24) my(25) wife(26) and(27) me(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			Things(1) went(2) wrong(3) from(4) the(5) beginning(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			The(1) suite(2) that(3) I(4) had(5) reserved(6) was(7) in(8) fact(9) not(10) reserved(11) for(12) me(13) and(14) I(15) had(16) to(17) downgrade(18) to(19) a(20) room(21) with(22) less(23) amenities(24) promised(25) at(26) the(27) time(28) of(29) the(30) reservation(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			The(1) massage(2) and(3) pampering(4) that(5) my(6) wife(7) had(8) looked(9) forward(10) to(11) had(12) to(13) be(14) canceled(15) because(16) the(17) masseuse(18) did(19) not(20) show(21) up(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			It(1) was(2) quickly(3) explained(4) away(5) as(6) a(7) Scheduling(8) error(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			No(1) one(2) even(3) attempted(4) to(5) compensate(6) for(7) the(8) inconvenience(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			How(1) can(2) you(3) advertise(4) as(5) having(6) a(7) luxurious(8) Spa(9) when(10) the(11) employees(12) do(13) not(14) show(15) up(16) ?(17) 
+		</sentence>
+		<sentence id="8">
+			On(1) a(2) weekend(3) no(4) less(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			Our(1) dinning(2) experience(3) at(4) Silks(5) was(6) much(7) the(8) same(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) meal(2) was(3) fine(4) and(5) the(6) wine(7) list(8) impressive(9) but(10) the(11) service(12) was(13) confused(14) and(15) sloppy(16) .(17) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="12" feature="service" opWords="14" polarity="-"/>
+			<opinion featWords="12" feature="service" opWords="16" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			The(1) hotel(2) and(3) restaurant(4) staff(5) need(6) lots(7) of(8) training(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			Needless(1) to(2) say(3) ,(4) we(5) shortened(6) our(7) get-away(8) weekend(9) the(10) following(11) afternoon(12) poorer(13) for(14) the(15) experience(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			The(1) service(2) and(3) professionalism(4) was(5) not(6) 4(7) star(8) as(9) advertised(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) stayed(3) at(4) 4(5) and(6) 5(7) star(8) properties(9) and(10) I(11) must(12) say(13) that(14) this(15) establishment(16) has(17) a(18) long(19) way(20) to(21) go(22) to(23) get(24) to(25) that(26) level(27) .(28) 
+		</sentence>
+		<sentence id="15">
+			I(1) will(2) not(3) return(4) .(5) 
+		</sentence>
+	</text>
+</review>

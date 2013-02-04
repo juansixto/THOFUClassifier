@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="486" item="Golden Phoenix Hotel &amp; Casino" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) Haven(2) for(3) the(4) Handicap(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Handicap(1) accessible(2) in(3) ALL(4) facets(5) of(6) Casino(7) and(8) Hotel(9) !(10) !(11) !(12) 
+			<opinion featWords="7" feature="casino" opWords="1,2" polarity="+"/>
+			<opinion featWords="9" feature="hotel" opWords="1,2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) more(2) facilities(3) like(4) this(5) !(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) Handicap(4) and(5) tired(6) of(7) small(8) doors(9) ,(10) high(11) handles(12) ,(13) tight(14) elevators(15) ,(16) forbiding(17) stairs(18) ,(19) etc(20) ....(21) This(22) is(23) a(24) little(25) heaven(26) from(27) home(28) !(29) !(30) !(31) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Flamingo(2) is(3) a(4) nice(5) resort(6) and(7) mid-average(8) in(9) cost(10) and(11) amenities(12) .(13) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="+"/>
+			<opinion featWords="10" feature="price" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) IT(3) IS(4) TOTALLY(5) HANDICAP(6) ACCESSIBLE(7) !(8) !(9) !(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) handicap(2) units(3) have(4) phones(5) in(6) the(7) bathroom(8) ,(9) everything(10) within(11) easy(12) reach(13) !(14) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) no(3) "(4) we(5) can(6) accommadate(7) your(8) need(9) "(10) -(11) they(12) 've(13) meet(14) any(15) need(16) !(17) 
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) ramps(3) and(4) elevators(5) through-out(6) the(7) entire(8) complete(9) ,(10) an(11) above(12) street(13) walkway(14) to(15) connect(16) you(17) to(18) the(19) other(20) resort(21) amenities(22) and(23) ,(24) except(25) for(26) minimal(27) restoration(28) inconvience(29) -(30) the(31) Flamingo(32) meets(33) or(34) betters(35) ,(36) any(37) resort(38) we(39) have(40) stayed(41) in(42) that(43) advertises(44) or(45) infers(46) they(47) have(48) handicap(49) services(50) !(51) 
+		</sentence>
+		<sentence id="6">
+			GO(1) Flamingoes(2) !(3) 
+		</sentence>
+		<sentence id="7">
+			The(1) more(2) hotels(3) ,(4) chains(5) and(6) etc.(7) that(8) realize(9) that(10) there(11) is(12) a(13) traveling(14) ,(15) monied(16) group(17) of(18) disabled(19) people(20) the(21) better(22) !(23) 
+		</sentence>
+		<sentence id="8">
+			May(1) the(2) word(3) of(4) your(5) accessiblity(6) and(7) thoughtfulness(8) make(9) you(10) #(11) 1(12) in(13) Reno(14) !(15) 
+		</sentence>
+	</text>
+</review>

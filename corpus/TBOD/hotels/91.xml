@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="91" item="Aqua Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			CONCRETE(1) FLOOR(2) WITH(3) RUSTY(4) TUBS(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Extremely(1) friendly(2) Staff(3) ,(4) Free(5) beer(6) &amp;(7) wine(8) from(9) 7pm-8pm(10) 
+			<opinion featWords="3" feature="staff" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Concrete(1) floor(2) ,(3) rusty(4) bathroom(5) ,(6) no(7) pool(8) ,(9) no(10) room(11) service(12) ,(13) motel(14) look(15) .(16) 
+			<opinion featWords="2" feature="grounds" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) motel(2) describes(3) itself(4) as(5) a(6) first(7) class(8) hotel(9) on(10) it(11) 's(12) website(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Well(1) it(2) is(3) not(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			The(1) floors(2) are(3) concrete(4) is(5) the(6) guest(7) rooms(8) and(9) the(10) sink(11) &amp;(12) tub(13) have(14) rust(15) in(16) them(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) staff(2) is(3) EXTREMELY(4) friendly(5) and(6) try(7) to(8) make(9) up(10) for(11) the(12) poor(13) quality(14) of(15) the(16) rooms(17) .(18) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			I(1) stayed(2) there(3) because(4) the(5) website(6) is(7) deceiving(8) and(9) I(10) liked(11) the(12) price(13) .(14) ((15) $125.00(16) a(17) night(18) )(19) Like(20) the(21) old(22) saying(23) goes(24) ,(25) you(26) get(27) what(28) you(29) pay(30) for(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			On(1) the(2) website(3) they(4) show(5) and(6) describe(7) the(8) "(9) swim(10) spa(11) "(12) which(13) is(14) actually(15) a(16) small(17) hot(18) tub(19) .(20) 
+			<opinion featWords="19" feature="tub" opWords="17" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) not(3) a(4) pool(5) on(6) the(7) property(8) .(9) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="752" item="Dana Inn and Marina" rating="5">
+	<title>
+		<sentence id="1">
+			Dana(1) Inn(2) -(3) Could(4) be(5) Good(6) or(7) Bad(8) Depending(9) on(10) Room(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Bay(1) view(2) rooms(3) ,(4) customer(5) service(6) ,(7) food(8) ,(9) pool(10) ,(11) free(12) internet(13) .(14) 
+			<opinion featWords="13" feature="internet" opWords="12" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overpriced(1) Marina(2) View(3) rooms(4) ,(5) usually(6) no(7) towels(8) at(9) the(10) pool(11) .(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) for(2) the(3) Bay(4) View(5) rooms(6) if(7) you(8) can(9) afford(10) them(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			If(1) not(2) ,(3) save(4) your(5) money(6) and(7) go(8) elsewhere(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Just(1) returned(2) from(3) The(4) Dana(5) Inn(6) ((7) Aug(8) 2005(9) )(10) and(11) it(12) has(13) some(14) interesting(15) contrasts(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Originally(1) booked(2) a(3) room(4) with(5) a(6) Marina(7) view(8) for(9) $239/night(10) figuring(11) it(12) would(13) be(14) really(15) nice(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) definitely(3) not(4) worth(5) the(6) money(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) like(3) your(4) typical(5) motel(6) with(7) ((8) stained(9) )(10) carpet(11) in(12) the(13) hallway(14) ,(15) leading(16) to(17) the(18) front(19) door(20) of(21) the(22) room(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Air(1) conditioners(2) stick(3) out(4) into(5) the(6) exterior(7) hallway(8) just(9) like(10) they(11) do(12) at(13) most(14) motels(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Marina(1) view(2) rooms(3) do(4) not(5) have(6) balconies(7) despite(8) the(9) misleading(10) picture(11) on(12) their(13) web(14) site(15) of(16) a(17) couple(18) overlooking(19) the(20) Marina(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			They(1) are(2) standing(3) on(4) the(5) 4(6) '(7) wide(8) walkway(9) that(10) everyone(11) uses(12) to(13) get(14) to(15) their(16) room(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			Marina(1) View(2) rooms(3) do(4) not(5) have(6) closets(7) ;(8) just(9) a(10) wooden(11) wardrobe(12) for(13) your(14) clothes(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			Once(1) inside(2) ,(3) the(4) decor(5) was(6) OK(7) ,(8) but(9) since(10) everyone(11) who(12) walks(13) past(14) your(15) room(16) can(17) see(18) in(19) your(20) window(21) ,(22) you(23) 'll(24) probably(25) want(26) to(27) close(28) or(29) angle(30) off(31) the(32) louvered(33) shutters(34) .(35) 
+			<opinion featWords="5" feature="decoration" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			That(1) makes(2) the(3) room(4) dark(5) as(6) there(7) are(8) no(9) curtains(10) .(11) 
+			<opinion featWords="4" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			When(1) you(2) close(3) or(4) angle(5) off(6) the(7) shutters(8) you(9) also(10) lose(11) your(12) view(13) of(14) the(15) Marina(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			Ultimately(1) decided(2) to(3) upgrade(4) to(5) the(6) new(7) buildingswith(8) the(9) bay(10) views(11) for(12) $20(13) more(14) per(15) night(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			What(1) a(2) difference(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			The(1) bay(2) rooms(3) are(4) beautiful(5) ,(6) clean(7) and(8) have(9) balconies(10) .(11) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+	</text>
+</review>

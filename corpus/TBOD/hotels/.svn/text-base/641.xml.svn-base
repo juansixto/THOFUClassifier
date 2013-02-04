@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="641" item="Holiday Inn Sunspree Palmbeach" rating="3">
+	<title>
+		<sentence id="1">
+			No(1) Matter(2) How(3) Perfect(4) the(5) Island(6) ,(7) the(8) Hotels(9) are(10) 'nt(11) Always(12) Paradise(13) on(14) Earth(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) beach(2) !(3) 
+			<opinion featWords="2" feature="beach" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Tons(1) of(2) watersports(3) ...(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) wear(2) and(3) tear(4) ,(5) lifeless(6) food(7) ...(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) too(2) bad(3) if(4) you(5) get(6) a(7) cheap(8) rate(9) ,(10) but(11) the(12) place(13) is(14) dated(15) and(16) has(17) some(18) problems(19) ,(20) so(21) shop(22) around(23) ...(24) 
+			<opinion feature="hotel" opWords="1,2,3" polarity="+"/>
+			<opinion featWords="9" feature="price" opWords="8" polarity="+"/>
+			<opinion featWords="13" feature="place" opWords="15" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Holiday(2) Inn(3) SunSpree(4) Resort(5) is(6) one(7) of(8) the(9) Aruba(10) 's(11) largest(12) hotels(13) with(14) some(15) 600(16) rooms(17) spread(18) across(19) 3(20) high-rise(21) towers(22) ((23) dubbed(24) the(25) Aruba(26) ,(27) Bonaire(28) ,(29) and(30) Curacao(31) towers(32) )(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			Most(1) of(2) the(3) rooms(4) have(5) balconies(6) affording(7) some(8) semblance(9) of(10) an(11) ocean(12) view(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			I(1) 'd(2) guess(3) the(4) resort(5) is(6) about(7) 20(8) years(9) old(10) ,(11) and(12) it(13) seems(14) a(15) bit(16) dated(17) and(18) worn(19) in(20) places(21) .(22) 
+			<opinion featWords="5" feature="hotel" opWords="17" polarity="-"/>
+			<opinion featWords="5" feature="hotel" opWords="19" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			It(1) also(2) seems(3) to(4) be(5) among(6) the(7) more(8) popular(9) places(10) for(11) the(12) bargain-hunter(13) crowd(14) as(15) I(16) know(17) ((18) from(19) personally(20) searching(21) rates(22) )(23) that(24) the(25) prices(26) are(27) among(28) the(29) most(30) affordable(31) for(32) the(33) kind(34) of(35) amenities(36) that(37) you(38) get(39) .(40) 
+			<opinion featWords="26" feature="price" opWords="31" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Come(1) take(2) a(3) stroll(4) around(5) the(6) property(7) with(8) me(9) and(10) let(11) me(12) share(13) a(14) few(15) viewpoints(16) that(17) might(18) help(19) you(20) decide(21) whether(22) or(23) not(24) this(25) is(26) the(27) kind(28) of(29) resort(30) you(31) want(32) to(33) stay(34) in(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			Awesome(1) beaches(2) are(3) the(4) biggest(5) draw(6) to(7) any(8) Caribbean(9) island(10) ,(11) so(12) let(13) s(14) start(15) the(16) tour(17) by(18) strolling(19) along(20) the(21) beach(22) and(23) around(24) the(25) recreational(26) facilities(27) Rest(28) and(29) Relaxation(30) :(31) The(32) Resort(33) Amenities(34) ...(35) Chances(36) are(37) pretty(38) good(39) that(40) you(41) 're(42) here(43) to(44) relax(45) and(46) to(47) have(48) some(49) fun(50) on(51) the(52) beach(53) .(54) 
+		</sentence>
+		<sentence id="7">
+			This(1) hotel(2) provides(3) so(4) many(5) things(6) to(7) do(8) ,(9) and(10) ways(11) to(12) spend(13) your(14) cash(15) without(16) ever(17) leaving(18) the(19) property(20) ,(21) that(22) I(23) could(24) easily(25) see(26) a(27) person(28) ((29) especially(30) a(31) family(32) with(33) teenagers(34) )(35) never(36) wanting(37) to(38) stray(39) far(40) from(41) the(42) hotel(43) .(44) 
+		</sentence>
+		<sentence id="8">
+			Here(1) 's(2) a(3) sampling(4) ...(5) The(6) Health(7) Club(8) and(9) Spa(10) :(11) The(12) hotel(13) offers(14) a(15) large(16) gym(17) ,(18) open(19) to(20) guests(21) 24(22) hours(23) a(24) day(25) .(26) 
+			<opinion featWords="17" feature="gym" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Want(1) to(2) work(3) off(4) the(5) calories(6) from(7) that(8) overindulgence(9) at(10) the(11) churrasceria(12) ?(13) 
+		</sentence>
+		<sentence id="10">
+			No(1) prob(2) --(3) head(4) down(5) to(6) the(7) weight(8) machines(9) at(10) 2am(11) if(12) you(13) wish(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) also(3) a(4) complete(5) spa(6) available(7) ((8) called(9) Intermezzo(10) Spa(11) )(12) ,(13) offering(14) massages(15) ,(16) facials(17) ,(18) and(19) other(20) services(21) .(22) 
+			<opinion featWords="6" feature="spa" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) spa(2) and(3) gym(4) are(5) located(6) in(7) a(8) low(9) ,(10) 1-story(11) building(12) along(13) the(14) back(15) of(16) the(17) beach(18) ,(19) next(20) to(21) the(22) Curacao(23) tower(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			Tennis(1) :(2) Three(3) hard(4) courts(5) are(6) available(7) across(8) the(9) parking(10) lot(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) like(2) playing(3) tennis(4) ,(5) but(6) I(7) did(8) not(9) find(10) these(11) courts(12) especially(13) inviting(14) --(15) they(16) were(17) not(18) in(19) an(20) attractive(21) setting(22) and(23) they(24) looked(25) like(26) an(27) after-thought(28) ,(29) baking(30) under(31) the(32) fierce(33) tropical(34) sun(35) on(36) the(37) other(38) side(39) of(40) the(41) parking(42) lot(43) ,(44) without(45) so(46) much(47) as(48) the(49) saving(50) redemption(51) of(52) overhanging(53) shade(54) trees(55) .(56) 
+		</sentence>
+		<sentence id="15">
+			Kids(1) Play(2) Area(3) :(4) Small(5) and(6) uninviting(7) ,(8) tucked(9) back(10) at(11) the(12) side(13) of(14) the(15) Aruba(16) tower(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			A(1) few(2) plastic(3) toys(4) do(5) 'nt(6) make(7) a(8) great(9) kids(10) area(11) .(12) 
+			<opinion featWords="11" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			No(1) biggee(2) .(3) 
+		</sentence>
+		<sentence id="18">
+			If(1) I(2) were(3) a(4) kid(5) ,(6) I(7) rather(8) play(9) in(10) the(11) sand(12) ,(13) or(14) maybe(15) around(16) the(17) pool(18) The(19) Pool(20) :(21) I(22) do(23) not(24) especially(25) care(26) for(27) the(28) pool(29) at(30) this(31) hotel(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			It(1) 's(2) small(3) ,(4) crowded(5) ,(6) and(7) too(8) shallow(9) ((10) never(11) more(12) than(13) 5(14) feet(15) )(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			Kids(1) seem(2) to(3) like(4) ducking(5) under(6) the(7) big(8) round(9) thing(10) that(11) showers(12) water(13) down(14) on(15) their(16) heads(17) ,(18) but(19) I(20) thought(21) it(22) looked(23) hokey(24) and(25) dated(26) ,(27) like(28) satin(29) disco(30) suits(31) and(32) mood(33) rings(34) .(35) 
+		</sentence>
+		<sentence id="21">
+			The(1) Watersports(2) :(3) Aruba(4) is(5) a(6) great(7) place(8) for(9) watersports(10) --(11) almost(12) every(13) hotel(14) ((15) Holiday(16) Inn(17) included(18) )(19) seems(20) to(21) offer(22) just(23) about(24) anything(25) you(26) could(27) possibly(28) want(29) to(30) do(31) on(32) the(33) water(34) ,(35) from(36) scuba(37) to(38) kayaking(39) to(40) water(41) skiing(42) to(43) banana(44) boat(45) rides(46) .(47) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			Parasailing(1) ?(2) 
+		</sentence>
+		<sentence id="23">
+			No(1) problem(2) .(3) 
+		</sentence>
+		<sentence id="24">
+			Snorkling(1) ?(2) 
+		</sentence>
+		<sentence id="25">
+			You(1) got(2) it(3) !(4) 
+		</sentence>
+		<sentence id="26">
+			The(1) soft(2) white(3) sands(4) of(5) the(6) beach(7) and(8) the(9) deliciously(10) warm(11) turquiose(12) waters(13) of(14) the(15) Caribbean(16) are(17) too(18) enticing(19) to(20) stay(21) locked(22) to(23) a(24) beach(25) chair(26) ,(27) and(28) how(29) much(30) you(31) want(32) to(33) do(34) is(35) simply(36) a(37) matter(38) of(39) your(40) own(41) energy(42) level(43) and(44) the(45) size(46) of(47) your(48) wallet(49) .(50) 
+		</sentence>
+		<sentence id="27">
+			Of(1) course(2) ,(3) you(4) could(5) just(6) loaf(7) on(8) the(9) beach(10) ,(11) doing(12) a(13) little(14) tan(15) maintenance(16) ...(17) The(18) Beach(19) :(20) There(21) 's(22) no(23) pleasing(24) everyone(25) .(26) 
+		</sentence>
+		<sentence id="28">
+			I(1) know(2) that(3) the(4) hotel(5) is(6) trying(7) to(8) provide(9) as(10) many(11) of(12) those(13) palapa(14) shelters(15) as(16) they(17) can(18) ,(19) because(20) people(21) want(22) to(23) have(24) a(25) little(26) shade(27) to(28) sit(29) under(30) and(31) a(32) table(33) on(34) which(35) to(36) rest(37) their(38) beers(39) and(40) margaritas(41) .(42) 
+		</sentence>
+		<sentence id="29">
+			But(1) as(2) I(3) stroll(4) along(5) the(6) beach(7) in(8) front(9) of(10) the(11) Holiday(12) Inn(13) ,(14) I(15) can(16) not(17) help(18) but(19) wish(20) there(21) were(22) not(23) so(24) darn(25) many(26) of(27) them(28) .(29) 
+		</sentence>
+		<sentence id="30">
+			The(1) little(2) shelters(3) are(4) packed(5) tighter(6) than(7) a(8) Mexico(9) City(10) subway(11) car(12) at(13) 9:30(14) on(15) a(16) Wednesday(17) morning(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			Unbelievable(1) as(2) it(3) might(4) be(5) ,(6) the(7) chairs(8) are(9) even(10) more(11) tightly(12) crammed(13) in(14) there(15) .(16) 
+		</sentence>
+		<sentence id="32">
+			The(1) beach(2) is(3) ,(4) of(5) course(6) ,(7) overcrowded(8) no(9) matter(10) when(11) you(12) visit(13) .(14) 
+			<opinion featWords="2" feature="beach" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="33">
+			Cramped(1) ,(2) crowded(3) beachfront(4) sunbathing(5) is(6) not(7) a(8) complaint(9) I(10) have(11) against(12) this(13) hotel(14) alone(15) .(16) 
+		</sentence>
+		<sentence id="34">
+			Lots(1) of(2) Aruba(3) 's(4) hotels(5) have(6) uncomfortably(7) overcrowded(8) beach(9) areas(10) .(11) 
+			<opinion featWords="9" feature="beach" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="35">
+			As(1) I(2) strolled(3) along(4) the(5) beach(6) ,(7) I(8) noticed(9) that(10) quite(11) a(12) few(13) of(14) the(15) hotels(16) --(17) especially(18) around(19) the(20) Palm(21) Beach(22) area(23) --(24) were(25) chock-a-block(26) chairs(27) and(28) umbrellas(29) .(30) 
+		</sentence>
+		<sentence id="36">
+			The(1) exceptions(2) just(3) prove(4) the(5) rule(6) ((7) especially(8) the(9) Aruba(10) Grand(11) ,(12) which(13) stood(14) out(15) in(16) my(17) mind(18) as(19) being(20) quieter(21) and(22) saner(23) than(24) its(25) neighbors(26) )(27) .(28) 
+		</sentence>
+		<sentence id="37">
+			It(1) 's(2) enough(3) to(4) make(5) a(6) guy(7) yearn(8) for(9) the(10) wider(11) ,(12) more(13) open(14) spaces(15) of(16) Eagle(17) Beach(18) to(19) the(20) south(21) .(22) 
+		</sentence>
+		<sentence id="38">
+			I(1) plan(2) to(3) talk(4) a(5) little(6) more(7) about(8) Eagle(9) Beach(10) in(11) another(12) review(13) ,(14) but(15) suffice(16) it(17) to(18) say(19) that(20) next(21) time(22) I(23) visit(24) Aruba(25) ,(26) I(27) 'll(28) probably(29) stay(30) at(31) Las(32) Cabanas(33) ,(34) or(35) one(36) of(37) its(38) neighbors(39) ,(40) which(41) face(42) out(43) onto(44) Eagle(45) Beach(46) ,(47) but(48) that(49) do(50) not(51) have(52) a(53) monopoly(54) on(55) chairs(56) and(57) palapas(58) .(59) 
+		</sentence>
+		<sentence id="39">
+			Around(1) the(2) Property(3) ...(4) The(5) lobby(6) area(7) is(8) more(9) functional(10) than(11) opulent(12) ,(13) and(14) it(15) 's(16) smaller(17) than(18) I(19) 'd(20) usually(21) expect(22) for(23) a(24) hotel(25) of(26) its(27) size(28) .(29) 
+		</sentence>
+		<sentence id="40">
+			A(1) small(2) bar(3) ((4) the(5) imaginitively(6) named(7) Lobby(8) Bar(9) )(10) sits(11) oddly(12) close(13) to(14) the(15) registration(16) desk(17) ,(18) where(19) lines(20) seem(21) to(22) be(23) the(24) norm(25) since(26) slow(27) checkin(28) and(29) checkout(30) are(31) the(32) order(33) of(34) business(35) here(36) .(37) 
+			<opinion featWords="3" feature="food" opWords="2" polarity="-"/>
+		</sentence>
+		<sentence id="41">
+			Some(1) things(2) are(3) low(4) class(5) ((6) aluminum(7) blast(8) doors(9) leading(10) out(11) the(12) pool(13) )(14) and(15) other(16) things(17) are(18) just(19) a(20) bit(21) run(22) down(23) ((24) like(25) chipped(26) concrete(27) falling(28) off(29) the(30) balconies(31) on(32) the(33) Aruba(34) tower(35) )(36) .(37) 
+		</sentence>
+		<sentence id="42">
+			Nonetheless(1) ,(2) the(3) facilities(4) are(5) ,(6) on(7) the(8) whole(9) ,(10) pretty(11) enticing(12) .(13) 
+			<opinion featWords="4" feature="facilities" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="43">
+			Shopping(1) Arcade(2) Several(3) shops(4) line(5) the(6) hotel(7) 's(8) somewhat(9) 70(10) 's(11) looking(12) shopping(13) arcade(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			Most(1) strike(2) me(3) as(4) fairly(5) low-end(6) ,(7) catering(8) to(9) budget(10) travelers(11) from(12) south(13) Baltimore(14) who(15) forgot(16) their(17) NoName(18) sunblock(19) and(20) Suave(21) shampoo(22) back(23) in(24) their(25) row(26) house(27) .(28) 
+		</sentence>
+		<sentence id="45">
+			The(1) sole(2) exception(3) was(4) a(5) Little(6) Switzerland(7) shop(8) that(9) catered(10) to(11) travelers(12) who(13) really(14) ,(15) really(16) like(17) to(18) pay(19) too(20) much(21) for(22) their(23) mufflers(24) ((25) well(26) ,(27) watches(28) in(29) this(30) case(31) )(32) .(33) 
+		</sentence>
+		<sentence id="46">
+			Personally(1) ,(2) I(3) 'd(4) jump(5) a(6) bus(7) into(8) town(9) before(10) I(11) spent(12) too(13) much(14) in(15) these(16) shops(17) ...(18) Bus(19) If(20) you(21) want(22) to(23) go(24) into(25) town(26) ,(27) but(28) do(29) not(30) have(31) a(32) rental(33) car(34) and(35) do(36) not(37) feel(38) like(39) paying(40) for(41) a(42) taxi(43) ,(44) take(45) the(46) bus(47) .(48) 
+		</sentence>
+		<sentence id="47">
+			Aruba(1) 's(2) bus(3) service(4) is(5) affordable(6) ,(7) even(8) if(9) it(10) is(11) not(12) as(13) conveniently(14) frequent(15) as(16) it(17) is(18) in(19) bigger(20) beach(21) resorts(22) ((23) like(24) Cancun(25) )(26) .(27) 
+		</sentence>
+		<sentence id="48">
+			The(1) Arubus(2) stops(3) right(4) in(5) front(6) of(7) the(8) Holiday(9) Inn(10) --(11) just(12) look(13) for(14) the(15) little(16) shelter(17) with(18) the(19) little(20) yellow(21) sign(22) saying(23) "(24) Bushalte(25) ,(26) 12m(27) "(28) --(29) and(30) no(31) ,(32) the(33) bus(34) stop(35) is(36) not(37) 12(38) meters(39) away(40) ,(41) it(42) 's(43) right(44) at(45) the(46) sign(47) .(48) 
+		</sentence>
+		<sentence id="49">
+			Buses(1) never(2) run(3) more(4) than(5) half-hourly(6) ((7) hourly(8) for(9) much(10) of(11) the(12) day(13) )(14) ,(15) plus(16) they(17) do(18) not(19) go(20) everywhere(21) on(22) the(23) island(24) ,(25) ((26) they(27) do(28) go(29) into(30) Oranjestad(31) ,(32) but(33) not(34) reliably(35) elsewhere(36) )(37) ,(38) so(39) you(40) might(41) be(42) better(43) off(44) renting(45) a(46) car(47) ...(48) Car(49) Rental(50) Agents(51) are(52) on-site(53) for(54) both(55) Hertz(56) and(57) National(58) ,(59) so(60) if(61) you(62) want(63) to(64) bomb(65) around(66) the(67) island(68) on(69) your(70) own(71) ,(72) go(73) for(74) it(75) .(76) 
+		</sentence>
+		<sentence id="50">
+			Rent(1) a(2) 4-wheel(3) drive(4) and(5) you(6) can(7) cruise(8) around(9) the(10) beach(11) near(12) the(13) California(14) Light(15) ,(16) or(17) into(18) the(19) back(20) country(21) around(22) Arikok(23) National(24) Park(25) .(26) 
+		</sentence>
+		<sentence id="51">
+			You(1) can(2) probably(3) find(4) rental(5) cars(6) cheaper(7) elsewhere(8) ,(9) if(10) you(11) look(12) for(13) them(14) at(15) all(16) ,(17) but(18) it(19) 's(20) hard(21) to(22) argue(23) with(24) the(25) convenience(26) of(27) having(28) the(29) on-site(30) rentals(31) .(32) 
+		</sentence>
+		<sentence id="52">
+			Tours(1) Agents(2) for(3) DePalm(4) Tours(5) ((6) Aruba(7) 's(8) biggest(9) tour(10) operator(11) )(12) are(13) on-site(14) ,(15) booking(16) everything(17) from(18) scuba(19) drive(20) trips(21) ,(22) to(23) horseback(24) rides(25) on(26) the(27) beach(28) ,(29) to(30) jeep(31) tours(32) of(33) the(34) deserts(35) in(36) Arikok(37) National(38) Park(39) ,(40) to(41) day-long(42) sailing(43) ventures(44) on(45) catamarans(46) .(47) 
+		</sentence>
+		<sentence id="53">
+			You(1) name(2) it(3) ,(4) DePalm(5) will(6) help(7) you(8) do(9) it(10) ((11) for(12) a(13) fee(14) )(15) .(16) 
+		</sentence>
+		<sentence id="54">
+			The(1) desks(2) for(3) both(4) car(5) rentals(6) and(7) tours(8) are(9) located(10) next(11) to(12) the(13) casino(14) .(15) 
+		</sentence>
+		<sentence id="55">
+			Casino(1) I(2) think(3) there(4) must(5) be(6) more(7) casinos(8) on(9) Aruba(10) than(11) there(12) are(13) Coastal(14) brand(15) gas(16) stations(17) .(18) 
+		</sentence>
+		<sentence id="56">
+			You(1) can(2) not(3) turn(4) around(5) without(6) bumping(7) into(8) either(9) one(10) .(11) 
+		</sentence>
+		<sentence id="57">
+			The(1) casino(2) in(3) the(4) Holiday(5) Inn(6) is(7) called(8) the(9) Excelsior(10) ,(11) and(12) it(13) 's(14) got(15) some(16) measure(17) of(18) fame(19) in(20) gambling(21) circles(22) because(23) it(24) 's(25) the(26) casino(27) that(28) invented(29) Caribbean(30) Stud(31) .(32) 
+		</sentence>
+		<sentence id="58">
+			So(1) if(2) you(3) 're(4) looking(5) for(6) a(7) way(8) to(9) lose(10) a(11) wad(12) of(13) cash(14) ,(15) and(16) you(17) can(18) not(19) find(20) a(21) deserving(22) chap(23) like(24) me(25) around(26) to(27) take(28) it(29) off(30) your(31) hands(32) for(33) you(34) ,(35) well(36) ,(37) you(38) can(39) always(40) stop(41) by(42) the(43) casino(44) for(45) some(46) blackjack(47) ,(48) roulette(49) ,(50) or(51) maybe(52) just(53) some(54) action(55) on(56) the(57) one-armed(58) bandits(59) .(60) 
+		</sentence>
+		<sentence id="59">
+			Eating(1) and(2) Drinking(3) ...(4) The(5) fact(6) that(7) the(8) hotel(9) restaurants(10) were(11) busy(12) most(13) of(14) the(15) time(16) I(17) was(18) there(19) leads(20) me(21) to(22) conclude(23) that(24) there(25) are(26) a(27) lot(28) of(29) people(30) going(31) for(32) the(33) all-inclusive(34) deals(35) that(36) this(37) property(38) offers(39) .(40) 
+		</sentence>
+		<sentence id="60">
+			Bad(1) choice(2) ,(3) in(4) my(5) opinion(6) .(7) 
+		</sentence>
+		<sentence id="61">
+			I(1) amm(2) not(3) a(4) big(5) fan(6) of(7) all-inclusive(8) deals(9) ,(10) for(11) many(12) ,(13) many(14) reasons(15) .(16) 
+		</sentence>
+		<sentence id="62">
+			The(1) biggest(2) reason(3) is(4) what(5) I(6) see(7) here(8) at(9) the(10) Holiday(11) Inn(12) .(13) 
+		</sentence>
+		<sentence id="63">
+			Sometimes(1) you(2) get(3) to(4) the(5) resort(6) and(7) find(8) that(9) the(10) food(11) stinks(12) !(13) 
+		</sentence>
+		<sentence id="64">
+			If(1) that(2) s(3) the(4) case(5) ,(6) and(7) you(8) ve(9) already(10) paid(11) for(12) l(13) inclusive(14) you(15) have(16) two(17) choices(18) :(19) put(20) up(21) with(22) it(23) and(24) eat(25) lousy(26) ,(27) or(28) pay(29) for(30) palatable(31) food(32) after(33) you(34) ve(35) already(36) paid(37) for(38) all(39) your(40) meals(41) .(42) 
+		</sentence>
+		<sentence id="65">
+			Neither(1) is(2) particularly(3) palatable(4) There(5) are(6) several(7) restaurants(8) on(9) the(10) property(11) ,(12) and(13) if(14) you(15) re(16) on(17) the(18) all-inclusive(19) plan(20) ,(21) you(22) can(23) eat(24) at(25) any(26) of(27) them(28) .(29) 
+		</sentence>
+		<sentence id="66">
+			Fortunately(1) for(2) me(3) ,(4) I(5) was(6) 'nt(7) ,(8) and(9) after(10) one(11) meal(12) ,(13) I(14) did(15) 'nt(16) eat(17) at(18) any(19) of(20) them(21) .(22) 
+		</sentence>
+		<sentence id="67">
+			The(1) one(2) meal(3) I(4) had(5) was(6) at(7) their(8) Bongo(9) Beach(10) Club(11) .(12) 
+		</sentence>
+		<sentence id="68">
+			It(1) s(2) a(3) nice(4) ,(5) inviting(6) ,(7) palapa(8) style(9) beachfront(10) dining(11) room(12) ,(13) with(14) brisk(15) sea(16) breezes(17) wafting(18) through(19) the(20) spacious(21) airy(22) room(23) .(24) 
+			<opinion featWords="12" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="12" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="23" feature="rooms" opWords="21" polarity="+"/>
+			<opinion featWords="23" feature="rooms" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="69">
+			The(1) view(2) was(3) wonderful(4) .(5) 
+			<opinion featWords="2" feature="view" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="70">
+			I(1) ordered(2) a(3) fish(4) sandwich(5) .(6) 
+		</sentence>
+		<sentence id="71">
+			Big(1) mistake(2) !(3) 
+		</sentence>
+		<sentence id="72">
+			It(1) tasted(2) like(3) a(4) mix(5) of(6) cheap(7) canned(8) tuna(9) with(10) cheap(11) canned(12) salmon(13) ,(14) formed(15) into(16) patties(17) without(18) the(19) benefit(20) of(21) spice(22) or(23) other(24) ingredients(25) ,(26) then(27) deep(28) fried(29) in(30) greasy(31) vegetable(32) oil(33) and(34) served(35) up(36) on(37) a(38) stale(39) white(40) supermarket(41) brand(42) hamburger(43) roll(44) with(45) generic(46) brand(47) pickel(48) slices(49) .(50) 
+		</sentence>
+		<sentence id="73">
+			If(1) that(2) sounds(3) as(4) unappetizing(5) to(6) you(7) as(8) it(9) does(10) to(11) me(12) ,(13) then(14) I(15) accurately(16) conveyed(17) the(18) qualities(19) of(20) this(21) US(22) $8(23) sandwich(24) .(25) 
+		</sentence>
+		<sentence id="74">
+			If(1) I(2) have(3) had(4) to(5) eat(6) another(7) meal(8) like(9) this(10) ,(11) I(12) amm(13) sure(14) my(15) stomach(16) would(17) have(18) talked(19) my(20) hands(21) into(22) strangling(23) myself(24) .(25) 
+		</sentence>
+		<sentence id="75">
+			I(1) have(2) thanked(3) for(4) putting(5) me(6) out(7) of(8) misery(9) .(10) 
+		</sentence>
+		<sentence id="76">
+			There(1) s(2) a(3) ton(4) of(5) great(6) food(7) and(8) drink(9) available(10) on(11) the(12) island(13) of(14) Aruba(15) .(16) 
+			<opinion featWords="7" feature="food" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="77">
+			I(1) do(2) 'nt(3) think(4) any(5) of(6) it(7) has(8) ever(9) seen(10) the(11) inside(12) of(13) the(14) Holiday(15) Inn(16) .(17) 
+		</sentence>
+		<sentence id="78">
+			Step(1) Into(2) My(3) Beachfront(4) Lair(5) ...(6) I(7) 'm(8) pretty(9) happy(10) with(11) the(12) creature(13) comforts(14) of(15) my(16) room(17) .(18) 
+		</sentence>
+		<sentence id="79">
+			Its(1) got(2) more(3) space(4) than(5) usual(6) ,(7) and(8) it(9) seems(10) to(11) be(12) of(13) good(14) quality(15) .(16) 
+		</sentence>
+		<sentence id="80">
+			I(1) have(2) zero(3) complaints(4) with(5) the(6) housekeeping(7) staff(8) ,(9) who(10) did(11) a(12) great(13) job(14) cleaning(15) up(16) after(17) me(18) ,(19) even(20) after(21) I(22) tracked(23) powdery(24) white(25) sand(26) all(27) over(28) the(29) place(30) ...(31) Hey(32) !(33) 
+		</sentence>
+		<sentence id="81">
+			Bottle(1) opener(2) built(3) into(4) the(5) sink(6) !(7) 
+		</sentence>
+		<sentence id="82">
+			How(1) did(2) they(3) know(4) I(5) was(6) bringing(7) brewskis(8) with(9) me(10) ?(11) ?(12) ?(13) 
+		</sentence>
+		<sentence id="83">
+			The(1) bathroom(2) is(3) fairly(4) ordinary(5) ,(6) but(7) more(8) spacious(9) than(10) in(11) a(12) lot(13) of(14) the(15) newer(16) hotels(17) .(18) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="84">
+			There(1) 's(2) a(3) mini-bar(4) ,(5) but(6) all(7) the(8) overpriced(9) liquor(10) bottles(11) were(12) removed(13) and(14) the(15) refrigerator(16) is(17) now(18) humming(19) away(20) ,(21) ready(22) and(23) waiting(24) for(25) all(26) those(27) brewskis(28) I(29) 'm(30) bringing(31) in(32) !(33) ((34) Sure(35) can(36) not(37) afford(38) to(39) drink(40) in(41) the(42) hotel(43) bars(44) too(45) often(46) --(47) not(48) at(49) almost(50) US(51) $4(52) for(53) a(54) 7-ounce(55) bottle(56) of(57) Balashi(58) !(59) !(60) )(61) No(62) work(63) desk(64) ,(65) but(66) the(67) very(68) spacious(69) table(70) and(71) chairs(72) are(73) plenty(74) adequate(75) for(76) setting(77) up(78) a(79) laptop(80) or(81) even(82) eating(83) a(84) quick(85) carryout(86) or(87) room(88) service(89) meal(90) .(91) 
+			<opinion feature="price" opWords="9" polarity="-"/>
+			<opinion featWords="70" feature="tables" opWords="69" polarity="+" potency="68"/>
+			<opinion featWords="72" feature="chairs" opWords="69" polarity="+" potency="68"/>
+		</sentence>
+		<sentence id="85">
+			The(1) furniture(2) is(3) a(4) dark(5) wood(6) colonial(7) style(8) --(9) ubiquitous(10) but(11) functionl(12) .(13) 
+		</sentence>
+		<sentence id="86">
+			The(1) TV(2) is(3) nice(4) ((5) 25(6) inch(7) color(8) )(9) ,(10) but(11) it(12) gets(13) only(14) a(15) handful(16) of(17) channels(18) ,(19) and(20) nothing(21) particularly(22) great(23) .(24) 
+			<opinion featWords="2" feature="tv" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="87">
+			The(1) sliding(2) glass(3) doors(4) open(5) out(6) onto(7) a(8) small(9) balcony(10) .(11) 
+		</sentence>
+		<sentence id="88">
+			From(1) my(2) second(3) floor(4) room(5) ,(6) I(7) have(8) a(9) view(10) of(11) some(12) trees(13) behind(14) the(15) bar(16) .(17) 
+		</sentence>
+		<sentence id="89">
+			Looks(1) like(2) the(3) guys(4) below(5) me(6) have(7) a(8) view(9) of(10) some(11) rocks(12) .(13) 
+		</sentence>
+		<sentence id="90">
+			The(1) five(2) floors(3) above(4) me(5) probably(6) get(7) a(8) peek(9) of(10) the(11) ocean(12) ...(13) As(14) long(15) as(16) you(17) have(18) quiet(19) neighbors(20) ,(21) you(22) 'll(23) sleep(24) well(25) .(26) 
+		</sentence>
+		<sentence id="91">
+			The(1) morning(2) that(3) my(4) neighbors(5) got(6) up(7) at(8) 4:30(9) ,(10) I(11) knew(12) about(13) it(14) .(15) 
+		</sentence>
+		<sentence id="92">
+			I(1) also(2) got(3) to(4) hear(5) about(6) their(7) itinerary(8) for(9) the(10) day(11) ,(12) their(13) plans(14) for(15) breakfast(16) ,(17) the(18) fact(19) that(20) their(21) toothbrushes(22) were(23) packed(24) ,(25) their(26) poor(27) uncle(28) 's(29) sore(30) leg(31) ,(32) and(33) Ernesto(34) you(35) idiot(36) ,(37) you(38) lost(39) the(40) coupon(41) for(42) the(43) airport(44) transfers(45) .(46) 
+		</sentence>
+		<sentence id="93">
+			Location(1) ,(2) Location(3) ...(4) Aruba(5) is(6) weird(7) .(8) 
+		</sentence>
+		<sentence id="94">
+			Pretty(1) much(2) all(3) the(4) hotels(5) on(6) the(7) entire(8) island(9) are(10) clustered(11) on(12) Palm(13) Beach(14) ,(15) or(16) across(17) the(18) road(19) from(20) Eagle(21) Beach(22) .(23) 
+		</sentence>
+		<sentence id="95">
+			Sure(1) ,(2) it(3) 's(4) the(5) nicest(6) ,(7) longest(8) beach(9) on(10) the(11) island(12) ,(13) but(14) I(15) kind(16) of(17) miss(18) having(19) true(20) budget(21) beach(22) bum(23) digs(24) --(25) and(26) those(27) are(28) very(29) rare(30) beasts(31) on(32) Aruba(33) .(34) 
+			<opinion featWords="9" feature="beach" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="beach" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="96">
+			The(1) Holiday(2) Inn(3) is(4) towards(5) the(6) northern(7) most(8) stretch(9) of(10) Palm(11) Beach(12) --(13) in(14) fact(15) ,(16) the(17) Marriott(18) is(19) the(20) only(21) major(22) hotel(23) further(24) north(25) than(26) the(27) Holiday(28) Inn(29) ,(30) and(31) it(32) 's(33) not(34) much(35) further(36) away(37) than(38) a(39) strong(40) hurl(41) from(42) left(43) field(44) to(45) short(46) .(47) 
+		</sentence>
+		<sentence id="97">
+			All(1) of(2) the(3) hotels(4) are(5) convenient(6) to(7) the(8) beach(9) .(10) 
+			<opinion featWords="4" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="98">
+			None(1) are(2) convenient(3) to(4) the(5) airport(6) .(7) 
+		</sentence>
+		<sentence id="99">
+			Only(1) the(2) Renaissance(3) Hotel(4) can(5) claim(6) to(7) be(8) convenient(9) to(10) downtown(11) Oranjestad(12) .(13) 
+		</sentence>
+		<sentence id="100">
+			Roads(1) around(2) the(3) hotel(4) are(5) wide(6) ,(7) easily(8) navigated(9) ,(10) and(11) the(12) island(13) is(14) too(15) small(16) to(17) get(18) lost(19) on(20) .(21) 
+		</sentence>
+		<sentence id="101">
+			If(1) you(2) 're(3) tired(4) of(5) hotel(6) fare(7) ,(8) there(9) are(10) some(11) restaurants(12) within(13) easy(14) walking(15) distance(16) .(17) 
+		</sentence>
+		<sentence id="102">
+			I(1) 'd(2) skip(3) the(4) Tony(5) Romas(6) across(7) the(8) street(9) since(10) you(11) can(12) get(13) that(14) anywhere(15) in(16) the(17) U.S.(18) Instead(19) ,(20) stroll(21) down(22) to(23) Tango(24) Argentinian(25) Grill(26) and(27) get(28) something(29) a(30) bit(31) different(32) ((33) and(34) good(35) )(36) .(37) 
+		</sentence>
+		<sentence id="103">
+			If(1) you(2) do(3) stop(4) in(5) ,(6) ask(7) for(8) one(9) of(10) Abuelo(11) 's(12) tables(13) ,(14) then(15) tell(16) him(17) he(18) looks(19) familiar(20) --(21) like(22) someone(23) you(24) knew(25) in(26) Houston(27) .(28) 
+		</sentence>
+		<sentence id="104">
+			He(1) 'll(2) wonder(3) who(4) you(5) are(6) ...(7) Bottom(8) Line(9) ...(10) I(11) 've(12) got(13) mixed(14) feelings(15) about(16) the(17) Holiday(18) Inn(19) SunSpree(20) Resort(21) .(22) 
+		</sentence>
+		<sentence id="105">
+			Some(1) aspects(2) of(3) the(4) place(5) are(6) really(7) quite(8) nice(9) --(10) like(11) the(12) range(13) of(14) watersports(15) and(16) the(17) extent(18) of(19) the(20) beach(21) ,(22) or(23) the(24) generally(25) clean(26) and(27) comfortable(28) feel(29) of(30) the(31) rooms(32) .(33) 
+		</sentence>
+		<sentence id="106">
+			Other(1) aspects(2) are(3) not(4) quite(5) so(6) nice(7) --(8) like(9) the(10) slow(11) front(12) desk(13) service(14) ,(15) the(16) dark(17) and(18) grungey(19) feel(20) of(21) the(22) Curacao(23) building(24) ,(25) and(26) the(27) mediocre(28) food(29) service(30) .(31) 
+			<opinion featWords="12,13" feature="front desk" opWords="11" polarity="-"/>
+			<opinion featWords="29" feature="food" opWords="28" polarity="-"/>
+		</sentence>
+		<sentence id="107">
+			The(1) shopping(2) arcade(3) feels(4) dated(5) .(6) 
+		</sentence>
+		<sentence id="108">
+			The(1) casino(2) is(3) fairly(4) nice(5) and(6) comfortable(7) .(8) 
+			<opinion featWords="2" feature="casino" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="casino" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="109">
+			The(1) pool(2) is(3) small(4) and(5) shallow(6) .(7) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="swimming pool" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="110">
+			But(1) the(2) beachfront(3) bars(4) and(5) restaurants(6) are(7) pleasantly(8) casual(9) ,(10) even(11) if(12) the(13) food(14) hurts(15) to(16) even(17) describe(18) .(19) 
+		</sentence>
+		<sentence id="111">
+			For(1) every(2) complaint(3) I(4) have(5) ,(6) there(7) 's(8) something(9) about(10) the(11) place(12) that(13) I(14) like(15) .(16) 
+		</sentence>
+		<sentence id="112">
+			On(1) the(2) whole(3) ,(4) this(5) resort(6) is(7) fairly(8) average(9) .(10) 
+			<opinion featWords="6" feature="hotel" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="113">
+			There(1) are(2) nicer(3) ,(4) newer(5) ,(6) more(7) luxurious(8) accomodations(9) on(10) the(11) island(12) ,(13) but(14) at(15) higher(16) prices(17) .(18) 
+		</sentence>
+		<sentence id="114">
+			I(1) 'm(2) aware(3) that(4) some(5) of(6) the(7) tour(8) promoters(9) rank(10) this(11) hotel(12) fairly(13) highly(14) ((15) Apple(16) Vacations(17) lists(18) it(19) as(20) a(21) 4-apple(22) property(23) )(24) .(25) 
+		</sentence>
+		<sentence id="115">
+			In(1) my(2) opinion(3) ,(4) the(5) amenities(6) might(7) justify(8) that(9) kind(10) of(11) rating(12) ,(13) but(14) the(15) overall(16) quality(17) of(18) the(19) property(20) does(21) not(22) --(23) I(24) think(25) this(26) is(27) really(28) a(29) hotel(30) that(31) works(32) more(33) comfortably(34) at(35) the(36) 3-star(37) level(38) ,(39) and(40) I(41) could(42) even(43) see(44) it(45) hitting(46) someone(47) wrong(48) on(49) a(50) bad(51) day(52) and(53) coming(54) up(55) even(56) lower(57) than(58) that(59) .(60) 
+		</sentence>
+		<sentence id="116">
+			It(1) 's(2) not(3) a(4) luxury(5) property(6) ,(7) but(8) it(9) 's(10) acceptable(11) --(12) especially(13) for(14) a(15) seaside(16) retreat(17) with(18) such(19) utterly(20) sublime(21) scenery(22) and(23) mellow(24) attitude(25) .(26) 
+		</sentence>
+		<sentence id="117">
+			If(1) the(2) price(3) were(4) right(5) ,(6) I(7) 'd(8) definitely(9) consider(10) staying(11) here(12) again(13) .(14) 
+		</sentence>
+	</text>
+</review>

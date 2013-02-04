@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="499" item="Park Inn and Suites Santa Fe" rating="3">
+	<title>
+		<sentence id="1">
+			Clean(1) and(2) standard(3) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Relatively(1) affordable(2) ,(3) clean(4) ,(5) nice(6) Southwestern(7) touches(8) 
+			<opinion feature="price" opWords="2" polarity="+" potency="1"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) close(2) to(3) the(4) historic(5) Plaza(6) areas(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) were(3) looking(4) for(5) a(6) relatively(7) affordable(8) place(9) in(10) Santa(11) Fe(12) and(13) had(14) a(15) car(16) to(17) get(18) around(19) ,(20) this(21) clean(22) ,(23) standard(24) motel(25) will(26) be(27) a(28) good(29) fit(30) .(31) 
+			<opinion feature="price" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="25" feature="hotel" opWords="22" polarity="+"/>
+			<opinion featWords="25" feature="hotel" opWords="24" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) partner(2) and(3) I(4) stayed(5) at(6) this(7) motel(8) in(9) September(10) 2005(11) for(12) a(13) night(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Our(1) plans(2) on(3) this(4) trip(5) were(6) to(7) continue(8) on(9) to(10) Abiquiu(11) ,(12) but(13) an(14) unexpected(15) stomach(16) bug(17) and(18) visit(19) to(20) the(21) emergency(22) room(23) kept(24) us(25) in(26) Santa(27) Fe(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) able(3) to(4) book(5) the(6) Park(7) Inn(8) at(9) the(10) last(11) minute(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) Park(2) Inn(3) is(4) pretty(5) much(6) a(7) clean(8) ,(9) standard(10) American-style(11) motel(12) .(13) 
+			<opinion featWords="12" feature="hotel" opWords="8" polarity="+"/>
+			<opinion featWords="12" feature="hotel" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) lobby(2) has(3) an(4) unexpectedly(5) nice(6) Southwestern(7) decor(8) complete(9) with(10) a(11) fireplace(12) .(13) 
+			<opinion featWords="8" feature="decoration" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			The(1) walkways(2) to(3) the(4) room(5) also(6) are(7) built(8) in(9) a(10) Southwestern(11) ,(12) adobe-type(13) style(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			These(1) two(2) elements(3) give(4) the(5) motel(6) a(7) bit(8) more(9) character(10) than(11) your(12) usual(13) motel(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) themselves(3) are(4) standard(5) with(6) a(7) vanity(8) area(9) leading(10) to(11) an(12) interior(13) bathroom(14) .(15) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Our(1) room(2) was(3) clean(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) front(2) desk(3) clerk(4) was(5) a(6) young(7) man(8) new(9) to(10) the(11) job(12) but(13) very(14) nice(15) .(16) 
+			<opinion featWords="2,3" feature="front desk" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="11">
+			The(1) Park(2) Inn(3) also(4) offers(5) a(6) free(7) continental(8) breakfast(9) buffet(10) to(11) guests(12) .(13) 
+			<opinion featWords="10" feature="food" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) food(2) is(3) the(4) standard(5) ,(6) mediocre(7) offerings(8) you(9) find(10) at(11) the(12) average(13) Comfort(14) Inn(15) .(16) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+"/>
+			<opinion featWords="2" feature="food" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) Park(2) Inn(3) is(4) located(5) on(6) Cerrillos(7) Road(8) ,(9) the(10) main(11) commercial(12) strip(13) for(14) Santa(15) Fe(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) NOT(3) within(4) walking(5) distance(6) of(7) the(8) historic(9) Plaza(10) area(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			The(1) surroundings(2) are(3) basically(4) the(5) mall(6) ,(7) Wal-Mart(8) and(9) chain(10) restaurants(11) you(12) find(13) on(14) most(15) new(16) commercial(17) strips(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			All(1) in(2) all(3) ,(4) the(5) Park(6) Inn(7) is(8) relatively(9) affordable(10) ,(11) clean(12) ,(13) and(14) basically(15) a(16) Comfort(17) Inn-style(18) motel(19) with(20) some(21) Southwestern(22) decorations(23) .(24) 
+			<opinion feature="price" opWords="10" polarity="+" potency="9"/>
+			<opinion feature="hotel" opWords="12" polarity="+"/>
+		</sentence>
+	</text>
+</review>

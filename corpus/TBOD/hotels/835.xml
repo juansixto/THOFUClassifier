@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="835" item="Halekulani" rating="5">
+	<title>
+		<sentence id="1">
+			Fabulous(1) Experience(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Everything(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			A(1) hotel(2) experience(3) second(4) to(5) none(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) ,(2) some(3) complain(4) of(5) the(6) price(7) ,(8) but(9) IT(10) '(11) S(12) WORTH(13) IT(14) !(15) !(16) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Everything(1) was(2) perfect(3) with(4) this(5) resort(6) .(7) 
+			<opinion featWords="6" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Yes(1) ,(2) it(3) is(4) a(5) little(6) more(7) expensive(8) ,(9) but(10) it(11) really(12) is(13) worth(14) every(15) penny(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) attention(2) to(3) detail(4) within(5) the(6) room(7) and(8) the(9) grounds(10) of(11) the(12) hotel(13) is(14) outstanding(15) .(16) 
+			<opinion featWords="10" feature="grounds" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) room(3) :(4) hand(5) made(6) chocolates(7) ,(8) orchids(9) on(10) the(11) bed(12) at(13) turn(14) down(15) ,(16) Sony(17) flatscreen(18) TV(19) ,(20) large(21) lanai(22) ,(23) fresh(24) fruit(25) ,(26) fuzzy(27) slippers(28) ,(29) large(30) soaker(31) tub(32) ,(33) cd(34) player(35) with(36) Hawaiian(37) music(38) CD(39) 's(40) ,(41) fridge(42) stocked(43) with(44) water(45) and(46) juices(47) ((48) Free(49) !(50) !(51) )(52) etc.(53) etc.(54) Out(55) of(56) the(57) room(58) :(59) friendly(60) smiling(61) faces(62) everywhere(63) ,(64) we(65) never(66) touched(67) our(68) bags(69) ,(70) a(71) bellman(72) who(73) refused(74) a(75) tip(76) ,(77) helpful(78) ,(79) helpful(80) people(81) ,(82) chilled(83) towels(84) at(85) the(86) pool(87) .(88) 
+		</sentence>
+		<sentence id="5">
+			I(1) felt(2) like(3) we(4) were(5) at(6) home(7) ((8) without(9) the(10) petty(11) fights(12) and(13) disagreements(14) :(15) )(16) For(17) example(18) ,(19) my(20) wife(21) left(22) her(23) wedding(24) rings(25) on(26) the(27) bathroom(28) counter(29) in(30) the(31) morning(32) ,(33) and(34) when(35) we(36) returned(37) later(38) in(39) the(40) day(41) ,(42) there(43) was(44) a(45) sweet(46) note(47) from(48) the(49) housekeeper(50) under(51) the(52) rings(53) suggesting(54) she(55) might(56) lock(57) them(58) in(59) the(60) safe(61) .(62) 
+		</sentence>
+		<sentence id="6">
+			Superb(1) in(2) every(3) way(4) .(5) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</text>
+</review>

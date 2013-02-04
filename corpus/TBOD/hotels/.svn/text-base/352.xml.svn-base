@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="352" item="Hawaii Polo Inn and Tower" rating="2">
+	<title>
+		<sentence id="1">
+			Okay(1) ,(2) But(3) Will(4) not(5) Stay(6) Here(7) Again(8) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Walking(1) distance(2) to(3) beaches(4) and(5) Ala(6) Moana(7) Shopping(8) Center(9) ,(10) room(11) had(12) balcony(13) and(14) mini(15) refrigerator(16) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) building(2) ,(3) staff(4) not(5) generally(6) friendly(7) 
+			<opinion featWords="2" feature="building" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="staff" opWords="5,7" polarity="-" potency="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) only(3) recommend(4) Aston(5) Hawaii(6) Polo(7) Inn(8) to(9) travelers(10) on(11) an(12) extremely(13) tight(14) budget(15) .(16) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) is(3) certainly(4) not(5) representative(6) of(7) Hawaii(8) 's(9) "(10) Aloha(11) Spirit(12) .(13) "(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) ended(2) up(3) staying(4) at(5) the(6) Aston(7) Hawaii(8) Polo(9) Inn(10) for(11) 5(12) nights(13) in(14) December(15) ,(16) 2002(17) ,(18) as(19) part(20) of(21) a(22) package(23) deal(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) not(3) our(4) original(5) choice(6) ,(7) but(8) by(9) the(10) time(11) we(12) 'd(13) made(14) up(15) our(16) mind(17) to(18) buy(19) a(20) package(21) ,(22) this(23) was(24) one(25) of(26) the(27) few(28) affordable(29) places(30) left(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			The(1) internet(2) pictures(3) looked(4) decent(5) ,(6) so(7) we(8) decided(9) to(10) give(11) it(12) a(13) shot(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			The(1) location(2) is(3) alright(4) ,(5) within(6) walking(7) distance(8) of(9) two(10) beaches(11) ,(12) the(13) Ala(14) Moana(15) Shopping(16) Center(17) ,(18) the(19) Ilikai(20) ,(21) various(22) fast(23) food(24) restaurants(25) ((26) McDonalds(27) ,(28) Subway(29) ,(30) etc.(31) )(32) ,(33) and(34) ,(35) of(36) course(37) ,(38) an(39) ABC(40) Store(41) .(42) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) bus(3) stops(4) within(5) a(6) block(7) or(8) two(9) if(10) you(11) 're(12) looking(13) to(14) take(15) public(16) transportation(17) to(18) Waikiki(19) or(20) other(21) areas(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) more(4) spacious(5) than(6) we(7) 'd(8) expected(9) ,(10) with(11) a(12) balcony(13) ((14) which(15) was(16) a(17) plus(18) )(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) the(3) building(4) and(5) rooms(6) in(7) general(8) were(9) old(10) .(11) 
+			<opinion featWords="4" feature="building" opWords="10" polarity="-"/>
+			<opinion featWords="6" feature="rooms" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Our(1) bathroom(2) was(3) quite(4) small(5) and(6) dimly(7) lit(8) .(9) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="bathroom" opWords="7,8" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			We(1) had(2) a(3) coffee(4) maker(5) ,(6) but(7) they(8) never(9) replenished(10) the(11) coffee(12) after(13) the(14) first(15) day(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			We(1) also(2) had(3) a(4) mini(5) refrigerator(6) ,(7) which(8) we(9) stored(10) food(11) ,(12) beverages(13) ,(14) and(15) leis(16) in(17) !(18) 
+		</sentence>
+		<sentence id="11">
+			The(1) pool(2) and(3) outdoor(4) sitting(5) area(6) look(7) nice(8) enough(9) ((10) there(11) 's(12) even(13) a(14) barbecue(15) )(16) ,(17) but(18) no(19) one(20) ever(21) seems(22) to(23) use(24) them(25) .(26) 
+			<opinion featWords="2" feature="swimming pool" opWords="8,9" polarity="+"/>
+			<opinion featWords="6" feature="place" opWords="8,9" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) pool(2) area(3) actually(4) does(5) not(6) receive(7) much(8) sun(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Once(1) in(2) awhile(3) the(4) staff(5) was(6) friendly(7) ,(8) but(9) ,(10) overall(11) ,(12) we(13) found(14) them(15) quite(16) dour(17) .(18) 
+			<opinion featWords="5" feature="staff" opWords="7" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="17" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			When(1) my(2) husband(3) tried(4) to(5) joke(6) with(7) the(8) young(9) guy(10) who(11) let(12) us(13) into(14) our(15) room(16) when(17) we(18) were(19) locked(20) out(21) ,(22) he(23) got(24) absolutely(25) no(26) response(27) /(28) reaction(29) at(30) all(31) .(32) 
+		</sentence>
+		<sentence id="15">
+			The(1) handyman(2) was(3) extremely(4) friendly(5) the(6) day(7) we(8) were(9) leaving(10) and(11) had(12) a(13) long(14) conversation(15) with(16) us(17) while(18) we(19) were(20) waiting(21) for(22) the(23) shuttle(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			Other(1) than(2) that(3) ,(4) barely(5) anyone(6) made(7) any(8) extra(9) effort(10) to(11) speak(12) with(13) us(14) unless(15) it(16) was(17) absolutely(18) necessary(19) .(20) 
+		</sentence>
+	</text>
+</review>

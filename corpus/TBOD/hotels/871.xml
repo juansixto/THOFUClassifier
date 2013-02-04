@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="871" item="Fifth Avenue Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Fun(1) ,(2) convenient(3) ,(4) priced(5) right(6) -(7) Hotel(8) Monaco(9) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Easy(1) to(2) get(3) to(4) ,(5) convenient(6) locale(7) ,(8) nice(9) room(10) ,(11) great(12) staff(13) .(14) 
+			<opinion featWords="13" feature="staff" opWords="12" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+			<opinion featWords="10" feature="rooms" opWords="9" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Under(1) renovation(2) so(3) some(4) paint(5) fumes(6) .(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) transition(2) to(3) Hotel(4) Monaco(5) is(6) almost(7) complete(8) -(9) give(10) it(11) a(12) month(13) for(14) the(15) paint(16) fumes(17) to(18) subside(19) ,(20) then(21) this(22) will(23) be(24) a(25) great(26) stay(27) .(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) booked(2) a(3) reservation(4) fairly(5) last(6) minutes(7) ((8) within(9) a(10) week(11) of(12) visiting(13) Portland(14) )(15) for(16) business(17) as(18) a(19) colleague(20) needed(21) help(22) and(23) had(24) not(25) made(26) arrangements(27) for(28) me(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			The(1) rate(2) on(3) the(4) web(5) for(6) the(7) Fifth(8) Avenue(9) Suites(10) was(11) about(12) the(13) lowest(14) going(15) in(16) downtown(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			We(1) flew(2) into(3) Portland(4) in(5) the(6) early(7) evening(8) ,(9) and(10) hopped(11) on(12) the(13) MAX(14) Light(15) Rail(16) from(17) the(18) airport(19) to(20) downtown(21) -(22) about(23) a(24) 20(25) minute(26) trip(27) .(28) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) about(3) a(4) three(5) block(6) walk(7) to(8) the(9) hotel(10) from(11) the(12) stop(13) on(14) the(15) rail(16) and(17) even(18) with(19) a(20) little(21) drizzle(22) was(23) not(24) to(25) bad(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			We(1) arrived(2) in(3) time(4) to(5) have(6) one(7) glass(8) of(9) wine(10) at(11) the(12) complementary(13) wine(14) tasting(15) held(16) every(17) afternoon(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) a(3) very(4) nice(5) regional(6) Zinfandel(7) ,(8) they(9) had(10) four(11) varietals(12) ,(13) and(14) a(15) local(16) brew(17) for(18) sampling(19) if(20) you(21) did(22) not(23) enjoy(24) vino(25) .(26) 
+			<opinion feature="hotel" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			Needless(1) to(2) say(3) ,(4) I(5) 'd(6) wished(7) we(8) had(9) time(10) for(11) a(12) few(13) glasses(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) lobby(2) area(3) was(4) not(5) huge(6) ,(7) but(8) was(9) very(10) warm(11) and(12) inviting(13) with(14) big(15) comfy(16) chairs(17) and(18) a(19) few(20) nice(21) couches(22) for(23) families(24) .(25) 
+			<opinion featWords="22" feature="sofa" opWords="21" polarity="+"/>
+			<opinion featWords="17" feature="chairs" opWords="16" polarity="+"/>
+			<opinion featWords="17" feature="chairs" opWords="15" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="13" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="11" polarity="+" potency="10"/>
+			<opinion featWords="2" feature="lobby" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) a(3) nice(4) fake(5) fire(6) crackling(7) ,(8) and(9) they(10) had(11) acrylic(12) paints(13) and(14) easels(15) set(16) up(17) for(18) anyone(19) who(20) wanted(21) to(22) dabble(23) at(24) the(25) arts(26) while(27) enjoying(28) some(29) beverages(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			I(1) joined(2) the(3) Kimpton(4) Rewards(5) club(6) ((7) a(8) must(9) for(10) any(11) visit(12) as(13) treatment(14) seems(15) to(16) improve(17) )(18) and(19) sure(20) enough(21) I(22) was(23) put(24) in(25) a(26) suite(27) for(28) the(29) night(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			The(1) room(2) was(3) very(4) plush(5) ,(6) clean(7) ,(8) and(9) a(10) bottle(11) of(12) wine(13) ,(14) and(15) some(16) chocolates(17) was(18) waiting(19) to(20) welcome(21) me(22) to(23) Portland(24) ,(25) along(26) with(27) an(28) nice(29) welcome(30) letter(31) personalized(32) with(33) my(34) name(35) .(36) 
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="12">
+			I(1) 'm(2) a(3) golfer(4) ,(5) and(6) they(7) did(8) have(9) a(10) sleeve(11) of(12) logo(13) balls(14) for(15) my(16) use(17) ,(18) I(19) decided(20) to(21) leave(22) those(23) for(24) the(25) next(26) guest(27) .(28) 
+		</sentence>
+		<sentence id="13">
+			The(1) exercise(2) room(3) is(4) not(5) huge(6) either(7) ,(8) but(9) was(10) complete(11) enough(12) to(13) allow(14) for(15) a(16) good(17) workout(18) prior(19) to(20) my(21) dinner(22) event(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) business(2) center(3) was(4) a(5) little(6) warm(7) from(8) the(9) machines(10) ,(11) but(12) most(13) that(14) I(15) 've(16) encountered(17) are(18) that(19) way(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			They(1) had(2) two(3) PC(4) 's(5) for(6) use(7) ,(8) and(9) free(10) wi-fi(11) throughout(12) the(13) hotel(14) for(15) guests(16) and(17) a(18) nominal(19) fee(20) for(21) non-guests(22) of(23) $5.00(24) a(25) day(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			The(1) machines(2) were(3) upto(4) date(5) ,(6) and(7) the(8) printers(9) were(10) full(11) of(12) paper(13) and(14) toner(15) -(16) a(17) key(18) sign(19) to(20) me(21) that(22) they(23) pay(24) attention(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			Over(1) all(2) -(3) I(4) was(5) very(6) satisfied(7) with(8) my(9) stay(10) ,(11) and(12) will(13) return(14) as(15) I(16) do(17) business(18) in(19) Portland(20) 8(21) or(22) 10(23) times(24) a(25) year(26) .(27) 
+			<opinion feature="hotel" opWords="14" polarity="+"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="282" item="Sheraton Studio City Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			Forget(1) this(2) Hotel(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) Staff(2) Linens(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Age(1) of(2) Hotel(3) Pool(4) Restaurant(5) /(6) Bar(7) Traffic(8) near(9) hotel(10) Beds(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) to(2) the(3) Sheraton(4) Safari(5) ((6) definitely(7) better(8) )(9) or(10) go(11) the(12) free(13) hotel(14) /(15) time(16) share(17) route(18) ,(19) it(20) could(21) be(22) any(23) worse(24) .(25) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Where(1) to(2) start(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			This(1) Hotel(2) is(3) older(4) and(5) in(6) need(7) of(8) renovation(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) theme(2) seems(3) like(4) a(5) good(6) idea(7) but(8) just(9) is(10) 'nt(11) up(12) to(13) the(14) rest(15) of(16) the(17) Orlando(18) hotels(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			The(1) location(2) is(3) good(4) for(5) Universal(6) ,(7) Wet(8) and(9) Wild(10) ,(11) and(12) Belz(13) Outlet(14) but(15) International(16) drive(17) in(18) this(19) area(20) is(21) a(22) traffic(23) jam(24) from(25) 7(26) PM(27) until(28) 2(29) AM.(30) There(31) is(32) a(33) very(34) nice(35) Miniature(36) From(37) the(38) hotels(39) door(40) to(41) Sand(42) Lake(43) road(44) took(45) nearly(46) 45(47) minutes(48) and(49) this(50) is(51) less(52) than(53) 1(54) mile(55) at(56) 7(57) PM.(58) The(59) hotel(60) has(61) upgraded(62) the(63) linen(64) since(65) the(66) last(67) review(68) .(69) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) linens(2) approach(3) sister(4) hotel(5) Westin(6) s(7) heavenly(8) bed(9) but(10) the(11) mattress(12) was(13) not(14) the(15) same(16) high-end(17) mattress(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Air(1) Conditioning(2) is(3) done(4) by(5) virtue(6) of(7) a(8) window(9) unit(10) adding(11) to(12) the(13) low-end(14) feel(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) bathroom(2) was(3) outdated(4) with(5) minimal(6) amenities(7) .(8) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+			<opinion featWords="7" feature="amenities" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Functional(1) is(2) the(3) best(4) word(5) for(6) it(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			The(1) restaurant(2) has(3) a(4) noted(5) chef(6) on(7) board(8) but(9) the(10) hours(11) are(12) 6(13) PM(14) 10(15) PM(16) only(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) Bar(2) even(3) closed(4) this(5) early(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			I(1) had(2) planned(3) on(4) dinning(5) at(6) the(7) hotel(8) upon(9) our(10) arrival(11) ,(12) but(13) there(14) was(15) nothing(16) available(17) at(18) the(19) hotel(20) at(21) 10:30(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			Ended(1) up(2) a(3) Denny(4) s(5) two(6) doors(7) away(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			All(1) food(2) and(3) drinks(4) are(5) typically(6) overpriced(7) .(8) 
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			The(1) staff(2) was(3) accommodating(4) and(5) friendly(6) .(7) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			They(1) did(2) the(3) best(4) with(5) what(6) they(7) had(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			The(1) Pool(2) is(3) old(4) and(5) again(6) dated(7) .(8) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="swimming pool" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			The(1) photos(2) on(3) the(4) website(5) make(6) the(7) pool(8) appear(9) bigger(10) than(11) it(12) really(13) is(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			There(1) is(2) no(3) whirlpool(4) .(5) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) are(3) looking(4) for(5) a(6) bargain(7) in(8) a(9) Sheraton(10) in(11) Orlando(12) ,(13) I(14) would(15) recommend(16) the(17) Sheraton(18) Safari(19) over(20) this(21) hotel(22) any(23) time(24) .(25) 
+			<opinion feature="hotel" opWords="16" polarity="+"/>
+		</sentence>
+	</text>
+</review>

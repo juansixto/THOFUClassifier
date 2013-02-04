@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="476" item="Quality Hotel on Broadway" rating="3">
+	<title>
+		<sentence id="1">
+			Well(1) I(2) got(3) a(4) good(5) price(6) !(7) 
+			<opinion featWords="6" feature="price" opWords="5" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) close(2) to(3) subway(4) ,(5) quiet(6) ,(7) good(8) price(9) 
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="price" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Needs(1) renovated(2) ,(3) apartments(4) mixed(5) in(6) with(7) rooms(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) the(4) Quality(5) Hotel(6) for(7) a(8) budget(9) traveler(10) who(11) is(12) ok(13) with(14) taking(15) the(16) subway(17) everywhere(18) .(19) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) took(2) a(3) group(4) to(5) this(6) hotel(7) in(8) September(9) 2002(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			The(1) price(2) was(3) right(4) and(5) it(6) sounded(7) to(8) be(9) in(10) a(11) great(12) location(13) ;(14) only(15) two(16) blocks(17) from(18) Central(19) Park(20) .(21) 
+			<opinion featWords="2" feature="price" opWords="4" polarity="+"/>
+			<opinion featWords="13" feature="place" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			What(1) they(2) fail(3) to(4) tell(5) you(6) is(7) Central(8) Park(9) is(10) miles(11) long(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			This(1) happens(2) to(3) be(4) at(5) one(6) of(7) the(8) ends(9) that(10) is(11) not(12) touristy(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			We(1) arrived(2) earlier(3) than(4) the(5) 3pm(6) check(7) in(8) time(9) and(10) they(11) were(12) not(13) prepared(14) for(15) the(16) group(17) so(18) we(19) all(20) had(21) to(22) put(23) our(24) luggage(25) in(26) one(27) of(28) the(29) tiny(30) rooms(31) .(32) 
+			<opinion featWords="31" feature="rooms" opWords="30" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) not(3) organized(4) very(5) well(6) .(7) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			They(1) promised(2) our(3) luggage(4) would(5) be(6) locked(7) in(8) this(9) room(10) and(11) we(12) would(13) be(14) allowed(15) in(16) as(17) we(18) each(19) returned(20) to(21) claim(22) our(23) stuff(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			It(1) turns(2) out(3) they(4) moved(5) our(6) luggage(7) after(8) the(9) fact(10) somewhere(11) else(12) and(13) told(14) us(15) that(16) they(17) were(18) not(19) responsible(20) if(21) something(22) was(23) missing(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			Like(1) heck(2) they(3) would(4) not(5) have(6) been(7) !(8) !(9) !(10) 
+		</sentence>
+		<sentence id="10">
+			There(1) staff(2) moved(3) our(4) luggage(5) without(6) our(7) permission(8) and(9) it(10) was(11) not(12) locked(13) up(14) anywhere(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			My(1) husband(2) and(3) I(4) had(5) a(6) room(7) with(8) two(9) double(10) beds(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			They(1) do(2) have(3) rooms(4) with(5) king(6) beds(7) as(8) well(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			The(1) room(2) was(3) small(4) as(5) city(6) hotel(7) rooms(8) go(9) .(10) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			The(1) bathroom(2) was(3) so-so(4) .(5) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			Some(1) of(2) the(3) others(4) in(5) our(6) party(7) complained(8) of(9) bugs(10) and(11) holes(12) in(13) ceilings(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			My(1) room(2) did(3) not(4) have(5) that(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) very(3) hot(4) in(5) the(6) rooms(7) and(8) the(9) air(10) conditioning(11) unit(12) was(13) very(14) loud(15) .(16) 
+			<opinion featWords="10,11,12" feature="air conditioning units" opWords="15" polarity="-" potency="14"/>
+		</sentence>
+		<sentence id="18">
+			It(1) would(2) have(3) been(4) nice(5) if(6) they(7) had(8) turned(9) the(10) air(11) conditioners(12) on(13) in(14) the(15) rooms(16) prior(17) to(18) our(19) check(20) in(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) pregnant(3) so(4) the(5) heat(6) really(7) made(8) me(9) feel(10) worse(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			Other(1) than(2) that(3) this(4) was(5) a(6) typical(7) city(8) hotel(9) room(10) and(11) bathroom(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Nothing(1) fancy(2) and(3) could(4) use(5) some(6) work(7) with(8) renovations(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			I(1) did(2) not(3) like(4) that(5) there(6) were(7) apartments(8) scattered(9) throughout(10) the(11) hallways(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			Some(1) of(2) these(3) people(4) have(5) lived(6) there(7) for(8) years(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			They(1) kept(2) their(3) doors(4) open(5) to(6) the(7) hallways(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			This(1) was(2) very(3) disrupting(4) .(5) 
+			<opinion feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			The(1) location(2) is(3) ok(4) if(5) you(6) do(7) not(8) mind(9) taking(10) the(11) subway(12) .(13) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			You(1) are(2) not(3) really(4) walking(5) distance(6) to(7) anything(8) in(9) particular(10) but(11) the(12) subway(13) is(14) only(15) two(16) blocks(17) and(18) there(19) are(20) small(21) pizza(22) shops(23) and(24) markets(25) to(26) grab(27) a(28) snack(29) at(30) .(31) 
+		</sentence>
+		<sentence id="28">
+			I(1) am(2) taking(3) my(4) group(5) back(6) to(7) New(8) York(9) this(10) September(11) again(12) and(13) I(14) am(15) looking(16) for(17) a(18) hotel(19) with(20) a(21) location(22) a(23) little(24) closer(25) to(26) the(27) "(28) action(29) .(30) "(31) The(32) price(33) was(34) great(35) for(36) New(37) York(38) but(39) you(40) must(41) allow(42) for(43) extra(44) travel(45) time(46) in(47) taxis(48) or(49) on(50) the(51) subway(52) during(53) your(54) trip(55) .(56) 
+			<opinion featWords="33" feature="price" opWords="35" polarity="+"/>
+		</sentence>
+	</text>
+</review>

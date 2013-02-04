@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="578" item="Sahara Hotel &amp; Casino" rating="4">
+	<title>
+		<sentence id="1">
+			Sahara(1) -(2) an(3) elder(4) statesman(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) personal(2) service(3) .(4) 
+			<opinion featWords="3" feature="service" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="service" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Excellant(1) comps(2) program(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			Convenient(1) location(2) .(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) facility(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			I(1) think(2) the(3) buffet(4) is(5) inconveniently(6) too(7) far(8) from(9) the(10) hotel(11) facilities(12) .(13) 
+			<opinion featWords="4" feature="food" opWords="7,8" polarity="-" potency="6"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) have(2) been(3) staying(4) at(5) the(6) Sahara(7) every(8) year(9) for(10) years(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Since(1) we(2) are(3) there(4) for(5) 2-4(6) weeks(7) at(8) a(9) time(10) ,(11) the(12) glitz(13) and(14) glamor(15) of(16) the(17) flashy(18) places(19) is(20) nice(21) to(22) visit(23) ,(24) but(25) the(26) serenity(27) of(28) the(29) Sahara(30) is(31) nice(32) .(33) 
+			<opinion featWords="19" feature="place" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) valets(2) remember(3) our(4) children(5) from(6) year(7) to(8) year(9) ,(10) When(11) the(12) dealers(13) say(14) ,(15) "(16) Welcome(17) back(18) "(19) ,(20) you(21) know(22) they(23) are(24) not(25) just(26) mouthing(27) platitudes(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			I(1) read(2) a(3) review(4) here(5) that(6) complained(7) of(8) having(9) to(10) walk(11) through(12) the(13) Casino(14) to(15) get(16) to(17) the(18) pool(19) -(20) The(21) only(22) route(23) that(24) would(25) allow(26) that(27) is(28) if(29) he(30) came(31) in(32) the(33) front(34) entrance(35) from(36) the(37) street(38) .(39) 
+		</sentence>
+		<sentence id="5">
+			We(1) 've(2) eaten(3) in(4) every(5) "(6) name(7) "(8) place(9) on(10) the(11) strip(12) ,(13) and(14) we(15) still(16) find(17) the(18) food(19) at(20) the(21) Sahara(22) enjoyable(23) ((24) My(25) daughter(26) 's(27) favorite(28) place(29) of(30) all(31) is(32) the(33) Buffet(34) )(35) The(36) service(37) is(38) always(39) excellent(40) without(41) being(42) coldly(43) impersonal(44) or(45) intrusive(46) .(47) 
+			<opinion featWords="37" feature="service" opWords="40" polarity="+" potency="39"/>
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) want(3) to(4) find(5) things(6) to(7) complain(8) about(9) ,(10) you(11) can(12) find(13) fault(14) with(15) every(16) single(17) place(18) on(19) the(20) strip(21) ((22) or(23) off(24) )(25) ,(26) But(27) if(28) you(29) come(30) to(31) Vegas(32) for(33) a(34) good(35) time(36) ,(37) then(38) this(39) can(40) be(41) the(42) place(43) for(44) you(45) .(46) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="531" item="Courtyard by Marriott Marina Del Rey LAX" rating="2">
+	<title>
+		<sentence id="1">
+			Bad(1) Location(2) ,(3) Bad(4) Linens(5) ,(6) No(7) Thanks(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Staff(1) ,(2) bathroom(3) ,(4) decent(5) sized(6) rooms(7) .(8) 
+			<opinion featWords="7" feature="rooms" opWords="5,6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) linens(2) ,(3) poor(4) location(5) .(6) 
+			<opinion featWords="2" feature="bedding" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="place" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) close(2) to(3) the(4) marina(5) ,(6) the(7) cost(8) savings(9) at(10) this(11) hotel(12) are(13) not(14) worth(15) it(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) this(4) hotel(5) during(6) the(7) 2nd(8) full(9) day(10) of(11) our(12) honeymoon(13) last(14) week(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) in(3) between(4) this(5) hotel(6) and(7) the(8) Marriott(9) that(10) is(11) located(12) on(13) the(14) marina(15) itself(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) on(3) a(4) budget(5) and(6) there(7) was(8) an(9) $80(10) cost(11) difference(12) so(13) we(14) picked(15) the(16) Courtyard(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			As(1) soon(2) as(3) we(4) drove(5) off(6) the(7) highway(8) and(9) into(10) the(11) hotel(12) I(13) knew(14) I(15) made(16) a(17) mistake(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) located(4) at(5) the(6) very(7) busy(8) and(9) loud(10) intersection(11) of(12) Maxella(13) and(14) Lincoln(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) an(3) outdoor(4) type(5) mall(6) across(7) this(8) street(9) and(10) a(11) few(12) restaurants(13) /(14) shops(15) on(16) the(17) hotel(18) lot(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) there(3) is(4) a(5) Carl(6) Jr(7) 's(8) that(9) had(10) a(11) lot(12) of(13) seedy(14) folks(15) hanging(16) outside(17) right(18) next(19) to(20) the(21) hotel(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			We(1) were(2) hit(3) up(4) for(5) money(6) in(7) the(8) parking(9) lot(10) of(11) the(12) hotel(13) ,(14) which(15) is(16) a(17) huge(18) turnoff(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			The(1) lobby(2) itself(3) is(4) very(5) nice(6) and(7) the(8) pool(9) area(10) located(11) behind(12) the(13) lobby(14) looked(15) inviting(16) ((17) it(18) was(19) just(20) too(21) chilly(22) outside(23) to(24) try(25) it(26) out(27) )(28) .(29) 
+			<opinion featWords="2" feature="lobby" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="10" feature="place" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Our(1) room(2) was(3) located(4) on(5) the(6) highest(7) level(8) ((9) 5(10) ,(11) I(12) think(13) ?(14) )(15) and(16) had(17) a(18) view(19) of(20) half(21) the(22) highway(23) and(24) the(25) parking(26) lot(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			The(1) road(2) noise(3) was(4) very(5) loud(6) inside(7) the(8) room(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) a(3) walk(4) out(5) balcony(6) which(7) we(8) did(9) not(10) use(11) because(12) there(13) was(14) no(15) view(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			The(1) bathroom(2) was(3) nice(4) and(5) the(6) shower(7) had(8) good(9) pressure(10) and(11) hot(12) water(13) .(14) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) linens(2) were(3) HORRIBLE(4) !(5) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			Our(1) pillows(2) smelled(3) like(4) wet(5) dog(6) and(7) the(8) sheets(9) did(10) not(11) smell(12) clean(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			The(1) mattress(2) was(3) old(4) and(5) had(6) no(7) springs(8) ((9) felt(10) like(11) sleeping(12) on(13) 3(14) stacked(15) blankets(16) )(17) .(18) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			The(1) only(2) good(3) part(4) about(5) the(6) hotel(7) was(8) the(9) staff(10) ((11) that(12) night(13) )(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			They(1) were(2) very(3) helpful(4) and(5) very(6) nice(7) .(8) 
+			<opinion feature="staff" opWords="4" polarity="+" potency="3"/>
+			<opinion feature="staff" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="19">
+			However(1) ,(2) the(3) next(4) morning(5) when(6) I(7) complained(8) about(9) the(10) room(11) they(12) did(13) not(14) seem(15) sympathetic(16) in(17) the(18) least(19) and(20) the(21) manager(22) on(23) duty(24) was(25) not(26) there(27) .(28) 
+		</sentence>
+		<sentence id="20">
+			For(1) the(2) $125(3) we(4) paid(5) ,(6) we(7) left(8) feeling(9) cheated(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			The(1) area(2) of(3) the(4) hotel(5) was(6) not(7) ideal(8) and(9) you(10) are(11) much(12) better(13) off(14) staying(15) on(16) the(17) marina(18) ,(19) that(20) area(21) seemed(22) safer(23) and(24) a(25) lot(26) nicer(27) .(28) 
+			<opinion featWords="2" feature="place" opWords="7,8" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			This(1) hotel(2) would(3) be(4) adequate(5) for(6) non-discriminate(7) business(8) travelers(9) and(10) maybe(11) a(12) group(13) of(14) teenagers(15) ,(16) but(17) that(18) 's(19) about(20) it(21) .(22) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+	</text>
+</review>

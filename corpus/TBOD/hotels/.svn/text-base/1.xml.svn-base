@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="1" item="Riu Orlando Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			UUGGGHHHH(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) stay(3) there(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cheap(1) ,(2) inconvenient(3) location(4) ,(5) cleanliness(6) is(7) NOT(8) their(9) priority(10) !!!(11) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="place" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) definitely(2) do(3) not(4) recommend(5) staying(6) there(7) due(8) to(9) the(10) discomfort(11) and(12) inconvenience(13) of(14) this(15) hotel(16) and(17) location(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Cut(1) corners(2) elsewhere(3) !(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) decided(2) to(3) stay(4) there(5) during(6) my(7) trip(8) to(9) Disney(10) World(11) for(12) affordability(13) and(14) got(15) CHEAP(16) !(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) there(3) on(4) my(5) honeymoon(6) I(7) guess(8) thank(9) goodness(10) for(11) the(12) fact(13) there(14) were(15) not(16) any(17) kids(18) with(19) who(20) had(21) to(22) experience(23) the(24) discomfort(25) and(26) filth(27) of(28) this(29) obviously(30) aged(31) hotel(32) .(33) 
+			<opinion featWords="32" feature="hotel" opWords="31" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) so(3) disappointed(4) in(5) the(6) lack(7) of(8) dining(9) options(10) there(11) in(12) the(13) hotel(14) and(15) yes(16) ,(17) there(18) are(19) restaurants(20) and(21) such(22) down(23) the(24) street(25) ,(26) but(27) it(28) was(29) enough(30) of(31) a(32) walk(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			Let(1) me(2) elaborate(3) on(4) the(5) filth(6) I(7) speak(8) of(9) ,(10) now(11) I(12) understand(13) conserving(14) and(15) can(16) be(17) supportive(18) of(19) going(20) green(21) ,(22) but(23) really(24) wash(25) the(26) sheets(27) !(28) !(29) 
+		</sentence>
+		<sentence id="5">
+			The(1) beds(2) were(3) made(4) up(5) for(6) us(7) ,(8) but(9) it(10) would(11) have(12) been(13) nice(14) to(15) have(16) clean(17) sheets(18) when(19) we(20) got(21) there(22) and(23) throughout(24) the(25) stay(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) itself(3) was(4) uncomfortable(5) and(6) felt(7) very(8) dirty(9) .(10) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="7">
+			We(1) luckily(2) were(3) not(4) there(5) very(6) much(7) as(8) we(9) spent(10) almost(11) all(12) our(13) time(14) at(15) Disney(16) World(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			Please(1) do(2) not(3) make(4) this(5) same(6) mistake(7) of(8) staying(9) there(10) to(11) save(12) a(13) few(14) bucks(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			In(1) a(2) more(3) recent(4) trip(5) ,(6) we(7) stayed(8) at(9) one(10) of(11) the(12) Disney(13) value(14) resort(15) hotels(16) with(17) a(18) child(19) and(20) can(21) not(22) wait(23) to(24) go(25) back(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			For(1) what(2) would(3) have(4) been(5) a(6) very(7) comparable(8) amount(9) of(10) money(11) spent(12) would(13) have(14) been(15) so(16) worth(17) it(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Not(1) staying(2) at(3) a(4) Disney(5) resort(6) means(7) the(8) inconvenience(9) of(10) having(11) to(12) pay(13) for(14) taxis(15) or(16) take(17) non(18) Disney(19) buses(20) to(21) get(22) you(23) to(24) the(25) parks(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Where(1) I(2) know(3) that(4) had(5) nothing(6) to(7) do(8) with(9) the(10) hotel(11) ,(12) i(13) will(14) go(15) back(16) to(17) that(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			We(1) did(2) take(3) advantage(4) of(5) the(6) pool(7) and(8) hot(9) tub(10) located(11) at(12) the(13) hotel(14) ,(15) it(16) was(17) a(18) small(19) size(20) and(21) felt(22) very(23) uncomfortable(24) .(25) 
+			<opinion featWords="7" feature="swimming pool" opWords="19" polarity="-"/>
+			<opinion featWords="7" feature="swimming pool" opWords="24" polarity="-" potency="23"/>
+		</sentence>
+		<sentence id="14">
+			As(1) an(2) English(3) speaking(4) only(5) couple(6) we(7) had(8) a(9) difficult(10) time(11) speaking(12) with(13) the(14) staff(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			We(1) were(2) not(3) impressed(4) with(5) the(6) dining(7) option(8) at(9) the(10) hotel(11) and(12) the(13) price(14) for(15) that(16) felt(17) like(18) robbery(19) !(20) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) have(3) any(4) fear(5) of(6) elevators(7) ,(8) do(9) not(10) ride(11) in(12) theirs(13) !(14) 
+		</sentence>
+	</text>
+</review>

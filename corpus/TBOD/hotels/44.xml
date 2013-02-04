@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="44" item="Toftrees Rst And 4 Star Golf Club" rating="1">
+	<title>
+		<sentence id="1">
+			Terrible(1) Experience(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Better(1) than(2) being(3) homeless(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) prices(2) for(3) little(4) in(5) return(6) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) Toftrees(2) hotel(3) claims(4) to(5) be(6) a(7) luxurious(8) ,(9) comfortable(10) ,(11) and(12) modern(13) experience(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			IT(1) IS(2) NONE(3) OF(4) THOSE(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			For(1) a(2) supposed(3) 4(4) star(5) hotel(6) ,(7) I(8) was(9) shocked(10) to(11) see(12) a(13) lack(14) of(15) wireless(16) or(17) ethernet(18) broadband(19) internet(20) connection(21) ;(22) the(23) only(24) supplied(25) internet(26) was(27) dial-up(28) ((29) which(30) was(31) charged(32) to(33) the(34) room(35) )(36) .(37) 
+			<opinion featWords="26" feature="internet" opWords="28" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Housecleaning(1) is(2) done(3) too(4) early(5) in(6) the(7) morning(8) ,(9) and(10) wakes(11) up(12) guests(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Not(1) good(2) for(3) the(4) travelling(5) professional(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Additionally(1) ,(2) the(3) "(4) resort(5) "(6) is(7) in(8) the(9) middle(10) of(11) nowhere(12) ,(13) so(14) the(15) only(16) way(17) to(18) get(19) food(20) without(21) the(22) paltry(23) taxi(24) service(25) is(26) through(27) the(28) on-site(29) restaurants(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			The(1) Steakhouse(2) food(3) was(4) OK(5) ,(6) but(7) has(8) terrible(9) hours(10) .(11) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			A(1) breakfast(2) buffet(3) costs(4) $8.95(5) ((6) many(7) hotels(8) have(9) free(10) buffets(11) )(12) and(13) charges(14) an(15) outrageous(16) 18(17) %(18) gratuity(19) for(20) large(21) parties(22) .(23) 
+		</sentence>
+		<sentence id="9">
+			Unless(1) you(2) are(3) indulging(4) in(5) the(6) wonderful(7) golfing(8) in(9) Happy(10) Valley(11) ,(12) options(13) in(14) Downtown(15) State(16) College(17) are(18) probably(19) better(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			Avoid(1) .(2) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="525" item="Dubuque-Days Inn" rating="2">
+	<title>
+		<sentence id="1">
+			Days(1) Inn(2) of(3) Dubuque(4) :(5) Hilton(6) Prices(7) ,(8) No-Tel(9) Motel(10) Quality(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			pet-friendly(1) ,(2) convenient(3) location(4) ,(5) geologically(6) interesting(7) parking(8) lot(9) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="place" opWords="3" polarity="+"/>
+			<opinion featWords="8,9" feature="parking" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			battered(1) ,(2) dirty(3) ,(4) noisy(5) ,(6) overpriced(7) ,(8) bait-and-switch(9) advertising(10) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion feature="hotel" opWords="5" polarity="-"/>
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) must(2) be(3) places(4) in(5) Dubuque(6) that(7) are(8) in(9) better(10) condition(11) -(12) and(13) not(14) as(15) overpriced(16) -(17) as(18) the(19) Days(20) Inn(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Seek(1) them(2) out(3) ,(4) traveler(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) 's(2) certainly(3) sad(4) a(5) commentary(6) on(7) a(8) motel(9) when(10) the(11) nicest(12) thing(13) you(14) can(15) say(16) about(17) it(18) is(19) that(20) there(21) are(22) some(23) really(24) cool(25) Victorian(26) houses(27) in(28) the(29) neighborhood(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			Sad(1) ,(2) but(3) pretty(4) much(5) the(6) case(7) for(8) the(9) Days(10) Inn(11) of(12) Dubuque(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			Truly(1) ,(2) as(3) far(4) as(5) I(6) was(7) concerned(8) ,(9) about(10) the(11) best(12) thing(13) about(14) our(15) stay(16) was(17) a(18) nice(19) evening(20) stroll(21) though(22) the(23) streets(24) around(25) Mercy(26) Hospital(27) ((28) just(29) up(30) Hill(31) Street(32) )(33) ,(34) followed(35) fairly(36) closely(37) by(38) the(39) act(40) of(41) checking(42) out(43) .(44) 
+		</sentence>
+		<sentence id="4">
+			Other(1) than(2) that(3) ,(4) things(5) were(6) pretty(7) much(8) downhill(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			What(1) was(2) good(3) ...(4) They(5) had(6) a(7) room(8) ,(9) which(10) seemed(11) at(12) the(13) time(14) almost(15) miraculous(16) :(17) so(18) much(19) of(20) the(21) population(22) of(23) Iowa(24) was(25) staying(26) in(27) Dubuque(28) that(29) night(30) that(31) it(32) seemed(33) a(34) wonder(35) that(36) the(37) town(38) had(39) not(40) sunk(41) beneath(42) the(43) waters(44) of(45) the(46) Mississippi(47) .(48) 
+		</sentence>
+		<sentence id="6">
+			Most(1) of(2) the(3) people(4) seemed(5) to(6) either(7) be(8) riding(9) Harleys(10) ((11) truly(12) a(13) joy(14) at(15) 5:30(16) AM(17) or(18) 11:45(19) PM(20) )(21) or(22) kicking(23) around(24) soccer(25) balls(26) -(27) also(28) a(29) complete(30) joy(31) at(32) 11:45(33) PM(34) ,(35) though(36) the(37) departure(38) of(39) the(40) hawg(41) crew(42) was(43) bittersweet(44) since(45) it(46) probably(47) awakened(48) the(49) teeny-boppers(50) as(51) well(52) .(53) 
+		</sentence>
+		<sentence id="7">
+			Anyway(1) ,(2) they(3) had(4) a(5) room(6) ,(7) for(8) which(9) they(10) charged(11) us(12) Hilton(13) rates(14) and(15) gave(16) us(17) No-Tel(18) Motel(19) quality(20) ((21) without(22) the(23) adult(24) videos(25) )(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			For(1) $99/night(2) ((3) non-smoking(4) single(5) king(6) )(7) ,(8) you(9) expect(10) a(11) modicum(12) of(13) quality(14) ,(15) right(16) ?(17) 
+		</sentence>
+		<sentence id="9">
+			Wrong(1) .(2) 
+		</sentence>
+		<sentence id="10">
+			Oh(1) ,(2) well(3) ,(4) at(5) least(6) they(7) had(8) a(9) room(10) and(11) they(12) let(13) us(14) bring(15) the(16) dogs(17) ,(18) though(19) it(20) was(21) probably(22) a(23) good(24) thing(25) the(26) two(27) had(28) had(29) their(30) Advantage(31) treatments(32) within(33) the(34) past(35) couple(36) of(37) weeks(38) .(39) 
+		</sentence>
+		<sentence id="11">
+			Now(1) ,(2) the(3) property(4) 's(5) setting(6) is(7) interesting(8) :(9) the(10) fifties-era(11) motor(12) hotel(13) ((14) a(15) one-time(16) Holiday(17) Inn(18) ,(19) I(20) 'm(21) told(22) )(23) sits(24) on(25) a(26) shelf(27) blasted(28) out(29) of(30) limestone(31) cliffs(32) where(33) US(34) 20(35) rises(36) from(37) the(38) valley(39) ,(40) about(41) a(42) mile(43) west(44) of(45) the(46) river(47) ((48) THE(49) river(50) ,(51) you(52) know(53) )(54) .(55) 
+			<opinion featWords="6" feature="decoration" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) middle(2) of(3) the(4) Ordovician(5) Galena(6) ((7) Trenton(8) )(9) Limestone(10) is(11) nicely(12) displayed(13) in(14) the(15) vertical(16) wall(17) on(18) the(19) back(20) side(21) of(22) the(23) motel(24) ,(25) though(26) vehicles(27) parked(28) along(29) the(30) wall(31) are(32) subject(33) to(34) accidental(35) impact(36) from(37) occasional(38) falling(39) chunks(40) of(41) limestone(42) .(43) 
+		</sentence>
+		<sentence id="13">
+			A(1) pair(2) of(3) low-rise(4) buildings(5) comprises(6) the(7) motel(8) ;(9) one(10) houses(11) the(12) office(13) and(14) the(15) other(16) the(17) motel(18) 's(19) 155(20) rooms(21) on(22) two(23) floors(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			There(1) 's(2) a(3) rudimentary(4) fitness(5) center(6) on(7) the(8) second(9) floor(10) ,(11) and(12) a(13) child-encrusted(14) swimming(15) pool(16) adjacent(17) to(18) the(19) office(20) .(21) 
+			<opinion featWords="5,6" feature="gym" opWords="4" polarity="-"/>
+			<opinion featWords="15,16" feature="swimming pool" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			A(1) restaurant(2) /(3) lounge(4) occupies(5) the(6) rear(7) of(8) the(9) office(10) building(11) ,(12) but(13) the(14) wet-ashtray(15) scent(16) that(17) wafted(18) out(19) the(20) door(21) was(22) unappealing(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			According(1) to(2) the(3) motel(4) 's(5) website(6) ,(7) there(8) 's(9) a(10) meeting(11) room(12) in(13) the(14) office(15) building(16) of(17) about(18) 1100(19) square(20) feet(21) ;(22) I(23) did(24) not(25) see(26) it(27) ,(28) however(29) ((30) perhaps(31) it(32) 's(33) on(34) the(35) second(36) floor(37) over(38) the(39) office(40) )(41) .(42) 
+		</sentence>
+		<sentence id="17">
+			Parking(1) lots(2) completely(3) surround(4) the(5) building(6) with(7) the(8) rooms(9) ,(10) reaching(11) to(12) the(13) edge(14) of(15) the(16) shelf(17) where(18) there(19) 's(20) a(21) battered(22) three-foot(23) high(24) chain(25) link(26) fence(27) plastered(28) with(29) signs(30) warning(31) of(32) a(33) dangerous(34) drop-off(35) just(36) beyond(37) .(38) 
+		</sentence>
+		<sentence id="18">
+			The(1) motel(2) is(3) quite(4) easy(5) to(6) reach(7) :(8) follow(9) US(10) 20(11) west(12) out(13) of(14) the(15) downtown(16) area(17) and(18) take(19) the(20) north-bound(21) Hill(22) Street(23) exit(24) -(25) just(26) look(27) for(28) the(29) large(30) blue(31) H(32) signs(33) pointing(34) the(35) way(36) to(37) Mercy(38) Hospital(39) .(40) 
+		</sentence>
+		<sentence id="19">
+			A(1) stoplight(2) a(3) couple(4) hundred(5) feet(6) uphill(7) from(8) the(9) overpass(10) allows(11) you(12) to(13) motor(14) downhill(15) ((16) east(17) )(18) into(19) the(20) motel(21) lot(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			The(1) surprisingly(2) hilly(3) neighborhood(4) near(5) the(6) hospital(7) boasts(8) dozens(9) of(10) beautiful(11) old(12) houses(13) ,(14) many(15) lovingly(16) restored(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) end(3) up(4) here(5) ,(6) by(7) all(8) means(9) put(10) on(11) your(12) walking(13) shoes(14) and(15) hike(16) over(17) to(18) check(19) out(20) the(21) architecture(22) ,(23) with(24) its(25) superb(26) representatives(27) of(28) Italianate(29) ,(30) Greek(31) Revival(32) ,(33) Victorian(34) ,(35) and(36) Queen(37) Anne(38) houses(39) in(40) wood(41) and(42) stone(43) .(44) 
+		</sentence>
+		<sentence id="22">
+			Many(1) houses(2) make(3) excellent(4) use(5) of(6) blocks(7) and(8) slabs(9) of(10) the(11) Galena(12) Limestone(13) that(14) crops(15) out(16) in(17) the(18) region(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			An(1) area(2) of(3) small(4) local(5) restaurants(6) can(7) be(8) found(9) along(10) University(11) Avenue(12) ,(13) about(14) a(15) mile(16) north(17) along(18) Hill(19) :(20) take(21) a(22) map(23) ,(24) however(25) ,(26) since(27) the(28) area(29) 's(30) well(31) hidden(32) in(33) the(34) maze-like(35) street(36) pattern(37) .(38) 
+			<opinion featWords="6" feature="food" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			What(1) was(2) not(3) good(4) ...(5) This(6) may(7) well(8) have(9) been(10) the(11) most(12) overpriced(13) motel(14) room(15) I(16) 've(17) stayed(18) at(19) in(20) the(21) continental(22) US(23) .(24) 
+			<opinion feature="price" opWords="12,13" polarity="-"/>
+		</sentence>
+		<sentence id="25">
+			The(1) medium-sized(2) room(3) ,(4) marketed(5) as(6) a(7) business(8) suite(9) ,(10) did(11) have(12) your(13) basic(14) traveler(15) amenities(16) -(17) coffee(18) service(19) ,(20) iron(21) and(22) board(23) ,(24) clock(25) radio(26) ((27) a(28) real(29) one(30) instead(31) of(32) that(33) nasty(34) little(35) thing(36) you(37) find(38) in(39) most(40) hotels(41) )(42) ,(43) hair(44) dryer(45) ,(46) and(47) television(48) without(49) obnoxious(50) in-room(51) movie(52) advertising(53) ,(54) though(55) no(56) video(57) games(58) ((59) not(60) that(61) I(62) care(63) )(64) .(65) 
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			Unfortunately(1) ,(2) the(3) television(4) reception(5) -(6) cable(7) or(8) satellite(9) ,(10) I(11) presume(12) -(13) had(14) more(15) ghosts(16) than(17) an(18) M.(19) Night(20) Shyamalan(21) movie(22) ,(23) rendering(24) all(25) but(26) one(27) or(28) two(29) stations(30) unwatchable(31) .(32) 
+		</sentence>
+		<sentence id="27">
+			As(1) luck(2) would(3) have(4) it(5) ,(6) we(7) had(8) a(9) portable(10) DVD(11) player(12) and(13) could(14) watch(15) season(16) one(17) of(18) "(19) Boston(20) Legal(21) "(22) instead(23) .(24) 
+		</sentence>
+		<sentence id="28">
+			Radio(1) and(2) cellular(3) reception(4) was(5) likewise(6) poor(7) ,(8) which(9) is(10) understandable(11) given(12) the(13) fact(14) that(15) the(16) building(17) 's(18) clinging(19) to(20) the(21) side(22) of(23) a(24) road(25) cut(26) ,(27) I(28) guess(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			We(1) also(2) had(3) a(4) tiny(5) microwave(6) and(7) minifridge(8) .(9) 
+		</sentence>
+		<sentence id="30">
+			The(1) room(2) was(3) not(4) particularly(5) clean(6) or(7) well-maintained(8) :(9) I(10) spotted(11) a(12) troop(13) of(14) dust(15) bunnies(16) scurrying(17) along(18) the(19) wall(20) ,(21) and(22) noted(23) shredded(24) carpet(25) and(26) a(27) very(28) persistent(29) hot(30) water(31) leak(32) -(33) not(34) just(35) a(36) drip(37) but(38) a(39) thin(40) stream(41) -(42) in(43) the(44) bathroom(45) .(46) 
+			<opinion featWords="2" feature="rooms" opWords="4,6" polarity="-" potency="5"/>
+			<opinion featWords="2" feature="rooms" opWords="4,8" polarity="-"/>
+			<opinion featWords="25" feature="carpets" opWords="24" polarity="-"/>
+		</sentence>
+		<sentence id="31">
+			At(1) least(2) we(3) did(4) not(5) have(6) to(7) wait(8) for(9) the(10) water(11) to(12) warm(13) up(14) in(15) the(16) morning(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			The(1) grout(2) in(3) the(4) shower(5) stall(6) was(7) dotted(8) with(9) mildew(10) as(11) well(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			The(1) door(2) to(3) the(4) parking(5) lot(6) appeared(7) to(8) have(9) been(10) forced(11) at(12) one(13) time(14) or(15) another(16) and(17) ,(18) though(19) secure(20) ,(21) did(22) not(23) close(24) or(25) latch(26) easily(27) .(28) 
+		</sentence>
+		<sentence id="34">
+			All(1) rooms(2) open(3) off(4) the(5) parking(6) lot(7) ;(8) there(9) is(10) ready(11) access(12) to(13) the(14) upper(15) floors(16) from(17) staircases(18) located(19) in(20) the(21) various(22) bends(23) and(24) crooks(25) of(26) the(27) building(28) ((29) the(30) stairways(31) are(32) not(33) locked(34) )(35) ,(36) though(37) no(38) elevator(39) that(40) I(41) could(42) see(43) .(44) 
+		</sentence>
+		<sentence id="35">
+			At(1) every(2) stairway(3) there(4) is(5) vending(6) and(7) ice(8) .(9) 
+		</sentence>
+		<sentence id="36">
+			Besides(1) being(2) ill-kempt(3) and(4) -(5) maintained(6) ,(7) our(8) room(9) was(10) noisy(11) -(12) or(13) should(14) I(15) say(16) the(17) neighbors(18) were(19) noisy(20) ((21) and(22) ill-mannered(23) )(24) ,(25) with(26) children(27) pounding(28) along(29) the(30) balcony(31) and(32) several(33) of(34) the(35) Harley(36) owners(37) parking(38) their(39) machines(40) on(41) the(42) sidewalk(43) under(44) the(45) overhang(46) ((47) thus(48) forcing(49) pedestrians(50) into(51) the(52) parking(53) lot(54) )(55) .(56) 
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion featWords="9" feature="rooms" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="37">
+			Since(1) there(2) was(3) a(4) central(5) air(6) /(7) heating(8) unit(9) ,(10) we(11) could(12) not(13) fall(14) back(15) on(16) the(17) old(18) trick(19) of(20) running(21) a(22) fan(23) all(24) night(25) for(26) white(27) noise(28) .(29) 
+		</sentence>
+		<sentence id="38">
+			Fortunately(1) ,(2) things(3) eventually(4) quieted(5) down(6) -(7) and(8) the(9) screen(10) of(11) trees(12) and(13) shrubs(14) at(15) the(16) outer(17) edge(18) of(19) the(20) parking(21) lot(22) kept(23) out(24) ((25) most(26) of(27) )(28) the(29) road(30) noise(31) .(32) 
+		</sentence>
+		<sentence id="39">
+			Though(1) quite(2) close(3) to(4) one(5) hospital(6) ((7) Mercy(8) )(9) and(10) within(11) a(12) mile(13) or(14) so(15) of(16) a(17) second(18) ((19) Finley(20) )(21) ,(22) no(23) Flight(24) for(25) Life(26) choppers(27) roared(28) overhead(29) during(30) the(31) night(32) .(33) 
+		</sentence>
+		<sentence id="40">
+			I(1) imagine(2) they(3) do(4) ,(5) however(6) ,(7) at(8) times(9) .(10) 
+		</sentence>
+		<sentence id="41">
+			What(1) was(2) normal(3) ...(4) You(5) get(6) a(7) free(8) continental(9) breakfast(10) -(11) cold(12) ,(13) of(14) course(15) ,(16) with(17) the(18) exception(19) of(20) rather(21) weak(22) coffee(23) and(24) make(25) -(26) '(27) em-yourself(28) waffles(29) .(30) 
+			<opinion featWords="10" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="42">
+			You(1) 'll(2) need(3) to(4) time(5) it(6) correctly(7) ,(8) though(9) ,(10) to(11) beat(12) the(13) kids(14) to(15) the(16) spread(17) .(18) 
+		</sentence>
+		<sentence id="43">
+			The(1) staff(2) with(3) whom(4) I(5) interacted(6) all(7) seemed(8) friendly(9) and(10) efficient(11) .(12) 
+			<opinion featWords="2" feature="staff" opWords="9" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="44">
+			Overall(1) ...(2) Not(3) a(4) happy(5) stay(6) :(7) noisy(8) ,(9) crowded(10) ,(11) battered(12) .(13) 
+			<opinion feature="hotel" opWords="8" polarity="-"/>
+			<opinion feature="hotel" opWords="10" polarity="-"/>
+			<opinion feature="hotel" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="45">
+			And(1) the(2) free(3) wireless(4) internet(5) they(6) advertise(7) on(8) their(9) billboards(10) and(11) in(12) their(13) yellow(14) pages(15) ad(16) ?(17) 
+			<opinion featWords="5" feature="internet" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="46">
+			Only(1) in(2) the(3) office(4) building(5) ...(6) and(7) not(8) working(9) there(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			Not(1) recommended(2) at(3) this(4) price(5) .(6) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="48">
+			Not(1) recommended(2) at(3) half(4) this(5) price(6) on(7) weekends(8) .(9) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="49">
+			No(1) offense(2) meant(3) to(4) No-Tel(5) Motel(6) ,(7) which(8) actually(9) does(10) exist(11) :(12) it(13) 's(14) on(15) North(16) Oracle(17) Road(18) in(19) Tucson(20) 
+		</sentence>
+	</text>
+</review>

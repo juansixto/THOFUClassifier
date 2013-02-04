@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="369" item="Days Inn Gold Coast" rating="3">
+	<title>
+		<sentence id="1">
+			Palpable(1) Gloom(2) :(3) Days(4) Inn(5) Gold(6) Coast(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Near(1) downtown(2) ,(3) Near(4) Lake(5) Michigan(6) ,(7) Cheap(8) 
+			<opinion feature="price" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noisy(1) ,(2) Not(3) too(4) well(5) equipped(6) ,(7) Parking(8) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3,4,5,6" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) can(2) get(3) a(4) decent(5) cot(6) for(7) the(8) night(9) here(10) ...(11) cheap(12) .(13) 
+			<opinion feature="price" opWords="12" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Chicago(1) Days(2) Inn(3) Gold(4) Coast(5) Hotel(6) is(7) a(8) most(9) unusual(10) hotel(11) :(12) It(13) completely(14) lacks(15) any(16) charm(17) whatsoever(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			But(1) ,(2) do(3) 'nt(4) worry(5) that(6) lack(7) of(8) charm(9) is(10) 'nt(11) just(12) skin(13) deep(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			From(1) the(2) desk(3) clerk(4) --(5) who(6) communicates(7) with(8) such(9) curt(10) economy(11) of(12) words(13) that(14) any(15) contact(16) should(17) be(18) avoided(19) to(20) the(21) paste(22) over(23) redecoration(24) job(25) --(26) that(27) actually(28) accentuates(29) the(30) underlying(31) flaws(32) of(33) the(34) rooms(35) this(36) hotel(37) exudes(38) no(39) charm(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			The(1) Days(2) Inn(3) Gold(4) Coast(5) Hotel(6) is(7) an(8) irregularly(9) shaped(10) older(11) twelve(12) floor(13) hotel(14) property(15) that(16) sits(17) on(18) Clark(19) Street(20) directly(21) across(22) from(23) Lincoln(24) Park(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			The(1) "(2) old(3) town(4) "(5) Chicago(6) area(7) around(8) the(9) hotel(10) simply(11) exudes(12) history(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) entry(2) and(3) reception(4) area(5) of(6) the(7) hotel(8) has(9) been(10) completely(11) re-done(12) ...(13) and(14) ,(15) it(16) is(17) the(18) best(19) executed(20) part(21) of(22) the(23) entire(24) remodeled(25) hotel(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Just(1) behind(2) the(3) reception(4) desk(5) is(6) a(7) meeting(8) room(9) that(10) is(11) dedicated(12) to(13) the(14) free(15) continental(16) breakfast(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) continental(2) breakfast(3) is(4) best(5) avoided(6) ....(7) try(8) the(9) restaurant(10) /(11) sports(12) bar(13) that(14) adjoins(15) the(16) lobby(17) just(18) past(19) the(20) elevators(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) also(3) a(4) well(5) stocked(6) convenience(7) store(8) that(9) adjoins(10) the(11) front(12) of(13) the(14) lobby(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			They(1) lock(2) the(3) lobby(4) area(5) at(6) 11(7) PM(8) each(9) night(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) are(3) going(4) to(5) be(6) out(7) late(8) --(9) be(10) sure(11) you(12) carry(13) your(14) room(15) key(16) with(17) you(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			We(1) stayed(2) in(3) one(4) of(5) the(6) suites(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			The(1) suite(2) is(3) two(4) of(5) the(6) smaller(7) rooms(8) connected(9) together(10) in(11) an(12) interesting(13) way(14) to(15) make(16) a(17) living(18) room(19) area(20) ,(21) a(22) small(23) kitchen(24) /(25) bar(26) ,(27) and(28) the(29) bedroom(30) with(31) adjoining(32) bathroom(33) .(34) 
+			<opinion featWords="24" feature="kitchen" opWords="23" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			The(1) suite(2) had(3) two(4) televisions(5) ((6) nice(7) !(8) )(9) and(10) not(11) one(12) full(13) length(14) mirror(15) .(16) ((17) In(18) fact(19) the(20) only(21) mirror(22) in(23) the(24) suite(25) was(26) in(27) the(28) bathroom(29) over(30) the(31) sink(32) )(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			In(1) the(2) bedroom(3) of(4) the(5) suite(6) the(7) king(8) sized(9) bed(10) nearly(11) filled(12) all(13) the(14) available(15) floor(16) space(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			Sheets(1) and(2) towels(3) were(4) standard(5) issue(6) "(7) cheap(8) hotel(9) "(10) items(11) .(12) 
+			<opinion featWords="9" feature="hotel" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			The(1) bathroom(2) had(3) a(4) nice(5) collection(6) of(7) soap(8) and(9) shampoo(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			Each(1) of(2) the(3) two(4) closets(5) in(6) the(7) suite(8) had(9) an(10) interesting(11) feature(12) :(13) a(14) laundry(15) bag(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			What(1) makes(2) that(3) interesting(4) ?(5) 
+		</sentence>
+		<sentence id="20">
+			There(1) are(2) no(3) instructions(4) for(5) submitting(6) your(7) laundry(8) !(9) 
+		</sentence>
+		<sentence id="21">
+			When(1) you(2) call(3) the(4) front(5) desk(6) to(7) ask(8) ,(9) you(10) will(11) be(12) curtly(13) told(14) "(15) we(16) only(17) launder(18) our(19) own(20) sheets(21) and(22) towels(23) "(24) ...(25) click(26) ,(27) buzz(28) ...(29) ((30) There(31) is(32) a(33) laundry(34) about(35) half(36) a(37) block(38) from(39) the(40) hotel(41) on(42) the(43) Wells(44) Street(45) side(46) )(47) .(48) 
+		</sentence>
+		<sentence id="22">
+			The(1) hotel(2) provides(3) a(4) free(5) complimentary(6) van(7) that(8) will(9) take(10) you(11) to(12) any(13) location(14) within(15) a(16) five(17) mile(18) radius(19) of(20) the(21) hotel(22) .(23) 
+		</sentence>
+		<sentence id="23">
+			The(1) service(2) is(3) "(4) drop(5) off(6) "(7) only(8) ...(9) so(10) ,(11) you(12) 'll(13) be(14) finding(15) your(16) own(17) transportation(18) back(19) to(20) the(21) hotel(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			To(1) arrange(2) for(3) the(4) van(5) you(6) must(7) receive(8) a(9) "(10) van(11) voucher(12) "(13) from(14) the(15) front(16) desk(17) prior(18) to(19) boarding(20) the(21) van(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			For(1) those(2) driving(3) their(4) own(5) cars(6) ,(7) there(8) is(9) a(10) small(11) parking(12) garage(13) directly(14) behind(15) the(16) hotel(17) on(18) Wells(19) Street(20) .(21) 
+			<opinion featWords="12" feature="parking" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			The(1) garage(2) is(3) well(4) marked(5) as(6) the(7) Days(8) Inn(9) parking(10) garage(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			It(1) also(2) had(3) a(4) large(5) sign(6) on(7) it(8) advertising(9) the(10) structure(11) for(12) sale(13) .(14) 
+		</sentence>
+		<sentence id="28">
+			Is(1) it(2) possible(3) that(4) parking(5) will(6) become(7) a(8) problem(9) in(10) the(11) future(12) ?(13) 
+		</sentence>
+		<sentence id="29">
+			The(1) Chicago(2) Days(3) Inn(4) Gold(5) Coast(6) is(7) a(8) busy(9) place(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			There(1) were(2) many(3) business(4) people(5) using(6) the(7) hotel(8) ...(9) and(10) ,(11) some(12) tourists(13) from(14) Europe(15) and(16) Asia(17) on(18) the(19) days(20) we(21) were(22) there(23) .(24) 
+		</sentence>
+		<sentence id="31">
+			For(1) sleeping(2) safely(3) off(4) the(5) street(6) near(7) downtown(8) Chicago(9) ...(10) it(11) 's(12) a(13) good(14) buy(15) .(16) 
+		</sentence>
+	</text>
+</review>

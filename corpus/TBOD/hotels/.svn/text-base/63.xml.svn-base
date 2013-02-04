@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="63" item="Quality Suites Kenosha" rating="1">
+	<title>
+		<sentence id="1">
+			The(1) hotel(2) had(3) it(4) 's(5) quirks(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			At(1) least(2) it(3) 's(4) centrally(5) located(6) to(7) local(8) attractions(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) many(2) to(3) list(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) never(3) consider(4) using(5) this(6) hotel(7) again(8) and(9) highly(10) question(11) hotels(12) within(13) it(14) 's(15) chain(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) is(2) one(3) of(4) the(5) most(6) tiresome(7) hotels(8) I(9) have(10) had(11) the(12) not(13) so(14) pleasurable(15) time(16) at(17) .(18) 
+			<opinion featWords="8" feature="hotel" opWords="6,7" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Took(1) my(2) family(3) down(4) to(5) Kenosha(6) in(7) summer(8) of(9) 2005(10) to(11) see(12) the(13) Milwaukee(14) Zoo(15) and(16) Six(17) Flags(18) with(19) this(20) hotel(21) being(22) the(23) pick(24) of(25) stay(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			My(1) family(2) consists(3) of(4) 5(5) so(6) I(7) was(8) hoping(9) that(10) a(11) two(12) room(13) suite(14) would(15) be(16) roomy(17) enough(18) for(19) us(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			But(1) of(2) course(3) two(4) room(5) only(6) consists(7) of(8) a(9) cramped(10) regular(11) sized(12) pull(13) out(14) couch(15) with(16) a(17) small(18) table(19) and(20) two(21) chairs(22) in(23) one(24) room(25) and(26) two(27) queen(28) size(29) beds(30) in(31) the(32) other(33) room(34) .(35) 
+			<opinion featWords="15" feature="sofa" opWords="10" polarity="-"/>
+			<opinion featWords="19" feature="tables" opWords="18" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			Beyond(1) being(2) cramped(3) ,(4) I(5) soon(6) discovered(7) that(8) my(9) 9(10) year(11) old(12) boy(13) could(14) not(15) close(16) the(17) bathroom(18) so(19) called(20) fire(21) door(22) and(23) would(24) need(25) help(26) with(27) it(28) everytime(29) he(30) needed(31) to(32) use(33) it(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			Asking(1) the(2) help(3) desk(4) if(5) this(6) could(7) be(8) fixed(9) somehow(10) ,(11) maybe(12) a(13) little(14) wd40(15) on(16) the(17) track(18) ,(19) and(20) they(21) said(22) that(23) all(24) their(25) doors(26) are(27) heavy(28) like(29) that(30) and(31) were(32) suppose(33) to(34) be(35) according(36) to(37) some(38) state(39) regulations(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			Well(1) it(2) 's(3) the(4) first(5) hotel(6) that(7) I(8) have(9) ever(10) seen(11) with(12) a(13) door(14) like(15) that(16) !(17) 
+		</sentence>
+		<sentence id="8">
+			Needless(1) to(2) say(3) ,(4) not(5) the(6) place(7) to(8) go(9) for(10) the(11) weak(12) ,(13) service(14) not(15) the(16) most(17) helpful(18) ,(19) pool(20) was(21) so(22) heavy(23) with(24) chlorine(25) my(26) eyes(27) burned(28) within(29) 15(30) minutes(31) of(32) use(33) .(34) 
+		</sentence>
+	</text>
+</review>

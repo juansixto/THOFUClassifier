@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="376" item="Mill Street Inn" rating="2">
+	<title>
+		<sentence id="1">
+			We(1) were(2) put(3) through(4) the(5) mill(6) at(7) Mill(8) Street(9) Inn(10) ,(11) Newport(12) ,(13) RI(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) location(2) .(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Over-priced(1) ,(2) noisy(3) ,(4) terrible(5) bed(6) .(7) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion featWords="6" feature="bed" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) recommended(2) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) decided(5) ,(6) almost(7) at(8) the(9) spur(10) of(11) the(12) moment(13) ((14) one(15) week(16) beforehand(17) )(18) ,(19) that(20) we(21) needed(22) to(23) escape(24) from(25) our(26) stressful(27) lifestyle(28) and(29) go(30) away(31) for(32) Memorial(33) Day(34) weekend(35) .(36) 
+		</sentence>
+		<sentence id="2">
+			Hubby(1) had(2) been(3) to(4) Newport(5) ,(6) Rhode(7) Island(8) in(9) the(10) past(11) and(12) knew(13) that(14) I(15) would(16) love(17) it(18) ,(19) so(20) that(21) was(22) our(23) destination(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			After(1) frantically(2) calling(3) every(4) inn(5) and(6) bed(7) and(8) breakfast(9) listed(10) in(11) our(12) New(13) England(14) tour(15) book(16) ,(17) I(18) made(19) a(20) reservation(21) at(22) Mill(23) Street(24) Inn(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			It(1) had(2) gotten(3) 2(4) out(5) of(6) 5(7) stars(8) ,(9) which(10) the(11) book(12) says(13) means(14) they(15) are(16) comfortable(17) and(18) clean(19) ,(20) but(21) nothing(22) fancy(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Given(1) that(2) the(3) only(4) places(5) that(6) had(7) vacancies(8) were(9) charging(10) a(11) lot(12) more(13) than(14) I(15) wanted(16) to(17) spend(18) ((19) anywhere(20) from(21) $260(22) to(23) $400(24) +(25) per(26) night(27) )(28) I(29) decided(30) that(31) Mill(32) Street(33) Inn(34) at(35) $215(36) per(37) night(38) would(39) suffice(40) .(41) 
+		</sentence>
+		<sentence id="6">
+			In(1) retrospect(2) I(3) should(4) have(5) just(6) bit(7) the(8) bullet(9) and(10) paid(11) more(12) ,(13) but(14) we(15) were(16) already(17) over(18) budget(19) with(20) $215(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Mill(1) Street(2) Inn(3) is(4) a(5) historic(6) building(7) that(8) used(9) to(10) be(11) a(12) mill(13) .(14) 
+			<opinion featWords="7" feature="building" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			There(1) are(2) pictures(3) of(4) the(5) old(6) mill(7) in(8) some(9) of(10) the(11) common(12) areas(13) ,(14) before(15) it(16) was(17) renovated(18) and(19) turned(20) into(21) an(22) inn(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			The(1) only(2) remaining(3) evidence(4) of(5) the(6) mill(7) is(8) the(9) exterior(10) walls(11) ,(12) which(13) are(14) the(15) original(16) red(17) brick(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Not(1) great(2) ,(3) but(4) acceptable(5) :(6) We(7) arrived(8) at(9) the(10) inn(11) after(12) a(13) long(14) drive(15) ,(16) only(17) to(18) find(19) that(20) their(21) garage(22) and(23) parking(24) lot(25) were(26) full(27) .(28) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			We(1) did(2) the(3) old(4) "(5) create-a-space(6) "(7) maneuver(8) ((9) I(10) am(11) a(12) former(13) New(14) Yorker(15) and(16) I(17) can(18) squeeze(19) into(20) any(21) space(22) that(23) does(24) not(25) need(26) a(27) shoehorn(28) )(29) ,(30) and(31) went(32) inside(33) to(34) check(35) in(36) .(37) 
+		</sentence>
+		<sentence id="12">
+			There(1) are(2) 2(3) entrances(4) ,(5) one(6) facing(7) the(8) front(9) of(10) the(11) building(12) and(13) one(14) on(15) the(16) side(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Neither(1) is(2) handicap(3) accessible(4) .(5) 
+		</sentence>
+		<sentence id="14">
+			The(1) side(2) entrance(3) had(4) fragrant(5) flowers(6) planted(7) around(8) it(9) and(10) I(11) felt(12) very(13) hopeful(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			The(1) lobby(2) ,(3) like(4) our(5) guest(6) suite(7) ,(8) was(9) dimly(10) lit(11) and(12) small(13) .(14) 
+			<opinion featWords="2" feature="lobby" opWords="10,11" polarity="-"/>
+			<opinion featWords="2" feature="lobby" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			There(1) was(2) a(3) reception(4) desk(5) ,(6) a(7) sofa(8) ,(9) a(10) long(11) table(12) ,(13) and(14) one(15) of(16) those(17) stands(18) with(19) local(20) brochures(21) on(22) tiers(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			The(1) table(2) had(3) a(4) coffee(5) maker(6) and(7) styrofoam(8) cups(9) ,(10) which(11) were(12) being(13) cleared(14) ,(15) as(16) the(17) complementary(18) "(19) afternoon(20) tea(21) "(22) had(23) just(24) ended(25) ((26) my(27) husband(28) attended(29) the(30) tea(31) one(32) day(33) and(34) said(35) they(36) had(37) yummy(38) cookies(39) .(40) The(41) very(42) pleasant(43) concierge(44) told(45) us(46) we(47) were(48) parked(49) okay(50) ,(51) gave(52) us(53) the(54) key(55) to(56) our(57) room(58) and(59) directed(60) us(61) to(62) go(63) down(64) a(65) corridor(66) to(67) the(68) first(69) room(70) on(71) the(72) left(73) .(74) When(75) we(76) let(77) ourselves(78) in(79) ,(80) we(81) both(82) sighed(83) .(84) Mill(85) Street(86) Inn(87) is(88) all(89) suites(90) ,(91) but(92) do(93) not(94) let(95) that(96) fool(97) you(98) into(99) thinking(100) they(101) are(102) spacious(103) or(104) luxurious(105) .(106) I(107) do(108) not(109) know(110) what(111) the(112) other(113) suites(114) looked(115) like(116) ,(117) but(118) ours(119) was(120) very(121) small(122) and(123) dimly(124) lit(125) .(126) The(127) outer(128) room(129) was(130) tiny(131) .(132) It(133) contained(134) a(135) plain(136) love(137) seat(138) ,(139) a(140) chair(141) ,(142) a(143) couple(144) of(145) tables(146) ,(147) a(148) lamp(149) ,(150) and(151) a(152) TV(153) ,(154) which(155) got(156) cable(157) and(158) HBO(159) .(160) The(161) love(162) seat(163) was(164) not(165) particularly(166) comfortable(167) ,(168) but(169) not(170) uncomfortable(171) ,(172) either(173) .(174) There(175) was(176) some(177) dim(178) track(179) lighting(180) and(181) an(182) air(183) conditioner(184) ,(185) which(186) we(187) never(188) used(189) ,(190) in(191) the(192) only(193) window(194) in(195) room(196) .(197) I(198) assumed(199) the(200) air(201) conditioner(202) was(203) strong(204) enough(205) to(206) cool(207) the(208) bedroom(209) ,(210) too(211) ,(212) since(213) it(214) was(215) the(216) only(217) air(218) conditioner(219) in(220) the(221) suite(222) .(223) There(224) were(225) some(226) warms(227) cans(228) of(229) soda(230) and(231) bottled(232) water(233) and(234) a(235) couple(236) of(237) bags(238) of(239) chips(240) on(241) the(242) table(243) with(244) the(245) TV(246) .(247) These(248) were(249) priced(250) anywhere(251) from(252) $1(253) for(254) water(255) ,(256) $1.25(257) for(258) soda(259) ,(260) and(261) $.75(262) for(263) the(264) chips(265) .(266) Ice(267) ,(268) from(269) a(270) machine(271) ,(272) located(273) on(274) a(275) different(276) floor(277) ,(278) was(279) gratis(280) .(281) The(282) bedroom(283) was(284) even(285) smaller(286) with(287) barely(288) enough(289) room(290) for(291) a(292) queen-sized(293) bed(294) ,(295) a(296) night(297) table(298) ,(299) with(300) no(301) drawers(302) and(303) a(304) lamp(305) .(306) Instead(307) of(308) a(309) dresser(310) ,(311) there(312) was(313) a(314) credenza(315) type(316) thing(317) ,(318) with(319) 2(320) bamboo(321) drawers(322) ,(323) 2(324) cabinets(325) and(326) several(327) shelves(328) .(329) There(330) was(331) also(332) a(333) small(334) closet(335) ,(336) equipped(337) with(338) extra(339) blankets(340) and(341) pillows(342) ,(343) some(344) hangers(345) ,(346) and(347) 2(348) monogrammed(349) bathrobes(350) .(351) 
+			<opinion featWords="114" feature="rooms" opWords="122" polarity="-" potency="121"/>
+			<opinion featWords="114" feature="rooms" opWords="124,125" polarity="-"/>
+			<opinion featWords="129" feature="rooms" opWords="131" polarity="-"/>
+			<opinion featWords="201,202" feature="air conditioning units" opWords="204,205" polarity="+"/>
+			<opinion featWords="335" feature="closet" opWords="334" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			The(1) bathroom(2) ,(3) located(4) off(5) the(6) outer(7) room(8) was(9) similarly(10) spare(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			There(1) was(2) just(3) enough(4) room(5) for(6) a(7) sink(8) ,(9) with(10) a(11) small(12) shelf(13) mounted(14) on(15) the(16) wall(17) next(18) to(19) it(20) for(21) toiletries(22) ,(23) a(24) toilet(25) ,(26) and(27) a(28) stall(29) shower(30) ,(31) which(32) had(33) a(34) shower(35) massage(36) head(37) .(38) 
+		</sentence>
+		<sentence id="20">
+			The(1) inn(2) offers(3) a(4) continental(5) breakfast(6) buffet(7) for(8) free(9) every(10) morning(11) from(12) 7:00(13) until(14) 11:00(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			The(1) breakfast(2) consisted(3) of(4) muffins(5) ,(6) croissants(7) ,(8) and(9) bagels(10) and(11) cream(12) cheese(13) or(14) butter(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			There(1) was(2) a(3) toaster(4) available(5) ,(6) but(7) we(8) did(9) not(10) use(11) it(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			There(1) was(2) coffee(3) ,(4) tea(5) ,(6) and(7) half-and-half(8) ,(9) as(10) well(11) as(12) orange(13) juice(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			There(1) were(2) also(3) a(4) variety(5) of(6) cold(7) cereals(8) ,(9) in(10) single(11) serve(12) boxes(13) ,(14) from(15) Kellogg(16) 's(17) and(18) some(19) granola(20) ,(21) served(22) from(23) a(24) clear(25) plastic(26) container(27) ,(28) and(29) skim(30) milk(31) .(32) 
+		</sentence>
+		<sentence id="25">
+			The(1) meal(2) is(3) served(4) in(5) a(6) medium(7) sized(8) room(9) with(10) tables(11) lined(12) up(13) against(14) a(15) wall(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			The(1) baked(2) goods(3) were(4) okay(5) ,(6) but(7) not(8) fabulously(9) fresh(10) or(11) tasty(12) .(13) 
+		</sentence>
+		<sentence id="27">
+			Hubby(1) and(2) I(3) were(4) fine(5) with(6) all(7) of(8) this(9) ,(10) so(11) far(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			We(1) were(2) just(3) glad(4) to(5) have(6) gotten(7) accommodations(8) at(9) short(10) notice(11) ,(12) and(13) we(14) did(15) not(16) plan(17) to(18) spend(19) a(20) lot(21) of(22) time(23) in(24) the(25) suite(26) ,(27) anyway(28) .(29) 
+		</sentence>
+		<sentence id="29">
+			We(1) were(2) delighted(3) that(4) the(5) inn(6) was(7) a(8) block(9) and(10) a(11) half(12) away(13) from(14) one(15) of(16) the(17) main(18) shopping(19) and(20) sight(21) seeing(22) areas(23) because(24) parking(25) in(26) the(27) area(28) is(29) a(30) big(31) problem(32) .(33) 
+		</sentence>
+		<sentence id="30">
+			Here(1) is(2) where(3) we(4) ran(5) into(6) problems(7) :(8) The(9) queen-sized(10) bed(11) was(12) remarkably(13) uncomfortable(14) !(15) 
+			<opinion featWords="11" feature="bed" opWords="14" polarity="-" potency="13"/>
+		</sentence>
+		<sentence id="31">
+			It(1) was(2) too(3) hard(4) ,(5) but(6) also(7) mushy(8) .(9) 
+			<opinion featRef="bed" featWords="1" feature="bed" opWords="3,4" polarity="-"/>
+			<opinion featRef="bed" featWords="1" feature="bed" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="32">
+			I(1) know(2) that(3) sounds(4) impossible(5) ,(6) but(7) it(8) is(9) the(10) most(11) accurate(12) description(13) I(14) can(15) give(16) you(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			It(1) gave(2) no(3) support(4) ,(5) especially(6) in(7) the(8) middle(9) ,(10) where(11) most(12) people(13) need(14) it(15) ,(16) yet(17) it(18) was(19) hard(20) and(21) unyielding(22) on(23) the(24) surface(25) .(26) 
+		</sentence>
+		<sentence id="34">
+			It(1) was(2) not(3) particularly(4) thick(5) ,(6) yet(7) the(8) sheets(9) would(10) not(11) stay(12) on(13) it(14) for(15) very(16) long(17) ,(18) especially(19) on(20) Hubby(21) 's(22) side(23) ((24) he(25) tends(26) to(27) move(28) around(29) more(30) than(31) I(32) )(33) .(34) 
+		</sentence>
+		<sentence id="35">
+			The(1) concierge(2) later(3) told(4) us(5) that(6) several(7) people(8) complained(9) about(10) the(11) sheets(12) on(13) the(14) beds(15) there(16) .(17) 
+		</sentence>
+		<sentence id="36">
+			She(1) said(2) the(3) beds(4) were(5) brand(6) new(7) and(8) she(9) seemed(10) surprised(11) they(12) were(13) uncomfortable(14) .(15) 
+			<opinion featWords="4" feature="bed" opWords="6,7" polarity="+"/>
+			<opinion featWords="4" feature="bed" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="37">
+			The(1) walls(2) were(3) also(4) remarkably(5) thin(6) .(7) 
+			<opinion featWords="2" feature="walls" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="38">
+			We(1) could(2) hear(3) people(4) coming(5) and(6) going(7) in(8) the(9) lobby(10) and(11) even(12) the(13) conversations(14) in(15) the(16) lobby(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			At(1) about(2) 5:00(3) AM(4) something(5) was(6) delivered(7) .(8) 
+		</sentence>
+		<sentence id="40">
+			How(1) do(2) I(3) know(4) ?(5) 
+		</sentence>
+		<sentence id="41">
+			I(1) heard(2) the(3) person(4) make(5) the(6) delivery(7) and(8) the(9) ensuing(10) conversations(11) about(12) it(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			The(1) thin(2) walls(3) became(4) an(5) even(6) bigger(7) issue(8) the(9) next(10) night(11) ,(12) when(13) neighbors(14) ,(15) who(16) according(17) to(18) our(19) friendly(20) concierge(21) ,(22) just(23) moved(24) in(25) next(26) door(27) to(28) the(29) inn(30) ,(31) decided(32) it(33) would(34) be(35) fun(36) to(37) yell(38) obscenities(39) from(40) their(41) balcony(42) at(43) 3:30(44) AM.(45) We(46) could(47) hear(48) someone(49) tell(50) them(51) to(52) quiet(53) down(54) and(55) that(56) the(57) police(58) had(59) been(60) called(61) ,(62) but(63) they(64) said(65) they(66) did(67) not(68) care(69) .(70) 
+		</sentence>
+		<sentence id="43">
+			I(1) have(2) since(3) been(4) told(5) that(6) this(7) is(8) a(9) problem(10) with(11) the(12) area(13) .(14) 
+		</sentence>
+		<sentence id="44">
+			The(1) trade(2) off(3) on(4) having(5) the(6) convenient(7) location(8) ,(9) near(10) the(11) main(12) shopping(13) and(14) dining(15) part(16) of(17) town(18) is(19) that(20) it(21) is(22) noisy(23) during(24) the(25) day(26) with(27) shoppers(28) and(29) tourist(30) and(31) there(32) are(33) a(34) lot(35) of(36) noisy(37) ,(38) drunken(39) twits(40) wandering(41) around(42) late(43) at(44) night(45) .(46) 
+		</sentence>
+		<sentence id="45">
+			Beware(1) ,(2) it(3) is(4) much(5) noisier(6) on(7) the(8) main(9) drag(10) ,(11) Thames(12) Street(13) ,(14) and(15) there(16) are(17) inns(18) there(19) ,(20) too(21) ,(22) some(23) of(24) which(25) are(26) quite(27) well(28) known(29) .(30) 
+		</sentence>
+		<sentence id="46">
+			I(1) think(2) that(3) if(4) the(5) inn(6) had(7) been(8) less(9) expensive(10) ,(11) we(12) would(13) not(14) have(15) been(16) quite(17) as(18) bothered(19) by(20) all(21) this(22) ,(23) although(24) the(25) bed(26) was(27) a(28) serious(29) problem(30) because(31) my(32) husband(33) and(34) I(35) both(36) have(37) bad(38) backs(39) .(40) 
+		</sentence>
+		<sentence id="47">
+			I(1) understand(2) that(3) during(4) the(5) off(6) season(7) ,(8) from(9) November(10) through(11) April(12) ,(13) the(14) prices(15) are(16) much(17) lower(18) ,(19) but(20) even(21) at(22) half(23) the(24) price(25) I(26) think(27) it(28) is(29) possible(30) to(31) do(32) much(33) better(34) than(35) Mill(36) Street(37) Inn(38) .(39) 
+		</sentence>
+	</text>
+</review>

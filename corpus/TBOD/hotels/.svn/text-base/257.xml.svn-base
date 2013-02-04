@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="257" item="Sheraton World" rating="4">
+	<title>
+		<sentence id="1">
+			Tower(1) Section(2) an(3) absolute(4) must(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) close(4) to(5) all(6) the(7) attractions(8) .(9) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Tower(1) equivalent(2) to(3) amenities(4) of(5) a(6) business(7) hotel(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poolside(1) bar(2) was(3) closed(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) just(2) returned(3) from(4) Orlando(5) ,(6) and(7) spent(8) 7(9) nights(10) at(11) Sheraton(12) World(13) resort(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Overall(1) the(2) facility(3) is(4) very(5) nice(6) ,(7) very(8) well(9) landscaped(10) and(11) kept(12) ,(13) the(14) pools(15) clean(16) and(17) at(18) a(19) comfortable(20) temperature(21) .(22) 
+			<opinion feature="hotel" opWords="9,10" polarity="+" potency="8"/>
+			<opinion feature="hotel" opWords="9,12" polarity="+" potency="8"/>
+			<opinion featWords="15" feature="swimming pool" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) in(3) a(4) central(5) location(6) ,(7) very(8) close(9) to(10) all(11) the(12) parks(13) ,(14) International(15) Drives(16) eatery(17) 's(18) ,(19) the(20) Convention(21) Centre(22) ,(23) and(24) airport(25) .(26) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) however(3) recommend(4) only(5) the(6) tower(7) section(8) as(9) it(10) is(11) quite(12) new(13) ,(14) and(15) offers(16) you(17) a(18) traditional(19) hotel(20) room(21) ((22) without(23) balcony(24) )(25) ,(26) sprinklered(27) fire(28) protection(29) ,(30) and(31) central(32) air-conditioning(33) vs(34) an(35) in-wall(36) unit(37) that(38) can(39) be(40) very(41) noisy(42) .(43) 
+		</sentence>
+		<sentence id="5">
+			The(1) balance(2) of(3) the(4) rooms(5) are(6) equivalent(7) to(8) a(9) walk(10) up(11) apartment(12) block(13) ,(14) and(15) although(16) I(17) did(18) not(19) go(20) into(21) the(22) rooms(23) ,(24) the(25) common(26) areas(27) smelled(28) heavily(29) of(30) mildew(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			The(1) staff(2) were(3) very(4) nice(5) ,(6) and(7) housekeeping(8) was(9) excellent(10) .(11) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="8" feature="room service" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			The(1) hotel(2) is(3) not(4) a(5) full(6) service(7) resort(8) ,(9) as(10) some(11) of(12) the(13) other(14) reviews(15) will(16) attest(17) ,(18) but(19) it(20) is(21) worth(22) staying(23) at(24) ((25) in(26) the(27) tower(28) section(29) )(30) in(31) my(32) opinion(33) .(34) 
+		</sentence>
+	</text>
+</review>

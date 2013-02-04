@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="596" item="Milford Plaza" rating="3">
+	<title>
+		<sentence id="1">
+			Choose(1) your(2) priorities(3) ,(4) then(5) decide(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) safe(4) ,(5) secure(6) ,(7) and(8) convenient(9) .(10) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+			<opinion feature="hotel" opWords="9" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Old(1) hotel(2) ,(3) older(4) ,(5) smaller(6) rooms(7) .(8) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) think(3) this(4) is(5) a(6) great(7) value(8) for(9) the(10) location(11) ;(12) but(13) ,(14) only(15) if(16) you(17) can(18) tolerate(19) an(20) older(21) hotel(22) with(23) average(24) accomodations(25) .(26) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) am(2) from(3) NY(4) ,(5) and(6) now(7) live(8) in(9) another(10) warmer(11) part(12) of(13) the(14) country(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) recently(2) needed(3) to(4) visit(5) NYC(6) on(7) business(8) ,(9) and(10) found(11) that(12) every(13) single(14) hotel(15) in(16) a(17) "(18) decent(19) "(20) area(21) ((22) meaning(23) that(24) a(25) )(26) you(27) are(28) IN(29) Manhattan(30) ,(31) not(32) NJ(33) or(34) Queens(35) ,(36) and(37) b(38) )(39) you(40) do(41) not(42) have(43) to(44) share(45) a(46) bath(47) )(48) was(49) well(50) over(51) $350(52) per(53) night(54) .(55) 
+			<opinion featWords="21" feature="place" opWords="19" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) some(3) amazing(4) deals(5) on(6) quaint(7) bed(8) and(9) breakfasts(10) ,(11) but(12) forget(13) it(14) unless(15) you(16) are(17) booking(18) 1-2(19) years(20) in(21) advance(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			Anyway(1) ,(2) the(3) Milford(4) Plaza(5) ...(6) $209(7) per(8) night(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			You(1) really(2) can(3) 'nt(4) go(5) wrong(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			I(1) remembered(2) the(3) commercials(4) ,(5) I(6) thought(7) of(8) the(9) location(10) ...(11) how(12) bad(13) could(14) it(15) be(16) ?(17) 
+		</sentence>
+		<sentence id="7">
+			Well(1) ,(2) it(3) was(4) not(5) that(6) bad(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			But(1) ,(2) certainly(3) ,(4) be(5) aware(6) that(7) it(8) is(9) NOT(10) exactly(11) luxurious(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			My(1) room(2) was(3) very(4) small(5) ,(6) but(7) as(8) I(9) said(10) ,(11) I(12) am(13) from(14) NY(15) and(16) can(17) deal(18) with(19) that(20) .(21) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			Just(1) know(2) though(3) ,(4) that(5) when(6) I(7) say(8) small(9) ,(10) I(11) mean(12) it(13) was(14) SMALLER(15) than(16) the(17) size(18) of(19) a(20) standard(21) cruise(22) ship(23) cabin(24) ...(25) It(26) was(27) no(28) larger(29) than(30) 200(31) square(32) feet(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) "(3) sort(4) of(5) "(6) clean(7) ...(8) some(9) dust(10) balls(11) in(12) the(13) vents(14) and(15) old(16) paint(17) ,(18) but(19) it(20) was(21) tolerable(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			I(1) realize(2) this(3) is(4) all(5) relative(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			All(1) that(2) said(3) ,(4) the(5) location(6) is(7) fabulous(8) .(9) 
+			<opinion featWords="6" feature="place" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			Everything(1) is(2) just(3) right(4) outside(5) ,(6) literally(7) steps(8) away(9) :(10) shows(11) ,(12) restaurants(13) ,(14) several(15) subway(16) stations(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			I(1) spent(2) very(3) little(4) time(5) in(6) my(7) room(8) anyway(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			And(1) ,(2) frankly(3) ,(4) when(5) you(6) visit(7) NYC(8) ,(9) you(10) should(11) not(12) be(13) in(14) your(15) room(16) long(17) enough(18) to(19) develop(20) a(21) list(22) of(23) critical(24) points(25) about(26) the(27) decor(28) .(29) 
+		</sentence>
+		<sentence id="17">
+			Wireless(1) access(2) costs(3) 11.95(4) and(5) it(6) works(7) intermittently(8) ,(9) at(10) best(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			It(1) is(2) with(3) an(4) outside(5) company(6) ,(7) so(8) if(9) you(10) have(11) any(12) complaints(13) ,(14) the(15) staff(16) simply(17) will(18) not(19) go(20) there(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			They(1) do(2) not(3) even(4) seem(5) to(6) know(7) the(8) same(9) of(10) the(11) company(12) that(13) supports(14) the(15) access(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			I(1) was(2) a(3) little(4) horrified(5) to(6) find(7) that(8) there(9) was(10) a(11) $1(12) charge(13) for(14) local(15) calls(16) each(17) call(18) ,(19) including(20) 800(21) numbers(22) .(23) 
+		</sentence>
+		<sentence id="21">
+			I(1) have(2) read(3) several(4) reviews(5) about(6) the(7) staff(8) being(9) rude(10) .(11) 
+			<opinion featWords="8" feature="staff" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			They(1) seemed(2) perfectly(3) fine(4) to(5) me(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			But(1) ,(2) then(3) again(4) ,(5) I(6) do(7) not(8) ask(9) for(10) anything(11) at(12) all(13) so(14) I(15) have(16) no(17) idea(18) how(19) they(20) would(21) have(22) reacted(23) to(24) a(25) complaint(26) or(27) request(28) .(29) 
+		</sentence>
+		<sentence id="24">
+			Check-in(1) and(2) checkout(3) was(4) very(5) smooth(6) and(7) simple(8) ,(9) and(10) they(11) even(12) accommodated(13) a(14) very(15) early(16) check-in(17) request(18) for(19) me(20) .(21) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="699" item="Quality Inn International" rating="4">
+	<title>
+		<sentence id="1">
+			Quality(1) Inn(2) at(3) International(4) Drive(5) in(6) Orlando(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Easy(1) to(2) reserve(3) ,(4) great(5) rate(6) at(7) Expedia(8) .(9) 
+			<opinion featWords="6" feature="price" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) hotel(2) room(3) I(4) prepaid(5) for(6) five(7) nights(8) ,(9) was(10) not(11) available(12) when(13) I(14) arrived(15) .(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) great(2) place(3) to(4) visit(5) ,(6) enjoy(7) it(8) !(9) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) took(3) a(4) much-needed(5) vacation(6) to(7) Orlando(8) with(9) my(10) family(11) and(12) prepaid(13) /(14) reserved(15) a(16) room(17) at(18) the(19) Quality(20) Inn(21) on(22) 9700(23) International(24) Drive(25) for(26) five(27) nights(28) from(29) April(30) 17(31) -(32) April(33) 22(34) ,(35) 2003(36) .(37) 
+		</sentence>
+		<sentence id="2">
+			I(1) never(2) had(3) to(4) opportunity(5) to(6) use(7) my(8) room(9) due(10) to(11) a(12) mixup(13) ((14) my(15) reservation(16) was(17) cancelled(18) )(19) ,(20) however(21) ,(22) the(23) hotel(24) agreed(25) to(26) provide(27) me(28) a(29) refund(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			The(1) mixup(2) occurred(3) on(4) April(5) 17(6) ,(7) 2003(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			On(1) May(2) 1(3) ,(4) 2003(5) ,(6) I(7) was(8) informed(9) that(10) I(11) would(12) receive(13) a(14) credit(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) definitely(3) try(4) their(5) hotel(6) again(7) ,(8) hopefully(9) the(10) mixup(11) will(12) not(13) occur(14) again(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Minutes(1) away(2) from(3) Seaworld(4) ,(5) about(6) a(7) half(8) hour(9) drive(10) from(11) Disney(12) World(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Traffic(1) on(2) International(3) Drive(4) leaves(5) much(6) to(7) be(8) desired(9) sometime(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			A(1) great(2) place(3) to(4) visit(5) ,(6) enjoy(7) it(8) !(9) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Thanks(1) Quality(2) Inn(3) !(4) 
+		</sentence>
+	</text>
+</review>

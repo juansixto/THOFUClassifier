@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="932" item="Ritz Carlton Cleveland" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) magnificent(2) hotel(3) in(4) a(5) great(6) location(7) .(8) 
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Just(1) about(2) everything(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) little(2) pricey(3) ,(4) but(5) worth(6) it(7) .(8) 
+			<opinion feature="price" opWords="3" polarity="-" potency="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) wish(2) I(3) could(4) stay(5) in(6) hotels(7) this(8) nice(9) every(10) time(11) I(12) travel(13) !(14) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) a(3) great(4) place(5) to(6) stay(7) .(8) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) got(2) married(3) at(4) this(5) hotel(6) ,(7) so(8) perhaps(9) I(10) am(11) a(12) little(13) partial(14) to(15) it(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			But(1) ,(2) in(3) all(4) actuality(5) ,(6) this(7) is(8) probably(9) the(10) best(11) place(12) to(13) stay(14) in(15) Cleveland(16) .(17) 
+			<opinion featWords="12" feature="place" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			In(1) terms(2) of(3) location(4) ,(5) the(6) Ritz(7) is(8) in(9) the(10) area(11) of(12) Cleveland(13) known(14) as(15) "(16) public(17) square(18) .(19) "(20) It(21) is(22) close(23) to(24) all(25) the(26) fine(27) dining(28) in(29) Cleveland(30) and(31) most(32) of(33) the(34) other(35) things(36) ,(37) i(38) .(39) e(40) .(41) sports(42) .(43) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) not(3) in(4) the(5) area(6) known(7) as(8) Playhouse(9) Square(10) -(11) so(12) if(13) you(14) are(15) going(16) to(17) be(18) seeing(19) a(20) lot(21) of(22) theatre(23) and(24) want(25) to(26) be(27) within(28) walking(29) distance(30) ,(31) try(32) the(33) Wyndham(34) .(35) 
+		</sentence>
+		<sentence id="5">
+			However(1) ,(2) you(3) will(4) be(5) within(6) a(7) short(8) cab(9) ride(10) of(11) everything(12) in(13) the(14) city(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) itself(3) is(4) connected(5) to(6) what(7) is(8) known(9) as(10) Tower(11) City(12) Center(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) a(3) combination(4) of(5) shopping(6) and(7) office(8) buildings(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) shopping(2) is(3) a(4) good(5) combination(6) of(7) high-end(8) stores(9) ,(10) and(11) the(12) standard(13) "(14) mall(15) "(16) chains(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) not(3) all(4) high-end(5) ,(6) like(7) some(8) malls(9) in(10) downtown(11) cities(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			There(1) is(2) also(3) a(4) shopping(5) area(6) called(7) the(8) Galeria(9) that(10) is(11) a(12) few(13) blocks(14) away(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) hotel(2) is(3) also(4) connected(5) to(6) the(7) Renaissance(8) hotel(9) ,(10) which(11) has(12) a(13) Mediteranian(14) restaurant(15) called(16) San(17) Souci(18) ,(19) which(20) is(21) supposed(22) to(23) be(24) good(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) eaten(3) both(4) lunch(5) and(6) dinner(7) at(8) the(9) hotel(10) restaurant(11) ,(12) Century(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			The(1) food(2) is(3) excellent(4) .(5) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) slightly(3) pricey(4) ,(5) but(6) well(7) worth(8) it(9) .(10) 
+			<opinion feature="price" opWords="4" polarity="-" potency="3"/>
+		</sentence>
+		<sentence id="15">
+			Lunch(1) is(2) not(3) expensive(4) .(5) 
+			<opinion feature="price" opWords="3,4" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			The(1) food(2) is(3) definately(4) gourmet(5) ,(6) but(7) the(8) chefs(9) will(10) make(11) accommodations(12) .(13) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="17">
+			It(1) is(2) the(3) type(4) of(5) restaurant(6) that(7) would(8) be(9) agreeable(10) to(11) the(12) pickey(13) eater(14) because(15) you(16) can(17) make(18) special(19) requests(20) and(21) not(22) have(23) them(24) messed(25) up(26) .(27) 
+		</sentence>
+		<sentence id="18">
+			The(1) rooms(2) are(3) beautiful(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			I(1) stayed(2) in(3) a(4) suite(5) when(6) I(7) spent(8) the(9) night(10) ,(11) but(12) my(13) parents(14) had(15) a(16) regular(17) room(18) and(19) were(20) happy(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			If(1) money(2) is(3) no(4) object(5) ,(6) a(7) suite(8) is(9) the(10) way(11) to(12) go(13) ,(14) as(15) the(16) rooms(17) are(18) not(19) huge(20) .(21) 
+			<opinion featWords="17" feature="rooms" opWords="19,20" polarity="-"/>
+		</sentence>
+		<sentence id="21">
+			The(1) hotel(2) was(3) renovated(4) from(5) a(6) downtown(7) building(8) ,(9) so(10) some(11) of(12) the(13) rooms(14) are(15) on(16) the(17) smaller(18) side(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			My(1) room(2) had(3) a(4) bath(5) and(6) a(7) half(8) ,(9) a(10) sitting(11) room(12) ,(13) and(14) one(15) huge(16) king(17) size(18) bed(19) -(20) complete(21) with(22) a(23) down(24) comforter(25) and(26) down(27) pillows(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			The(1) main(2) bathroom(3) was(4) huge(5) -(6) it(7) had(8) a(9) separate(10) shower(11) and(12) bathtub(13) with(14) all(15) marble(16) sinks(17) .(18) 
+			<opinion featWords="3" feature="bathroom" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			It(1) also(2) came(3) with(4) more(5) than(6) the(7) standard(8) soap(9) and(10) conditioner(11) -(12) there(13) was(14) lotion(15) ,(16) mouthwash(17) ,(18) slippers(19) ,(20) bathrobes(21) ,(22) etc.(23) Again(24) ,(25) the(26) amenities(27) may(28) be(29) less(30) in(31) the(32) regular(33) rooms(34) .(35) 
+		</sentence>
+		<sentence id="25">
+			The(1) only(2) problem(3) that(4) my(5) husband(6) had(7) was(8) that(9) the(10) boats(11) woke(12) him(13) up(14) in(15) the(16) morning(17) ,(18) but(19) your(20) on(21) a(22) river(23) ,(24) so(25) it(26) happens(27) !(28) 
+		</sentence>
+		<sentence id="26">
+			I(1) thought(2) it(3) was(4) kind(5) of(6) cool(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			I(1) did(2) not(3) swim(4) ,(5) but(6) I(7) did(8) check(9) out(10) the(11) pool(12) ,(13) which(14) is(15) very(16) nice(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			It(1) 's(2) not(3) huge(4) ,(5) but(6) it(7) 's(8) clean(9) and(10) warm(11) .(12) 
+			<opinion featRef="swimming pool" featWords="7" feature="swimming pool" opWords="11" polarity="+"/>
+			<opinion featRef="swimming pool" featWords="7" feature="swimming pool" opWords="9" polarity="+"/>
+			<opinion featRef="swimming pool" featWords="1" feature="swimming pool" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="29">
+			There(1) is(2) also(3) a(4) hot(5) tub(6) ((7) if(8) memory(9) serves(10) )(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			The(1) staff(2) at(3) the(4) Ritz(5) is(6) excellent(7) .(8) 
+			<opinion featWords="2" feature="staff" opWords="7" polarity="+"/>
+		</sentence>
+	</text>
+</review>

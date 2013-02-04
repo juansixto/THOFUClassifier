@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="772" item="Ritz-Carlton Boston" rating="5">
+	<title>
+		<sentence id="1">
+			Bostons(1) Luxury(2) Escape(3) :(4) The(5) Ultimate(6) Paradise(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			N(1) /(2) A(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			N(1) /(2) A(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Without(1) a(2) doubt(3) ,(4) the(5) Ritz-Carlton(6) is(7) the(8) most(9) luxurious(10) hotel(11) in(12) Boston(13) .(14) 
+			<opinion featWords="11" feature="hotel" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Located(1) in(2) the(3) heart(4) of(5) old(6) Boston(7) amid(8) exclusive(9) shops(10) ,(11) restaurants(12) and(13) art(14) galleries(15) ,(16) the(17) Ritz(18) Carlton(19) offers(20) an(21) easy(22) commute(23) and(24) an(25) exceptional(26) lifestyle(27) with(28) a(29) touch(30) of(31) European(32) royalty(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			Although(1) it(2) is(3) surrounded(4) by(5) the(6) hustle(7) and(8) bustle(9) of(10) the(11) city(12) ,(13) the(14) hotel(15) is(16) unexpectedly(17) quiet(18) and(19) tranquil(20) .(21) 
+			<opinion featWords="15" feature="hotel" opWords="18" polarity="+" potency="17"/>
+			<opinion featWords="15" feature="hotel" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Built(1) in(2) 1927(3) ,(4) this(5) is(6) an(7) elite(8) hotel(9) with(10) unmatched(11) elegance(12) ,(13) location(14) and(15) devotion(16) .(17) 
+			<opinion featWords="9" feature="hotel" opWords="8" polarity="+"/>
+			<opinion featWords="14" feature="place" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) are(3) relatively(4) small(5) ,(6) yet(7) quite(8) majestic(9) .(10) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="rooms" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) 233(3) rooms(4) ,(5) and(6) 42(7) suites(8) ranging(9) from(10) about(11) $220-$750(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Other(1) services(2) and(3) amenities(4) include(5) meeting(6) rooms(7) ,(8) a(9) hair(10) salon(11) ,(12) spa(13) ,(14) gym(15) ,(16) baby-sitting(17) ,(18) laundry(19) service(20) ,(21) room(22) service(23) ,(24) 3(25) restaurants(26) ,(27) a(28) bar(29) ,(30) lounge(31) and(32) in(33) room(34) safes(35) /(36) data(37) ports(38) .(39) 
+		</sentence>
+	</text>
+</review>

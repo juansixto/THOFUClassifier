@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="869" item="Fifth Avenue Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			did(1) not(2) I(3) used(4) to(5) shop(6) here(7) ?(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) rooms(2) ,(3) attentive(4) staff(5) ,(6) great(7) style(8) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Difficult(1) street(2) access(3) ,(4) small(5) loading(6) zone(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) one(4) that(5) I(6) always(7) book(8) my(9) clients(10) into(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			First(1) of(2) all(3) ,(4) it(5) does(6) have(7) a(8) unique(9) history(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			From(1) the(2) early(3) 50(4) 's(5) to(6) the(7) early(8) 90(9) 's(10) ,(11) this(12) hotel(13) was(14) a(15) retail(16) store(17) called(18) Frederick(19) and(20) Nelson(21) s.(22) It(23) was(24) one(25) of(26) the(27) premier(28) shopping(29) stores(30) in(31) downtown(32) Portland(33) ,(34) and(35) was(36) a(37) place(38) that(39) had(40) been(41) around(42) for(43) a(44) long(45) time(46) .(47) 
+		</sentence>
+		<sentence id="4">
+			When(1) the(2) company(3) went(4) under(5) ,(6) no(7) one(8) knew(9) what(10) to(11) do(12) with(13) the(14) building(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			The(1) owner(2) of(3) the(4) 5th(5) Ave(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Suites(1) decided(2) that(3) he(4) would(5) make(6) a(7) luxury(8) hotel(9) out(10) of(11) the(12) store(13) and(14) took(15) several(16) years(17) to(18) do(19) it(20) .(21) 
+			<opinion featWords="9" feature="hotel" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			This(1) entrance(2) to(3) the(4) hotel(5) is(6) small(7) ,(8) and(9) is(10) not(11) very(12) easily(13) accessible(14) ,(15) as(16) it(17) is(18) on(19) one(20) of(21) the(22) busier(23) streets(24) of(25) Downtown(26) Portland(27) ,(28) but(29) once(30) you(31) get(32) inside(33) you(34) are(35) in(36) for(37) a(38) treat(39) .(40) 
+			<opinion featWords="2" feature="lobby" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Because(1) of(2) the(3) busy(4) street(5) access(6) ,(7) once(8) you(9) pull(10) up(11) a(12) bellman(13) immediately(14) calls(15) a(16) valet(17) for(18) you(19) so(20) that(21) you(22) do(23) not(24) need(25) to(26) park(27) your(28) car(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			The(1) will(2) escort(3) you(4) into(5) the(6) building(7) and(8) walk(9) you(10) to(11) the(12) front(13) desk(14) so(15) that(16) you(17) get(18) served(19) immediately(20) .(21) 
+		</sentence>
+		<sentence id="10">
+			The(1) front(2) desk(3) staff(4) is(5) pleasant(6) and(7) gracious(8) ,(9) and(10) will(11) do(12) everything(13) in(14) their(15) power(16) to(17) help(18) to(19) make(20) your(21) stay(22) a(23) more(24) comfortable(25) one(26) .(27) 
+			<opinion featWords="2,3" feature="front desk" opWords="6" polarity="+"/>
+			<opinion featWords="2,3" feature="front desk" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			When(1) I(2) stayed(3) there(4) ,(5) it(6) was(7) for(8) a(9) romantic(10) evening(11) with(12) my(13) husband(14) ,(15) and(16) they(17) provided(18) reservations(19) for(20) dinner(21) for(22) one(23) of(24) the(25) best(26) restaurants(27) in(28) town(29) at(30) a(31) moments(32) notice(33) for(34) me(35) without(36) batting(37) an(38) eyelash(39) .(40) 
+			<opinion featWords="27" feature="food" opWords="26" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) taken(3) the(4) basic(5) structure(6) of(7) the(8) old(9) building(10) and(11) turned(12) the(13) lobby(14) into(15) a(16) beautiful(17) sitting(18) area(19) with(20) a(21) balcony(22) for(23) the(24) bar(25) .(26) 
+			<opinion featWords="19" feature="place" opWords="17" polarity="+"/>
+			<opinion featWords="10" feature="building" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) interior(2) has(3) been(4) redone(5) with(6) beautiful(7) wood(8) paneling(9) and(10) marble(11) floors(12) ,(13) and(14) nice(15) seating(16) areas(17) are(18) arranged(19) for(20) people(21) to(22) relax(23) while(24) they(25) wait(26) for(27) meetings(28) or(29) whatever(30) .(31) 
+			<opinion featWords="17" feature="place" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) rooms(2) are(3) spacious(4) ,(5) and(6) are(7) truly(8) suites(9) ,(10) with(11) sitting(12) areas(13) separate(14) from(15) the(16) bedroom(17) .(18) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			Like(1) the(2) Embassy(3) Suites(4) ,(5) you(6) can(7) close(8) off(9) the(10) bedroom(11) and(12) have(13) a(14) meeting(15) in(16) the(17) sitting(18) area(19) if(20) you(21) like(22) ,(23) or(24) the(25) 5th(26) Avenue(27) suites(28) can(29) arrange(30) a(31) meeting(32) place(33) for(34) you(35) in(36) the(37) hotel(38) .(39) 
+		</sentence>
+		<sentence id="16">
+			They(1) offer(2) many(3) amenities(4) for(5) the(6) business(7) traveler(8) ,(9) such(10) as(11) a(12) business(13) area(14) which(15) includes(16) anything(17) you(18) could(19) think(20) of(21) that(22) you(23) might(24) need(25) ,(26) from(27) faxes(28) and(29) copiers(30) to(31) extra(32) batteries(33) for(34) cell(35) phones(36) and(37) laptops(38) .(39) 
+		</sentence>
+		<sentence id="17">
+			The(1) room(2) is(3) supplied(4) as(5) well(6) with(7) paper(8) for(9) a(10) printer(11) ,(12) 3(13) data(14) ports(15) which(16) are(17) separate(18) lines(19) from(20) the(21) phone(22) ,(23) and(24) not(25) only(26) gourmet(27) coffee(28) but(29) also(30) a(31) variety(32) of(33) gourmet(34) teas(35) are(36) available(37) in(38) each(39) room(40) .(41) 
+		</sentence>
+		<sentence id="18">
+			Since(1) the(2) hotel(3) is(4) right(5) in(6) the(7) middle(8) of(9) the(10) downtown(11) area(12) ,(13) shopping(14) is(15) a(16) breeze(17) .(18) 
+			<opinion featWords="12" feature="place" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			You(1) are(2) only(3) blocks(4) away(5) from(6) the(7) best(8) restaurants(9) ,(10) and(11) Pioneer(12) Square(13) ,(14) considered(15) the(16) living(17) room(18) of(19) Portland(20) is(21) right(22) next(23) door(24) .(25) 
+			<opinion featWords="9" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			The(1) Art(2) museum(3) is(4) nearby(5) ,(6) and(7) there(8) are(9) many(10) tearooms(11) and(12) small(13) restaurants(14) to(15) choose(16) from(17) in(18) the(19) vicinity(20) .(21) 
+			<opinion featWords="14" feature="food" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="21">
+			All(1) in(2) all(3) ,(4) if(5) you(6) are(7) looking(8) for(9) something(10) different(11) from(12) a(13) luxury(14) hotel(15) ,(16) I(17) would(18) recommend(19) the(20) 5th(21) Ave(22) .(23) 
+			<opinion feature="hotel" opWords="19" polarity="+"/>
+			<opinion featWords="15" feature="hotel" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			Suites(1) .(2) 
+		</sentence>
+		<sentence id="23">
+			They(1) provide(2) excellent(3) service(4) and(5) have(6) a(7) great(8) staff(9) .(10) 
+			<opinion featWords="4" feature="service" opWords="3" polarity="+"/>
+			<opinion featWords="9" feature="staff" opWords="8" polarity="+"/>
+		</sentence>
+	</text>
+</review>

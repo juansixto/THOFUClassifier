@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="266" item="Rosario Resort And Spa" rating="1">
+	<title>
+		<sentence id="1">
+			Avoid(1) it(2) or(3) be(4) disappointed(5) .(6) 
+			<opinion featRef="hotel" featWords="2" feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			NONE(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) service(2) .(3) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Dirty(1) room(2) .(3) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Shoddy(1) resort(2) maintenance(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			Over-rated(1) .(2) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			Over-priced(1) .(2) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Simply(1) avoid(2) .(3) 
+			<opinion feature="hotel" opWords="2" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Its(1) living(2) on(3) a(4) reputation(5) and(6) perception(7) that(8) does(9) not(10) match(11) the(12) ((13) poorly(14) )(15) delivered(16) experience(17) .(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) booked(2) two(3) nights(4) at(5) Rosario(6) and(7) experienced(8) a(9) very(10) disappointing(11) stay(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			So(1) disappointing(2) we(3) left(4) after(5) one(6) night(7) and(8) went(9) to(10) San(11) Juan(12) Island(13) instead(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			The(1) perception(2) is(3) the(4) resort(5) is(6) old(7) and(8) classy(9) ,(10) and(11) may(12) deliver(13) a(14) luxurious(15) stay(16) .(17) 
+			<opinion featWords="5" feature="hotel" opWords="7" polarity="-"/>
+			<opinion featWords="5" feature="hotel" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) reality(2) is(3) the(4) resort(5) is(6) not(7) well(8) maintained(9) and(10) the(11) staff(12) do(13) not(14) provide(15) good(16) service(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) resort(2) looked(3) shoddy(4) .(5) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			The(1) adjacent(2) buildings(3) to(4) the(5) main(6) building(7) looked(8) in(9) need(10) of(11) paint(12) and(13) the(14) grounds(15) were(16) not(17) well(18) maintained(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) staff(2) were(3) generally(4) unhelpful(5) and(6) several(7) gave(8) the(9) impression(10) that(11) whatever(12) they(13) were(14) doing(15) was(16) more(17) important(18) than(19) whatever(20) you(21) might(22) need(23) .(24) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			One(1) example(2) was(3) dealing(4) with(5) the(6) concierge(7) ,(8) he(9) would(10) not(11) stop(12) taking(13) calls(14) whilst(15) trying(16) to(17) book(18) a(19) kayaking(20) trip(21) via(22) him(23) ,(24) and(25) then(26) he(27) just(28) walked(29) off(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			Very(1) annoying(2) .(3) 
+		</sentence>
+		<sentence id="10">
+			Dining(1) was(2) another(3) unenjoyable(4) experience(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			Slow(1) inattentive(2) wait(3) staff(4) ,(5) cold(6) food(7) and(8) generally(9) bad(10) service(11) .(12) 
+			<opinion featWords="4" feature="staff" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="staff" opWords="2" polarity="-"/>
+			<opinion featWords="7" feature="food" opWords="6" polarity="-"/>
+			<opinion featWords="11" feature="service" opWords="10" polarity="-" potency="9"/>
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) a(3) ping-pong(4) table(5) with(6) bats(7) available(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			But(1) when(2) you(3) come(4) to(5) play(6) you(7) see(8) the(9) ((10) old(11) weathered(12) )(13) sign(14) attached(15) ,(16) saying(17) "(18) no(19) ping-pong(20) balls(21) "(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			Again(1) disappointing(2) .(3) 
+		</sentence>
+		<sentence id="15">
+			Our(1) room(2) away(3) from(4) the(5) resort(6) on(7) a(8) steep(9) hill(10) was(11) adequately(12) furnished(13) with(14) a(15) pleasant(16) view(17) of(18) the(19) sea(20) .(21) 
+			<opinion featWords="17" feature="view" opWords="16" polarity="+"/>
+			<opinion feature="furnishings" opWords="12,13" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			However(1) the(2) bathroom(3) had(4) several(5) blood(6) stains(7) on(8) the(9) tiles(10) and(11) were(12) only(13) provided(14) with(15) two(16) towels(17) .(18) 
+		</sentence>
+		<sentence id="17">
+			Having(1) stayed(2) at(3) other(4) ,(5) old(6) and(7) classy(8) resorts(9) ,(10) such(11) as(12) the(13) Broadmoor(14) ,(15) and(16) given(17) the(18) room(19) price(20) ,(21) we(22) had(23) expectations(24) .(25) 
+		</sentence>
+		<sentence id="18">
+			The(1) reality(2) was(3) it(4) seemed(5) way(6) overpriced(7) ,(8) seemingly(9) rundown(10) and(11) badly(12) managed(13) .(14) 
+			<opinion feature="price" opWords="7" polarity="-"/>
+			<opinion featRef="hotel" featWords="4" feature="hotel" opWords="10" polarity="-"/>
+			<opinion featRef="hotel" featWords="4" feature="hotel" opWords="12,13" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			There(1) are(2) plenty(3) of(4) better(5) places(6) to(7) stay(8) .(9) 
+		</sentence>
+		<sentence id="20">
+			Avoid(1) the(2) Rosario(3) unless(4) you(5) want(6) a(7) below(8) average(9) experience(10) .(11) 
+		</sentence>
+	</text>
+</review>

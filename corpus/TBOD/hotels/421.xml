@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="421" item="Quality Inn/Allentown, PA" rating="3">
+	<title>
+		<sentence id="1">
+			Basic(1) Accomodations(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) Restaurants(2) close(3) by(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Serviceable(1) .(2) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) fairly(3) easy(4) to(5) find(6) from(7) Rt(8) 22(9) ,(10) 15th(11) St(12) exit(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Look(1) up(2) at(3) the(4) tree(5) line(6) on(7) the(8) right(9) and(10) you(11) will(12) see(13) the(14) Quality(15) Inn(16) sign(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) arrived(2) an(3) hour(4) before(5) check(6) in(7) ,(8) but(9) the(10) very(11) nice(12) woman(13) at(14) the(15) desk(16) let(17) me(18) check(19) in(20) early(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) no(3) restaurants(4) around(5) that(6) I(7) could(8) see(9) ,(10) but(11) there(12) was(13) a(14) minifridge(15) and(16) small(17) microwave(18) in(19) the(20) room(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			The(1) elevator(2) was(3) slow(4) ,(5) small(6) and(7) loud(8) .(9) 
+			<opinion featWords="2" feature="elevator" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="elevator" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="elevator" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			The(1) 2-queen(2) bed(3) room(4) was(5) small(6) and(7) appeared(8) to(9) be(10) clean(11) ((12) although(13) it(14) was(15) pretty(16) shabby(17) )(18) .(19) 
+			<opinion featWords="4" feature="rooms" opWords="6" polarity="-"/>
+			<opinion featWords="4" feature="rooms" opWords="11" polarity="+"/>
+			<opinion featWords="4" feature="rooms" opWords="17" polarity="-" potency="16"/>
+		</sentence>
+		<sentence id="7">
+			I(1) felt(2) safe(3) .(4) 
+		</sentence>
+		<sentence id="8">
+			You(1) will(2) hear(3) the(4) occasional(5) plane(6) flying(7) overhead(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			The(1) heater(2) /(3) fan(4) in(5) the(6) room(7) was(8) loud(9) ,(10) and(11) it(12) was(13) tricky(14) to(15) control(16) the(17) temperature(18) .(19) 
+			<opinion featWords="2" feature="heaters" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			The(1) bed(2) was(3) comfortable(4) enough(5) ,(6) although(7) some(8) people(9) will(10) think(11) it(12) is(13) on(14) the(15) harder(16) side(17) .(18) 
+			<opinion featWords="2" feature="bed" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			There(1) was(2) a(3) fitness(4) room(5) ,(6) but(7) I(8) did(9) not(10) check(11) it(12) out(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			The(1) continental(2) breakfast(3) was(4) very(5) basic(6) :(7) cereal(8) ,(9) fruit(10) ,(11) toast(12) ,(13) waffles(14) ((15) the(16) frozen(17) kind(18) )(19) ,(20) toast(21) ,(22) coffee(23) ,(24) juice(25) ,(26) condiments(27) .(28) 
+			<opinion featWords="3" feature="food" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="13">
+			Someone(1) should(2) have(3) been(4) around(5) to(6) keep(7) the(8) kitchenette(9) tidy(10) while(11) guests(12) were(13) eating(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			The(1) hotel(2) would(3) look(4) a(5) lot(6) better(7) if(8) they(9) cleaned(10) the(11) outside(12) of(13) the(14) windows(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			All(1) in(2) all(3) ,(4) as(5) a(6) single(7) traveler(8) attending(9) a(10) conference(11) ,(12) it(13) was(14) '(15) good(16) enough(17) '(18) for(19) the(20) price(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			It(1) is(2) not(3) a(4) place(5) to(6) go(7) on(8) vacation(9) ,(10) unless(11) you(12) are(13) budget-minded(14) and(15) will(16) not(17) be(18) spending(19) much(20) time(21) in(22) the(23) room(24) .(25) 
+		</sentence>
+	</text>
+</review>

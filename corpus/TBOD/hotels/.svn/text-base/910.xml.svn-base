@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="910" item="Crowne Plaza Hotel ORLANDO-UNIVERSAL" rating="5">
+	<title>
+		<sentence id="1">
+			Crown(1) Plaza(2) Universal(3) -(4) Location(5) ,(6) Location(7) ,(8) Location(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) nice(4) rooms(5) ,(6) lots(7) of(8) amenities(9) ,(10) good(11) value(12) .(13) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Nobody(1) should(2) ever(3) pay(4) the(5) rack(6) rate(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Poolside(1) bar(2) would(3) be(4) nice(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Although(1) the(2) Crown(3) Plaza(4) Universal(5) may(6) not(7) be(8) an(9) ultra(10) lux(11) resort(12) ,(13) it(14) is(15) certainly(16) a(17) great(18) place(19) to(20) stay(21) for(22) the(23) money(24) .(25) 
+			<opinion featWords="19" feature="place" opWords="18" polarity="+"/>
+			<opinion featWords="12" feature="hotel" opWords="7,10,11" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) week(2) before(3) last(4) a(5) group(6) of(7) friends(8) and(9) I(10) headed(11) over(12) to(13) Orlando(14) to(15) watch(16) the(17) Buc(18) 's(19) summer(20) training(21) camp(22) at(23) Disney(24) 's(25) Wide(26) World(27) of(28) Sports(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			The(1) accommodation(2) arrangements(3) were(4) made(5) by(6) others(7) in(8) the(9) group(10) so(11) I(12) was(13) not(14) quite(15) sure(16) where(17) we(18) were(19) staying(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			As(1) any(2) traveler(3) to(4) the(5) land(6) of(7) Mickey(8) and(9) Universal(10) knows(11) hotel(12) prices(13) tend(14) to(15) be(16) fairly(17) high(18) for(19) anything(20) decent(21) in(22) a(23) good(24) location(25) .(26) 
+			<opinion featWords="25" feature="place" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			When(1) one(2) of(3) my(4) friends(5) mentioned(6) we(7) 'd(8) be(9) staying(10) in(11) some(12) hotel(13) named(14) '(15) crown(16) something(17) '(18) at(19) an(20) inside(21) rate(22) my(23) hopes(24) perked(25) up(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			Could(1) it(2) be(3) a(4) Holiday(5) Inn(6) Crown(7) Plaza(8) hotel(9) ,(10) HI(11) 's(12) flagship(13) chain(14) ?(15) 
+		</sentence>
+		<sentence id="6">
+			Well(1) ,(2) it(3) s(4) actually(5) Intercontinental(6) Hotels(7) now(8) and(9) they(10) have(11) separated(12) the(13) Holiday(14) Inns(15) and(16) Holiday(17) Inn(18) Express(19) from(20) what(21) is(22) now(23) known(24) simply(25) as(26) Crown(27) Plaza(28) .(29) 
+		</sentence>
+		<sentence id="7">
+			The(1) Hotel(2) The(3) Crown(4) Plaza(5) Universal(6) is(7) located(8) at(9) 7800(10) Universal(11) Blvd(12) in(13) Orlando(14) ,(15) literally(16) right(17) around(18) the(19) corner(20) from(21) Universal(22) Studios(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			The(1) hotel(2) features(3) 400(4) guest(5) rooms(6) ,(7) many(8) of(9) which(10) surround(11) a(12) beautiful(13) atrium(14) soaring(15) 15(16) stories(17) into(18) the(19) sky(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			The(1) exterior(2) of(3) the(4) hotel(5) is(6) fairly(7) uninspiring(8) and(9) the(10) most(11) notable(12) feature(13) is(14) the(15) bright(16) red(17) Crown(18) Plaza(19) sign(20) towering(21) overhead(22) .(23) 
+			<opinion featWords="5" feature="hotel" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="10">
+			In(1) an(2) area(3) as(4) dense(5) with(6) hotels(7) as(8) Orlando(9) it(10) s(11) no(12) wonder(13) the(14) biggest(15) concern(16) is(17) being(18) seen(19) by(20) passing(21) motorists(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			I(1) will(2) say(3) the(4) front(5) entry(6) way(7) was(8) quite(9) attractive(10) with(11) a(12) glass(13) portico(14) and(15) nice(16) brick(17) design(18) in(19) the(20) drive(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			Parking(1) seemed(2) very(3) adequate(4) and(5) valet(6) parking(7) is(8) available(9) .(10) 
+			<opinion featWords="1" feature="parking" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="13">
+			Check-in(1) went(2) somewhat(3) smoothly(4) although(5) as(6) our(7) arrival(8) date(9) had(10) changed(11) it(12) took(13) them(14) a(15) moment(16) to(17) find(18) us(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			Some(1) people(2) might(3) have(4) been(5) annoyed(6) that(7) our(8) rooms(9) were(10) on(11) separate(12) floors(13) but(14) really(15) we(16) did(17) 'nt(18) care(19) and(20) with(21) the(22) last(23) minute(24) change(25) to(26) our(27) arrival(28) date(29) it(30) seemed(31) understandable(32) .(33) 
+		</sentence>
+		<sentence id="15">
+			The(1) common(2) areas(3) of(4) the(5) hotel(6) are(7) very(8) nice(9) and(10) feature(11) light(12) colors(13) and(14) plenty(15) of(16) glass(17) to(18) allow(19) the(20) Florida(21) sun(22) to(23) come(24) through(25) without(26) the(27) heat(28) .(29) 
+			<opinion featWords="3" feature="place" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="16">
+			I(1) would(2) imagine(3) someone(4) traveling(5) in(6) from(7) the(8) snowy(9) North(10) in(11) the(12) winter(13) will(14) feel(15) very(16) warm(17) in(18) these(19) surroundings(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			One(1) nice(2) touch(3) that(4) people(5) with(6) a(7) fear(8) of(9) heights(10) will(11) appreciate(12) is(13) that(14) they(15) have(16) two(17) sets(18) of(19) elevators(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			One(1) glass(2) sided(3) set(4) overlooks(5) the(6) atrium(7) and(8) the(9) other(10) set(11) is(12) fully(13) enclosed(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			I(1) personally(2) love(3) glass(4) elevators(5) ,(6) it(7) must(8) trigger(9) some(10) long(11) dormant(12) childhood(13) memory(14) of(15) vacations(16) past(17) .(18) 
+			<opinion featWords="5" feature="elevator" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			The(1) Room(2) My(3) room(4) was(5) one(6) of(7) their(8) junior(9) suites(10) with(11) a(12) sleeper(13) sofa(14) as(15) well(16) as(17) a(18) king(19) size(20) bed(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			The(1) room(2) was(3) immaculate(4) as(5) was(6) the(7) bathroom(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			The(1) bed(2) itself(3) was(4) very(5) comfortable(6) with(7) a(8) medium(9) firm(10) mattress(11) and(12) very(13) soft(14) linens(15) .(16) 
+			<opinion featWords="2" feature="bed" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="15" feature="bedding" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+		<sentence id="23">
+			One(1) feature(2) that(3) would(4) be(5) appealing(6) to(7) families(8) with(9) teens(10) is(11) the(12) entertainment(13) center(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			This(1) includes(2) not(3) just(4) a(5) cable(6) TV(7) with(8) on(9) demand(10) movies(11) but(12) also(13) a(14) Nintendo(15) system(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			Personally(1) ,(2) I(3) would(4) be(5) loathe(6) to(7) have(8) my(9) child(10) wasting(11) time(12) on(13) video(14) games(15) when(16) in(17) an(18) area(19) with(20) so(21) many(22) entertainment(23) options(24) ,(25) but(26) for(27) some(28) this(29) feature(30) will(31) be(32) appreciated(33) .(34) 
+		</sentence>
+		<sentence id="26">
+			One(1) feature(2) I(3) did(4) 'nt(5) take(6) advantage(7) of(8) as(9) I(10) did(11) 'nt(12) bring(13) my(14) laptop(15) due(16) to(17) our(18) short(19) stay(20) is(21) the(22) in-room(23) broadband(24) internet(25) port(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			On(1) longer(2) stays(3) this(4) is(5) a(6) wonderful(7) feature(8) to(9) maintain(10) connectivity(11) with(12) work(13) ,(14) or(15) epinions(16) for(17) that(18) matter(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			At(1) $10/day(2) it(3) should(4) 'nt(5) be(6) to(7) unreasonable(8) for(9) the(10) folks(11) who(12) can(13) afford(14) this(15) hotel(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			Speaking(1) of(2) which(3) ,(4) our(5) rooms(6) were(7) discounted(8) through(9) an(10) Intercontinental(11) ((12) CP(13) s(14) parent(15) company(16) )(17) employee(18) program(19) from(20) one(21) of(22) our(23) group(24) members(25) .(26) 
+		</sentence>
+		<sentence id="30">
+			Normally(1) you(2) can(3) expect(4) to(5) pay(6) somewhere(7) around(8) $180(9) -(10) $190(11) at(12) this(13) time(14) of(15) year(16) for(17) this(18) room(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			At(1) least(2) according(3) to(4) the(5) various(6) online(7) booking(8) sites(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			The(1) rack(2) rate(3) was(4) an(5) astonishing(6) $395/night(7) ,(8) but(9) I(10) do(11) 'nt(12) expect(13) many(14) people(15) pay(16) that(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			Other(1) room(2) amenities(3) included(4) a(5) safe(6) ,(7) a(8) coffee(9) maker(10) ,(11) a(12) CD(13) player(14) ,(15) AM(16) /(17) FM(18) radio(19) alarm(20) clock(21) ,(22) hair(23) dryer(24) ,(25) ironing(26) board(27) w(28) /(29) iron(30) ,(31) and(32) cordless(33) phone(34) .(35) 
+		</sentence>
+		<sentence id="34">
+			The(1) Pool(2) Two(3) of(4) our(5) group(6) enjoyed(7) the(8) fairly(9) spacious(10) pool(11) which(12) seemed(13) very(14) clear(15) and(16) well(17) maintained(18) .(19) 
+			<opinion featWords="11" feature="swimming pool" opWords="15" polarity="+" potency="14"/>
+			<opinion featWords="11" feature="swimming pool" opWords="10" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="35">
+			I(1) was(2) somewhat(3) disappointed(4) that(5) there(6) was(7) 'nt(8) a(9) poolside(10) bar(11) ,(12) but(13) I(14) guess(15) they(16) expect(17) most(18) guest(19) spend(20) less(21) time(22) at(23) the(24) hotel(25) in(26) this(27) city(28) than(29) in(30) pure(31) resort(32) areas(33) .(34) 
+		</sentence>
+		<sentence id="36">
+			The(1) Bar(2) One(3) facility(4) that(5) we(6) did(7) make(8) use(9) of(10) was(11) CP(12) s(13) bar(14) ,(15) Chat(16) s(17) Lounge(18) .(19) 
+		</sentence>
+		<sentence id="37">
+			The(1) bar(2) is(3) located(4) in(5) the(6) lobby(7) and(8) is(9) fairly(10) small(11) with(12) seating(13) for(14) maybe(15) 40(16) or(17) so(18) people(19) .(20) 
+			<opinion featWords="2" feature="food" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+		<sentence id="38">
+			Lunch(1) is(2) also(3) available(4) in(5) the(6) bar(7) but(8) we(9) ate(10) elsewhere(11) so(12) I(13) can(14) 'nt(15) comment(16) on(17) the(18) food(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			There(1) is(2) a(3) flat(4) panel(5) TV(6) mounted(7) in(8) one(9) corner(10) that(11) allowed(12) us(13) to(14) catch(15) up(16) on(17) the(18) news(19) .(20) 
+		</sentence>
+		<sentence id="40">
+			The(1) bar(2) itself(3) is(4) very(5) comfortable(6) and(7) well(8) stocked(9) with(10) a(11) nice(12) selection(13) of(14) top(15) shelf(16) labels(17) .(18) 
+			<opinion featWords="2" feature="food" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="2" feature="food" opWords="8,9" polarity="+"/>
+		</sentence>
+		<sentence id="41">
+			Unfortunately(1) the(2) bartender(3) on(4) duty(5) while(6) we(7) were(8) there(9) was(10) not(11) exactly(12) a(13) cocktail(14) wizard(15) .(16) 
+		</sentence>
+		<sentence id="42">
+			One(1) person(2) in(3) our(4) group(5) had(6) specific(7) instructions(8) for(9) his(10) Maker(11) s(12) Mark(13) Manhattan(14) and(15) this(16) seemed(17) to(18) be(19) received(20) with(21) much(22) annoyance(23) .(24) 
+		</sentence>
+		<sentence id="43">
+			I(1) asked(2) for(3) their(4) premium(5) margarita(6) and(7) had(8) to(9) stop(10) the(11) bartender(12) in(13) mid(14) pour(15) as(16) she(17) started(18) to(19) fill(20) the(21) shaker(22) with(23) Cuervo(24) .(25) 
+		</sentence>
+		<sentence id="44">
+			Thankfully(1) the(2) manager(3) was(4) there(5) and(6) I(7) was(8) able(9) to(10) get(11) it(12) made(13) properly(14) with(15) Patron(16) Anejo(17) .(18) 
+		</sentence>
+		<sentence id="45">
+			Another(1) customer(2) came(3) in(4) to(5) complain(6) that(7) the(8) second(9) glass(10) of(11) cabernet(12) she(13) received(14) was(15) not(16) the(17) same(18) wine(19) as(20) the(21) first(22) at(23) which(24) point(25) the(26) bartender(27) admitted(28) she(29) did(30) 'nt(31) know(32) which(33) wine(34) she(35) had(36) given(37) the(38) customer(39) either(40) time(41) .(42) 
+		</sentence>
+		<sentence id="46">
+			Maybe(1) it(2) was(3) a(4) communication(5) problem(6) as(7) the(8) bartender(9) is(10) a(11) fairly(12) recent(13) arrival(14) from(15) Latvia(16) ,(17) but(18) she(19) seemed(20) to(21) speak(22) English(23) fairly(24) well(25) so(26) who(27) knows(28) .(29) 
+		</sentence>
+		<sentence id="47">
+			Chat(1) s(2) Lounge(3) is(4) open(5) 11AM(6) to(7) 12AM(8) Sunday(9) through(10) Thursday(11) and(12) 11AM(13) to(14) 1AM(15) Friday(16) and(17) Saturday(18) .(19) 
+		</sentence>
+		<sentence id="48">
+			The(1) Restaurant(2) I(3) rarely(4) eat(5) anything(6) but(7) breakfasts(8) in(9) hotels(10) unless(11) they(12) are(13) specifically(14) known(15) for(16) their(17) food(18) .(19) 
+		</sentence>
+		<sentence id="49">
+			Crown(1) Plaza(2) Universal(3) has(4) Arcanjo(5) s(6) Bistro(7) which(8) serves(9) standard(10) American(11) fare(12) ,(13) even(14) though(15) it(16) sounds(17) like(18) you(19) might(20) get(21) a(22) great(23) Spanish(24) meal(25) there(26) .(27) 
+		</sentence>
+		<sentence id="50">
+			We(1) did(2) not(3) try(4) it(5) so(6) I(7) can(8) 'nt(9) comment(10) on(11) the(12) food(13) .(14) 
+		</sentence>
+		<sentence id="51">
+			Arcanjo(1) s(2) Bistro(3) is(4) open(5) for(6) breakfast(7) from(8) 6:30(9) AM(10) to(11) 11AM(12) daily(13) and(14) for(15) dinner(16) from(17) 5PM(18) to(19) 11PM(20) daily(21) .(22) 
+		</sentence>
+		<sentence id="52">
+			Room(1) service(2) is(3) also(4) available(5) from(6) 6:30(7) AM(8) to(9) 11PM(10) daily(11) .(12) 
+		</sentence>
+		<sentence id="53">
+			They(1) advertise(2) that(3) poolside(4) dining(5) is(6) available(7) as(8) of(9) August(10) 2006(11) but(12) we(13) failed(14) to(15) see(16) any(17) evidence(18) that(19) this(20) service(21) has(22) started(23) .(24) 
+		</sentence>
+		<sentence id="54">
+			Fitness(1) Facilities(2) Although(3) none(4) of(5) us(6) had(7) plans(8) to(9) spend(10) any(11) time(12) next(13) to(14) pieces(15) of(16) fitness(17) equipment(18) on(19) this(20) one(21) day(22) trip(23) ,(24) we(25) did(26) get(27) to(28) see(29) the(30) facility(31) on(32) the(33) way(34) to(35) the(36) pool(37) .(38) 
+		</sentence>
+		<sentence id="55">
+			From(1) what(2) I(3) can(4) see(5) it(6) is(7) very(8) well(9) equipped(10) and(11) maintained(12) .(13) 
+			<opinion featRef="hotel" featWords="6" feature="gym" opWords="9,10" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="56">
+			There(1) seemed(2) to(3) be(4) a(5) large(6) number(7) of(8) cable(9) machines(10) ,(11) treadmills(12) ,(13) and(14) bikes(15) .(16) 
+		</sentence>
+		<sentence id="57">
+			For(1) this(2) type(3) of(4) hotel(5) it(6) appeared(7) more(8) than(9) adequate(10) .(11) 
+		</sentence>
+		<sentence id="58">
+			Other(1) Amenities(2) One(3) feature(4) I(5) like(6) in(7) any(8) hotel(9) is(10) express(11) check(12) out(13) .(14) 
+		</sentence>
+		<sentence id="59">
+			I(1) amm(2) not(3) a(4) big(5) fan(6) of(7) having(8) to(9) wait(10) in(11) line(12) to(13) begin(14) with(15) and(16) especially(17) on(18) the(19) morning(20) of(21) a(22) departure(23) .(24) 
+		</sentence>
+		<sentence id="60">
+			Having(1) the(2) itemized(3) receipt(4) slipped(5) under(6) my(7) door(8) is(9) a(10) wonderful(11) thing(12) and(13) CP(14) did(15) 'nt(16) disappoint(17) .(18) 
+		</sentence>
+		<sentence id="61">
+			It(1) was(2) also(3) nice(4) to(5) see(6) a(7) newspaper(8) in(9) front(10) of(11) our(12) door(13) in(14) the(15) morning(16) ,(17) even(18) if(19) it(20) was(21) USA(22) Today(23) .(24) 
+		</sentence>
+		<sentence id="62">
+			CP(1) Universal(2) ,(3) like(4) many(5) Orlando(6) /(7) Kissimmee(8) area(9) hotels(10) offers(11) free(12) transport(13) to(14) area(15) theme(16) parks(17) .(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="249" item="Atlantic Paradise Inn" rating="1">
+	<title>
+		<sentence id="1">
+			A(1) Bad(2) Deal(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) and(2) rundown(3) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) be(3) taken(4) in(5) by(6) their(7) website(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Totally(1) bogus(2) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) smell(2) in(3) the(4) room(5) was(6) the(7) first(8) bad(9) thing(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Then(1) the(2) dirty(3) spreads(4) ;(5) broken(6) TV(7) ;(8) peeling(9) wallpaper(10) and(11) dark(12) hallways(13) .(14) 
+			<opinion featWords="4" feature="bedding" opWords="3" polarity="-"/>
+			<opinion featWords="7" feature="tv" opWords="6" polarity="-"/>
+			<opinion featWords="10" feature="walls" opWords="9" polarity="-"/>
+			<opinion featWords="13" feature="lobby" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			I(1) slept(2) with(3) my(4) clothes(5) on(6) and(7) slept(8) with(9) one(10) eye(11) open(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) website(2) looked(3) good(4) but(5) ,(6) they(7) should(8) be(9) flogged(10) for(11) misleading(12) information(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Restaurant(1) ?(2) 
+		</sentence>
+		<sentence id="6">
+			Give(1) me(2) a(3) break(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			I(1) did(2) myself(3) a(4) favor(5) and(6) cut(7) my(8) stay(9) short(10) and(11) checked(12) out(13) early(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Area(1) in(2) general(3) was(4) dirty(5) and(6) hotel(7) parking(8) lot(9) dark(10) and(11) hard(12) to(13) get(14) to(15) your(16) car(17) in(18) the(19) evening(20) .(21) 
+			<opinion featWords="1" feature="place" opWords="5" polarity="-"/>
+			<opinion featWords="8,9" feature="parking" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Save(1) your(2) money(3) and(4) go(5) somewhere(6) else(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			Camping(1) out(2) is(3) better(4) than(5) these(6) accomodations(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			Asbury(1) Park(2) was(3) once(4) a(5) great(6) place(7) to(8) visit(9) and(10) stay(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			What(1) a(2) shame(3) that(4) this(5) area(6) has(7) fallen(8) into(9) rubble(10) especially(11) along(12) the(13) boardwalk(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			Their(1) are(2) plenty(3) of(4) beautiful(5) places(6) in(7) New(8) Jersey(9) unfortunately(10) this(11) is(12) no(13) longer(14) one(15) of(16) them(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			Stay(1) away(2) from(3) this(4) hotel(5) if(6) you(7) do(8) not(9) want(10) to(11) start(12) a(13) vacation(14) on(15) a(16) bad(17) note(18) .(19) 
+			<opinion featWords="5" feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+	</text>
+</review>

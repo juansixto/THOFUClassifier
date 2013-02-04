@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="288" item="Best Western Twin Islands" rating="1">
+	<title>
+		<sentence id="1">
+			Overpriced(1) ,(2) Worn(3) Out(4) ,(5) Poorly(6) Managed(7) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) -(2) in(3) the(4) heart(5) of(6) Gatlinburg(7) just(8) below(9) the(10) "(11) strip(12) "(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			POOR(1) customer(2) service(3) ,(4) OUTDATED(5) furnishings(6) ,(7) can(8) not(9) fish(10) ,(11) SMELLY(12) rooms(13) ,(14) POOR(15) lighting(16) ,(17) OVERPRICED(18) ,(19) POOR(20) VALUE(21) 
+			<opinion featWords="3" feature="service" opWords="1" polarity="-"/>
+			<opinion featWords="6" feature="furnishings" opWords="5" polarity="-"/>
+			<opinion featWords="13" feature="rooms" opWords="12" polarity="-"/>
+			<opinion feature="price" opWords="18" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) somewhere(2) else(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			This(1) motel(2) is(3) overpriced(4) ,(5) under-maintained(6) ,(7) and(8) has(9) forgotten(10) why(11) they(12) exist(13) -(14) to(15) satisfy(16) their(17) guests(18) .(19) 
+			<opinion feature="price" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="hotel" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) much(3) better(4) options(5) in(6) the(7) area(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) family(2) and(3) I(4) have(5) spent(6) countless(7) summers(8) vacationing(9) in(10) Gatlinburg(11) ,(12) TN(13) and(14) have(15) always(16) chosen(17) to(18) stay(19) at(20) Twin(21) Islands(22) Motel(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) it(3) is(4) this(5) year(6) that(7) I(8) have(9) come(10) to(11) realize(12) how(13) run-down(14) this(15) property(16) has(17) become(18) over(19) recent(20) years(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) actually(3) very(4) sad(5) considering(6) that(7) this(8) motel(9) was(10) once(11) a(12) "(13) shining(14) star(15) "(16) in(17) Gatlinburg(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			These(1) days(2) ,(3) however(4) ,(5) it(6) is(7) painfully(8) obvious(9) that(10) no(11) money(12) has(13) been(14) returned(15) into(16) the(17) facilities(18) in(19) quite(20) some(21) time(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) surprising(3) really(4) ,(5) the(6) rooms(7) routinely(8) ask(9) $125(10) per(11) night(12) ((13) depending(14) on(15) the(16) season(17) )(18) and(19) the(20) motel(21) is(22) often(23) sold-out(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			We(1) just(2) recently(3) stayed(4) in(5) the(6) "(7) new(8) "(9) section(10) of(11) the(12) motel(13) where(14) the(15) "(16) suites(17) "(18) are(19) located(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			Most(1) of(2) these(3) "(4) suites(5) "(6) are(7) labeled(8) as(9) "(10) non-smoking(11) "(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Upon(1) our(2) arrival(3) we(4) found(5) one(6) of(7) our(8) rooms(9) smelled(10) so(11) much(12) of(13) smoke(14) that(15) we(16) asked(17) to(18) change(19) rooms(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			Our(1) alternative(2) room(3) would(4) have(5) placed(6) us(7) on(8) the(9) upper(10) floor(11) into(12) another(13) room(14) equally(15) as(16) odor-filled(17) but(18) with(19) less(20) sunlight(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			All(1) other(2) rooms(3) were(4) sold-out(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			The(1) front(2) desk(3) advised(4) that(5) they(6) could(7) send(8) someone(9) to(10) spray(11) air(12) freshener(13) in(14) our(15) room(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			When(1) we(2) returned(3) from(4) dinner(5) we(6) discovered(7) that(8) our(9) room(10) had(11) been(12) treated(13) so(14) heavily(15) with(16) commercial(17) air(18) freshener(19) that(20) we(21) had(22) to(23) open(24) the(25) 2(26) doors(27) to(28) air-out(29) the(30) smoke(31) AND(32) the(33) air(34) freshener(35) .(36) 
+		</sentence>
+		<sentence id="13">
+			We(1) later(2) discovered(3) that(4) the(5) maids(6) often(7) smoke(8) in(9) the(10) guest(11) rooms(12) during(13) cleaning(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			Very(1) poor(2) .(3) 
+		</sentence>
+		<sentence id="15">
+			The(1) furnishings(2) in(3) the(4) "(5) new(6) "(7) section(8) are(9) old(10) ,(11) musty(12) ,(13) and(14) outdated(15) .(16) 
+			<opinion featWords="2" feature="furnishings" opWords="10" polarity="-"/>
+			<opinion featWords="2" feature="furnishings" opWords="12" polarity="-"/>
+			<opinion featWords="2" feature="furnishings" opWords="15" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			The(1) bathroom(2) lighting(3) was(4) so(5) poor(6) that(7) I(8) felt(9) as(10) if(11) I(12) was(13) bathing(14) in(15) a(16) cave(17) and(18) the(19) lack(20) of(21) water(22) pressure(23) made(24) showering(25) a(26) real(27) chore(28) .(29) 
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="17">
+			The(1) iron(2) was(3) broken(4) ,(5) failed(6) to(7) heat(8) ,(9) leaked(10) rust(11) water(12) ,(13) and(14) is(15) chained(16) to(17) an(18) ironing(19) board(20) with(21) so(22) many(23) stains(24) that(25) you(26) 'd(27) be(28) crazy(29) to(30) use(31) it(32) .(33) 
+		</sentence>
+		<sentence id="18">
+			The(1) mattress(2) and(3) pillows(4) smelled(5) old(6) and(7) musty(8) .(9) 
+			<opinion featWords="2" feature="bed" opWords="5,6" polarity="-"/>
+			<opinion featWords="2" feature="bed" opWords="5,8" polarity="-"/>
+			<opinion featWords="4" feature="bedding" opWords="5,6" polarity="-"/>
+			<opinion featWords="4" feature="bedding" opWords="5,8" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			When(1) we(2) complained(3) to(4) the(5) front(6) desk(7) about(8) many(9) of(10) these(11) items(12) they(13) sent(14) a(15) maintenance(16) person(17) to(18) replace(19) the(20) iron(21) ,(22) not(23) the(24) board(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			The(1) front(2) desk(3) clerk(4) then(5) brought(6) light(7) to(8) the(9) fact(10) that(11) we(12) had(13) a(14) "(15) beautiful(16) view(17) "(18) .(19) 
+			<opinion featWords="17" feature="view" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			For(1) the(2) record(3) ,(4) Twin(5) Islands(6) Motel(7) is(8) surrounded(9) by(10) what(11) is(12) really(13) just(14) a(15) glorified(16) drainage(17) ditch(18) with(19) a(20) few(21) ducks(22) .(23) 
+		</sentence>
+		<sentence id="22">
+			You(1) can(2) not(3) actually(4) fish(5) in(6) the(7) "(8) stream(9) "(10) without(11) a(12) Tennessee(13) fishing(14) license(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			Our(1) room(2) overlooked(3) part(4) of(5) this(6) "(7) stream(8) "(9) and(10) I(11) 'm(12) sure(13) that(14) the(15) guests(16) pay(17) a(18) premium(19) price(20) for(21) the(22) "(23) view(24) "(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			I(1) am(2) deeply(3) saddened(4) that(5) this(6) facility(7) has(8) degraded(9) to(10) this(11) status(12) .(13) 
+		</sentence>
+		<sentence id="25">
+			I(1) did(2) not(3) meet(4) a(5) motel(6) employee(7) during(8) our(9) 3-day(10) visit(11) that(12) actually(13) cared(14) about(15) the(16) quality(17) of(18) our(19) experience(20) at(21) their(22) property(23) .(24) 
+		</sentence>
+		<sentence id="26">
+			The(1) housekeeping(2) staff(3) leaves(4) a(5) lot(6) to(7) be(8) desired(9) and(10) the(11) front(12) desk(13) clerks(14) lack(15) the(16) fundamentals(17) of(18) good(19) customer(20) service(21) .(22) 
+		</sentence>
+		<sentence id="27">
+			I(1) am(2) severely(3) disappointed(4) in(5) this(6) motel(7) operation(8) and(9) would(10) encourage(11) you(12) to(13) look(14) elsewhere(15) for(16) quality(17) lodging(18) in(19) Gatlinburg(20) .(21) 
+		</sentence>
+	</text>
+</review>

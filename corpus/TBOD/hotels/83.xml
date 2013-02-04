@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="83" item="Sleep Inn Northwest" rating="2">
+	<title>
+		<sentence id="1">
+			Sleep(1) In(2) -(3) If(4) You(5) Can(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) location(2) ,(3) Economical(4) ,(5) Nice(6) enclosed(7) shower(8) stall(9) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion feature="price" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) small(2) ,(3) Mattress(4) too(5) firm(6) ,(7) Certain(8) amenities(9) not(10) available(11) 
+			<opinion featWords="1" feature="rooms" opWords="2" polarity="-"/>
+			<opinion featWords="4" feature="bed" opWords="5,6" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Adequate(1) accommodations(2) for(3) a(4) short(5) stay(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) posted(2) a(3) review(4) of(5) a(6) four(7) star(8) hotel(9) over(10) the(11) holiday(12) weekend(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			Now(1) I(2) 'm(3) am(4) posting(5) one(6) on(7) the(8) other(9) side(10) of(11) the(12) spectrum(13) ,(14) that(15) is(16) in(17) the(18) solid(19) two(20) star(21) category(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			When(1) we(2) were(3) invited(4) to(5) my(6) father(7) -(8) in(9) -(10) law(11) 's(12) 79th(13) birthday(14) party(15) in(16) the(17) Atlanta(18) area(19) two(20) weeks(21) ago(22) ,(23) we(24) decided(25) to(26) stay(27) over(28) Saturday(29) night(30) for(31) a(32) cookout(33) Sunday(34) afternoon(35) .(36) 
+		</sentence>
+		<sentence id="4">
+			We(1) wanted(2) to(3) find(4) an(5) economical(6) hotel(7) that(8) would(9) offer(10) reasonable(11) quality(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			When(1) looking(2) for(3) that(4) combination(5) ,(6) I(7) usually(8) go(9) to(10) the(11) Choice(12) Hotels(13) ((14) Quality(15) Inn(16) /(17) Hampton(18) Inn(19) /(20) Clarion(21) )(22) website(23) due(24) their(25) overall(26) reputation(27) and(28) reasonable(29) price(30) range(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) had(3) previously(4) stayed(5) at(6) Sleep(7) Inn(8) in(9) Marietta(10) ((11) a(12) suburb(13) north(14) of(15) Atlanta(16) )(17) several(18) years(19) ago(20) on(21) a(22) business(23) trip(24) ,(25) so(26) we(27) decided(28) to(29) go(30) with(31) something(32) familiar(33) .(34) 
+		</sentence>
+		<sentence id="7">
+			Although(1) it(2) turned(3) out(4) to(5) provide(6) adequate(7) accommodations(8) for(9) one(10) night(11) ,(12) that(13) would(14) be(15) the(16) maximum(17) amount(18) of(19) time(20) I(21) would(22) want(23) to(24) spend(25) at(26) this(27) particular(28) hotel(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			Location(1) The(2) hotel(3) is(4) located(5) at(6) 1175(7) Powers(8) Ferry(9) Place(10) ,(11) which(12) is(13) just(14) off(15) I-75(16) at(17) exit(18) 261(19) .(20) ((21) Delk(22) Road(23) )(24) It(25) is(26) tucked(27) far(28) enough(29) off(30) Delk(31) Road(32) that(33) the(34) traffic(35) on(36) I-75(37) is(38) not(39) audible(40) .(41) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) approximately(3) 10(4) miles(5) from(6) downtown(7) Atlanta(8) ,(9) and(10) 2(11) miles(12) from(13) Dobbins(14) Air(15) Force(16) Base(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) area(2) is(3) relatively(4) free(5) of(6) congestion(7) ,(8) although(9) there(10) are(11) several(12) other(13) hotels(14) in(15) the(16) area(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Appearance(1) The(2) 3(3) story(4) hotel(5) has(6) a(7) very(8) small(9) lobby(10) with(11) a(12) couch(13) ,(14) chair(15) ,(16) and(17) coffee(18) table(19) diagonally(20) across(21) from(22) the(23) front(24) desk(25) .(26) 
+			<opinion featWords="10" feature="lobby" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			Just(1) past(2) the(3) front(4) desk(5) is(6) a(7) small(8) breakfast(9) area(10) with(11) several(12) tables(13) and(14) chairs(15) ,(16) and(17) a(18) microwave(19) oven(20) ,(21) toaster(22) oven(23) ,(24) juice(25) dispenser(26) ,(27) small(28) refrigerator(29) ,(30) and(31) a(32) television(33) .(34) 
+			<opinion featWords="10" feature="place" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			To(1) the(2) right(3) is(4) an(5) enclosed(6) solarium(7) type(8) area(9) with(10) an(11) small(12) indoor(13) pool(14) and(15) hot(16) tub(17) .(18) 
+			<opinion featWords="14" feature="swimming pool" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			On(1) the(2) 2nd(3) floor(4) is(5) a(6) business(7) area(8) with(9) a(10) computer(11) on(12) one(13) side(14) ,(15) and(16) a(17) tiny(18) spa(19) on(20) the(21) other(22) side(23) with(24) a(25) stair(26) climber(27) ,(28) treadmill(29) ,(30) and(31) weight(32) machine(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			Our(1) room(2) was(3) very(4) small(5) with(6) a(7) double(8) bed(9) ,(10) desk(11) and(12) chair(13) ,(14) sitting(15) chair(16) ,(17) dresser(18) ,(19) and(20) end(21) tables(22) .(23) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="16">
+			It(1) was(2) decorated(3) in(4) a(5) typical(6) conservative(7) style(8) with(9) a(10) multi-colored(11) bedspread(12) and(13) matching(14) curtains(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			The(1) nicest(2) feature(3) was(4) a(5) fairly(6) large(7) bathroom(8) ,(9) ((10) compared(11) to(12) the(13) rest(14) of(15) the(16) room(17) )(18) with(19) a(20) walk-in(21) lavatory(22) ,(23) nice(24) large(25) enclosed(26) shower(27) stall(28) ,(29) and(30) toilet(31) .(32) 
+			<opinion featWords="8" feature="bathroom" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="18">
+			Amenities(1) The(2) room(3) was(4) equipped(5) with(6) a(7) 25(8) "(9) cable(10) television(11) with(12) HBO(13) and(14) pay(15) -(16) per(17) -(18) view(19) movies(20) available(21) .(22) The(23) room(24) comes(25) with(26) free(27) local(28) calls(29) and(30) continental(31) breakfast(32) .(33) ((34) juice(35) ,(36) coffee(37) ,(38) cereal(39) ,(40) small(41) frozen(42) sausage(43) biscuits(44) ,(45) pastries(46) ,(47) donuts(48) ,(49) cereal(50) ,(51) milk(52) ,(53) fruit(54) ,(55) toast(56) ,(57) and(58) jelly(59) )(60) The(61) rooms(62) also(63) have(64) clock(65) radios(66) ,(67) data(68) ports(69) ,(70) and(71) when(72) staying(73) on(74) weekdays(75) ,(76) USA(77) Toady(78) newspapers(79) are(80) available(81) at(82) no(83) cost(84) .(85) Kid(86) stay(87) free(88) ,(89) and(90) 50(91) %(92) of(93) the(94) rooms(95) are(96) non-smoking(97) .(98) Service(99) Check-in(100) and(101) check(102) out(103) were(104) relatively(105) easy(106) .(107) Since(108) we(109) had(110) booked(111) by(112) Internet(113) ,(114) there(115) was(116) no(117) delay(118) .(119) However(120) ,(121) when(122) I(123) asked(124) for(125) the(126) key(127) to(128) use(129) the(130) business(131) center(132) ,(133) I(134) was(135) told(136) that(137) the(138) computer(139) was(140) out(141) of(142) service(143) .(144) I(145) had(146) plans(147) of(148) catching(149) up(150) on(151) my(152) Epinions(153) reading(154) and(155) rating(156) ,(157) and(158) was(159) disappointed(160) that(161) this(162) service(163) was(164) not(165) available(166) .(167) The(168) staff(169) was(170) professional(171) ,(172) but(173) not(174) particularly(175) friendly(176) .(177) The(178) continental(179) breakfast(180) was(181) self-service(182) and(183) overall(184) fairly(185) decent(186) quality(187) .(188) The(189) staff(190) kept(191) the(192) food(193) re(194) -(195) stocked(196) so(197) that(198) there(199) were(200) no(201) delays(202) during(203) peak(204) times(205) .(206) Conclusion(207) The(208) quiet(209) location(210) was(211) a(212) nice(213) plus(214) .(215) However(216) ,(217) as(218) is(219) often(220) the(221) case(222) at(223) economy(224) hotels(225) that(226) allow(227) kids(228) to(229) stay(230) free(231) ,(232) we(233) had(234) to(235) deal(236) with(237) noise(238) from(239) children(240) running(241) up(242) down(243) the(244) halls(245) unsupervised(246) .(247) The(248) hotel(249) management(250) did(251) nothing(252) to(253) try(254) to(255) control(256) the(257) situation(258) .(259) I(260) also(261) found(262) the(263) mattress(264) to(265) be(266) a(267) bit(268) too(269) firm(270) for(271) my(272) comfort(273) .(274) Although(275) not(276) quite(277) claustrophobic(278) ,(279) the(280) room(281) was(282) a(283) tad(284) too(285) small(286) even(287) for(288) two(289) people(290) .(291) Overall(292) ,(293) Sleep(294) In(295) Marietta(296) is(297) not(298) a(299) bad(300) deal(301) for(302) the(303) price(304) .(305) If(306) you(307) are(308) looking(309) for(310) a(311) clean(312) hotel(313) ,(314) with(315) average(316) amenities(317) ,(318) it(319) will(320) do(321) just(322) fine(323) .(324) However(325) ,(326) due(327) to(328) the(329) size(330) ,(331) some(332) of(333) the(334) amenities(335) may(336) not(337) be(338) available(339) during(340) busy(341) times(342) .(343) I(344) would(345) not(346) recommend(347) staying(348) there(349) more(350) than(351) one(352) night(353) ,(354) due(355) to(356) the(357) size(358) of(359) the(360) rooms(361) ,(362) uncomfortable(363) beds(364) ,(365) and(366) average(367) service(368) .(369) 
+			<opinion featWords="169" feature="staff" opWords="171" polarity="+"/>
+			<opinion featWords="169" feature="staff" opWords="174,176" polarity="-" potency="175"/>
+			<opinion featWords="264" feature="bed" opWords="269,270" polarity="+"/>
+			<opinion featWords="281" feature="rooms" opWords="276,278" polarity="+"/>
+			<opinion featWords="281" feature="rooms" opWords="285,286" polarity="-"/>
+			<opinion featWords="313" feature="hotel" opWords="312" polarity="+"/>
+			<opinion featWords="317" feature="amenities" opWords="316" polarity="-"/>
+			<opinion featWords="364" feature="bed" opWords="363" polarity="-"/>
+			<opinion featWords="368" feature="service" opWords="367" polarity="-"/>
+		</sentence>
+	</text>
+</review>

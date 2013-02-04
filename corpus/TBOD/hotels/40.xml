@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="40" item="Microtel Houston/Clear Lake City" rating="1">
+	<title>
+		<sentence id="1">
+			STAY(1) AWAY(2) !(3) !(4) !(5) !(6) !(7) 
+		</sentence>
+		<sentence id="2">
+			DIRTY(1) !(2) !(3) !(4) !(5) 
+		</sentence>
+		<sentence id="3">
+			UNFRIENDLY(1) !(2) !(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) to(2) where(3) we(4) needed(5) to(6) be(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			DIRTY(1) AND(2) UNFRIENDLY(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) away(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) waste(3) your(4) time(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Dirty(1) and(2) very(3) unwillingly(4) to(5) work(6) with(7) us(8) .(9) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) here(3) only(4) because(5) of(6) the(7) location(8) to(9) a(10) family(11) member(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			The(1) stay(2) was(3) horrible(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			The(1) staff(2) was(3) very(4) unfriendly(5) and(6) unwillingly(7) to(8) work(9) with(10) us(11) .(12) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			We(1) stayed(2) 4(3) nights(4) and(5) had(6) to(7) switch(8) rooms(9) twice(10) because(11) of(12) AC(13) problems(14) and(15) ANTS(16) everywhere(17) in(18) the(19) kitchenette(20) area(21) !(22) !(23) !(24) !(25) ((26) now(27) I(28) understand(29) why(30) there(31) was(32) a(33) sign(34) in(35) the(36) lobby(37) that(38) said(39) keep(40) breakfast(41) items(42) down(43) in(44) the(45) lounge(46) area(47) ...(48) but(49) it(50) was(51) a(52) suite(53) area(54) with(55) kitchenette(56) !(57) !(58) ?(59) ?(60) )(61) .(62) 
+		</sentence>
+		<sentence id="5">
+			Not(1) to(2) mention(3) the(4) dirty(5) towels(6) and(7) blankets(8) .(9) 
+			<opinion featWords="6" feature="towels" opWords="5" polarity="-"/>
+			<opinion featWords="8" feature="bedding" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			Also(1) ,(2) the(3) window(4) seat(5) was(6) dirty(7) and(8) moldy(9) along(10) with(11) mold(12) on(13) the(14) wall(15) above(16) the(17) AC(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			The(1) couch(2) pulled(3) out(4) to(5) a(6) bed(7) and(8) when(9) we(10) pulled(11) it(12) out(13) underneath(14) was(15) terribly(16) dirty(17) and(18) behind(19) it(20) as(21) well(22) was(23) dirty(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			When(1) we(2) asked(3) to(4) speak(5) to(6) management(7) several(8) times(9) they(10) told(11) us(12) each(13) time(14) they(15) were(16) unavailable(17) and(18) we(19) never(20) did(21) talk(22) with(23) them(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			We(1) were(2) quoted(3) a(4) certain(5) price(6) for(7) "(8) the(9) wedding(10) party(11) "(12) but(13) upon(14) check(15) out(16) did(17) not(18) get(19) that(20) rate(21) and(22) since(23) it(24) was(25) not(26) in(27) writing(28) they(29) would(30) not(31) honor(32) that(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			The(1) pool(2) was(3) green(4) and(5) the(6) ice(7) machine(8) was(9) broken(10) .(11) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) reason(3) we(4) continued(5) to(6) stay(7) was(8) because(9) family(10) was(11) there(12) and(13) we(14) did(15) not(16) want(17) the(18) bride(19) to(20) worry(21) about(22) where(23) we(24) were(25) staying(26) !(27) 
+		</sentence>
+		<sentence id="12">
+			It(1) was(2) a(3) terrible(4) hotel(5) and(6) we(7) will(8) do(9) all(10) that(11) we(12) can(13) to(14) make(15) sure(16) people(17) know(18) what(19) they(20) are(21) getting(22) into(23) ....(24) especially(25) if(26) they(27) are(28) going(29) to(30) the(31) Space(32) Center(33) since(34) it(35) is(36) right(37) across(38) the(39) street(40) .(41) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) staff(2) could(3) have(4) been(5) more(6) apologetic(7) but(8) they(9) were(10) not(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			DO(1) NOT(2) Stay(3) here(4) .(5) 
+		</sentence>
+	</text>
+</review>

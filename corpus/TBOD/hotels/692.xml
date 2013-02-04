@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="692" item="Clarion Hotel Maingate" rating="3">
+	<title>
+		<sentence id="1">
+			Ring(1) around(2) the(3) pool(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordable(1) ,(2) close(3) to(4) restaurants(5) ,(6) pool(7) .(8) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Allows(1) youth(2) sporting(3) groups(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			We(1) would(2) recommend(3) this(4) hotel(5) to(6) anyone(7) who(8) is(9) on(10) a(11) budget(12) and(13) is(14) not(15) looking(16) for(17) a(18) resort(19) style(20) hotel(21) .(22) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Not(1) geared(2) towards(3) families(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) main(2) attraction(3) to(4) this(5) hotel(6) was(7) the(8) price(9) /(10) value(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) was(3) not(4) the(5) destination(6) for(7) us(8) ,(9) rather(10) it(11) was(12) simply(13) a(14) place(15) to(16) stay(17) that(18) was(19) affordable(20) and(21) clean(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) features(2) we(3) liked(4) /(5) disliked(6) are(7) :(8) 1(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) price(2) .(3) 
+		</sentence>
+		<sentence id="5">
+			Compared(1) to(2) other(3) similar(4) hotels(5) in(6) the(7) area(8) it(9) offered(10) all(11) the(12) amenities(13) plus(14) a(15) few(16) extras(17) for(18) less(19) .(20) 2(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			The(1) pool(2) .(3) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) half(3) way(4) through(5) our(6) stay(7) ((8) 1(9) week(10) )(11) we(12) were(13) literally(14) beseiged(15) by(16) several(17) youth(18) baseball(19) teams(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			We(1) were(2) basically(3) forced(4) out(5) of(6) the(7) pool(8) by(9) nearly(10) 25(11) kids(12) jumping(13) simultaneously(14) into(15) it(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Upon(1) complaining(2) to(3) management(4) we(5) were(6) empathized(7) with(8) ,(9) but(10) no(11) action(12) was(13) taken(14) with(15) respect(16) to(17) their(18) own(19) pool(20) rules(21) .(22) 3(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) minifridge(2) in(3) the(4) room(5) was(6) very(7) useful(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			This(1) saved(2) us(3) money(4) with(5) meals(6) and(7) drinks(8) that(9) can(10) add(11) up(12) quickly(13) .(14) 4(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Location(1) to(2) dining(3) .(4) 
+		</sentence>
+		<sentence id="13">
+			This(1) hotel(2) is(3) right(4) across(5) the(6) street(7) from(8) a(9) buffet(10) restaurant(11) called(12) "(13) The(14) Golden(15) Corral(16) "(17) which(18) was(19) excellent(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			Also(1) within(2) walking(3) distance(4) was(5) Denny(6) 's(7) ,(8) Ponderosa(9) and(10) Baskin(11) Robbins(12) .(13) 5(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			Lack(1) of(2) any(3) continental(4) breakfast(5) facilities(6) meant(7) went(8) we(9) had(10) to(11) leave(12) your(13) hotel(14) every(15) morning(16) just(17) to(18) have(19) breakfast(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			Even(1) just(2) muffins(3) and(4) coffee(5) would(6) have(7) been(8) sufficient(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			Overall(1) ,(2) it(3) was(4) a(5) decent(6) place(7) to(8) stay(9) ,(10) but(11) if(12) you(13) have(14) children(15) or(16) if(17) you(18) 're(19) looking(20) for(21) a(22) "(23) hotel(24) experience(25) "(26) then(27) this(28) may(29) not(30) be(31) the(32) place(33) for(34) you(35) .(36) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			Stacie(1) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="244" item="Atlantic Paradise Inn" rating="1">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) a(3) scary(4) ,(5) scary(6) place(7) !(8) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) where(3) I(4) needed(5) to(6) be(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) !(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) stay(3) at(4) this(5) hotel(6) ,(7) unless(8) you(9) live(10) on(11) the(12) street(13) all(14) other(15) times(16) you(17) will(18) not(19) enjoy(20) your(21) stay(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			The(1) smell(2) alone(3) will(4) stick(5) with(6) you(7) for(8) days(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) spent(3) 2(4) nights(5) at(6) the(7) Berkeley(8) Carteret(9) Hotel(10) in(11) Asbury(12) Park(13) and(14) please(15) believe(16) me(17) when(18) I(19) say(20) I(21) was(22) tempted(23) to(24) pass(25) on(26) all(27) my(28) wonderful(29) plans(30) as(31) soon(32) as(33) I(34) got(35) there(36) .(37) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) crowded(3) so(4) check(5) in(6) took(7) 40(8) minutes(9) ,(10) unfortunately(11) that(12) was(13) with(14) only(15) 3(16) people(17) in(18) line(19) ahead(20) of(21) me(22) !(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) hotel(2) is(3) dirty(4) and(5) smells(6) very(7) old(8) and(9) musty(10) .(11) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="hotel" opWords="6,8" polarity="-" potency="7"/>
+			<opinion featWords="2" feature="hotel" opWords="6,10" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="4">
+			The(1) halls(2) are(3) dark(4) ,(5) the(6) pictures(7) in(8) the(9) lower(10) level(11) hall(12) are(13) all(14) slashed(15) and(16) look(17) to(18) have(19) been(20) there(21) like(22) that(23) for(24) sometime(25) !(26) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			Really(1) spooky(2) !(3) 
+		</sentence>
+		<sentence id="6">
+			They(1) have(2) 3(3) elevators(4) one(5) of(6) which(7) was(8) working(9) and(10) was(11) very(12) slow(13) ,(14) many(15) of(16) us(17) spent(18) a(19) great(20) deal(21) of(22) time(23) in(24) the(25) elevator(26) .(27) 
+			<opinion featWords="4" feature="elevator" opWords="13" polarity="-" potency="12"/>
+		</sentence>
+		<sentence id="7">
+			Signs(1) were(2) up(3) to(4) use(5) the(6) service(7) elevator(8) but(9) the(10) hall(11) to(12) get(13) to(14) it(15) was(16) filthy(17) ,(18) your(19) feet(20) will(21) stick(22) to(23) the(24) floor(25) .(26) 
+			<opinion featWords="11" feature="lobby" opWords="17" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Stairway(1) was(2) not(3) an(4) option(5) because(6) of(7) the(8) smell(9) and(10) filth(11) ,(12) red(13) splatters(14) ((15) of(16) what(17) ?(18) )(19) on(20) the(21) wall(22) ,(23) old(24) pillows(25) and(26) trash(27) everywhere(28) .(29) 
+			<opinion featWords="25" feature="bedding" opWords="24" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Not(1) one(2) ice(3) machine(4) on(5) 8(6) floors(7) worked(8) ,(9) believe(10) me(11) I(12) checked(13) them(14) all(15) !(16) 
+		</sentence>
+		<sentence id="10">
+			I(1) was(2) lead(3) to(4) an(5) ice(6) machine(7) in(8) the(9) service(10) area(11) when(12) I(13) complained(14) ,(15) not(16) a(17) good(18) place(19) to(20) send(21) your(22) guests(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			The(1) store(2) never(3) opened(4) the(5) 2(6) days(7) I(8) was(9) there(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) itself(3) could(4) have(5) been(6) okay(7) with(8) some(9) help(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			After(1) opening(2) all(3) the(4) windows(5) for(6) hours(7) and(8) spraying(9) expensive(10) perfume(11) the(12) smell(13) got(14) better(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) carpet(2) was(3) filthy(4) ,(5) I(6) never(7) took(8) my(9) shoes(10) off(11) .(12) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			The(1) bed(2) spread(3) and(4) pillow(5) covers(6) looked(7) as(8) if(9) they(10) were(11) the(12) same(13) ones(14) from(15) 1920(16) ,(17) old(18) ,(19) out(20) of(21) date(22) and(23) quite(24) creepy(25) .(26) 
+			<opinion featWords="2,3" feature="bedding" opWords="18" polarity="-"/>
+			<opinion featWords="2,3" feature="bedding" opWords="20,21,22" polarity="-"/>
+			<opinion featWords="2,3" feature="bedding" opWords="25" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			I(1) slept(2) under(3) the(4) sheets(5) but(6) not(7) allowing(8) the(9) comforter(10) to(11) ever(12) touch(13) me(14) ,(15) fully(16) dressed(17) ,(18) shirt(19) ,(20) sweatpants(21) and(22) socks(23) both(24) nights(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			The(1) smell(2) stuck(3) with(4) me(5) for(6) days(7) after(8) I(9) left(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			This(1) is(2) not(3) just(4) my(5) opinion(6) ,(7) I(8) was(9) there(10) for(11) a(12) concert(13) with(14) a(15) few(16) friends(17) in(18) different(19) rooms(20) and(21) we(22) all(23) agree(24) ,(25) do(26) not(27) book(28) a(29) room(30) here(31) .(32) 
+		</sentence>
+		<sentence id="19">
+			I(1) 'm(2) not(3) a(4) very(5) picky(6) person(7) ,(8) really(9) I(10) 'm(11) not(12) ,(13) but(14) this(15) hotel(16) really(17) crossed(18) a(19) line(20) for(21) me(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			Believe(1) other(2) reviews(3) if(4) you(5) 'd(6) like(7) ,(8) you(9) will(10) regret(11) it(12) !(13) 
+		</sentence>
+	</text>
+</review>

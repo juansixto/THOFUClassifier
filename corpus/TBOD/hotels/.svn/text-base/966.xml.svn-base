@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="966" item="Ritz-Carlton Club St Thomas" rating="4">
+	<title>
+		<sentence id="1">
+			Nice(1) vacation(2) treat(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) facilities(2) ,(3) helpful(4) staff(5) ,(6) and(7) private(8) beach(9) !(10) 
+			<opinion featWords="9" feature="beach" opWords="8" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="facilities" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) beautiful(2) surroundings(3) and(4) the(5) wonderful(6) staff(7) and(8) facilities(9) makes(10) this(11) resort(12) a(13) wonderful(14) place(15) to(16) stay(17) .(18) 
+			<opinion featWords="15" feature="place" opWords="14" polarity="+"/>
+			<opinion featWords="9" feature="facilities" opWords="6" polarity="+"/>
+			<opinion featWords="7" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) boyfriend(2) and(3) I(4) were(5) in(6) dire(7) need(8) of(9) relaxation(10) ,(11) so(12) we(13) headed(14) to(15) this(16) wonderful(17) resort(18) .(19) 
+			<opinion featWords="18" feature="hotel" opWords="17" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			As(1) soon(2) as(3) we(4) got(5) to(6) resort(7) ,(8) we(9) were(10) greeted(11) with(12) two(13) cocktails(14) and(15) were(16) escorted(17) to(18) our(19) rooms(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) very(3) pleased(4) with(5) the(6) beautiful(7) landscape(8) and(9) grounds(10) of(11) the(12) resort(13) as(14) we(15) rode(16) up(17) the(18) mini(19) golf(20) cart(21) to(22) our(23) room(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) room(2) was(3) spacious(4) ,(5) with(6) a(7) beautiful(8) view(9) facing(10) the(11) beach(12) ,(13) with(14) the(15) neighboring(16) island(17) of(18) St(19) .(20) 
+			<opinion featWords="9" feature="view" opWords="8" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			John(1) in(2) the(3) distance(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			Though(1) it(2) was(3) warm(4) this(5) time(6) of(7) year(8) ((9) the(10) first(11) week(12) of(13) July(14) )(15) the(16) cool(17) breezes(18) from(19) the(20) ocean(21) water(22) ,(23) cooled(24) us(25) well(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Though(1) the(2) resort(3) seems(4) rather(5) large(6) ,(7) by(8) looking(9) across(10) the(11) entire(12) property(13) ,(14) you(15) never(16) felt(17) overwhelmed(18) by(19) a(20) mass(21) of(22) people(23) ((24) because(25) you(26) hardly(27) saw(28) that(29) many(30) people(31) around(32) all(33) at(34) one(35) time(36) )(37) .(38) 
+		</sentence>
+		<sentence id="8">
+			This(1) almost(2) made(3) me(4) wonder(5) where(6) everyone(7) was(8) ,(9) knowing(10) that(11) the(12) hotel(13) was(14) completely(15) booked(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) staff(2) was(3) wonderful(4) and(5) the(6) concierge(7) was(8) great(9) ,(10) guiding(11) us(12) to(13) wonderful(14) restaurants(15) and(16) assisting(17) us(18) in(19) the(20) local(21) hot(22) spots(23) .(24) 
+			<opinion featWords="15" feature="food" opWords="14" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) has(3) its(4) own(5) catamaran(6) ,(7) which(8) has(9) half(10) and(11) full(12) day(13) excursions(14) ,(15) which(16) was(17) very(18) much(19) worth(20) the(21) extra(22) money(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			We(1) opted(2) for(3) the(4) half-day(5) ride(6) ,(7) and(8) had(9) a(10) wonderful(11) time(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			We(1) were(2) spoiled(3) with(4) wonderful(5) treats(6) and(7) beverages(8) as(9) well(10) as(11) the(12) views(13) of(14) the(15) ocean(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			The(1) captain(2) of(3) the(4) catamaran(5) took(6) us(7) out(8) to(9) the(10) ocean(11) ,(12) and(13) parked(14) between(15) two(16) uninhabited(17) islands(18) and(19) we(20) went(21) in(22) the(23) water(24) to(25) snorkel(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			This(1) part(2) of(3) the(4) ocean(5) was(6) particularly(7) beautiful(8) ,(9) as(10) it(11) was(12) untouched(13) and(14) hardly(15) visited(16) by(17) tourists(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			We(1) swam(2) through(3) millions(4) of(5) minnow(6) and(7) saw(8) a(9) whole(10) variety(11) of(12) fish(13) with(14) beautiful(15) exotic(16) colors(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			The(1) resort(2) also(3) had(4) its(5) own(6) coral(7) reef(8) off(9) the(10) beach(11) ,(12) so(13) we(14) went(15) out(16) to(17) snorkel(18) at(19) least(20) four-five(21) times(22) throughout(23) the(24) course(25) of(26) our(27) trip(28) .(29) 
+		</sentence>
+		<sentence id="17">
+			The(1) water(2) was(3) calm(4) ,(5) and(6) the(7) fish(8) aplenty(9) to(10) see(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			On(1) the(2) dry(3) land(4) ,(5) various(6) lizards(7) and(8) geckos(9) were(10) seen(11) on(12) walls(13) and(14) ((15) which(16) I(17) thought(18) was(19) interesting(20) )(21) and(22) if(23) you(24) were(25) lucky(26) enough(27) to(28) be(29) around(30) ,(31) you(32) could(33) have(34) seen(35) the(36) daily(37) feeding(38) of(39) the(40) local(41) iguanas(42) and(43) the(44) Iguana(45) Bar(46) ((47) by(48) the(49) pool(50) )(51) .(52) 
+		</sentence>
+		<sentence id="19">
+			The(1) restaurants(2) were(3) very(4) good(5) ,(6) with(7) buffet(8) and(9) a(10) regular(11) menu(12) option(13) .(14) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="20">
+			The(1) food(2) was(3) delicious(4) and(5) the(6) staff(7) ,(8) again(9) was(10) wonderful(11) .(12) 
+			<opinion featWords="7" feature="staff" opWords="11" polarity="+"/>
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			Whether(1) we(2) ate(3) at(4) the(5) restaurant(6) or(7) in(8) our(9) rooms(10) ,(11) the(12) views(13) from(14) all(15) aspects(16) of(17) the(18) resort(19) was(20) wonderful(21) .(22) 
+			<opinion featWords="13" feature="view" opWords="21" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			I(1) would(2) definitely(3) go(4) back(5) ,(6) and(7) highly(8) recommended(9) it(10) friends(11) .(12) 
+			<opinion feature="hotel" opWords="4,5" polarity="+" potency="3"/>
+			<opinion featRef="hotel" featWords="10" feature="hotel" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+	</text>
+</review>

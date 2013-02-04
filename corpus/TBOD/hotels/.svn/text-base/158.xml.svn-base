@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="158" item="Oasis Cancun - All Inclusive" rating="1">
+	<title>
+		<sentence id="1">
+			Grand(1) Oasis(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			It(1) 's(2) a(3) value(4) hotel(5) ,(6) but(7) there(8) is(9) nothing(10) Grand(11) about(12) it(13) .(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) many(2) to(3) mention(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) waste(3) your(4) money(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			There(1) is(2) nothing(3) GRAND(4) about(5) this(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			My(1) wife(2) and(3) I(4) ,(5) to(6) include(7) another(8) couple(9) traveling(10) with(11) us(12) ,(13) were(14) disgusted(15) from(16) the(17) minute(18) we(19) walked(20) in(21) the(22) front(23) door(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) to(3) be(4) "(5) grand(6) Oasis(7) "(8) guests(9) were(10) however(11) placed(12) in(13) a(14) room(15) in(16) one(17) of(18) the(19) out(20) buildings(21) ,(22) not(23) the(24) central(25) pyramid(26) .(27) .(28) those(29) were(30) 37(31) dollars(32) extra(33) per(34) night(35) ,(36) so(37) we(38) were(39) told(40) .(41) 
+		</sentence>
+		<sentence id="4">
+			Upon(1) entering(2) our(3) First(4) room(5) the(6) smell(7) was(8) so(9) bad(10) ((11) mold(12) )(13) that(14) I(15) immediately(16) returned(17) to(18) the(19) lobby(20) to(21) have(22) our(23) room(24) switched(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			This(1) was(2) done(3) ,(4) however(5) the(6) new(7) room(8) continued(9) to(10) smell(11) of(12) mold(13) and(14) mildew(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) "(2) in(3) room(4) bar(5) "(6) consisted(7) of(8) Coke(9) ,(10) bottled(11) water(12) and(13) cheap(14) mexican(15) beer(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			The(1) bar(2) was(3) never(4) filled(5) unless(6) multiple(7) calls(8) were(9) made(10) to(11) the(12) lobby(13) desk(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Washcloths(1) were(2) absent(3) unless(4) you(5) bribed(6) a(7) housekeeper(8) for(9) one(10) and(11) then(12) only(13) if(14) they(15) were(16) available(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) guess(2) we(3) should(4) be(5) happly(6) that(7) we(8) had(9) clean(10) sheets(11) and(12) towels(13) .(14) 
+			<opinion featWords="11" feature="bedding" opWords="10" polarity="+"/>
+			<opinion featWords="13" feature="towels" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) restaurants(2) were(3) very(4) average(5) and(6) under(7) NO(8) cercumstanses(9) could(10) you(11) find(12) a(13) bar(14) tender(15) who(16) could(17) make(18) the(19) same(20) drink(21) twice(22) .(23) .(24) very(25) dissapointing(26) .(27) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) one(3) restaurant(4) in(5) which(6) the(7) food(8) was(9) quite(10) good(11) .(12) 
+			<opinion featWords="8" feature="food" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="12">
+			The(1) only(2) drawback(3) was(4) you(5) had(6) to(7) make(8) a(9) reservation(10) at(11) the(12) concierge(13) the(14) morning(15) prior(16) and(17) they(18) only(19) took(20) 20(21) seatings(22) for(23) the(24) entire(25) evening(26) .(27) 
+		</sentence>
+		<sentence id="13">
+			Thats(1) not(2) very(3) many(4) when(5) you(6) consider(7) there(8) are(9) over(10) 3000(11) guests(12) at(13) the(14) hotel(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			The(1) service(2) was(3) poor(4) to(5) awful(6) at(7) all(8) of(9) the(10) restaurants(11) and(12) bars(13) .(14) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="service" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			They(1) gave(2) me(3) the(4) feeling(5) that(6) they(7) were(8) doing(9) me(10) a(11) favor(12) to(13) be(14) serving(15) me(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			I(1) tipped(2) at(3) least(4) 1(5) to(6) 2(7) us(8) dollars(9) per(10) drink(11) and(12) always(13) tipped(14) the(15) wait(16) staff(17) ,(18) it(19) did(20) not(21) matter(22) though(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			The(1) only(2) thing(3) positive(4) that(5) I(6) can(7) say(8) is(9) that(10) in(11) our(12) ((13) smelly(14) )(15) room(16) the(17) ac(18) worked(19) and(20) the(21) beds(22) were(23) comfy(24) .(25) 
+			<opinion featWords="22" feature="bed" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			I(1) know(2) that(3) you(4) get(5) what(6) you(7) pay(8) for(9) and(10) that(11) for(12) $950(13) for(14) 7(15) nights(16) beggars(17) can(18) not(19) be(20) choosers(21) ...(22) but(23) come(24) on(25) this(26) place(27) was(28) pittiful(29) .(30) 
+		</sentence>
+		<sentence id="19">
+			Oh(1) ,(2) I(3) almost(4) forgot(5) .(6) 
+		</sentence>
+		<sentence id="20">
+			As(1) a(2) "(3) Grand(4) Oasis(5) "(6) guest(7) you(8) are(9) eligible(10) to(11) visit(12) the(13) other(14) resorts(15) and(16) I(17) truley(18) recommend(19) the(20) Grand(21) Oasis(22) Playa(23) although(24) it(25) is(26) adults(27) only(28) .(29) 
+		</sentence>
+		<sentence id="21">
+			The(1) waits(2) at(3) the(4) restaurants(5) were(6) less(7) and(8) the(9) pool(10) was(11) much(12) less(13) crowded(14) .(15) 
+		</sentence>
+	</text>
+</review>

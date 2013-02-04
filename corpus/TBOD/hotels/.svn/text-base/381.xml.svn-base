@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="381" item="Hyatt San Jose" rating="3">
+	<title>
+		<sentence id="1">
+			Scads(1) Consumerly-Helpful(2) Writeoff(3) :(4) room(5) 7312(6) ,(7) Hyatt(8) San(9) Jose(10) ,(11) and(12) meeting(13) Epinionators(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			industrial(1) strength(2) toilet(3) ,(4) helpful(5) concierge(6) ,(7) comfortable(8) lobby(9) ,(10) proximity(11) to(12) bail(13) bondsmen(14) 
+			<opinion featWords="9" feature="lobby" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			computer(1) excavated(2) from(3) ancient(4) Ur(5) ,(6) no(7) bathroom(8) fan(9) ,(10) coffee(11) in(12) toilet(13) area(14) ,(15) awful(16) cable(17) selection(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			overpriced(1) ,(2) undermaintained(3) ,(4) overrated(5) ,(6) dull(7) vicinity(8) ;(9) however(10) ,(11) polite(12) ,(13) responsive(14) staff(15) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion feature="hotel" opWords="5" polarity="-"/>
+			<opinion featWords="15" feature="staff" opWords="12" polarity="+"/>
+			<opinion featWords="15" feature="staff" opWords="14" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) writing(2) a(3) review(4) of(5) a(6) place(7) like(8) the(9) Hyatt(10) San(11) Jose(12) ,(13) the(14) reviewer(15) attempting(16) to(17) provide(18) scads(19) upon(20) scads(21) of(22) information(23) helpful(24) to(25) consumers(26) is(27) faced(28) with(29) a(30) dilemma(31) :(32) how(33) can(34) one(35) truly(36) give(37) the(38) hotel(39) a(40) thorough(41) review(42) without(43) spending(44) at(45) least(46) one(47) night(48) in(49) every(50) room(51) ?(52) 
+		</sentence>
+		<sentence id="2">
+			To(1) do(2) so(3) is(4) well(5) beyond(6) the(7) means(8) ,(9) time(10) constraints(11) and(12) motivations(13) of(14) even(15) the(16) most(17) meticulous(18) and(19) thorough(20) reviewer(21) .(22) ((23) Not(24) even(25) the(26) ones(27) who(28) can(29) give(30) us(31) a(32) thousand(33) words(34) about(35) their(36) diaper(37) pails(38) could(39) achieve(40) it(41) .(42) )(43) Not(44) to(45) mention(46) that(47) it(48) would(49) bore(50) said(51) reviewer(52) deeply(53) ,(54) probably(55) even(56) unto(57) clinical(58) depression(59) .(60) 
+		</sentence>
+		<sentence id="3">
+			Even(1) now(2) I(3) 'm(4) in(5) therapy(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			One(1) can(2) ,(3) however(4) ,(5) do(6) one(7) thing(8) and(9) do(10) it(11) well(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			With(1) that(2) in(3) mind(4) ,(5) I(6) have(7) elected(8) to(9) review(10) ,(11) in(12) exhaustive(13) depth(14) ,(15) room(16) 7312(17) of(18) the(19) Hyatt(20) San(21) Jose(22) ((23) henceforth(24) ,(25) HSJ(26) )(27) located(28) at(29) 1740(30) N(31) 1st(32) St(33) ((34) adjacent(35) to(36) the(37) airport(38) )(39) .(40) 
+		</sentence>
+		<sentence id="6">
+			I(1) hope(2) that(3) its(4) minutiae(5) will(6) help(7) you(8) make(9) an(10) informed(11) decision(12) as(13) to(14) whether(15) you(16) would(17) wish(18) to(19) lay(20) your(21) weary(22) head(23) ((24) or(25) receive(26) some(27) )(28) there(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			I(1) accompanied(2) my(3) wife(4) on(5) a(6) business(7) trip(8) to(9) Scad(10) Jose(11) so(12) I(13) could(14) get(15) the(16) hell(17) out(18) of(19) the(20) Dry(21) Cities(22) for(23) a(24) weekend(25) and(26) ,(27) most(28) importantly(29) ,(30) to(31) get(32) to(33) match(34) some(35) weird(36) personal(37) habits(38) to(39) some(40) profile(41) pages(42) .(43) cornelia(44) ,(45) aruzenchin(46) ,(47) gr0dent(48) ,(49) ptiemann(50) ((51) pronounced(52) '(53) p-TYE-man(54) '(55) )(56) ,(57) repulsemonkey(58) ((59) pronounced(60) 're(61) -(62) PULSS-mun-kee(63) '(64) )(65) ,(66) petra(67) ((68) pronounced(69) '(70) PAY-tra(71) '(72) )(73) ,(74) and(75) kris-kochanski(76) ((77) pronounced(78) '(79) REE-sa(80) '(81) )(82) ,(83) were(84) all(85) among(86) those(87) I(88) dared(89) hope(90) to(91) get(92) together(93) with(94) .(95) 
+		</sentence>
+		<sentence id="8">
+			None(1) of(2) them(3) are(4) San(5) Josers(6) ,(7) so(8) they(9) all(10) had(11) to(12) make(13) long(14) treks(15) .(16) ((17) Scadly(18) ,(19) cornelia(20) and(21) I(22) were(23) not(24) able(25) to(26) coordinate(27) scadules(28) ,(29) but(30) we(31) had(32) a(33) nice(34) phone(35) chat(36) .(37) Gracious(38) ,(39) well(40) spoken(41) lady(42) .(43) )(44) Lobby(45) :(46) I(47) spent(48) a(49) good(50) deal(51) of(52) time(53) in(54) the(55) comfortable(56) leather(57) seats(58) here(59) ,(60) waiting(61) for(62) people(63) and(64) hoping(65) that(66) the(67) staff(68) would(69) not(70) notice(71) that(72) I(73) was(74) not(75) actually(76) a(77) registered(78) guest(79) .(80) 
+		</sentence>
+		<sentence id="9">
+			The(1) lobby(2) is(3) L-shaped(4) with(5) natural(6) wood(7) furniture(8) and(9) soft(10) plush(11) chairs(12) .(13) 
+			<opinion featWords="8" feature="furnishings" opWords="6" polarity="+"/>
+			<opinion featWords="12" feature="chairs" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Virtually(1) all(2) of(3) the(4) lobby(5) staff(6) ,(7) who(8) were(9) exceptionally(10) friendly(11) and(12) polite(13) ,(14) are(15) of(16) Hispanic(17) heritage(18) ,(19) which(20) was(21) the(22) norm(23) and(24) majority(25) in(26) San(27) Jose(28) in(29) my(30) experience(31) .(32) ((33) Side(34) note(35) :(36) interestingly(37) ,(38) there(39) is(40) less(41) bilingual(42) labeling(43) in(44) SJ(45) than(46) we(47) have(48) here(49) in(50) Pasco(51) ,(52) WA(53) ,(54) across(55) the(56) river(57) from(58) me(59) .(60) While(61) I(62) 'm(63) used(64) to(65) being(66) a(67) minority(68) as(69) an(70) Anglo(71) simply(72) by(73) crossing(74) the(75) Columbia(76) ,(77) it(78) had(79) a(80) different(81) feel(82) in(83) SJ(84) .(85) Not(86) as(87) in(88) more(89) /(90) less(91) comfortable(92) ,(93) but(94) just(95) culturally(96) different(97) .(98) San(99) Jose(100) felt(101) more(102) assimilated(103) ,(104) perhaps(105) .(106) Of(107) course(108) ,(109) I(110) only(111) saw(112) a(113) small(114) part(115) of(116) town(117) ,(118) so(119) please(120) do(121) not(122) interpret(123) this(124) as(125) a(126) scaducated(127) overall(128) judgment(129) .(130) )(131) Location(132) :(133) 7312(134) is(135) located(136) in(137) building(138) 7(139) ,(140) which(141) is(142) one(143) of(144) eight(145) or(146) ten(147) three-story(148) buildings(149) that(150) comprise(151) the(152) HSJ(153) compound(154) .(155) ((156) It(157) 's(158) fenced(159) ,(160) so(161) it(162) does(163) sort(164) of(165) feel(166) like(167) a(168) walled(169) city(170) --(171) or(172) perhaps(173) like(174) a(175) hi-rise(176) Stalag(177) 13(178) .(179) )(180) It(181) is(182) 187(183) paces(184) from(185) room(186) 7312(187) to(188) the(189) lobby(190) ,(191) assuming(192) you(193) take(194) the(195) rather(196) seedy(197) elevator(198) .(199) 
+		</sentence>
+		<sentence id="11">
+			January(1) 10(2) :(3) arrived(4) at(5) airport(6) ,(7) rode(8) over(9) in(10) rental(11) car(12) ((13) despite(14) existence(15) of(16) airport(17) shuttle(18) )(19) to(20) HSJ(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			Watched(1) wife(2) check(3) in(4) while(5) hoping(6) they(7) would(8) not(9) try(10) to(11) ding(12) us(13) el(14) cheapos(15) for(16) an(17) extra(18) guest(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			Had(1) plans(2) to(3) meet(4) petra(5) and(6) repulsemonkey(7) in(8) the(9) lobby(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Soon(1) realized(2) what(3) I(4) get(5) for(6) losing(7) about(8) sixteen(9) tons(10) on(11) Atkins(12) :(13) my(14) belt(15) could(16) not(17) be(18) tightened(19) sufficiently(20) to(21) hold(22) my(23) jeans(24) up(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			Not(1) desiring(2) to(3) greet(4) my(5) guests(6) ((7) well(8) ,(9) not(10) repulsemonkey(11) ,(12) anyway(13) )(14) with(15) my(16) pants(17) around(18) my(19) ankles(20) ,(21) I(22) went(23) over(24) to(25) the(26) concierge(27) and(28) explained(29) my(30) plight(31) .(32) 
+		</sentence>
+		<sentence id="16">
+			He(1) was(2) quite(3) sympathetic(4) ,(5) and(6) vanished(7) around(8) the(9) corner(10) in(11) the(12) golf(13) cart(14) with(15) my(16) belt(17) in(18) hand(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			Five(1) minutes(2) later(3) he(4) was(5) back(6) ,(7) with(8) two(9) new(10) ,(11) clean(12) holes(13) punched(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			I(1) gave(2) him(3) a(4) nice(5) tip(6) ((7) james23(8) ,(9) thanks(10) for(11) the(12) suggestion(13) :(14) give(15) the(16) bribe(17) in(18) a(19) handshake(20) ,(21) so(22) that(23) no(24) one(25) sees(26) him(27) take(28) the(29) money(30) )(31) .(32) 
+		</sentence>
+		<sentence id="19">
+			First(1) repulsemonkey(2) showed(3) up(4) ,(5) wearing(6) the(7) garage(8) mechanic(9) shirt(10) from(11) his(12) profile(13) picture(14) ,(15) and(16) shortly(17) thereafter(18) came(19) the(20) ever-saucy(21) petra(22) in(23) red(24) boots(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			There(1) was(2) much(3) disappointment(4) expressed(5) that(6) I(7) failed(8) to(9) bring(10) Alex(11) and(12) to(13) wear(14) the(15) fez(16) ,(17) which(18) unfortunately(19) would(20) just(21) not(22) fit(23) into(24) my(25) carry-on(26) bag(27) .(28) ((29) There(30) was(31) also(32) an(33) element(34) of(35) "(36) not(37) really(38) wanting(39) to(40) explain(41) it(42) to(43) airport(44) security(45) .(46) "(47) )(48) We(49) proceeded(50) to(51) :(52) Amalfi(53) 's(54) :(55) the(56) hotel(57) bar(58) /(59) evening(60) restaurant(61) ,(62) which(63) opens(64) at(65) 5(66) PM.(67) They(68) have(69) Guinness(70) as(71) well(72) as(73) a(74) few(75) beers-to-be-named-later(76) on(77) tap(78) there(79) ,(80) so(81) my(82) guests(83) and(84) I(85) repaired(86) there(87) for(88) libation(89) .(90) 
+		</sentence>
+		<sentence id="21">
+			We(1) spent(2) a(3) good(4) deal(5) of(6) time(7) exchanging(8) dish(9) on(10) all(11) of(12) you(13) ,(14) I(15) hope(16) you(17) know(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			It(1) is(2) very(3) difficult(4) to(5) pronounce(6) Epinions(7) IDs(8) aloud(9) ,(10) I(11) found(12) ,(13) so(14) I(15) 'm(16) sure(17) I(18) mispronounced(19) most(20) of(21) you(22) .(23) ((24) If(25) you(26) check(27) the(28) lists(29) at(30) the(31) bottom(32) of(33) this(34) review(35) ,(36) you(37) may(38) discover(39) just(40) how(41) badly(42) my(43) tang(44) gets(45) toungled(46) up(47) .(48) )(49) Since(50) Amalfi(51) 's(52) caters(53) mainly(54) to(55) people(56) in(57) suits(58) ,(59) I(60) 'm(61) sure(62) that(63) our(64) raucous(65) laughter(66) and(67) mildly(68) buzzed(69) demeanour(70) ((71) except(72) for(73) petra(74) ,(75) who(76) did(77) not(78) drink(79) ,(80) but(81) was(82) creditably(83) raucous(84) just(85) the(86) same(87) )(88) was(89) less(90) than(91) delightful(92) to(93) the(94) proprietorship(95) .(96) 
+		</sentence>
+		<sentence id="23">
+			I(1) 'm(2) also(3) sure(4) that(5) they(6) did(7) not(8) really(9) care(10) to(11) try(12) and(13) throw(14) us(15) out(16) ;(17) repulsemonkey(18) might(19) emcee(20) them(21) ,(22) I(23) might(24) sit(25) on(26) them(27) and(28) petra(29) might(30) make(31) them(32) listen(33) to(34) Falco(35) ,(36) then(37) ongeschtomppen(38) them(39) with(40) those(41) red(42) hobnailed(43) boots(44) .(45) 
+		</sentence>
+		<sentence id="24">
+			In(1) short(2) ,(3) we(4) had(5) a(6) great(7) deal(8) of(9) fun(10) .(11) repulsemonkey(12) is(13) exceptionally(14) wise(15) for(16) someone(17) so(18) young(19) I(20) called(21) him(22) '(23) son(24) '(25) and(26) '(27) boy(28) '(29) here(30) and(31) there(32) .(33) ((34) For(35) example(36) ,(37) despite(38) his(39) origins(40) in(41) da'hood(42) of(43) Scad(44) Bernardino(45) ,(46) he(47) is(48) wise(49) enough(50) to(51) recognize(52) '(53) son(54) '(55) for(56) what(57) is(58) ,(59) coming(60) from(61) a(62) Midwesterner(63) :(64) an(65) expression(66) of(67) affection(68) and(69) respect(70) .(71) )(72) petra(73) is(74) ebullient(75) and(76) lively(77) ,(78) and(79) very(80) effective(81) at(82) keeping(83) the(84) conversation(85) going(86) .(87) 
+		</sentence>
+		<sentence id="25">
+			She(1) is(2) the(3) sort(4) of(5) person(6) that(7) you(8) would(9) make(10) sure(11) to(12) invite(13) to(14) parties(15) .(16) ((17) Get(18) her(19) to(20) wear(21) the(22) red(23) boots(24) .(25) )(26) Later(27) in(28) my(29) visit(30) I(31) also(32) ate(33) dinner(34) at(35) Amalfi(36) 's(37) ((38) which(39) I(40) can(41) not(42) help(43) thinking(44) of(45) as(46) '(47) Alfalfa(48) 's(49) ...(50) I(51) just(52) thought(53) you(54) might(55) find(56) that(57) a(58) helpful(59) detail(60) )(61) ,(62) and(63) found(64) it(65) decent(66) but(67) nothing(68) special(69) .(70) 
+		</sentence>
+		<sentence id="26">
+			I(1) had(2) some(3) sort(4) of(5) cutesy(6) pizza(7) with(8) seafood(9) on(10) it(11) ,(12) and(13) the(14) waiter(15) was(16) very(17) upscale(18) in(19) attitude(20) .(21) 
+		</sentence>
+		<sentence id="27">
+			You(1) are(2) mostly(3) paying(4) for(5) convience(6) and(7) the(8) snooty(9) ambience(10) rather(11) than(12) great(13) chow(14) .(15) 
+		</sentence>
+		<sentence id="28">
+			Since(1) giving(2) me(3) a(4) subtle(5) scandlelit(6) dining(7) ambience(8) is(9) sort(10) of(11) like(12) feeding(13) Kansas-style(14) barbecued(15) range-fed(16) beef(17) ribs(18) to(19) your(20) Great(21) Dane(22) ,(23) it(24) 's(25) hardly(26) a(27) good(28) value(29) for(30) me(31) .(32) 
+		</sentence>
+		<sentence id="29">
+			I(1) 'd(2) have(3) been(4) happier(5) at(6) Pizza(7) Hut(8) .(9) 
+		</sentence>
+		<sentence id="30">
+			Of(1) course(2) ,(3) dinner(4) ultimately(5) leads(6) to(7) the(8) .(9) 
+		</sentence>
+		<sentence id="31">
+			.(1) .(2) 
+		</sentence>
+		<sentence id="32">
+			Toilet(1) :(2) room(3) 7312(4) is(5) equipped(6) with(7) a(8) flush(9) toilet(10) ((11) made(12) of(13) scandard(14) white(15) porcelain(16) )(17) and(18) that(19) crummy(20) type(21) of(22) hotel(23) toilet(24) paper(25) that(26) feels(27) not(28) far(29) removed(30) from(31) the(32) wood(33) pulp(34) and(35) turns(36) gray(37) when(38) thrown(39) in(40) the(41) toilet(42) after(43) wiping(44) ((45) I(46) tested(47) it(48) several(49) times(50) on(51) several(52) different(53) types(54) of(55) personal(56) care(57) activity(58) that(59) brought(60) it(61) into(62) play(63) )(64) .(65) 
+		</sentence>
+		<sentence id="33">
+			You(1) have(2) to(3) hold(4) down(5) the(6) chrome-plated(7) lever(8) for(9) about(10) one(11) full(12) second(13) in(14) order(15) to(16) flush(17) whatever(18) it(19) is(20) you(21) no(22) longer(23) want(24) down(25) the(26) facility(27) .(28) 
+		</sentence>
+		<sentence id="34">
+			To(1) the(2) HSJ(3) 's(4) credit(5) ,(6) it(7) did(8) not(9) get(10) plugged(11) up(12) even(13) when(14) I(15) presented(16) it(17) with(18) a(19) formidable(20) challenge(21) in(22) terms(23) of(24) volume(25) --(26) one(27) that(28) would(29) have(30) brought(31) a(32) lesser(33) commode(34) ,(35) so(36) to(37) speak(38) ,(39) to(40) its(41) knees(42) .(43) 
+		</sentence>
+		<sentence id="35">
+			Faucet(1) /(2) sink(3) :(4) 7312(5) comes(6) with(7) a(8) single(9) sink(10) that(11) has(12) hot(13) and(14) cold(15) running(16) water(17) ,(18) with(19) one(20) of(21) those(22) lever(23) /(24) swivel(25) types(26) of(27) handles(28) .(29) 
+		</sentence>
+		<sentence id="36">
+			The(1) water(2) tastes(3) kind(4) of(5) weird(6) and(7) chemical(8) .(9) 
+		</sentence>
+		<sentence id="37">
+			The(1) counter(2) is(3) the(4) full(5) length(6) of(7) the(8) bathroom(9) ,(10) which(11) measures(12) about(13) 8(14) '(15) x(16) 8(17) '(18) ,(19) and(20) is(21) smooth(22) faux(23) marble(24) ;(25) the(26) floor(27) is(28) tiled(29) in(30) tan(31) .(32) 
+		</sentence>
+		<sentence id="38">
+			The(1) grout(2) is(3) in(4) good(5) shape(6) and(7) lacks(8) graffiti(9) ,(10) even(11) around(12) the(13) toilet(14) ,(15) where(16) one(17) might(18) expect(19) to(20) find(21) a(22) few(23) phone(24) numbers(25) advertising(26) for(27) oral(28) sex(29) or(30) something(31) .(32) ((33) As(34) it(35) was(36) ,(37) I(38) had(39) to(40) look(41) in(42) the(43) Yellow(44) Pages(45) .(46) What(47) a(48) humiliating(49) experience(50) .(51) )(52) There(53) is(54) an(55) iron(56) in(57) the(58) coat(59) closet(60) ((61) which(62) one(63) could(64) steal(65) )(66) .(67) 
+		</sentence>
+		<sentence id="39">
+			There(1) 's(2) a(3) hair(4) dryer(5) in(6) the(7) bathroom(8) ((9) which(10) is(11) too(12) firmly(13) attached(14) to(15) steal(16) )(17) .(18) 
+		</sentence>
+		<sentence id="40">
+			The(1) coffee(2) machine(3) is(4) quite(5) stealable(6) ,(7) if(8) you(9) want(10) to(11) own(12) a(13) device(14) that(15) will(16) make(17) approximately(18) one(19) real(20) cup(21) of(22) coffee(23) and(24) which(25) turns(26) itself(27) off(28) after(29) one(30) hour(31) .(32) 
+		</sentence>
+		<sentence id="41">
+			About(1) the(2) coffee(3) :(4) they(5) provide(6) a(7) packet(8) each(9) of(10) regular(11) and(12) de-scadf(13) ,(14) and(15) even(16) combining(17) both(18) ((19) my(20) usual(21) batch(22) of(23) coffee(24) would(25) grow(26) hair(27) on(28) Audrey(29) Hepburn(30) 's(31) nipples(32) )(33) ,(34) you(35) still(36) get(37) coffee(38) vastly(39) inferior(40) to(41) that(42) found(43) at(44) your(45) typical(46) free-fire-zone(47) convenience(48) store(49) at(50) 3:00(51) AM.(52) The(53) worse(54) news(55) about(56) the(57) coffee(58) machine(59) is(60) that(61) it(62) 's(63) in(64) the(65) crapper(66) .(67) 
+		</sentence>
+		<sentence id="42">
+			So(1) if(2) you(3) 're(4) having(5) your(6) coffee(7) ((8) such(9) as(10) it(11) is(12) )(13) in(14) the(15) morning(16) ,(17) the(18) atmosphere(19) may(20) not(21) be(22) optimal(23) --(24) especially(25) since(26) the(27) bathroom(28) fan(29) in(30) room(31) 7312(32) is(33) broken(34) .(35) 
+		</sentence>
+		<sentence id="43">
+			Ye(1) probably(2) thinketh(3) I(4) hath(5) just(6) conveniently(7) madeth(8) that(9) up(10) ,(11) O(12) Ye(13) of(14) Little(15) Faitheth(16) ,(17) but(18) it(19) 's(20) true(21) for(22) crissakes(23) .(24) 
+		</sentence>
+		<sentence id="44">
+			All(1) of(2) this(3) detail(4) about(5) this(6) room(7) is(8) absolutely(9) true(10) .(11) 
+		</sentence>
+		<sentence id="45">
+			Go(1) stay(2) in(3) room(4) 7312(5) if(6) you(7) do(8) not(9) believe(10) me(11) .(12) 
+		</sentence>
+		<sentence id="46">
+			I(1) dare(2) you(3) .(4) 
+		</sentence>
+		<sentence id="47">
+			I(1) defy(2) you(3) .(4) 
+		</sentence>
+		<sentence id="48">
+			Maids(1) :(2) did(3) a(4) good(5) job(6) cleaning(7) the(8) place(9) up(10) ,(11) although(12) one(13) time(14) they(15) turned(16) off(17) the(18) computer(19) without(20) saving(21) my(22) game(23) ((24) those(25) finks(26) )(27) .(28) 
+		</sentence>
+		<sentence id="49">
+			Around(1) the(2) sink(3) ,(4) every(5) day(6) ,(7) they(8) tastefully(9) arrange(10) scads(11) of(12) soaps(13) ,(14) shampoos(15) ,(16) coffee(17) fixings(18) ,(19) and(20) so(21) on(22) .(23) 
+		</sentence>
+		<sentence id="50">
+			I(1) 'm(2) sure(3) that(4) I(5) 'm(6) not(7) supposed(8) to(9) call(10) them(11) maids(12) --(13) they(14) probably(15) want(16) to(17) be(18) '(19) housekeeping(20) technicians(21) '(22) ,(23) or(24) '(25) toilet(26) workers(27) '(28) ,(29) or(30) somesuch(31) .(32) 
+		</sentence>
+		<sentence id="51">
+			If(1) hookers(2) now(3) want(4) to(5) be(6) called(7) '(8) sex(9) workers(10) '(11) ,(12) anything(13) is(14) possible(15) in(16) PC(17) America(18) .(19) 
+		</sentence>
+		<sentence id="52">
+			January(1) 11(2) :(3) Friday(4) was(5) my(6) day(7) to(8) trek(9) downtown(10) ((11) about(12) three(13) miles(14) '(15) walk(16) )(17) to(18) meet(19) the(20) famed(21) aruzenchin(22) .(23) 
+		</sentence>
+		<sentence id="53">
+			To(1) judge(2) by(3) that(4) walk(5) ,(6) the(7) primary(8) industry(9) of(10) San(11) Jose(12) is(13) bail(14) bonds(15) and(16) immigration(17) lawyers(18) .(19) 
+		</sentence>
+		<sentence id="54">
+			On(1) 1st(2) Avenue(3) I(4) must(5) have(6) seen(7) no(8) less(9) than(10) fifteen(11) bail(12) bond(13) shops(14) and(15) probably(16) double(17) that(18) many(19) shysterish(20) law(21) offices(22) .(23) 
+		</sentence>
+		<sentence id="55">
+			The(1) Mexican(2) consulate(3) is(4) also(5) on(6) that(7) street(8) ,(9) and(10) there(11) was(12) a(13) very(14) long(15) line(16) outside(17) it(18) .(19) 
+		</sentence>
+		<sentence id="56">
+			Ay(1) ,(2) caramba(3) .(4) 
+		</sentence>
+		<sentence id="57">
+			I(1) met(2) aruzenchin(3) ,(4) who(5) is(6) one(7) of(8) those(9) people(10) who(11) just(12) looks(13) friendly(14) and(15) radiates(16) goodwill(17) ,(18) at(19) the(20) '(21) Hound(22) station(23) .(24) 
+		</sentence>
+		<sentence id="58">
+			This(1) bus(2) station(3) was(4) much(5) less(6) derelict(7) than(8) many(9) I(10) 've(11) staggered(12) into(13) /(14) out(15) of(16) in(17) varying(18) states(19) of(20) inebriation(21) .(22) 
+		</sentence>
+		<sentence id="59">
+			He(1) and(2) I(3) got(4) a(5) bite(6) to(7) eat(8) at(9) a(10) local(11) deli(12) ,(13) and(14) just(15) shot(16) the(17) breeze(18) .(19) 
+		</sentence>
+		<sentence id="60">
+			He(1) 's(2) significantly(3) my(4) senior(5) ,(6) and(7) has(8) had(9) an(10) incredible(11) number(12) of(13) experiences(14) ,(15) so(16) I(17) admit(18) that(19) I(20) mainly(21) just(22) listened(23) and(24) allowed(25) my(26) mind(27) to(28) expand(29) a(30) little(31) .(32) 
+		</sentence>
+		<sentence id="61">
+			We(1) had(2) lunch(3) at(4) a(5) Peruvian(6) place(7) in(8) which(9) we(10) were(11) spoken(12) to(13) only(14) in(15) Spanish(16) ,(17) which(18) was(19) enjoyable(20) ;(21) since(22) aruzenchin(23) not(24) only(25) speaks(26) Spanish(27) ,(28) but(29) does(30) so(31) far(32) better(33) than(34) I(35) ,(36) we(37) had(38) no(39) difficulty(40) .(41) 
+		</sentence>
+		<sentence id="62">
+			We(1) also(2) toured(3) the(4) campus(5) of(6) San(7) Jose(8) State(9) University(10) ,(11) which(12) is(13) about(14) the(15) size(16) of(17) a(18) small(19) mousepad(20) .(21) 
+		</sentence>
+		<sentence id="63">
+			But(1) some(2) of(3) my(4) most(5) vivid(6) memories(7) of(8) this(9) trip(10) are(11) of(12) sitting(13) in(14) the(15) San(16) Jose(17) downtown(18) open(19) space(20) /(21) park(22) area(23) with(24) aruzenchin(25) ,(26) discussing(27) the(28) events(29) leading(30) up(31) to(32) World(33) War(34) II(35) ,(36) conformity(37) vs(38) .(39) individuality(40) ,(41) and(42) the(43) ideological(44) shackles(45) of(46) society(47) .(48) 
+		</sentence>
+		<sentence id="64">
+			Since(1) his(2) father(3) fought(4) in(5) the(6) Spanish(7) Civil(8) War(9) ,(10) he(11) has(12) some(13) near(14) perspective(15) on(16) the(17) times(18) .(19) 
+		</sentence>
+		<sentence id="65">
+			When(1) I(2) walked(3) him(4) back(5) to(6) the(7) bus(8) station(9) and(10) said(11) farewell(12) with(13) an(14) abrazo(15) ,(16) I(17) felt(18) like(19) a(20) very(21) lucky(22) man(23) .(24) 
+		</sentence>
+		<sentence id="66">
+			That(1) evening(2) I(3) received(4) a(5) return(6) call(7) from(8) ptiemann(9) ,(10) asking(11) if(12) I(13) 'd(14) like(15) to(16) go(17) for(18) a(19) beer(20) with(21) him(22) ,(23) and(24) at(25) about(26) 6:30(27) he(28) swung(29) by(30) the(31) HSJ(32) 's(33) lobby(34) to(35) pick(36) me(37) up(38) .(39) 
+		</sentence>
+		<sentence id="67">
+			His(1) car(2) had(3) recently(4) been(5) rear-ended(6) ,(7) but(8) looked(9) unhurt(10) ,(11) and(12) I(13) commented(14) about(15) the(16) bail(17) bond(18) places(19) .(20) 
+		</sentence>
+		<sentence id="68">
+			He(1) asked(2) if(3) I(4) thought(5) we(6) 'd(7) need(8) their(9) services(10) tonight(11) ,(12) and(13) we(14) laughed(15) .(16) 
+		</sentence>
+		<sentence id="69">
+			Over(1) a(2) couple(3) of(4) Kirins(5) in(6) the(7) bar(8) of(9) a(10) Chinese(11) restaurant(12) ,(13) we(14) kidded(15) about(16) the(17) site(18) ,(19) about(20) petra(21) ((22) which(23) whom(24) he(25) lives(26) ,(27) but(28) they(29) are(30) not(31) partners(32) ,(33) just(34) housemates(35) ,(36) and(37) on(38) whom(39) I(40) now(41) have(42) some(43) serious(44) dirt(45) --(46) so(47) she(48) would(49) do(50) well(51) to(52) kiss(53) up(54) a(55) little(56) )(57) ,(58) and(59) so(60) on(61) .(62) 
+		</sentence>
+		<sentence id="70">
+			One(1) topic(2) we(3) spent(4) some(5) time(6) on(7) was(8) the(9) future(10) of(11) this(12) site(13) ,(14) and(15) ptiemann(16) makes(17) a(18) pretty(19) solid(20) case(21) for(22) it(23) not(24) having(25) much(26) of(27) a(28) future(29) ,(30) though(31) I(32) 'll(33) continue(34) to(35) hope(36) for(37) better(38) .(39) 
+		</sentence>
+		<sentence id="71">
+			At(1) the(2) end(3) ,(4) I(5) asked(6) if(7) he(8) 'd(9) be(10) willing(11) to(12) be(13) photographed(14) ,(15) mentioning(16) that(17) I(18) usually(19) asked(20) permission(21) .(22) 
+		</sentence>
+		<sentence id="72">
+			He(1) said(2) ,(3) "(4) I(5) do(6) not(7) --(8) "(9) and(10) ,(11) laughing(12) ,(13) snapped(14) a(15) digital(16) cam(17) photo(18) of(19) me(20) ((21) one(22) in(23) which(24) ,(25) as(26) I(27) anticipated(28) ,(29) it(30) turned(31) out(32) that(33) I(34) looked(35) remarkably(36) stupid(37) )(38) from(39) the(40) hip(41) ,(42) like(43) a(44) Western(45) gunslinger(46) .(47) 
+		</sentence>
+		<sentence id="73">
+			It(1) was(2) a(3) good(4) time(5) ,(6) although(7) between(8) the(9) bar(10) noise(11) ,(12) his(13) accent(14) ((15) which(16) is(17) pronounced(18) ,(19) though(20) as(21) in(22) his(23) reviews(24) ,(25) his(26) English(27) is(28) quite(29) fluent(30) )(31) ,(32) and(33) my(34) own(35) half-deafness(36) ,(37) I(38) was(39) always(40) straining(41) to(42) hear(43) .(44) 
+		</sentence>
+		<sentence id="74">
+			After(1) he(2) dropped(3) me(4) off(5) ,(6) I(7) knocked(8) back(9) a(10) good(11) quantity(12) of(13) cheap(14) sake(15) ((16) purchased(17) earlier(18) at(19) Bail(20) Bond(21) Boulevard(22) 's(23) liquor(24) store(25) )(26) and(27) slept(28) the(29) sleep(30) of(31) the(32) righteous(33) and(34) pure(35) of(36) heart(37) .(38) 
+		</sentence>
+		<sentence id="75">
+			Smoking(1) :(2) if(3) you(4) smoke(5) cigars(6) like(7) a(8) chimney(9) in(10) room(11) 7312(12) ,(13) they(14) spray(15) the(16) place(17) with(18) about(19) four(20) quarts(21) of(22) one(23) hell(24) of(25) an(26) air(27) freshener(28) .(29) 
+		</sentence>
+		<sentence id="76">
+			Unfortunately(1) ,(2) I(3) did(4) not(5) have(6) access(7) to(8) the(9) ingredient(10) list(11) for(12) the(13) air(14) freshener(15) ,(16) which(17) I(18) realize(19) makes(20) this(21) review(22) much(23) less(24) helpful(25) .(26) 
+		</sentence>
+		<sentence id="77">
+			If(1) you(2) NH(3) me(4) for(5) it(6) ,(7) I(8) 'll(9) take(10) my(11) quarts(12) like(13) a(14) good(15) trooper(16) .(17) 
+		</sentence>
+		<sentence id="78">
+			Bed(1) :(2) queen(3) size(4) ,(5) and(6) routinely(7) shortsheeted(8) by(9) the(10) maids(11) .(12) 
+		</sentence>
+		<sentence id="79">
+			A(1) fairly(2) comfortable(3) bed(4) ,(5) although(6) some(7) grunginess(8) and(9) stains(10) on(11) the(12) side(13) of(14) the(15) mattress(16) .(17) 
+			<opinion featWords="4" feature="bed" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+		<sentence id="80">
+			Not(1) enough(2) pillows(3) --(4) only(5) three(6) --(7) so(8) we(9) actually(10) scad(11) to(12) use(13) the(14) fake(15) ones(16) in(17) order(18) to(19) achieve(20) the(21) proper(22) indolent(23) ,(24) slovenly(25) comfort(26) .(27) 
+		</sentence>
+		<sentence id="81">
+			Carpet(1) :(2) kind(3) of(4) old(5) and(6) grody(7) .(8) 
+			<opinion featWords="1" feature="carpets" opWords="5" polarity="-"/>
+			<opinion featWords="1" feature="carpets" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="82">
+			Very(1) short(2) ,(3) obviously(4) to(5) prevent(6) excessive(7) soiling(8) from(9) intoxicated(10) copulants(11) ,(12) of(13) which(14) I(15) did(16) not(17) quite(18) become(19) one(20) in(21) the(22) strictest(23) sense(24) ((25) bummer(26) )(27) .(28) 
+		</sentence>
+		<sentence id="83">
+			Oh(1) ,(2) and(3) there(4) is(5) a(6) small(7) cigar(8) burn(9) on(10) the(11) carpet(12) ,(13) carefully(14) hidden(15) beneath(16) one(17) of(18) the(19) table(20) legs(21) but(22) which(23) did(24) not(25) escape(26) my(27) consumerly-helpful(28) eagle(29) eye(30) .(31) ((32) While(33) this(34) could(35) theoretically(36) have(37) occurred(38) during(39) our(40) stay(41) ,(42) I(43) still(44) hold(45) the(46) Hyatt(47) responsible(48) .(49) They(50) really(51) need(52) to(53) be(54) more(55) on(56) top(57) of(58) things(59) .(60) )(61) Walls(62) :(63) wallpaper(64) kind(65) of(66) dowdy(67) ,(68) really(69) ,(70) and(71) there(72) were(73) some(74) obvious(75) defects(76) .(77) 
+			<opinion featWords="64" feature="walls" opWords="67" polarity="-"/>
+		</sentence>
+		<sentence id="84">
+			For(1) example(2) ,(3) I(4) was(5) highly(6) miffed(7) to(8) see(9) that(10) when(11) they(12) had(13) cut(14) holes(15) for(16) the(17) sprinkler(18) system(19) ,(20) they(21) had(22) cut(23) kind(24) of(25) a(26) raggedy(27) hole(28) in(29) the(30) wall(31) above(32) the(33) can(34) door(35) for(36) the(37) sprinkler(38) head(39) ,(40) and(41) had(42) not(43) bothered(44) to(45) touch(46) it(47) up(48) .(49) 
+		</sentence>
+		<sentence id="85">
+			This(1) detracted(2) greatly(3) from(4) my(5) sense(6) of(7) luxury(8) .(9) 
+		</sentence>
+		<sentence id="86">
+			January(1) 12(2) :(3) met(4) with(5) kris-kochanski(6) and(7) gr0dent(8) in(9) the(10) lobby(11) at(12) noon(13) .(14) 
+		</sentence>
+		<sentence id="87">
+			We(1) had(2) just(3) about(4) given(5) up(6) on(7) petra(8) when(9) she(10) showed(11) up(12) ,(13) tardy(14) again(15) ((16) we(17) forewent(18) the(19) flogging(20) ,(21) as(22) a(23) friendly(24) gesture(25) )(26) ,(27) just(28) as(29) we(30) were(31) on(32) our(33) way(34) to(35) the(36) car(37) .(38) 
+		</sentence>
+		<sentence id="88">
+			We(1) must(2) live(3) right(4) .(5) 
+		</sentence>
+		<sentence id="89">
+			Anyway(1) ,(2) we(3) motated(4) over(5) to(6) Coco(7) 's(8) ,(9) which(10) has(11) got(12) to(13) be(14) one(15) of(16) the(17) crappiest(18) restaurants(19) around(20) .(21) 
+		</sentence>
+		<sentence id="90">
+			Both(1) kris-kochanski(2) and(3) gr0dent(4) are(5) a(6) great(7) deal(8) of(9) fun(10) ,(11) though(12) ,(13) so(14) the(15) scuddiness(16) of(17) food(18) and(19) service(20) ((21) I(22) was(23) the(24) only(25) one(26) who(27) stooped(28) so(29) low(30) as(31) to(32) finish(33) his(34) food(35) )(36) was(37) secondary(38) .(39) 
+		</sentence>
+		<sentence id="91">
+			One(1) of(2) the(3) funniest(4) aspects(5) of(6) our(7) lunch(8) was(9) our(10) waitress(11) ,(12) a(13) husky(14) ,(15) angular(16) blonde(17) whose(18) nametag(19) proclaimed(20) her(21) to(22) be(23) '(24) Ken(25) Doll(26) '(27) .(28) ((29) I(30) can(31) not(32) state(33) that(34) the(35) name(36) was(37) wholly(38) inapt(39) .(40) )(41) While(42) she(43) did(44) a(45) fairly(46) negligent(47) job(48) ,(49) we(50) got(51) a(52) good(53) deal(54) of(55) enjoyment(56) out(57) of(58) speculating(59) on(60) the(61) name(62) .(63) 
+		</sentence>
+		<sentence id="92">
+			I(1) also(2) discovered(3) that(4) gr0dent(5) is(6) a(7) board(8) strategy(9) gamer(10) ,(11) which(12) gave(13) us(14) instant(15) kinship(16) .(17) 
+		</sentence>
+		<sentence id="93">
+			We(1) did(2) some(3) of(4) the(5) obligatory(6) ((7) and(8) admittedly(9) vulgar(10) )(11) Epiniomudslinging(12) ,(13) deriding(14) those(15) we(16) consider(17) to(18) be(19) idiots(20) ,(21) kissers(22) of(23) sphincter(24) muscle(25) ,(26) and(27) hoseheads(28) .(29) 
+		</sentence>
+		<sentence id="94">
+			I(1) enjoyed(2) myself(3) immensely(4) .(5) kris-kochanski(6) has(7) a(8) really(9) musical(10) laugh(11) that(12) compels(13) one(14) to(15) crack(16) jokes(17) just(18) to(19) hear(20) more(21) of(22) it(23) .(24) 
+		</sentence>
+		<sentence id="95">
+			Computer(1) :(2) this(3) was(4) one(5) of(6) the(7) most(8) amusing(9) things(10) about(11) room(12) 7312(13) ,(14) and(15) also(16) a(17) blatant(18) case(19) of(20) false(21) advertising(22) .(23) 
+		</sentence>
+		<sentence id="96">
+			Their(1) promotions(2) promise(3) that(4) each(5) room(6) contains(7) a(8) sc'advanced(9) multimedia(10) workstation(11) '(12) with(13) Internet(14) access(15) and(16) a(17) fax(18) .(19) 
+		</sentence>
+		<sentence id="97">
+			Well(1) ,(2) I(3) did(4) not(5) print(6) or(7) try(8) the(9) fax(10) ((11) you(12) may(13) raite(14) this(15) H(16) four(17) that(18) omisssion(19) alone(20) ,(21) Jan(22) ,(23) pluss(24) the(25) spellling(26) errorz(27) )(28) ,(29) but(30) let(31) me(32) pose(33) a(34) question(35) to(36) you(37) .(38) 
+		</sentence>
+		<sentence id="98">
+			Would(1) you(2) consider(3) a(4) Pentium-120(5) with(6) 32MB(7) of(8) RAM(9) ,(10) an(11) integrated(12) monitor(13) with(14) dot(15) pitch(16) about(17) like(18) a(19) Lite-Brite(20) and(21) washed-out(22) brightness(23) ,(24) NT(25) 4.0(26) ,(27) and(28) tinny(29) integrated(30) sound(31) to(32) be(33) a(34) sc'advanced(35) multimedia(36) workstation(37) '(38) ?(39) 
+		</sentence>
+		<sentence id="99">
+			Ok(1) ,(2) granted(3) ,(4) any(5) computer(6) is(7) better(8) than(9) you(10) get(11) most(12) places(13) .(14) 
+		</sentence>
+		<sentence id="100">
+			However(1) ,(2) this(3) is(4) 2002(5) .(6) 
+		</sentence>
+		<sentence id="101">
+			A(1) sc'advanced(2) multimedia(3) workstation(4) '(5) might(6) be(7) a(8) lot(9) of(10) things(11) ,(12) but(13) it(14) ai(15) not(16) a(17) crappy(18) old(19) P-120(20) .(21) 
+		</sentence>
+		<sentence id="102">
+			What(1) 's(2) more(3) ,(4) this(5) machine(6) runs(7) no(8) virus(9) scanner(10) .(11) 
+		</sentence>
+		<sentence id="103">
+			So(1) if(2) you(3) open(4) up(5) your(6) Word(7) document(8) on(9) it(10) ,(11) think(12) of(13) it(14) as(15) an(16) electronic(17) glory(18) hole(19) .(20) 
+		</sentence>
+		<sentence id="104">
+			And(1) this(2) is(3) supposed(4) to(5) be(6) Silicon(7) Valley(8) ,(9) huh(10) ?(11) 
+		</sentence>
+		<sentence id="105">
+			I(1) vote(2) we(3) rename(4) it(5) '(6) Boron(7) Alley(8) .(9) '(10) One(11) metalloid(12) is(13) as(14) good(15) as(16) another(17) .(18) 
+		</sentence>
+		<sentence id="106">
+			Plus(1) ,(2) the(3) part(4) about(5) Internet(6) access(7) was(8) bullllllshiiiiiiit(9) .(10) 
+		</sentence>
+		<sentence id="107">
+			At(1) no(2) time(3) was(4) I(5) able(6) to(7) connect(8) via(9) their(10) vaunted(11) T1(12) .(13) 
+		</sentence>
+		<sentence id="108">
+			It(1) was(2) enough(3) of(4) a(5) battle(6) to(7) get(8) Civ(9) II(10) installed(11) on(12) the(13) sucker(14) .(15) 
+		</sentence>
+		<sentence id="109">
+			Performance(1) was(2) positively(3) excrerrific(4) .(5) 
+		</sentence>
+		<sentence id="110">
+			Furniture(1) :(2) this(3) room(4) contains(5) two(6) tables(7) of(8) varnished(9) ,(10) rustic-looking(11) wood(12) arranged(13) in(14) an(15) L-shape(16) ,(17) which(18) is(19) where(20) the(21) computer(22) is(23) .(24) 
+		</sentence>
+		<sentence id="111">
+			There(1) are(2) two(3) chairs(4) ,(5) dark(6) stained(7) wood(8) with(9) a(10) plaid-patterened(11) cloth(12) upholstery(13) .(14) 
+		</sentence>
+		<sentence id="112">
+			The(1) nightscands(2) are(3) rectangular(4) and(5) each(6) has(7) its(8) own(9) lamp(10) .(11) 
+		</sentence>
+		<sentence id="113">
+			The(1) light(2) is(3) bright(4) enough(5) to(6) read(7) _(8) The(9) Deed(10) of(11) Paksenarrion(12) _(13) or(14) the(15) _(16) Poetic(17) Edda(18) _(19) by(20) before(21) going(22) to(23) bed(24) ,(25) as(26) I(27) proved(28) in(29) the(30) most(31) scientific(32) way(33) ;(34) however(35) ,(36) I(37) can(38) not(39) assert(40) that(41) it(42) would(43) be(44) bright(45) enough(46) to(47) read(48) ,(49) say(50) ,(51) _(52) Hustler(53) _(54) ,(55) for(56) I(57) did(58) not(59) test(60) that(61) detail(62) .(63) 
+		</sentence>
+		<sentence id="114">
+			If(1) you(2) attempt(3) to(4) read(5) anything(6) by(7) this(8) light(9) other(10) than(11) the(12) first(13) two(14) I(15) mentioned(16) ,(17) I(18) can(19) not(20) predict(21) your(22) likelihood(23) of(24) success(25) .(26) 
+		</sentence>
+		<sentence id="115">
+			TV(1) :(2) good(3) reception(4) ,(5) weak(6) selection(7) of(8) cable(9) channels(10) .(11) 
+		</sentence>
+		<sentence id="116">
+			I(1) noticed(2) that(3) they(4) lacked(5) the(6) regular(7) History(8) Channel(9) ,(10) for(11) which(12) they(13) should(14) be(15) severely(16) caned(17) and(18) chastised(19) ((20) they(21) did(22) have(23) History(24) Channel(25) International(26) )(27) .(28) 
+		</sentence>
+		<sentence id="117">
+			You(1) can(2) supposedly(3) do(4) express(5) checkout(6) via(7) the(8) remote(9) ,(10) but(11) Deb(12) tried(13) without(14) success(15) .(16) 
+		</sentence>
+		<sentence id="118">
+			The(1) TV(2) is(3) in(4) a(5) humungous(6) wooden(7) scadbinet(8) that(9) matches(10) the(11) tables(12) ,(13) standing(14) about(15) 6(16) '(17) 6(18) "(19) .(20) It(21) would(22) be(23) interesting(24) to(25) set(26) a(27) large(28) ,(29) low-silhouette(30) cheese(31) atop(32) it(33) in(34) the(35) centre(36) ,(37) and(38) see(39) how(40) many(41) weeks(42) it(43) took(44) someone(45) to(46) notice(47) it(48) ,(49) and(50) that(51) 's(52) just(53) the(54) sort(55) of(56) juvenile(57) stunt(58) I(59) would(60) pull(61) .(62) Rates(63) :(64) room(65) 7312(66) costs(67) $199(68) per(69) night(70) ,(71) which(72) is(73) way(74) overpriced(75) .(76) However(77) ,(78) that(79) 's(80) the(81) lowest(82) room(83) rate(84) the(85) HSJ(86) has(87) .(88) Other(89) rooms(90) go(91) for(92) as(93) much(94) as(95) $269(96) .(97) For(98) what(99) you(100) pay(101) ,(102) it(103) 's(104) only(105) about(106) 20(107) %(108) better(109) than(110) a(111) Comfort(112) Inn(113) ,(114) which(115) is(116) why(117) I(118) say(119) the(120) prices(121) are(122) far(123) too(124) high(125) .(126) Luckily(127) we(128) did(129) not(130) have(131) to(132) pay(133) them(134) .(135) Amenities(136) :(137) you(138) get(139) a(140) USA(141) Today(142) in(143) the(144) morning(145) ,(146) maid(147) service(148) ,(149) and(150) with(151) some(152) plans(153) breakfast(154) is(155) included(156) .(157) Breakfast(158) would(159) be(160) at(161) their(162) lunch(163) restaurant(164) ,(165) which(166) is(167) imaginatively(168) called(169) '(170) The(171) Cafe(172) '(173) .(174) ((175) It(176) 's(177) closed(178) for(179) dinner(180) ,(181) but(182) I(183) had(184) lunch(185) there(186) once(187) and(188) it(189) was(190) not(191) too(192) bad(193) .(194) I(195) think(196) it(197) shares(198) a(199) kitchen(200) with(201) Amalfi(202) 's(203) --(204) it(205) certainly(206) has(207) a(208) lot(209) of(210) Italian(211) selections(212) .(213) )(214) They(215) have(216) room(217) service(218) available(219) ,(220) of(221) course(222) .(223) Their(224) web(225) site(226) advises(227) us(228) that(229) the(230) dress(231) code(232) for(233) room(234) service(235) is(236) '(237) casual(238) '(239) .(240) ((241) Whew(242) .(243) I(244) was(245) afraid(246) for(247) a(248) minute(249) there(250) guests(251) 'd(252) have(253) to(254) go(255) into(256) downsizebait(257) drag(258) in(259) order(260) to(261) use(262) it(263) .(264) "(265) I(266) 'm(267) sorry(268) ,(269) sir(270) ,(271) but(272) we(273) can(274) not(275) deliver(276) you(277) coffee(278) and(279) danishes(280) dressed(281) like(282) that(283) .(284) 
+			<opinion feature="price" opWords="75" polarity="-"/>
+		</sentence>
+		<sentence id="119">
+			Here(1) ,(2) please(3) put(4) on(5) this(6) generic(7) necktie(8) ,(9) and(10) put(11) your(12) ,(13) er(14) ,(15) staff(16) away(17) ,(18) and(19) we(20) 'll(21) bring(22) the(23) food(24) in(25) .(26) "(27) )(28) Soda(29) :(30) there(31) is(32) a(33) pop(34) machine(35) and(36) ice(37) machine(38) on(39) the(40) third(41) floor(42) of(43) building(44) 7(45) .(46) There(47) are(48) probably(49) some(50) on(51) other(52) floors(53) too(54) ,(55) but(56) I(57) want(58) to(59) stay(60) focused(61) and(62) not(63) get(64) off(65) message(66) ,(67) here(68) .(69) 
+		</sentence>
+		<sentence id="120">
+			Their(1) Coca-Colas(2) contain(3) phosphoric(4) acid(5) .(6) 
+		</sentence>
+		<sentence id="121">
+			Room(1) 7312(2) is(3) to(4) your(5) right(6) getting(7) out(8) of(9) the(10) elevator(11) ,(12) as(13) I(14) learned(15) due(16) to(17) turning(18) left(19) almost(20) every(21) time(22) ((23) in(24) defiance(25) of(26) the(27) clear(28) directions(29) on(30) the(31) wall(32) ...(33) no(34) hotel(35) people(36) are(37) going(38) to(39) tell(40) me(41) where(42) to(43) walk(44) )(45) .(46) 
+		</sentence>
+		<sentence id="122">
+			Decour(1) :(2) the(3) grounds(4) have(5) palm(6) trees(7) ((8) palmus(9) jutbarkiscadimus(10) )(11) and(12) a(13) sort(14) of(15) wandering(16) running(17) path(18) .(19) 
+		</sentence>
+		<sentence id="123">
+			There(1) 's(2) a(3) gym(4) ,(5) which(6) as(7) you(8) can(9) guess(10) I(11) avoided(12) ,(13) and(14) a(15) swimming(16) pool(17) ,(18) which(19) I(20) also(21) avoided(22) .(23) 
+		</sentence>
+		<sentence id="124">
+			Not(1) a(2) bad(3) setting(4) .(5) 
+		</sentence>
+		<sentence id="125">
+			They(1) have(2) a(3) gazebo(4) ,(5) which(6) is(7) beneficial(8) for(9) those(10) who(11) like(12) to(13) sit(14) and(15) stare(16) at(17) gazebos(18) ,(19) wondering(20) just(21) what(22) in(23) the(24) bloody(25) hell(26) use(27) they(28) are(29) .(30) 
+		</sentence>
+		<sentence id="126">
+			Convenience(1) store(2) :(3) near(4) the(5) lobby(6) building(7) there(8) is(9) a(10) convenience(11) store(12) slightly(13) larger(14) than(15) a(16) pet(17) carrier(18) ,(19) about(20) the(21) same(22) thing(23) you(24) find(25) near(26) the(27) terminals(28) in(29) most(30) airports(31) :(32) a(33) few(34) mags(35) ,(36) a(37) few(38) books(39) ,(40) a(41) few(42) cheap(43) souvenirs(44) ,(45) a(46) few(47) munchies(48) ,(49) a(50) few(51) drinks(52) .(53) 
+		</sentence>
+		<sentence id="127">
+			It(1) sells(2) no(3) porno(4) magazines(5) .(6) 
+		</sentence>
+		<sentence id="128">
+			Transportation(1) :(2) in(3) addition(4) to(5) the(6) airport(7) shuttle(8) ,(9) if(10) you(11) use(12) Thefty(13) Car(14) Rental(15) ,(16) you(17) 're(18) in(19) luck(20) --(21) they(22) have(23) an(24) office(25) there(26) .(27) 
+		</sentence>
+		<sentence id="129">
+			Thefty(1) 's(2) logo(3) is(4) green(5) ,(6) sort(7) of(8) an(9) electric-emerald(10) hue(11) .(12) 
+		</sentence>
+		<sentence id="130">
+			The(1) hotel(2) lacks(3) parking(4) or(5) amenities(6) for(7) horse-drawn(8) or(9) ox-drawn(10) vehicles(11) ,(12) which(13) I(14) thought(15) was(16) kind(17) of(18) pretentious(19) .(20) 
+		</sentence>
+		<sentence id="131">
+			The(1) trolley(2) ((3) a(4) light(5) rail(6) system(7) )(8) runs(9) down(10) the(11) middle(12) of(13) 1st(14) Avenue(15) ,(16) and(17) I(18) do(19) not(20) know(21) where(22) all(23) it(24) goes(25) .(26) 
+		</sentence>
+		<sentence id="132">
+			Presumably(1) someplace(2) else(3) ,(4) because(5) there(6) would(7) be(8) little(9) purpose(10) in(11) a(12) trolley(13) that(14) only(15) took(16) you(17) to(18) where(19) you(20) were(21) already(22) at(23) .(24) 
+		</sentence>
+		<sentence id="133">
+			Neighbourhood(1) :(2) contains(3) nothing(4) interesting(5) whatsoever(6) to(7) do(8) outside(9) the(10) hotel(11) within(12) easy(13) walking(14) distance(15) .(16) 
+		</sentence>
+		<sentence id="134">
+			You(1) can(2) go(3) eat(4) at(5) Coco(6) 's(7) ((8) not(9) recommended(10) )(11) and(12) leave(13) Ken(14) Doll(15) only(16) a(17) 10(18) %(19) tip(20) ((21) recommended(22) ;(23) I(24) lobbied(25) for(26) even(27) lower(28) )(29) .(30) 
+		</sentence>
+		<sentence id="135">
+			You(1) can(2) bail(3) someone(4) out(5) of(6) the(7) hoosegow(8) ((9) depends(10) on(11) who(12) it(13) is(14) )(15) .(16) 
+		</sentence>
+		<sentence id="136">
+			You(1) can(2) hire(3) lawyers(4) ((5) or(6) parody(7) their(8) po-scad-itively(9) "(10) Peni-scad-riffic(11) ,(12) "(13) purely(14) pas-scad-ionate(15) ,(16) proactively(17) panache-filled(18) ,(19) Portly(20) perverse(21) panting-ePinionatrix-pantleg-humped(22) ,(23) pseudo-proSCADaic(24) Prozac-popping(25) ePinionatrix-Pursued(26) ,(27) profoundly(28) pscadverb-laden(29) ,(30) ponderous(31) Pen-wielding(32) "(33) proclivities(34) "(35) and(36) `(37) peccadilloes(38) '(39) --(40) per(41) proceduri(42) pro(43) paratus(44) )(45) .(46) 
+		</sentence>
+		<sentence id="137">
+			You(1) can(2) go(3) buy(4) gas(5) ((6) or(7) expel(8) some(9) ,(10) preferably(11) in(12) the(13) hallway(14) ;(15) remember(16) ,(17) the(18) fan(19) is(20) broken(21) )(22) .(23) 
+		</sentence>
+		<sentence id="138">
+			You(1) can(2) walk(3) past(4) dot(5) .(6) com-filled(7) office(8) buildings(9) ,(10) wondering(11) if(12) their(13) occupscadncy(14) rates(15) are(16) still(17) above(18) 10(19) %(20) .(21) 
+		</sentence>
+		<sentence id="139">
+			You(1) can(2) buy(3) liquor(4) ,(5) or(6) go(7) drinking(8) ((9) if(10) you(11) are(12) not(13) too(14) picky(15) ;(16) besides(17) the(18) Chinese(19) restaurant(20) where(21) ptiemann(22) and(23) I(24) tipped(25) '(26) em(27) back(28) ,(29) there(30) 's(31) a(32) dive(33) tavern(34) )(35) .(36) 
+		</sentence>
+		<sentence id="140">
+			You(1) could(2) go(3) to(4) the(5) Consuldado(6) de(7) los(8) Estados(9) Unidos(10) Méxicanos(11) ,(12) I(13) reckon(14) ,(15) although(16) if(17) you(18) are(19) not(20) Mexican(21) they(22) might(23) look(24) a(25) little(26) askance(27) at(28) you(29) for(30) just(31) going(32) there(33) for(34) the(35) atmosphere(36) .(37) ((38) Suggestion(39) :(40) when(41) exchanging(42) courtesies(43) ,(44) do(45) not(46) ask(47) them(48) ,(49) "(50) ¿(51) Cómo(52) tu(53) madre(54) ?(55) "(56) They(57) get(58) grumpy(59) ;(60) I(61) think(62) it(63) violates(64) some(65) cultural(66) taboo(67) or(68) more(69) .(70) )(71) You(72) can(73) go(74) get(75) on(76) a(77) trolley(78) and(79) simply(80) ride(81) it(82) ,(83) confident(84) that(85) wherever(86) it(87) takes(88) you(89) will(90) be(91) considerably(92) more(93) thrilling(94) .(95) 
+		</sentence>
+		<sentence id="141">
+			Ingredients(1) :(2) no(3) review(4) that(5) really(6) provides(7) scads(8) of(9) useful(10) product(11) details(12) is(13) complete(14) without(15) an(16) ingredients(17) list(18) .(19) 
+		</sentence>
+		<sentence id="142">
+			I(1) could(2) be(3) rated(4) as(5) NH(6) ((7) *(8) quiver(9) *(10) *(11) cringe(12) *(13) )(14) for(15) that(16) reason(17) alone(18) .(19) 
+		</sentence>
+		<sentence id="143">
+			Since(1) we(2) all(3) know(4) that(5) I(6) 'd(7) rather(8) slurp(9) annexation(10) 's(11) sc-ad-rotum(12) than(13) receive(14) a(15) single(16) soul-destroying(17) ,(18) self-esteem-wrecking(19) NH(20) ,(21) let(22) me(23) oblige(24) :(25) silicon(26) ,(27) carbon(28) ,(29) hydrogen(30) ,(31) iron(32) ,(33) oxygen(34) ,(35) aluminum(36) ,(37) phosphorus(38) ,(39) sodium(40) ,(41) magnesium(42) ,(43) manganese(44) ,(45) chromium(46) ,(47) sulphur(48) ,(49) chlorine(50) ,(51) tungsten(52) ,(53) boron(54) ,(55) iodine(56) ,(57) potassium(58) ,(59) nitrogen(60) ,(61) nickel(62) ,(63) copper(64) ,(65) argon(66) ,(67) germanium(68) ,(69) cobalt(70) ,(71) zinc(72) ,(73) silver(74) ,(75) tin(76) ,(77) bromine(78) ,(79) fluorine(80) ,(81) lead(82) ,(83) selenium(84) ,(85) radon(86) ,(87) scadmium(88) ,(89) gold(90) ,(91) strontium(92) ,(93) gallium(94) ,(95) bromine(96) ,(97) scadndium(98) ,(99) platinum(100) ,(101) mercury(102) .(103) 
+		</sentence>
+		<sentence id="144">
+			May(1) contain(2) traces(3) of(4) protons(5) ,(6) neutrons(7) and(8) electrons(9) .(10) 
+		</sentence>
+		<sentence id="145">
+			May(1) emit(2) photons(3) .(4) 
+		</sentence>
+		<sentence id="146">
+			You(1) may(2) encounter(3) morons(4) .(5) 
+		</sentence>
+		<sentence id="147">
+			I(1) did(2) not(3) see(4) any(5) Klingons(6) .(7) ((8) Please(9) note(10) :(11) some(12) elements(13) may(14) be(15) present(16) only(17) in(18) small(19) amounts(20) ,(21) or(22) in(23) various(24) areas(25) throughout(26) the(27) hotel(28) enclosure(29) rather(30) than(31) in(32) room(33) 7312(34) .(35) A(36) scientific(37) survey(38) was(39) not(40) done(41) ,(42) so(43) I(44) could(45) theoretically(46) be(47) in(48) error(49) ,(50) but(51) I(52) reckon(53) I(54) got(55) '(56) em(57) all(58) .(59) )(60) =(61) =(62) =(63) =(64) =(65) =(66) =(67) =(68) =(69) =(70) =(71) =(72) =(73) =(74) =(75) =(76) =(77) =(78) =(79) =(80) =(81) =(82) =(83) =(84) =(85) =(86) =(87) =(88) =(89) =(90) =(91) =(92) =(93) =(94) This(95) review(96) is(97) part(98) of(99) 29th(100) Candidate(101) 's(102) Scads(103) Consumerly-Helpful(104) writeoff(105) .(106) 
+		</sentence>
+		<sentence id="148">
+			Participants(1) agreed(2) to(3) write(4) a(5) helpful(6) ,(7) detailed(8) review(9) of(10) something(11) ,(12) someplace(13) ,(14) etc.(15) For(16) some(17) reason(18) ,(19) some(20) people(21) found(22) that(23) concept(24) threatening(25) .(26) 
+		</sentence>
+		<sentence id="149">
+			I(1) sit(2) ,(3) I(4) shake(5) my(6) head(7) ,(8) I(9) wonder(10) ,(11) I(12) fail(13) to(14) figure(15) out(16) ,(17) and(18) I(19) have(20) another(21) beer(22) --(23) becoming(24) a(25) little(26) more(27) alienated(28) each(29) time(30) a(31) PR(32) disaster(33) like(34) this(35) gets(36) sent(37) out(38) .(39) 
+		</sentence>
+		<sentence id="150">
+			Check(1) out(2) the(3) following(4) "(5) other(6) "(7) people(8) :(9) 29th(10) Scad-nidate(11) ((12) candid(13) ,(14) clever(15) ,(16) SCADvassing-for-campaigning(17) comrades(18) ,(19) comments-corner-cluttered(20) with(21) cacophonously(22) carnal(23) SCADres(24) of(25) connubial-bliss-conceptualizing(26) commandos(27) ,(28) compul-scad-itively-communicative(29) ,(30) continent(31) ,(32) compassionate-countenanced(33) ,(34) consistently(35) chased(36) by(37) counselor-caresslusting(38) creamy-crotched(39) "(40) Catherine(41) the(42) Greats(43) "(44) ,(45) Con-Scad-ervative(46) Congres-scad-ional(47) challenger(48) ,(49) callow(50) SCADSanova(51) ,(52) Carnivorous(53) Cicisbeo(54) ,(55) and(56) Scad-Co-Scad-Host-Scad(57) )(58) annexcretion(59) aggiejokes(60) baretittyM(61) Bijuicy(62) BrandedCalf(63) brothermanson(64) chrisbickers(65) DGMockturtle2(66) drlowlipoop(67) barretched(68) Fux(69) Monkey(70) FrigginMom(71) ((72) FRIGG-ginn(73) MAH-om(74) )(75) galyoulayo365(76) Horswiper(77) imokyourok(78) SHAMELESS23(79) janitkpik(80) jscallion(81) LimpidLoosener(82) P(83) teChuck(84) bigmacfriesbarf1(85) snitch(86) RealGoofoff(87) Pacifier(88) Petradish(89) ((90) die(91) kohostessein(92) )(93) phisohexed(94) pokemom(95) pteabagg(96) rappinhonkey(97) SeraphofSadism(98) splatter(99) cream(100) sneakeyz(101) sordid(102) -(103) 1(104) tiphoid(105) wellhung1028(106) If(107) for(108) some(109) reason(110) pasting(111) the(112) above(113) labouriously(114) into(115) your(116) browser(117) does(118) not(119) take(120) you(121) to(122) a(123) profile(124) page(125) ,(126) try(127) :(128) http://www.writersgetaway.net/write-off.htm(129) Also(130) ,(131) in(132) fairness(133) and(134) with(135) the(136) notion(137) of(138) a(139) general(140) return(141) to(142) an(143) '(144) all(145) in(146) good(147) fun(148) '(149) environment(150) ,(151) please(152) check(153) out(154) the(155) following(156) who(157) did(158) not(159) participate(160) ,(161) perhaps(162) due(163) to(164) a(165) strong(166) sense(167) of(168) moral(169) scruples(170) and(171) values(172) and(173) perhaps(174) for(175) other(176) reasons(177) ((178) such(179) as(180) not(181) wanting(182) to(183) be(184) mentioned(185) by(186) the(187) likes(188) of(189) me(190) )(191) :(192) pervscars(193) jsain't(194) ladysinning(195) 9-1-1(196) amcgremlin(197) whinay(198) sweetfece(199) nerva(200) owemeonebaloni(201) sweatsock(202) 98(203) Schmuzer(204) elvissighting(205) naysayers(206) Raprig(207) sexgoy(208) unicef(209) patush(210) pickyduck(211) blacqhawqdown(212) jo(213) .(214) moma(215) mobypoof(216) crass-cocainski(217) gr0dependent(218) arozicrucian(219) [(220) Somewhat(221) Helpful(222) ](223) [(224) Not(225) Helpful(226) ](227) 
+		</sentence>
+	</text>
+</review>

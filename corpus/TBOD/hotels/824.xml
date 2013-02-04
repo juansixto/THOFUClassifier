@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="824" item="Fiesta Americana Grand Coral Beach Cancun" rating="5">
+	<title>
+		<sentence id="1">
+			Fantastic(1) pool(2) .(3) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Loved(1) the(2) rooms(3) and(4) the(5) service(6) .(7) 
+			<opinion featWords="3" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="6" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Extraordinary(1) pool(2) .(3) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Stunning(1) views(2) .(3) 
+			<opinion featWords="2" feature="view" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Great(1) service(2) .(3) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Lovely(1) spacious(2) rooms(3) .(4) 
+			<opinion featWords="3" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Very(1) clean(2) .(3) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pricey(1) ,(2) limited(3) dining(4) in(5) hotel(6) .(7) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) FA(2) Coral(3) Beach(4) is(5) a(6) lovely(7) resort(8) .(9) 
+			<opinion featWords="8" feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) pool(2) was(3) stunning(4) ;(5) probably(6) the(7) biggest(8) pool(9) complex(10) I(11) 've(12) ever(13) seen(14) .(15) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+			<opinion featWords="9" feature="swimming pool" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) deck(2) area(3) tends(4) to(5) be(6) in(7) the(8) shade(9) ,(10) making(11) it(12) temperate(13) and(14) delightful(15) all(16) day(17) long(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) beach(2) is(3) a(4) little(5) rocky(6) ,(7) but(8) overall(9) ,(10) satisfactory(11) .(12) 
+			<opinion featWords="2" feature="beach" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="beach" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			We(1) also(2) enjoyed(3) the(4) rooms(5) ,(6) which(7) are(8) over-sized(9) ,(10) each(11) with(12) a(13) nice(14) sitting(15) area(16) and(17) oceanview(18) balcony(19) .(20) 
+			<opinion featWords="5" feature="rooms" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Another(1) unique(2) feature(3) were(4) the(5) indoor(6) tennis(7) courts(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Most(1) hotels(2) offer(3) tennis(4) ,(5) but(6) it(7) 's(8) usually(9) too(10) hot(11) to(12) play(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			This(1) was(2) an(3) added(4) bonus(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			The(1) service(2) is(3) excellent(4) .(5) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) place(2) is(3) immaculate(4) and(5) in(6) top(7) condition(8) .(9) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) cons(2) were(3) few(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			Restaurants(1) tend(2) to(3) be(4) pricey(5) ,(6) and(7) somewhat(8) limited(9) for(10) families(11) .(12) 
+			<opinion feature="price" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			This(1) tends(2) to(3) be(4) a(5) "(6) grown-up(7) "(8) place(9) and(10) families(11) with(12) little(13) kids(14) could(15) probably(16) find(17) a(18) hotel(19) more(20) suited(21) to(22) their(23) needs(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			The(1) general(2) commercialism(3) of(4) Cancun(5) is(6) a(7) bit(8) of(9) a(10) turn-off(11) ,(12) but(13) it(14) 's(15) convenient(16) having(17) stores(18) and(19) transportation(20) nearby(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			All(1) in(2) all(3) ,(4) an(5) excellent(6) choice(7) .(8) 
+		</sentence>
+	</text>
+</review>

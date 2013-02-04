@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="87" item="Clarion Hotel &amp; Conference Center" rating="2">
+	<title>
+		<sentence id="1">
+			Price(1) does(2) not(3) match(4) returns(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Grounds(1) well(2) keep(3) ,(4) staff(5) nice(6) and(7) helpful(8) ,(9) easy(10) access(11) from(12) I-64(13) .(14) 
+			<opinion featWords="5" feature="staff" opWords="6" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Hotel(1) needs(2) renovation(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			High(1) Priced(2) for(3) return(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Poor(1) Staff(2) coordination(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			Government(1) Contracted(2) hotel(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			BL(1) :(2) I(3) would(4) not(5) recommend(6) this(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Too(1) high(2) price(3) for(4) the(5) hotel(6) amenities(7) and(8) services(9) that(10) are(11) provided(12) .(13) 
+			<opinion featWords="3" feature="price" opWords="1,2" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Access(1) :(2) Hotel(3) was(4) easily(5) accessed(6) from(7) I-64(8) ,(9) close(10) to(11) theme(12) parks(13) in(14) Williamsburg(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Was(1) not(2) close(3) to(4) any(5) restaurants(6) or(7) shopping(8) centers(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			One(1) restaurant(2) close(3) ,(4) if(5) you(6) care(7) for(8) good(9) Mexican(10) food(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Hotel(1) Grounds(2) :(3) Hotel(4) was(5) pleasant(6) to(7) the(8) eye(9) ,(10) grounds(11) were(12) well(13) kept(14) .(15) 
+			<opinion featWords="4" feature="hotel" opWords="6" polarity="+"/>
+			<opinion featWords="11" feature="grounds" opWords="13,14" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Parking(1) lot(2) was(3) clean(4) ,(5) and(6) numerous(7) parking(8) spaces(9) available(10) ,(11) due(12) to(13) the(14) government(15) contracted(16) housing(17) for(18) deploying(19) military(20) personnel(21) .(22) 
+			<opinion featWords="1,2" feature="parking" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Check(1) in(2) :(3) Lobby(4) was(5) nice(6) ,(7) well(8) lit(9) .(10) 
+			<opinion featWords="4" feature="lobby" opWords="6" polarity="+"/>
+			<opinion featWords="4" feature="lobby" opWords="8,9" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Front(1) desk(2) personnel(3) seemed(4) to(5) have(6) a(7) genuine(8) concern(9) of(10) getting(11) customers(12) checked(13) in(14) quickly(15) and(16) providing(17) direction(18) to(19) rooms(20) with(21) best(22) places(23) to(24) enter(25) and(26) exit(27) the(28) building(29) .(30) 
+		</sentence>
+		<sentence id="8">
+			Hotel(1) service(2) :(3) Elevators(4) were(5) very(6) slow(7) and(8) one(9) elevator(10) close(11) to(12) my(13) room(14) was(15) pretty(16) much(17) unusable(18) unless(19) you(20) wanted(21) to(22) wait(23) 20(24) minutes(25) to(26) move(27) 2(28) floors(29) .(30) 
+			<opinion featWords="4" feature="elevator" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Numerous(1) ice(2) machines(3) and(4) vending(5) machines(6) per(7) floor(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Room(1) :(2) Room(3) was(4) acceptable(5) .(6) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			Room(1) was(2) clean(3) ,(4) just(5) well(6) worn(7) after(8) years(9) of(10) use(11) .(12) 
+			<opinion featWords="1" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) no(3) Remote(4) control(5) for(6) the(7) television(8) present(9) and(10) staff(11) did(12) not(13) have(14) a(15) replacement(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			After(1) turning(2) on(3) the(4) AC(5) ,(6) the(7) unit(8) was(9) not(10) cooling(11) the(12) room(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) problem(2) was(3) not(4) the(5) AC(6) but(7) it(8) took(9) 3(10) times(11) going(12) to(13) the(14) front(15) desk(16) over(17) a(18) two(19) day(20) period(21) to(22) request(23) assistance(24) before(25) anyone(26) checked(27) out(28) the(29) system(30) .(31) 
+		</sentence>
+		<sentence id="15">
+			After(1) the(2) maintenance(3) finally(4) come(5) to(6) check(7) out(8) the(9) system(10) ,(11) it(12) was(13) a(14) five(15) minute(16) fix(17) -(18) changing(19) the(20) thermostat(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			The(1) AC(2) was(3) fine(4) after(5) that(6) .(7) 
+			<opinion featWords="2" feature="air conditioning units" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Facilities(1) :(2) Exercise(3) room(4) :(5) had(6) three(7) pieces(8) of(9) equipment(10) ,(11) treadmill(12) ,(13) elliptical(14) ,(15) and(16) stationary(17) bicycle(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			For(1) a(2) hotel(3) with(4) the(5) price(6) of(7) stay(8) ,(9) the(10) expectation(11) was(12) much(13) higher(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			Video(1) Game(2) Room(3) :(4) The(5) kids(6) enjoyed(7) this(8) room(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			There(1) were(2) numerous(3) video(4) machines(5) /(6) games(7) at(8) a(9) minimal(10) cost(11) compared(12) to(13) a(14) game(15) room(16) at(17) a(18) mall(19) ,(20) most(21) machines(22) being(23) a(24) quarter(25) to(26) play(27) .(28) 
+		</sentence>
+		<sentence id="21">
+			Swimming(1) Pool(2) :(3) Just(4) walking(5) through(6) the(7) area(8) ,(9) the(10) pool(11) was(12) clean(13) and(14) well(15) kept(16) .(17) 
+			<opinion featWords="11" feature="swimming pool" opWords="13" polarity="+"/>
+			<opinion featWords="11" feature="swimming pool" opWords="15,16" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			Did(1) not(2) swim(3) ,(4) after(5) attending(6) a(7) water(8) park(9) during(10) one(11) of(12) the(13) days(14) stay(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			Dining(1) Area(2) :(3) Continental(4) Breakfast(5) was(6) not(7) provided(8) in(9) the(10) cost(11) of(12) the(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			The(1) cost(2) was(3) additional(4) ,(5) but(6) from(7) passing(8) by(9) and(10) talking(11) with(12) other(13) people(14) staying(15) at(16) the(17) hotel(18) ,(19) the(20) dining(21) area(22) was(23) nice(24) .(25) 
+			<opinion featWords="22" feature="place" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			Hotel(1) Bar(2) :(3) Hotel(4) had(5) a(6) nice(7) bar(8) set(9) up(10) .(11) 
+			<opinion featWords="8" feature="food" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			Did(1) not(2) go(3) to(4) the(5) bar(6) during(7) the(8) stay(9) .(10) 
+		</sentence>
+		<sentence id="27">
+			The(1) bar(2) would(3) have(4) been(5) a(6) good(7) place(8) to(9) go(10) have(11) a(12) drink(13) with(14) friends(15) .(16) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			With(1) the(2) government(3) contracted(4) housing(5) for(6) deploying(7) soldiers(8) the(9) bar(10) was(11) full(12) most(13) nights(14) on(15) the(16) weekend(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			Computer(1) /(2) Internet(3) access(4) :(5) Dial(6) up(7) could(8) be(9) accessed(10) from(11) the(12) rooms(13) ,(14) did(15) not(16) check(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			The(1) computer(2) room(3) had(4) one(5) hotel(6) computer(7) for(8) Internet(9) access(10) ,(11) which(12) had(13) people(14) waiting(15) in(16) line(17) all(18) times(19) of(20) the(21) day(22) ,(23) with(24) hard(25) wire(26) and(27) wireless(28) access(29) in(30) the(31) hotel(32) lobby(33) .(34) 
+		</sentence>
+	</text>
+</review>

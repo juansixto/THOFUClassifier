@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="202" item="Circus Circus Hotel &amp; Casino" rating="3">
+	<title>
+		<sentence id="1">
+			It(1) 's(2) no(3) Bellagio(4) ,(5) but(6) it(7) 's(8) not(9) terrible(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) rates(2) ,(3) email(4) specials(5) ,(6) CLEAN(7) rooms(8) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Beds(1) suck(2) ,(3) do(4) not(5) double(6) check(7) guests(8) room(9) requests(10) 
+			<opinion featWords="1" feature="bed" opWords="2" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) on(4) a(5) budget(6) ,(7) and(8) can(9) deal(10) with(11) lots(12) of(13) kids(14) on(15) the(16) main(17) level(18) ,(19) it(20) 's(21) a(22) good(23) clean(24) safe(25) place(26) to(27) stay(28) .(29) 
+			<opinion featWords="26" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="26" feature="place" opWords="24" polarity="+"/>
+			<opinion featWords="26" feature="place" opWords="25" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) just(2) returned(3) from(4) a(5) stay(6) at(7) Circus(8) ,(9) Circus(10) from(11) October(12) 7(13) to(14) 11(15) ,(16) 2007(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) previously(3) stayed(4) at(5) the(6) KOA(7) campground(8) associated(9) with(10) Circus(11) ,(12) Circus(13) ,(14) but(15) that(16) was(17) only(18) for(19) one(20) night(21) ,(22) so(23) I(24) do(25) not(26) really(27) have(28) anything(29) to(30) write(31) about(32) that(33) ((34) other(35) then(36) it(37) truely(38) is(39) the(40) only(41) campground(42) on(43) the(44) strip(45) )(46) .(47) 
+		</sentence>
+		<sentence id="3">
+			We(1) arrived(2) before(3) checkin(4) ((5) that(6) was(7) stated(8) at(9) 3(10) pm(11) )(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			We(1) got(2) there(3) probably(4) around(5) noon(6) ,(7) and(8) figured(9) the(10) worst(11) they(12) would(13) tell(14) us(15) is(16) we(17) had(18) to(19) wait(20) until(21) 3(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			Got(1) in(2) the(3) line(4) to(5) check(6) in(7) ((8) which(9) at(10) the(11) time(12) was(13) fairly(14) short(15) )(16) and(17) was(18) called(19) up(20) to(21) check(22) in(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) received(3) an(4) email(5) with(6) a(7) sale(8) of(9) $49.99/night(10) for(11) Sundays(12) through(13) Thursdays(14) ((15) exactly(16) the(17) nights(18) we(19) were(20) staying(21) )(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			I(1) had(2) booked(3) this(4) previously(5) ,(6) but(7) was(8) told(9) that(10) the(11) Sunday(12) we(13) were(14) checking(15) in(16) was(17) a(18) "(19) blackout(20) "(21) date(22) ,(23) so(24) we(25) 'd(26) have(27) to(28) pay(29) full(30) price(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			No(1) big(2) deal(3) ,(4) it(5) was(6) still(7) cheaper(8) then(9) anything(10) else(11) I(12) coudl(13) find(14) ,(15) and(16) we(17) were(18) on(19) a(20) very(21) tight(22) budget(23) for(24) this(25) trip(26) .(27) 
+		</sentence>
+		<sentence id="9">
+			When(1) we(2) were(3) speaking(4) with(5) the(6) check(7) in(8) person(9) ,(10) I(11) was(12) sure(13) to(14) mention(15) the(16) deal(17) I(18) had(19) in(20) my(21) email(22) ((23) and(24) I(25) had(26) also(27) printed(28) out(29) and(30) brought(31) with(32) me(33) )(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			She(1) said(2) that(3) it(4) was(5) not(6) listed(7) on(8) my(9) reservation(10) ,(11) but(12) that(13) she(14) would(15) get(16) it(17) fixed(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			After(1) a(2) few(3) minutes(4) ,(5) she(6) realized(7) she(8) would(9) need(10) a(11) managers(12) override(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			That(1) took(2) awhile(3) ((4) maybe(5) 15(6) minutes(7) or(8) so(9) )(10) ,(11) but(12) by(13) this(14) time(15) there(16) were(17) alot(18) of(19) people(20) in(21) line(22) for(23) check(24) in(25) ,(26) so(27) I(28) figured(29) the(30) manager(31) was(32) dealing(33) with(34) other(35) things(36) .(37) 
+		</sentence>
+		<sentence id="13">
+			She(1) came(2) back(3) and(4) told(5) me(6) that(7) the(8) manager(9) gave(10) me(11) the(12) special(13) on(14) all(15) 4(16) nights(17) ,(18) including(19) the(20) Sunday(21) that(22) I(23) was(24) told(25) I(26) would(27) have(28) to(29) pay(30) full(31) price(32) for(33) .(34) 
+		</sentence>
+		<sentence id="14">
+			No(1) complaints(2) there(3) !(4) 
+		</sentence>
+		<sentence id="15">
+			I(1) had(2) requested(3) that(4) we(5) be(6) in(7) the(8) west(9) tower(10) ((11) easiest(12) to(13) get(14) to(15) )(16) as(17) we(18) did(19) not(20) have(21) a(22) rental(23) car(24) ,(25) and(26) had(27) no(28) reason(29) to(30) be(31) in(32) one(33) of(34) the(35) other(36) towers(37) attached(38) to(39) the(40) parking(41) garages(42) .(43) 
+		</sentence>
+		<sentence id="16">
+			This(1) request(2) was(3) not(4) fulfilled(5) ,(6) but(7) I(8) did(9) not(10) take(11) time(12) to(13) press(14) it(15) at(16) the(17) desk(18) ,(19) so(20) maybe(21) they(22) would(23) have(24) changed(25) it(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			My(1) first(2) complaint(3) ...(4) the(5) layout(6) of(7) this(8) place(9) sucks(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			It(1) took(2) us(3) a(4) good(5) 15(6) minutes(7) to(8) walk(9) through(10) the(11) maze(12) of(13) everything(14) just(15) to(16) get(17) to(18) the(19) elevators(20) to(21) our(22) tower(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			Oh(1) well(2) ,(3) no(4) harm(5) done(6) for(7) a(8) good(9) walk(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			We(1) got(2) into(3) our(4) room(5) ((6) on(7) the(8) 3rd(9) floor(10) of(11) the(12) skyrise(13) tower(14) )(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			I(1) went(2) to(3) open(4) the(5) curtains(6) to(7) see(8) our(9) view(10) ....(11) of(12) the(13) roof(14) and(15) mechanical(16) equipment(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			For(1) the(2) price(3) ,(4) I(5) could(6) not(7) complain(8) ,(9) plus(10) we(11) were(12) just(13) using(14) the(15) room(16) to(17) sleep(18) in(19) ,(20) not(21) sit(22) in(23) an(24) stare(25) out(26) the(27) window(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			So(1) closed(2) the(3) curtains(4) and(5) moved(6) on(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			The(1) room(2) was(3) very(4) clean(5) ,(6) looks(7) like(8) it(9) has(10) been(11) recently(12) renovated(13) .(14) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="25">
+			No(1) odd(2) smells(3) ,(4) noises(5) ,(6) etc.(7) There(8) is(9) only(10) a(11) shower(12) ,(13) but(14) that(15) 's(16) fine(17) by(18) me(19) as(20) I(21) do(22) not(23) think(24) I(25) 've(26) ever(27) taken(28) a(29) bath(30) in(31) a(32) hotel(33) room(34) .(35) 
+		</sentence>
+		<sentence id="26">
+			The(1) shower(2) is(3) big(4) and(5) glass(6) enclosed(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			I(1) did(2) notice(3) that(4) we(5) could(6) hear(7) the(8) neighbors(9) ,(10) but(11) the(12) next(13) morning(14) realized(15) that(16) they(17) also(18) had(19) many(20) kids(21) staying(22) in(23) their(24) room(25) .(26) 
+		</sentence>
+		<sentence id="28">
+			The(1) TV(2) is(3) small(4) .(5) .(6) but(7) again(8) ,(9) we(10) did(11) not(12) pay(13) all(14) that(15) money(16) to(17) sit(18) in(19) a(20) hotel(21) room(22) to(23) watch(24) TV(25) .(26) 
+			<opinion featWords="2" feature="tv" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="29">
+			They(1) do(2) have(3) checkout(4) on(5) the(6) TV(7) which(8) is(9) nice(10) .(11) 
+		</sentence>
+		<sentence id="30">
+			The(1) worst(2) part(3) of(4) the(5) room(6) was(7) the(8) bed(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			Now(1) ,(2) we(3) have(4) the(5) select(6) comfort(7) sleep(8) number(9) bed(10) at(11) home(12) ,(13) so(14) we(15) are(16) bias(17) ,(18) but(19) this(20) bed(21) really(22) was(23) bad(24) .(25) 
+		</sentence>
+		<sentence id="32">
+			I(1) could(2) feel(3) each(4) spring(5) ,(6) even(7) just(8) by(9) running(10) my(11) hand(12) over(13) the(14) top(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			Not(1) good(2) for(3) the(4) boyfriend(5) who(6) has(7) back(8) troubles(9) .(10) 
+		</sentence>
+		<sentence id="34">
+			But(1) it(2) was(3) only(4) 4(5) night(6) so(7) we(8) dealt(9) with(10) it(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			We(1) only(2) went(3) to(4) the(5) pool(6) once(7) .(8) 
+		</sentence>
+		<sentence id="36">
+			It(1) 's(2) my(3) understandning(4) that(5) there(6) are(7) multiple(8) pools(9) .(10) 
+		</sentence>
+		<sentence id="37">
+			We(1) went(2) to(3) the(4) one(5) attached(6) to(7) our(8) tower(9) .(10) 
+		</sentence>
+		<sentence id="38">
+			TONS(1) of(2) kids(3) ,(4) but(5) what(6) can(7) you(8) expect(9) at(10) a(11) hotel(12) made(13) for(14) kids(15) .(16) 
+		</sentence>
+		<sentence id="39">
+			There(1) was(2) a(3) pool(4) bar(5) ,(6) but(7) we(8) did(9) not(10) bring(11) money(12) so(13) I(14) have(15) no(16) idea(17) how(18) good(19) /(20) bad(21) that(22) is(23) .(24) 
+		</sentence>
+		<sentence id="40">
+			It(1) seemed(2) to(3) close(4) rather(5) early(6) though(7) at(8) 6(9) pm.(10) Checkout(11) was(12) a(13) breeze(14) ((15) on(16) the(17) TV(18) )(19) and(20) we(21) are(22) now(23) back(24) home(25) .(26) 
+		</sentence>
+		<sentence id="41">
+			No(1) extra(2) charges(3) that(4) we(5) did(6) not(7) expect(8) .(9) 
+		</sentence>
+		<sentence id="42">
+			With(1) the(2) beds(3) ,(4) and(5) Matt(6) having(7) a(8) bad(9) back(10) ,(11) I(12) do'nt(13) know(14) if(15) we(16) 'd(17) stay(18) there(19) again(20) ,(21) but(22) w(23) /(24) out(25) back(26) problems(27) I(28) 'd(29) have(30) no(31) problem(32) staying(33) there(34) again(35) !(36) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="706" item="Hotel Max" rating="3">
+	<title>
+		<sentence id="1">
+			Nice(1) location(2) ,(3) but(4) overpriced(5) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion feature="price" opWords="5" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) location(3) ,(4) location(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Tiny(1) rooms(2) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) here(2) if(3) you(4) are(5) looking(6) for(7) a(8) home(9) base(10) to(11) play(12) in(13) Seattle(14) ,(15) but(16) not(17) to(18) hang(19) out(20) and(21) relax(22) .(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) read(2) the(3) reviews(4) on(5) this(6) and(7) other(8) travel(9) sites(10) after(11) gasping(12) at(13) the(14) prices(15) of(16) other(17) downtown(18) Seattle(19) hotels(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			The(1) Vance(2) seemed(3) reasonably(4) priced(5) with(6) moderate(7) reviews(8) .(9) 
+			<opinion feature="price" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			This(1) review(2) is(3) no(4) different(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) are(3) ok(4) with(5) small(6) rooms(7) ,(8) and(9) I(10) mean(11) REALLY(12) small(13) ,(14) this(15) hotel(16) will(17) do(18) the(19) trick(20) .(21) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			The(1) bathrooms(2) are(3) so(4) small(5) in(6) this(7) hotel(8) ,(9) you(10) can(11) not(12) have(13) your(14) elbows(15) extended(16) in(17) the(18) shower(19) to(20) wash(21) your(22) hair(23) ,(24) or(25) when(26) you(27) sit(28) on(29) the(30) toilet(31) ,(32) the(33) sink(34) extends(35) over(36) your(37) lap(38) ,(39) and(40) your(41) knees(42) are(43) mere(44) inches(45) from(46) the(47) wall(48) and(49) door(50) .(51) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			When(1) you(2) wash(3) your(4) face(5) in(6) the(7) sink(8) your(9) head(10) hangs(11) just(12) under(13) a(14) glass(15) shelf(16) ,(17) so(18) do(19) not(20) set(21) anything(22) on(23) it(24) ,(25) because(26) you(27) will(28) inevitably(29) knock(30) it(31) all(32) off(33) .(34) 
+		</sentence>
+		<sentence id="7">
+			Other(1) room(2) amenities(3) are(4) pretty(5) standard(6) ,(7) service(8) was(9) pleasant(10) ,(11) we(12) did(13) not(14) eat(15) in(16) the(17) restaurant(18) ,(19) but(20) many(21) others(22) appeared(23) to(24) enjoy(25) the(26) sidewalk(27) cafe(28) .(29) 
+			<opinion featWords="3" feature="amenities" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="8" feature="service" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			On-site(1) parking(2) is(3) available(4) with(5) a(6) valet(7) service(8) at(9) $18(10) per(11) 24(12) hours(13) ,(14) tip(15) the(16) drivers(17) and(18) they(19) tend(20) to(21) take(22) better(23) care(24) of(25) you(26) ,(27) your(28) belongings(29) ,(30) and(31) your(32) vehicle(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			The(1) best(2) thing(3) about(4) the(5) hotel(6) is(7) the(8) location(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			You(1) can(2) walk(3) almost(4) anywhere(5) ...(6) downtown(7) shopping(8) ,(9) Pike(10) Place(11) ,(12) waterfront(13) ,(14) Seattle(15) Center(16) ((17) Space(18) Needle(19) )(20) ,(21) Convention(22) Center(23) ,(24) on(25) and(26) on(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			So(1) ,(2) if(3) size(4) does(5) not(6) matter(7) ,(8) the(9) Vance(10) will(11) do(12) the(13) trick(14) .(15) 
+		</sentence>
+	</text>
+</review>

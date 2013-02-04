@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="755" item="Ala Moana Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Business(1) travelers(2) and(3) shoppers(4) ,(5) see(6) here(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) Ala(3) Moana(4) Center(5) ,(6) Hawai'i(7) Convention(8) Center(9) ,(10) away(11) from(12) Waikiki(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Away(1) from(2) Waikiki(3) ,(4) poor(5) parking(6) ,(7) poor(8) restaurants(9) 
+			<opinion featWords="6" feature="parking" opWords="5" polarity="-"/>
+			<opinion featWords="9" feature="food" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) a(3) good(4) hotel(5) ,(6) close(7) to(8) the(9) Ala(10) Moana(11) Shopping(12) Center(13) and(14) Hawai'i(15) Convention(16) Center(17) ,(18) but(19) far(20) from(21) Waikiki(22) .(23) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Try(1) it(2) if(3) you(4) 're(5) into(6) cheap(7) ,(8) nice(9) hotels(10) .(11) 
+			<opinion feature="price" opWords="7" polarity="+"/>
+			<opinion featWords="10" feature="hotel" opWords="9" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			What(1) 's(2) it(3) all(4) about(5) ?(6) 
+		</sentence>
+		<sentence id="2">
+			Ala(1) Moana(2) Hotel(3) ,(4) built(5) walking(6) distance(7) from(8) Ala(9) Moana(10) Shopping(11) Center(12) ,(13) the(14) largest(15) open(16) mall(17) shopping(18) center(19) in(20) the(21) nation(22) ,(23) is(24) a(25) hotel(26) close(27) to(28) many(29) things(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) location(3) is(4) prime(5) for(6) such(7) a(8) hotel(9) because(10) it(11) 's(12) a(13) mile(14) away(15) from(16) Waikiki(17) and(18) about(19) three(20) from(21) Downtown(22) Honolulu(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Seven(1) miles(2) from(3) the(4) airport(5) ,(6) this(7) 36(8) floor(9) hotel(10) is(11) themed(12) for(13) the(14) business(15) traveler(16) and(17) local(18) kama'aina(19) ((20) Hawai'i(21) resident(22) )(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			The(1) comfort(2) of(3) the(4) rooms(5) ...(6) Ala(7) Moana(8) hotel(9) hosts(10) 1152(11) rooms(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Floors(1) 29-35(2) are(3) suited(4) for(5) the(6) business(7) traveler(8) as(9) they(10) have(11) upgraded(12) amenities(13) and(14) an(15) executive(16) business(17) center(18) throughout(19) those(20) floors(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			For(1) us(2) ,(3) our(4) kama'aina(5) stay(6) rested(7) on(8) the(9) 20th(10) floor(11) on(12) this(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) were(3) comfortable(4) ,(5) but(6) were(7) not(8) extravagant(9) .(10) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8,9" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			In(1) fact(2) ,(3) you(4) 'd(5) probably(6) find(7) that(8) this(9) hotel(10) is(11) not(12) the(13) place(14) to(15) be(16) if(17) you(18) 're(19) having(20) a(21) honeymoon(22) or(23) a(24) romantic(25) vacation(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			The(1) rooms(2) were(3) simple(4) ,(5) but(6) ,(7) like(8) I(9) said(10) ,(11) comfortable(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			There(1) were(2) many(3) amenities(4) within(5) the(6) room(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			For(1) example(2) ,(3) everything(4) you(5) 'd(6) find(7) in(8) a(9) normal(10) hotel(11) was(12) stocked(13) within(14) the(15) hotel(16) .(17) 
+			<opinion featWords="11" feature="hotel" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			Cable(1) TV(2) ,(3) pay(4) movies(5) ,(6) air(7) conditioning(8) ,(9) clock(10) radio(11) ,(12) safe(13) ,(14) hair(15) dryers(16) ,(17) internet(18) access(19) were(20) all(21) standard(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			Unfortunately(1) ,(2) although(3) a(4) refrigerator(5) was(6) in(7) the(8) room(9) ,(10) it(11) was(12) not(13) stocked(14) ,(15) so(16) we(17) could(18) not(19) enjoy(20) the(21) pricey(22) mini-fridge(23) that(24) other(25) elegant(26) hotels(27) have(28) .(29) 
+			<opinion feature="price" opWords="22" polarity="-"/>
+			<opinion featWords="27" feature="hotel" opWords="26" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) bathrooms(2) were(3) clean(4) and(5) so(6) were(7) the(8) towels(9) ,(10) which(11) to(12) my(13) relief(14) is(15) much(16) better(17) than(18) what(19) we(20) have(21) at(22) home(23) .(24) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="+"/>
+			<opinion featWords="9" feature="towels" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			Overall(1) ,(2) this(3) hotel(4) ,(5) which(6) opened(7) in(8) 1970(9) ,(10) has(11) comfortable(12) rooms(13) ,(14) with(15) everything(16) you(17) 'd(18) find(19) at(20) a(21) regular(22) hotel(23) ...(24) it(25) 's(26) just(27) a(28) bit(29) cheaper(30) ((31) I(32) 'll(33) get(34) to(35) that(36) in(37) a(38) second(39) )(40) .(41) 
+			<opinion featWords="13" feature="rooms" opWords="12" polarity="+"/>
+			<opinion featWords="23" feature="hotel" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Dining(1) and(2) Drinks(3) ...(4) There(5) are(6) five(7) places(8) you(9) could(10) eat(11) or(12) drink(13) at(14) the(15) Ala(16) Moana(17) Hotel(18) .(19) -(20) The(21) Plantation(22) Cafe(23) was(24) not(25) that(26) great(27) ,(28) and(29) many(30) find(31) the(32) buffet(33) offered(34) to(35) be(36) substandard(37) .(38) 
+			<opinion featWords="33" feature="food" opWords="37" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			For(1) us(2) ,(3) the(4) buffet(5) was(6) okay(7) ,(8) like(9) any(10) other(11) ,(12) but(13) it(14) was(15) not(16) the(17) best(18) .(19) 
+			<opinion featWords="5" feature="food" opWords="7" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="16,18" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			We(1) found(2) that(3) this(4) buffet(5) is(6) a(7) great(8) place(9) to(10) eat(11) when(12) you(13) 're(14) really(15) hungry(16) ,(17) because(18) you(19) want(20) to(21) take(22) advantage(23) of(24) all(25) the(26) food(27) as(28) quick(29) as(30) possible(31) .(32) 
+			<opinion featWords="9" feature="place" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			They(1) offer(2) breakfast(3) buffets(4) as(5) well(6) as(7) weekend(8) ones(9) ,(10) and(11) in(12) addition(13) have(14) regular(15) menus(16) for(17) all(18) three(19) meals(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			We(1) did(2) not(3) have(4) the(5) opportunity(6) to(7) choose(8) from(9) their(10) set(11) menus(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			However(1) ,(2) we(3) did(4) have(5) a(6) chance(7) to(8) eat(9) both(10) a(11) breakfast(12) buffet(13) and(14) their(15) Sunday(16) brunch(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			Definitely(1) eat(2) their(3) Sunday(4) brunch(5) as(6) opposed(7) to(8) their(9) breakfast(10) buffet(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			You(1) 'll(2) find(3) a(4) higher(5) quality(6) of(7) food(8) .(9) -(10) Mahina(11) Lounge(12) had(13) live(14) entertainment(15) every(16) time(17) we(18) returned(19) from(20) shopping(21) at(22) night(23) .(24) 
+		</sentence>
+		<sentence id="25">
+			They(1) apparently(2) offer(3) nightly(4) entertainment(5) ,(6) which(7) you(8) can(9) enjoy(10) over(11) cocktails(12) .(13) 
+		</sentence>
+		<sentence id="26">
+			In(1) addition(2) ,(3) they(4) have(5) continental(6) breakfast(7) as(8) well(9) for(10) the(11) early(12) wakers(13) .(14) -(15) Royal(16) Garden(17) Restaurant(18) was(19) an(20) excellent(21) place(22) with(23) dim(24) sum(25) or(26) other(27) assorted(28) Chinese(29) food(30) .(31) 
+			<opinion featWords="22" feature="place" opWords="21" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			If(1) you(2) come(3) here(4) for(5) one(6) thing(7) ,(8) it(9) 'd(10) be(11) dim(12) sum(13) .(14) 
+		</sentence>
+		<sentence id="28">
+			Unfortunately(1) ,(2) the(3) service(4) was(5) horrible(6) ,(7) and(8) you(9) will(10) not(11) find(12) a(13) fortune(14) cookie(15) at(16) the(17) end(18) of(19) your(20) meal(21) ,(22) but(23) it(24) was(25) worth(26) the(27) good(28) tasting(29) food(30) .(31) 
+			<opinion featWords="4" feature="service" opWords="6" polarity="-"/>
+			<opinion featWords="30" feature="food" opWords="28,29" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			You(1) also(2) might(3) have(4) a(5) hard(6) time(7) understanding(8) some(9) of(10) the(11) waiters(12) and(13) waitresses(14) ,(15) but(16) do(17) not(18) worry(19) ...(20) dim(21) sum(22) is(23) served(24) on(25) moving(26) carts(27) ,(28) so(29) just(30) stop(31) the(32) cart(33) pusher(34) and(35) point(36) to(37) what(38) you(39) want(40) .(41) 
+		</sentence>
+		<sentence id="30">
+			Be(1) careful(2) ,(3) however(4) ,(5) it(6) can(7) get(8) pricey(9) if(10) you(11) do(12) not(13) watch(14) how(15) much(16) you(17) eat(18) .(19) -(20) Aaron(21) 's(22) Restaurant(23) offers(24) a(25) nice(26) view(27) of(28) Waikiki(29) and(30) greater(31) Honolulu(32) .(33) 
+			<opinion feature="price" opWords="9" polarity="-"/>
+			<opinion featWords="27" feature="view" opWords="26" polarity="+"/>
+		</sentence>
+		<sentence id="31">
+			Located(1) on(2) the(3) top(4) floor(5) of(6) the(7) hotel(8) ,(9) they(10) offer(11) fine(12) "(13) Classic(14) American(15) Continental(16) cuisine(17) with(18) a(19) unique(20) Mediterranean(21) and(22) Asian(23) flair(24) "(25) and(26) live(27) entertainment(28) .(29) 
+		</sentence>
+		<sentence id="32">
+			Recently(1) refurbished(2) in(3) 1999(4) ,(5) this(6) hotel(7) also(8) offers(9) dancing(10) with(11) the(12) entertainment(13) .(14) 
+		</sentence>
+		<sentence id="33">
+			It(1) can(2) be(3) a(4) bit(5) pricey(6) ,(7) but(8) is(9) a(10) nice(11) place(12) to(13) take(14) your(15) significant(16) other(17) on(18) a(19) date(20) .(21) 
+			<opinion feature="price" opWords="6" polarity="-"/>
+			<opinion featWords="12" feature="place" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="34">
+			Careful(1) ,(2) however(3) ,(4) the(5) dress(6) code(7) is(8) strict(9) .(10) 
+		</sentence>
+		<sentence id="35">
+			Anything(1) to(2) do(3) in(4) the(5) hotel(6) ...(7) ?(8) 
+		</sentence>
+		<sentence id="36">
+			Within(1) the(2) hotel(3) ,(4) there(5) are(6) two(7) main(8) things(9) to(10) do(11) .(12) -(13) At(14) the(15) Hawaiian(16) Hut(17) one(18) can(19) experience(20) a(21) Polynesian(22) show(23) ,(24) much(25) similar(26) to(27) the(28) one(29) at(30) the(31) Polynesian(32) Cultural(33) Center(34) .(35) 
+		</sentence>
+		<sentence id="37">
+			Be(1) ready(2) to(3) be(4) amazed(5) at(6) girls(7) dancing(8) Polynesian(9) style(10) in(11) coconut(12) shells(13) and(14) men(15) with(16) spears(17) and(18) such(19) .(20) 
+		</sentence>
+		<sentence id="38">
+			It(1) 's(2) really(3) one(4) of(5) those(6) tourist(7) traps(8) ,(9) but(10) we(11) ended(12) up(13) going(14) to(15) see(16) it(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			It(1) 's(2) merely(3) something(4) to(5) do(6) .(7) 
+		</sentence>
+		<sentence id="40">
+			Be(1) careful(2) ,(3) however(4) ,(5) this(6) can(7) be(8) pricey(9) .(10) 
+			<opinion feature="price" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="41">
+			There(1) are(2) two(3) different(4) ways(5) you(6) can(7) see(8) the(9) show(10) .(11) 
+		</sentence>
+		<sentence id="42">
+			One(1) is(2) by(3) purchasing(4) a(5) dinner(6) ticket(7) which(8) costs(9) in(10) upwards(11) of(12) $50(13) and(14) the(15) other(16) is(17) through(18) a(19) cocktail(20) show(21) ,(22) which(23) is(24) about(25) $30(26) .(27) 
+		</sentence>
+		<sentence id="43">
+			Watch(1) this(2) show(3) only(4) if(5) you(6) do(7) not(8) intend(9) on(10) visiting(11) the(12) Polynesian(13) Cultural(14) Center(15) .(16) -(17) Rumours(18) Nightclub(19) is(20) simply(21) a(22) nightclub(23) for(24) local(25) people(26) .(27) 
+		</sentence>
+		<sentence id="44">
+			Although(1) you(2) 'll(3) find(4) it(5) closed(6) on(7) weeknights(8) ,(9) on(10) the(11) weekends(12) ,(13) it(14) will(15) be(16) packed(17) with(18) those(19) wanting(20) to(21) party(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			We(1) ended(2) up(3) avoiding(4) this(5) area(6) because(7) it(8) 's(9) a(10) non-family(11) place(12) ,(13) but(14) from(15) the(16) likes(17) of(18) it(19) ,(20) it(21) was(22) pretty(23) busy(24) that(25) night(26) .(27) 
+		</sentence>
+		<sentence id="46">
+			Inside(1) Rumours(2) you(3) 'll(4) find(5) a(6) small(7) dance(8) floor(9) ,(10) but(11) they(12) do(13) have(14) a(15) nice(16) sound(17) system(18) and(19) the(20) likes(21) .(22) 
+		</sentence>
+		<sentence id="47">
+			It(1) might(2) be(3) a(4) great(5) place(6) to(7) check(8) out(9) ,(10) and(11) take(12) your(13) significant(14) other(15) as(16) well(17) .(18) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="48">
+			What(1) about(2) things(3) to(4) do(5) outside(6) of(7) the(8) hotel(9) ?(10) 
+		</sentence>
+		<sentence id="49">
+			Good(1) idea(2) .(3) 
+		</sentence>
+		<sentence id="50">
+			After(1) you(2) 've(3) gone(4) through(5) everything(6) this(7) hotel(8) has(9) to(10) offer(11) ,(12) it(13) 'd(14) be(15) a(16) great(17) idea(18) to(19) go(20) and(21) explore(22) the(23) other(24) things(25) on(26) Oahu(27) .(28) 
+		</sentence>
+		<sentence id="51">
+			You(1) 'll(2) find(3) that(4) there(5) are(6) more(7) things(8) to(9) do(10) here(11) than(12) you(13) 'll(14) have(15) time(16) for(17) ,(18) so(19) budget(20) your(21) time(22) wisely(23) and(24) only(25) choose(26) things(27) that(28) you(29) really(30) think(31) will(32) be(33) worth(34) the(35) time(36) .(37) 
+		</sentence>
+		<sentence id="52">
+			Near(1) to(2) the(3) Ala(4) Moana(5) Hotel(6) is(7) the(8) Hawai'i(9) Convention(10) Center(11) .(12) 
+		</sentence>
+		<sentence id="53">
+			For(1) those(2) who(3) are(4) attending(5) a(6) convention(7) in(8) the(9) islands(10) ,(11) this(12) is(13) the(14) perfect(15) hotel(16) for(17) you(18) .(19) 
+			<opinion featWords="16" feature="hotel" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="54">
+			A(1) short(2) walk(3) ,(4) less(5) than(6) 5(7) minutes(8) ,(9) will(10) get(11) you(12) to(13) the(14) glass(15) entrance(16) of(17) the(18) center(19) .(20) 
+		</sentence>
+		<sentence id="55">
+			In(1) addition(2) ,(3) Ala(4) Moana(5) Shopping(6) Center(7) is(8) connected(9) to(10) the(11) Ala(12) Moana(13) Hotel(14) by(15) a(16) ramp(17) .(18) 
+		</sentence>
+		<sentence id="56">
+			Shoppers(1) might(2) find(3) this(4) mall(5) big(6) ,(7) but(8) it(9) offers(10) over(11) 200(12) stores(13) ,(14) including(15) elegant(16) stores(17) such(18) as(19) Armani(20) ,(21) DKNY(22) ,(23) etc.(24) However(25) ,(26) they(27) do(28) have(29) big(30) department(31) stores(32) such(33) as(34) JC(35) Pennys(36) ,(37) Sears(38) ,(39) and(40) Macys(41) .(42) 
+		</sentence>
+		<sentence id="57">
+			You(1) 'll(2) also(3) find(4) mostly(5) Japanese(6) tourists(7) at(8) this(9) mall(10) .(11) 
+		</sentence>
+		<sentence id="58">
+			Ala(1) Moana(2) Beach(3) Park(4) is(5) a(6) close(7) walk(8) from(9) the(10) hotel(11) ,(12) but(13) you(14) 'll(15) find(16) that(17) it(18) 's(19) mainly(20) a(21) local(22) 's(23) beach(24) .(25) 
+		</sentence>
+		<sentence id="59">
+			If(1) you(2) want(3) the(4) tourist(5) beach(6) ,(7) then(8) I(9) strongly(10) suggest(11) Waikiki(12) beach(13) ,(14) read(15) below(16) .(17) 
+		</sentence>
+		<sentence id="60">
+			What(1) 's(2) not(3) close(4) to(5) the(6) hotel(7) ?(8) 
+		</sentence>
+		<sentence id="61">
+			You(1) will(2) not(3) find(4) Waikiki(5) Beach(6) or(7) the(8) International(9) Marketplace(10) close(11) to(12) the(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="62">
+			These(1) are(2) a(3) 20(4) minute(5) walk(6) from(7) the(8) hotel(9) or(10) a(11) short(12) drive(13) .(14) 
+		</sentence>
+		<sentence id="63">
+			Unfortunately(1) ,(2) if(3) you(4) choose(5) to(6) drive(7) ,(8) you(9) 'll(10) find(11) that(12) there(13) is(14) limited(15) parking(16) within(17) Waikiki(18) and(19) you(20) 'll(21) end(22) up(23) paying(24) a(25) lot(26) of(27) money(28) to(29) park(30) at(31) a(32) hotel(33) .(34) 
+		</sentence>
+		<sentence id="64">
+			If(1) you(2) want(3) to(4) experience(5) Waikiki(6) within(7) walking(8) distance(9) ,(10) you(11) might(12) want(13) to(14) consider(15) staying(16) in(17) a(18) hotel(19) within(20) Waikiki(21) .(22) 
+		</sentence>
+		<sentence id="65">
+			There(1) are(2) many(3) to(4) choose(5) from(6) .(7) 
+		</sentence>
+		<sentence id="66">
+			The(1) airport(2) is(3) also(4) far(5) ,(6) but(7) good(8) transportation(9) provided(10) by(11) the(12) hotel(13) will(14) get(15) you(16) there(17) when(18) you(19) need(20) to(21) .(22) 
+		</sentence>
+		<sentence id="67">
+			What(1) if(2) I(3) need(4) to(5) exercise(6) ?(7) 
+		</sentence>
+		<sentence id="68">
+			The(1) hotel(2) offers(3) a(4) fitness(5) center(6) and(7) a(8) pool(9) .(10) 
+		</sentence>
+		<sentence id="69">
+			However(1) ,(2) the(3) fitness(4) center(5) is(6) really(7) small(8) and(9) does(10) not(11) offer(12) the(13) total(14) body(15) fitness(16) workout(17) that(18) one(19) might(20) desire(21) .(22) 
+			<opinion featWords="4,5" feature="gym" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="70">
+			In(1) addition(2) ,(3) the(4) pool(5) is(6) quite(7) small(8) ((9) as(10) are(11) most(12) pools(13) on(14) Oahu(15) 's(16) hotels(17) ...(18) because(19) of(20) the(21) beaches(22) )(23) .(24) 
+			<opinion featWords="5" feature="swimming pool" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="71">
+			If(1) what(2) you(3) need(4) is(5) a(6) full(7) body(8) workout(9) on(10) your(11) stay(12) ,(13) then(14) I(15) strongly(16) suggest(17) avoiding(18) this(19) hotel(20) .(21) 
+			<opinion featWords="20" feature="hotel" opWords="18" polarity="-" potency="16"/>
+		</sentence>
+		<sentence id="72">
+			Customer(1) Service(2) We(3) found(4) the(5) customer(6) service(7) at(8) this(9) hotel(10) to(11) be(12) great(13) .(14) 
+			<opinion featWords="7" feature="service" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="73">
+			The(1) employees(2) truly(3) embody(4) the(5) "(6) aloha(7) spirit(8) "(9) .(10) 
+		</sentence>
+		<sentence id="74">
+			When(1) we(2) first(3) arrived(4) for(5) check-in(6) ,(7) the(8) check-in(9) representative(10) was(11) nice(12) and(13) always(14) showed(15) a(16) smile(17) .(18) 
+		</sentence>
+		<sentence id="75">
+			Then(1) the(2) bell(3) hop(4) was(5) friendly(6) ,(7) explaining(8) to(9) us(10) parts(11) of(12) the(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="76">
+			Customer(1) Service(2) was(3) always(4) top(5) notch(6) ,(7) and(8) really(9) nothing(10) that(11) was(12) bad(13) .(14) 
+		</sentence>
+		<sentence id="77">
+			Price(1) ...(2) so(3) is(4) the(5) hotel(6) worth(7) it(8) ?(9) 
+		</sentence>
+		<sentence id="78">
+			Overall(1) ,(2) if(3) you(4) 're(5) looking(6) for(7) a(8) cheap(9) hotel(10) and(11) you(12) want(13) to(14) be(15) close(16) to(17) the(18) Convention(19) Center(20) and(21) Ala(22) Moana(23) then(24) this(25) hotel(26) is(27) great(28) for(29) you(30) .(31) 
+			<opinion feature="price" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="79">
+			Children(1) under(2) 18(3) stay(4) free(5) with(6) their(7) paying(8) adults(9) and(10) extra(11) roll(12) away(13) beds(14) are(15) $25(16) ,(17) to(18) my(19) knowledge(20) .(21) 
+		</sentence>
+		<sentence id="80">
+			Note(1) that(2) you(3) can(4) get(5) a(6) cheaper(7) rate(8) if(9) you(10) stay(11) with(12) someone(13) from(14) within(15) the(16) islands(17) ,(18) so(19) if(20) you(21) know(22) of(23) anyone(24) give(25) them(26) a(27) call(28) .(29) 
+		</sentence>
+		<sentence id="81">
+			Anyone(1) with(2) a(3) Hawai'i(4) State(5) Driver(6) 's(7) license(8) is(9) eligible(10) for(11) kama'aina(12) ((13) local(14) )(15) discounts(16) throughout(17) the(18) state(19) .(20) 
+		</sentence>
+		<sentence id="82">
+			This(1) hotel(2) is(3) for(4) ...(5) Those(6) who(7) want(8) a(9) cheap(10) hotel(11) and(12) do(13) not(14) feel(15) the(16) need(17) to(18) be(19) close(20) to(21) Waikiki(22) .(23) 
+			<opinion feature="price" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="83">
+			Also(1) for(2) those(3) who(4) want(5) quick(6) and(7) easy(8) access(9) to(10) the(11) Ala(12) Moana(13) Shopping(14) Center(15) and(16) Hawai'i(17) Convention(18) Center(19) .(20) 
+		</sentence>
+		<sentence id="84">
+			This(1) hotel(2) is(3) not(4) for(5) ...(6) Visitors(7) with(8) families(9) who(10) want(11) to(12) visit(13) the(14) beach(15) frequently(16) and(17) also(18) the(19) flavor(20) of(21) Waikiki(22) outside(23) their(24) front(25) door(26) .(27) 
+		</sentence>
+		<sentence id="85">
+			Also(1) ,(2) those(3) who(4) are(5) on(6) honeymoons(7) or(8) romantic(9) vacations(10) .(11) 
+		</sentence>
+		<sentence id="86">
+			Website(1) The(2) Ala(3) Moana(4) Hotel(5) 's(6) website(7) will(8) provide(9) you(10) with(11) more(12) information(13) .(14) www.alamoanahotel.com(15) 
+		</sentence>
+	</text>
+</review>

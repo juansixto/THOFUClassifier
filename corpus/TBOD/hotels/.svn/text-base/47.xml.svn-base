@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="47" item="SUPER 8 MOTEL - SHERIDAN" rating="2">
+	<title>
+		<sentence id="1">
+			Ewww(1) ...(2) What(3) 's(4) That(5) Smell(6) ?(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Employees(1) ,(2) shower(3) ,(4) clean(5) bedding(6) 
+			<opinion featWords="6" feature="bedding" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Do(1) your(2) nose(3) a(4) favor(5) ...(6) keep(7) driving(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) traveling(2) by(3) car(4) I(5) tend(6) to(7) drive(8) as(9) far(10) as(11) I(12) can(13) before(14) exhaustion(15) takes(16) over(17) and(18) forces(19) me(20) to(21) find(22) a(23) hotel(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			Traveling(1) through(2) Wyoming(3) that(4) means(5) if(6) I(7) feel(8) the(9) least(10) bit(11) tired(12) I(13) better(14) find(15) something(16) as(17) the(18) towns(19) ((20) at(21) times(22) )(23) are(24) few(25) and(26) far(27) between(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			That(1) is(2) how(3) I(4) ended(5) up(6) at(7) the(8) Super(9) 8(10) -(11) Sheridan(12) ,(13) I(14) was(15) tired(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			I(1) Should(2) Have(3) Kept(4) Going(5) When(6) we(7) entered(8) the(9) small(10) lobby(11) we(12) were(13) greeted(14) by(15) a(16) friendly(17) male(18) clerk(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			He(1) had(2) us(3) checked(4) in(5) within(6) minutes(7) and(8) on(9) our(10) way(11) to(12) our(13) second(14) floor(15) room(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Dragging(1) our(2) luggage(3) up(4) the(5) stairs(6) ((7) no(8) elevator(9) )(10) ,(11) we(12) added(13) more(14) scuff(15) marks(16) to(17) the(18) carpet(19) and(20) probably(21) picked(22) up(23) quite(24) a(25) bit(26) of(27) dirt(28) on(29) our(30) luggage(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			If(1) I(2) had(3) not(4) been(5) so(6) tired(7) we(8) would(9) have(10) walked(11) right(12) back(13) down(14) the(15) stairs(16) before(17) even(18) seeing(19) our(20) room(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			Entering(1) the(2) room(3) we(4) were(5) hit(6) with(7) a(8) musty(9) smell(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			My(1) mom(2) determined(3) to(4) get(5) some(6) rest(7) checked(8) the(9) one(10) area(11) of(12) each(13) room(14) that(15) makes(16) or(17) breaks(18) the(19) spending(20) the(21) night(22) deal(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			Luckily(1) the(2) beds(3) had(4) clean(5) pillowcases(6) ,(7) sheets(8) ,(9) blankets(10) ,(11) and(12) bedspreads(13) .(14) 
+			<opinion featWords="6" feature="bedding" opWords="5" polarity="+"/>
+			<opinion featWords="8" feature="bedding" opWords="5" polarity="+"/>
+			<opinion featWords="10" feature="bedding" opWords="5" polarity="+"/>
+			<opinion featWords="13" feature="bedding" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) beds(2) were(3) firm(4) and(5) the(6) pillows(7) were(8) flat(9) .(10) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="bedding" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			But(1) ,(2) they(3) were(4) clean(5) ...(6) so(7) we(8) stayed(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			After(1) a(2) quick(3) check(4) of(5) the(6) room(7) we(8) decided(9) to(10) pick(11) up(12) some(13) fast(14) food(15) and(16) bring(17) it(18) back(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			When(1) leaving(2) a(3) hotel(4) room(5) I(6) always(7) double(8) check(9) to(10) make(11) sure(12) the(13) door(14) locked(15) behind(16) me(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			This(1) one(2) did(3) not(4) .(5) 
+		</sentence>
+		<sentence id="16">
+			No(1) matter(2) what(3) I(4) tried(5) it(6) just(7) would(8) not(9) lock(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			My(1) mother(2) went(3) to(4) tell(5) the(6) clerk(7) about(8) the(9) problem(10) and(11) he(12) came(13) right(14) up(15) to(16) check(17) it(18) out(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			He(1) tried(2) a(3) new(4) card(5) key(6) and(7) a(8) couple(9) of(10) other(11) things(12) before(13) determining(14) we(15) would(16) have(17) to(18) move(19) to(20) another(21) room(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			The(1) next(2) room(3) smacked(4) us(5) with(6) the(7) same(8) musty(9) smell(10) ,(11) but(12) the(13) beds(14) and(15) bedding(16) were(17) clean(18) and(19) the(20) lock(21) worked(22) so(23) we(24) were(25) in(26) this(27) room(28) to(29) stay(30) .(31) 
+			<opinion featWords="14" feature="bed" opWords="18" polarity="+"/>
+			<opinion featWords="16" feature="bedding" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			After(1) our(2) fast(3) food(4) run(5) we(6) did(7) notice(8) that(9) the(10) room(11) 's(12) air(13) conditioner(14) seemed(15) to(16) have(17) cured(18) some(19) of(20) the(21) musty(22) smell(23) ...(24) or(25) we(26) had(27) just(28) gotten(29) used(30) to(31) it(32) .(33) 
+		</sentence>
+		<sentence id="21">
+			Besides(1) the(2) two(3) beds(4) the(5) room(6) contained(7) a(8) nightstand(9) with(10) phone(11) and(12) radio(13) /(14) alarm(15) clock(16) ,(17) dresser(18) with(19) 25(20) "(21) TV(22) ,(23) table(24) and(25) two(26) chairs(27) .(28) There(29) was(30) plenty(31) of(32) lamps(33) /(34) lighting(35) but(36) we(37) were(38) scared(39) to(40) turn(41) too(42) many(43) of(44) them(45) on(46) .(47) The(48) room(49) was(50) worn(51) and(52) dingy(53) in(54) dim(55) light(56) ...(57) we(58) did(59) not(60) want(61) to(62) see(63) into(64) the(65) corners(66) .(67) The(68) Bathroom(69) While(70) I(71) am(72) a(73) fan(74) of(75) curved(76) shower(77) rods(78) ,(79) when(80) using(81) the(82) shower(83) ,(84) they(85) are(86) not(87) appropriate(88) for(89) small(90) bathrooms(91) .(92) The(93) toilet(94) area(95) becomes(96) overran(97) by(98) the(99) protruding(100) shower(101) curtain(102) .(103) Such(104) is(105) the(106) case(107) in(108) the(109) Super(110) 8(111) -(112) Sheridan(113) bathroom(114) .(115) The(116) sink(117) basin(118) runs(119) along(120) one(121) wall(122) of(123) the(124) bathroom(125) ,(126) yet(127) is(128) small(129) enough(130) that(131) it(132) is(133) cluttered(134) with(135) the(136) amenities(137) .(138) Coffee(139) pot(140) ,(141) regular(142) &amp;(143) decaf(144) coffee(145) pouches(146) ,(147) sugar(148) ,(149) sweetener(150) ,(151) creamer(152) are(153) in(154) one(155) corner(156) .(157) Pantene(158) 2(159) in(160) 1(161) shampoo(162) /(163) conditioner(164) ,(165) generic(166) facial(167) and(168) body(169) soap(170) in(171) the(172) other(173) .(174) A(175) hair(176) dryer(177) is(178) on(179) the(180) wall(181) above(182) them(183) .(184) The(185) towels(186) and(187) wash(188) clothes(189) appeared(190) to(191) be(192) new(193) ,(194) but(195) were(196) stiff(197) and(198) scratchy(199) .(200) I(201) will(202) give(203) the(204) shower(205) a(206) positive(207) comment(208) as(209) the(210) water(211) pressure(212) was(213) good(214) and(215) hot(216) .(217) Free(218) Continental(219) Breakfast(220) ...(221) When(222) leaving(223) the(224) hotel(225) we(226) had(227) trouble(228) getting(229) down(230) the(231) stairs(232) .(233) The(234) people(235) trying(236) to(237) take(238) advantage(239) of(240) the(241) cereal(242) ,(243) doughnuts(244) ,(245) muffins(246) ,(247) and(248) bagels(249) breakfast(250) had(251) only(252) one(253) table(254) to(255) sit(256) at(257) so(258) had(259) chosen(260) the(261) stairs(262) as(263) their(264) seating(265) .(266) After(267) having(268) to(269) displace(270) the(271) stair(272) sitters(273) we(274) decided(275) to(276) not(277) bother(278) trying(279) to(280) get(281) through(282) the(283) cramped(284) space(285) just(286) to(287) grab(288) a(289) doughnut(290) .(291) Other(292) amenities(293) are(294) non(295) existent(296) .(297) I(298) could(299) not(300) locate(301) a(302) swimming(303) pool(304) or(305) exercise(306) room(307) anywhere(308) in(309) this(310) hotel(311) .(312) Checkout(313) We(314) had(315) to(316) move(317) the(318) stair(319) sitters(320) ,(321) who(322) had(323) now(324) become(325) the(326) lobby(327) desk(328) leaners(329) ,(330) again(331) .(332) Once(333) the(334) checkout(335) process(336) began(337) it(338) was(339) quick(340) .(341) My(342) mom(343) confirmed(344) her(345) ((346) approximately(347) )(348) $80(349) AARP(350) rate(351) and(352) handed(353) in(354) the(355) card(356) keys(357) .(358) Then(359) we(360) were(361) outta(362) there(363) .(364) Overall(365) The(366) Super(367) 8(368) -(369) Sheridan(370) is(371) not(372) someplace(373) I(374) would(375) ever(376) visit(377) again(378) .(379) It(380) did(381) the(382) job(383) in(384) giving(385) us(386) a(387) place(388) to(389) get(390) a(391) few(392) hours(393) sleep(394) and(395) that(396) was(397) it(398) .(399) If(400) I(401) had(402) had(403) more(404) energy(405) we(406) would(407) have(408) walked(409) out(410) and(411) found(412) another(413) hotel(414) .(415) The(416) dingy(417) ,(418) smelly(419) rooms(420) are(421) in(422) dire(423) need(424) of(425) help(426) .(427) The(428) breakfast(429) and(430) the(431) area(432) to(433) eat(434) it(435) in(436) is(437) a(438) joke(439) .(440) The(441) employees(442) seem(443) to(444) realize(445) the(446) hotel(447) is(448) in(449) disrepair(450) and(451) try(452) to(453) make(454) up(455) for(456) it(457) by(458) being(459) helpful(460) and(461) extremely(462) nice(463) .(464) They(465) ,(466) and(467) the(468) Super(469) 8(470) -(471) Sheridan(472) guests(473) ,(474) deserve(475) better(476) than(477) what(478) the(479) hotel(480) gives(481) .(482) 
+			<opinion featWords="49" feature="rooms" opWords="51" polarity="-"/>
+			<opinion featWords="49" feature="rooms" opWords="53" polarity="-"/>
+			<opinion featWords="186" feature="towels" opWords="193" polarity="+"/>
+			<opinion featWords="186" feature="towels" opWords="197" polarity="-"/>
+			<opinion featWords="186" feature="towels" opWords="199" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="508" item="Sheraton Baton Rouge Convention Center Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			Three(1) Strikes(2) ,(3) You(4) 're(5) Out(6) ,(7) Sheraton(8) Baton(9) Rouge(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sweet(1) Sleeper(2) Beds(3) ,(4) Free(5) High(6) Speed(7) Internet(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) Customer(3) Service(4) ,(5) unless(6) you(7) valet(8) ,(9) parking(10) is(11) a(12) pain(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) hotel(2) wants(3) to(4) look(5) good(6) ,(7) but(8) they(9) do(10) not(11) try(12) too(13) hard(14) ,(15) nor(16) do(17) they(18) seem(19) to(20) really(21) care(22) .(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Sheraton(2) Baton(3) Rouge(4) might(5) seem(6) like(7) a(8) great(9) place(10) to(11) stay(12) if(13) you(14) like(15) staying(16) at(17) the(18) Starwood(19) brand(20) hotels(21) or(22) if(23) you(24) like(25) to(26) gamble(27) .(28) 
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			There(1) is(2) a(3) casino(4) attached(5) to(6) the(7) hotel(8) property(9) making(10) this(11) a(12) very(13) convenient(14) place(15) to(16) stay(17) .(18) 
+			<opinion featWords="15" feature="place" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) do(3) 'nt(4) have(5) gambling(6) in(7) mind(8) ,(9) do(10) 'nt(11) stay(12) here(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			As(1) a(2) hotel(3) ,(4) this(5) property(6) has(7) much(8) to(9) be(10) desired(11) ,(12) mostly(13) regarding(14) service(15) issues(16) ,(17) but(18) the(19) overall(20) feel(21) of(22) the(23) hotel(24) is(25) one(26) that(27) makes(28) me(29) question(30) a(31) return(32) visit(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			I(1) have(2) stayed(3) here(4) three(5) times(6) ,(7) each(8) time(9) I(10) ask(11) myself(12) if(13) the(14) Starwood(15) points(16) were(17) really(18) worth(19) the(20) stay(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Three(1) times(2) is(3) a(4) charm(5) and(6) unfortunately(7) for(8) the(9) Sheraton(10) Baton(11) Rouge(12) ,(13) it(14) s(15) more(16) like(17) three(18) strikes(19) and(20) you(21) re(22) out(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			At(1) a(2) glance(3) ,(4) this(5) hotel(6) maintains(7) a(8) clean(9) front(10) ,(11) is(12) located(13) in(14) a(15) choice(16) spot(17) if(18) you(19) want(20) to(21) be(22) in(23) downtown(24) Baton(25) Rouge(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			They(1) offer(2) valet(3) parking(4) ,(5) the(6) decor(7) of(8) the(9) lobby(10) is(11) very(12) nice(13) and(14) the(15) amenities(16) and(17) services(18) offered(19) at(20) the(21) hotel(22) make(23) the(24) Sheraton(25) Baton(26) Rouge(27) very(28) appealing(29) -(30) but(31) looks(32) can(33) be(34) deceiving(35) .(36) 
+			<opinion featWords="7" feature="decoration" opWords="13" polarity="+" potency="12"/>
+			<opinion feature="hotel" opWords="29" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Getting(1) there(2) Upon(3) arriving(4) at(5) the(6) hotel(7) ,(8) there(9) is(10) little(11) space(12) to(13) park(14) your(15) car(16) for(17) checking(18) in(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			It(1) feels(2) like(3) a(4) ploy(5) to(6) me(7) to(8) valet(9) park(10) your(11) car(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) self(3) parking(4) in(5) a(6) lot(7) behind(8) the(9) hotel(10) ,(11) but(12) you(13) have(14) to(15) have(16) a(17) room(18) key(19) in(20) order(21) to(22) get(23) into(24) the(25) lot(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Also(1) ,(2) the(3) valet(4) attendants(5) park(6) the(7) cars(8) closest(9) to(10) the(11) hotel(12) entrance(13) ,(14) so(15) you(16) ll(17) have(18) to(19) do(20) a(21) little(22) walking(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			Once(1) inside(2) the(3) hotel(4) ,(5) the(6) front(7) desk(8) clerks(9) must(10) not(11) like(12) their(13) job(14) too(15) much(16) because(17) they(18) rarely(19) seem(20) to(21) smile(22) ,(23) at(24) least(25) from(26) my(27) experience(28) .(29) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) also(3) had(4) trouble(5) just(6) getting(7) the(8) check(9) in(10) information(11) correct(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) first(2) time(3) I(4) checked(5) in(6) ,(7) they(8) did(9) not(10) have(11) the(12) right(13) room(14) rate(15) ((16) I(17) was(18) being(19) charged(20) more(21) than(22) the(23) rate(24) that(25) I(26) booked(27) )(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			The(1) second(2) and(3) third(4) time(5) I(6) checked(7) in(8) ,(9) I(10) had(11) to(12) ask(13) for(14) my(15) Platinum(16) amenity(17) ,(18) which(19) I(20) find(21) slightly(22) uncomfortable(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			Not(1) much(2) was(3) ever(4) done(5) in(6) the(7) way(8) of(9) explaining(10) services(11) offered(12) by(13) the(14) hotel(15) ,(16) such(17) as(18) restaurant(19) options(20) ,(21) fitness(22) or(23) business(24) room(25) locations(26) or(27) how(28) the(29) actual(30) parking(31) situation(32) was(33) supposed(34) to(35) work(36) .(37) 
+		</sentence>
+		<sentence id="18">
+			Rooms(1) As(2) well(3) as(4) having(5) a(6) bit(7) of(8) difficulty(9) just(10) checking(11) in(12) ,(13) the(14) first(15) room(16) on(17) my(18) first(19) stay(20) smelled(21) really(22) strongly(23) of(24) smoke(25) ,(26) even(27) though(28) I(29) had(30) requested(31) a(32) non-smoking(33) room(34) .(35) 
+		</sentence>
+		<sentence id="19">
+			After(1) a(2) big(3) sigh(4) from(5) the(6) front(7) desk(8) ,(9) I(10) was(11) given(12) a(13) new(14) room(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			So(1) far(2) ,(3) all(4) the(5) rooms(6) that(7) I(8) have(9) stayed(10) in(11) have(12) been(13) small(14) ,(15) with(16) very(17) little(18) room(19) for(20) anything(21) other(22) than(23) the(24) bed(25) ,(26) desk(27) and(28) armoire(29) that(30) held(31) the(32) 27(33) inch(34) television(35) .(36) 
+		</sentence>
+		<sentence id="21">
+			The(1) beds(2) were(3) comfortable(4) ,(5) as(6) they(7) always(8) are(9) at(10) Sheraton(11) hotels(12) .(13) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			Aside(1) from(2) the(3) free(4) high(5) speed(6) internet(7) ,(8) the(9) beds(10) were(11) the(12) best(13) thing(14) about(15) this(16) hotel(17) .(18) 
+			<opinion featWords="7" feature="internet" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			The(1) bathrooms(2) were(3) on(4) the(5) smaller(6) side(7) ,(8) but(9) had(10) ample(11) room(12) for(13) one(14) person(15) .(16) 
+			<opinion featWords="12" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			The(1) curved(2) shower(3) rod(4) was(5) nice(6) and(7) the(8) Pantene(9) shampoo(10) and(11) conditioners(12) were(13) provided(14) as(15) I(16) would(17) expect(18) any(19) Sheraton(20) to(21) have(22) .(23) 
+		</sentence>
+		<sentence id="25">
+			A(1) hair(2) dryer(3) ,(4) coffee(5) maker(6) and(7) iron(8) and(9) ironing(10) board(11) were(12) also(13) in(14) the(15) room(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			My(1) third(2) stay(3) at(4) the(5) Sheraton(6) Baton(7) Rouge(8) was(9) actually(10) in(11) an(12) upgraded(13) room(14) ,(15) which(16) was(17) located(18) on(19) one(20) of(21) the(22) two(23) club(24) level(25) floors(26) .(27) 
+		</sentence>
+		<sentence id="27">
+			When(1) I(2) made(3) my(4) reservation(5) ,(6) I(7) saw(8) that(9) they(10) did(11) have(12) club(13) level(14) rooms(15) available(16) for(17) about(18) $10(19) more(20) per(21) night(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			As(1) a(2) Platinum(3) Starwood(4) Preferred(5) guest(6) ,(7) I(8) have(9) access(10) to(11) the(12) club(13) levels(14) ,(15) regardless(16) of(17) whether(18) or(19) not(20) I(21) am(22) on(23) the(24) club(25) floor(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			In(1) any(2) case(3) ,(4) they(5) upgraded(6) me(7) ,(8) but(9) my(10) room(11) was(12) the(13) same(14) as(15) the(16) other(17) two(18) rooms(19) I(20) had(21) previously(22) stayed(23) in(24) ((25) so(26) much(27) for(28) the(29) automatic(30) upgrade(31) to(32) the(33) best(34) available(35) room(36) )(37) .(38) 
+		</sentence>
+		<sentence id="30">
+			I(1) am(2) glad(3) that(4) I(5) did(6) not(7) pay(8) for(9) a(10) club(11) level(12) room(13) as(14) the(15) club(16) lounge(17) was(18) closed(19) ((20) there(21) was(22) a(23) big(24) leak(25) in(26) the(27) ceiling(28) that(29) no(30) one(31) seemed(32) to(33) care(34) about(35) )(36) .(37) 
+		</sentence>
+		<sentence id="31">
+			I(1) like(2) to(3) take(4) advantage(5) of(6) the(7) complimentary(8) continental(9) breakfast(10) and(11) evening(12) hors(13) d(14) oeuvres(15) usually(16) offered(17) in(18) the(19) lounges(20) .(21) 
+		</sentence>
+		<sentence id="32">
+			In(1) fact(2) ,(3) with(4) the(5) lounge(6) being(7) closed(8) ,(9) staying(10) on(11) the(12) club(13) level(14) floor(15) was(16) just(17) a(18) pain(19) in(20) the(21) you(22) know(23) what(24) ,(25) since(26) my(27) room(28) key(29) had(30) to(31) be(32) used(33) on(34) the(35) elevator(36) for(37) club(38) floor(39) access(40) .(41) 
+		</sentence>
+		<sentence id="33">
+			Argh(1) .(2) 
+		</sentence>
+		<sentence id="34">
+			Other(1) Services(2) There(3) is(4) a(5) bar(6) located(7) right(8) off(9) of(10) the(11) lobby(12) that(13) always(14) seems(15) to(16) have(17) some(18) people(19) being(20) entertained(21) .(22) 
+		</sentence>
+		<sentence id="35">
+			Also(1) connected(2) to(3) the(4) hotel(5) is(6) the(7) Belle(8) Casino(9) that(10) houses(11) several(12) restaurants(13) ,(14) making(15) your(16) dining(17) selection(18) a(19) bit(20) larger(21) without(22) having(23) to(24) actually(25) go(26) outside(27) ((28) I(29) do(30) kind(31) of(32) like(33) this(34) )(35) .(36) 
+		</sentence>
+		<sentence id="36">
+			There(1) is(2) also(3) a(4) big(5) restaurant(6) in(7) the(8) middle(9) of(10) the(11) atrium(12) /(13) lobby(14) /(15) convention(16) center(17) that(18) offers(19) a(20) great(21) buffet(22) breakfast(23) ,(24) however(25) you(26) have(27) to(28) wait(29) in(30) line(31) to(32) pay(33) before(34) they(35) seat(36) you(37) -(38) which(39) means(40) you(41) get(42) to(43) pay(44) your(45) server(46) before(47) you(48) get(49) service(50) ,(51) I(52) amm(53) not(54) such(55) a(56) big(57) fan(58) of(59) this(60) .(61) 
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="37">
+			There(1) were(2) a(3) few(4) other(5) restaurants(6) in(7) the(8) convention(9) center(10) part(11) of(12) the(13) hotel(14) ,(15) but(16) I(17) did(18) not(19) have(20) a(21) chance(22) to(23) try(24) them(25) out(26) .(27) 
+		</sentence>
+		<sentence id="38">
+			For(1) the(2) most(3) part(4) ,(5) whatever(6) you(7) might(8) feel(9) like(10) eating(11) ,(12) you(13) can(14) probably(15) be(16) accommodated(17) here(18) .(19) 
+		</sentence>
+		<sentence id="39">
+			Room(1) service(2) has(3) a(4) fairly(5) generic(6) menu(7) ,(8) including(9) your(10) standard(11) turkey(12) club(13) sandwich(14) ,(15) Caesar(16) salad(17) ,(18) NY(19) Strip(20) steak(21) and(22) basic(23) chicken(24) dishes(25) .(26) 
+		</sentence>
+		<sentence id="40">
+			There(1) is(2) a(3) fitness(4) center(5) with(6) new(7) equipment(8) and(9) was(10) better(11) sized(12) than(13) many(14) other(15) hotel(16) gyms(17) .(18) 
+		</sentence>
+		<sentence id="41">
+			An(1) outdoor(2) pool(3) was(4) just(5) off(6) of(7) the(8) fitness(9) center(10) and(11) close(12) to(13) the(14) elevators(15) ,(16) so(17) you(18) do(19) 'nt(20) have(21) to(22) walk(23) through(24) the(25) lobby(26) in(27) your(28) swim(29) suit(30) .(31) 
+		</sentence>
+		<sentence id="42">
+			A(1) business(2) center(3) is(4) located(5) on(6) the(7) ground(8) floor(9) as(10) well(11) .(12) 
+		</sentence>
+		<sentence id="43">
+			All(1) of(2) these(3) services(4) are(5) listed(6) in(7) a(8) Guest(9) Information(10) book(11) in(12) the(13) rooms(14) ,(15) but(16) the(17) front(18) desk(19) staff(20) seemed(21) to(22) not(23) feel(24) the(25) need(26) to(27) point(28) anything(29) out(30) .(31) 
+		</sentence>
+		<sentence id="44">
+			Not(1) that(2) I(3) amm(4) looking(5) for(6) a(7) full(8) rundown(9) of(10) the(11) entire(12) property(13) ,(14) but(15) even(16) a(17) little(18) information(19) would(20) be(21) helpful(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			With(1) a(2) property(3) the(4) size(5) of(6) the(7) Sheraton(8) Baton(9) Rouge(10) Hotel(11) and(12) Convention(13) Center(14) ,(15) a(16) little(17) direction(18) would(19) be(20) extremely(21) helpful(22) .(23) 
+		</sentence>
+		<sentence id="46">
+			The(1) entire(2) atrium(3) ,(4) aside(5) from(6) the(7) very(8) entrance(9) of(10) the(11) hotel(12) was(13) quite(14) cold(15) and(16) uninviting(17) .(18) 
+			<opinion featWords="9" feature="lobby" opWords="15" polarity="-" potency="14"/>
+			<opinion featWords="9" feature="lobby" opWords="17" polarity="-"/>
+		</sentence>
+		<sentence id="47">
+			Overall(1) Thoughts(2) As(3) I(4) mentioned(5) ,(6) you(7) can(8) opt(9) to(10) valet(11) park(12) your(13) car(14) for(15) $14(16) per(17) day(18) ,(19) or(20) self(21) park(22) for(23) $8(24) per(25) day(26) .(27) 
+		</sentence>
+		<sentence id="48">
+			The(1) hotel(2) entrance(3) from(4) the(5) parking(6) lot(7) does(8) not(9) have(10) automatic(11) doors(12) and(13) not(14) that(15) I(16) am(17) lazy(18) ,(19) but(20) with(21) a(22) luggage(23) ,(24) this(25) is(26) quite(27) a(28) hassle(29) .(30) 
+		</sentence>
+		<sentence id="49">
+			It(1) just(2) went(3) along(4) with(5) my(6) overall(7) feeling(8) for(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="50">
+			Outwardly(1) ,(2) the(3) hotel(4) is(5) nice(6) ,(7) but(8) it(9) felt(10) after(11) each(12) stay(13) that(14) the(15) needs(16) and(17) wants(18) of(19) the(20) customers(21) were(22) not(23) all(24) that(25) important(26) when(27) they(28) designed(29) the(30) hotel(31) and(32) hired(33) its(34) staff(35) .(36) 
+			<opinion featWords="4" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="51">
+			The(1) hotel(2) appeared(3) clean(4) ,(5) but(6) the(7) non-smoking(8) rooms(9) smelling(10) like(11) smoke(12) and(13) cigarette(14) butts(15) that(16) were(17) on(18) one(19) of(20) the(21) elevator(22) floors(23) for(24) more(25) than(26) one(27) day(28) gave(29) me(30) the(31) impression(32) that(33) no(34) one(35) cared(36) about(37) this(38) property(39) .(40) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="52">
+			In(1) between(2) my(3) second(4) and(5) third(6) stay(7) at(8) the(9) Sheraton(10) Baton(11) Rouge(12) hotel(13) ,(14) I(15) stayed(16) at(17) the(18) Marriott(19) Baton(20) Rouge(21) and(22) had(23) an(24) entirely(25) better(26) experience(27) .(28) 
+		</sentence>
+		<sentence id="53">
+			When(1) checking(2) out(3) on(4) my(5) first(6) stay(7) ,(8) they(9) asked(10) if(11) everything(12) was(13) alright(14) .(15) 
+		</sentence>
+		<sentence id="54">
+			When(1) I(2) explained(3) to(4) them(5) what(6) happened(7) with(8) my(9) room(10) and(11) reserved(12) rates(13) ,(14) they(15) did(16) 'nt(17) have(18) much(19) to(20) say(21) .(22) 
+		</sentence>
+		<sentence id="55">
+			I(1) wondered(2) why(3) they(4) even(5) bothered(6) to(7) ask(8) in(9) the(10) first(11) place(12) .(13) 
+		</sentence>
+		<sentence id="56">
+			After(1) three(2) tries(3) ,(4) I(5) ve(6) come(7) to(8) realize(9) that(10) I(11) have(12) given(13) way(14) more(15) effort(16) than(17) this(18) hotel(19) gave(20) me(21) .(22) 
+		</sentence>
+		<sentence id="57">
+			Sorry(1) ,(2) Sheraton(3) Baton(4) Rouge(5) ,(6) you(7) re(8) out(9) .(10) 
+		</sentence>
+	</text>
+</review>

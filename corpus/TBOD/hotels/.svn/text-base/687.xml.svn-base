@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="687" item="Elms Resort And Spa" rating="4">
+	<title>
+		<sentence id="1">
+			Much(1) Improved(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) staff(2) ,(3) clean(4) and(5) a(6) great(7) getaway(8) .(9) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			More(1) evening(2) activities(3) but(4) it(5) was(6) the(7) Thanksgiving(8) Holiday(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) had(2) not(3) been(4) to(5) The(6) Elms(7) in(8) many(9) years(10) and(11) my(12) experience(13) was(14) not(15) the(16) best(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) recently(2) visited(3) for(4) Thanksgiving(5) and(6) had(7) a(8) very(9) different(10) experience(11) -(12) a(13) great(14) one(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			The(1) front(2) desk(3) staff(4) was(5) polite(6) and(7) informative(8) .(9) 
+			<opinion featWords="2,3" feature="front desk" opWords="6" polarity="+"/>
+			<opinion featWords="2,3" feature="front desk" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) lobby(2) was(3) beautiful(4) with(5) at(6) least(7) 10(8) Christmas(9) trees(10) .(11) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) room(2) was(3) clean(4) and(5) the(6) staff(7) friendly(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="staff" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			We(1) used(2) the(3) spa(4) and(5) had(6) a(7) heavenly(8) experience(9) -(10) our(11) therapist(12) was(13) great(14) and(15) wiped(16) away(17) the(18) stress(19) of(20) the(21) holidays(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) truly(3) a(4) great(5) experience(6) all(7) around(8) .(9) 
+		</sentence>
+	</text>
+</review>

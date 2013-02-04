@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="816" item="Fiesta Americana Grand Coral Beach Cancun" rating="5">
+	<title>
+		<sentence id="1">
+			Would(1) stay(2) at(3) this(4) resort(5) again(6) !(7) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) rooms(2) and(3) pool(4) area(5) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="4,5" feature="swimming pool" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Beverages(1) and(2) meals(3) are(4) overpriced(5) 
+			<opinion feature="price" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) resort(2) goes(3) out(4) of(5) their(6) way(7) to(8) make(9) sure(10) they(11) warrant(12) thier(13) 5-diamond(14) award(15) status(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) FAGCB(5) ,(6) 2/11(7) -(8) 2/16/2004(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) had(2) been(3) nearly(4) ((5) 10(6) )(7) years(8) since(9) we(10) last(11) visited(12) Cancun(13) and(14) we(15) were(16) anxiously(17) looking(18) to(19) return(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			During(1) our(2) stay(3) ,(4) we(5) had(6) reserved(7) a(8) Master(9) Suite(10) ,(11) smoking(12) room(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Upon(1) check-in(2) ,(3) we(4) were(5) advised(6) only(7) ((8) 2(9) )(10) Suites(11) were(12) available(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			One(1) on(2) the(3) first(4) floor(5) ((6) ground(7) level(8) ....(9) )(10) and(11) the(12) other(13) on(14) the(15) 3rd(16) floor(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Perhaps(1) the(2) hotel(3) does(4) not(5) have(6) many(7) designated(8) '(9) smoking(10) '(11) suites(12) but(13) ,(14) I(15) found(16) our(17) choices(18) to(19) be(20) a(21) bit(22) disappointing(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			The(1) lady(2) behind(3) the(4) counter(5) advised(6) us(7) that(8) if(9) we(10) were(11) willing(12) to(13) spend(14) an(15) additional(16) $100(17) per(18) night(19) ,(20) we(21) could(22) upgrade(23) to(24) '(25) club(26) level(27) '(28) where(29) we(30) would(31) have(32) a(33) much(34) better(35) view(36) and(37) all(38) the(39) ammenities(40) that(41) went(42) along(43) with(44) it(45) .(46) 
+		</sentence>
+		<sentence id="8">
+			I(1) must(2) admit(3) ,(4) I(5) kind(6) of(7) felt(8) like(9) we(10) were(11) being(12) given(13) a(14) con(15) job(16) in(17) order(18) to(19) spend(20) more(21) for(22) a(23) better(24) view(25) .(26) 
+		</sentence>
+		<sentence id="9">
+			Anyway(1) ,(2) we(3) quickly(4) asked(5) for(6) the(7) 3rd(8) floor(9) Master(10) suite(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			Upon(1) entering(2) ,(3) we(4) found(5) the(6) room(7) to(8) be(9) VERY(10) nice(11) .(12) 
+			<opinion featWords="7" feature="rooms" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="11">
+			Far(1) from(2) '(3) plush(4) '(5) ,(6) but(7) very(8) nice(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) bathroom(2) /(3) dressing(4) area(5) was(6) huge(7) and(8) toiletries(9) were(10) abundant(11) everywhere(12) we(13) turned(14) .(15) 
+			<opinion featWords="2" feature="bathroom" opWords="7" polarity="+"/>
+			<opinion featWords="9" feature="toiletries" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			We(1) walked(2) out(3) onto(4) our(5) balcony(6) overlooking(7) a(8) tranquil(9) cove(10) and(11) remarked(12) how(13) large(14) the(15) balcony(16) was(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			Since(1) the(2) floor(3) surface(4) was(5) tile(6) ,(7) I(8) did(9) a(10) quick(11) LxW(12) of(13) the(14) 12(15) "(16) tiles(17) and(18) determined(19) that(20) it(21) was(22) nearly(23) 600(24) sq(25) ft(26) .(27) !(28) Every(29) night(30) ,(31) the(32) beds(33) were(34) turned(35) down(36) ,(37) chocolates(38) on(39) the(40) pillows(41) ,(42) etc.(43) and(44) the(45) daily(46) maid(47) service(48) was(49) timely(50) and(51) first-rate(52) !(53) ((54) The(55) only(56) thing(57) I(58) would(59) suggest(60) is(61) that(62) the(63) hotel(64) install(65) a(66) few(67) more(68) ice-machines(69) throughout(70) the(71) floors(72) .(73) Our(74) Master(75) suite(76) was(77) all(78) the(79) way(80) at(81) the(82) end(83) of(84) one(85) of(86) the(87) resort(88) 's(89) two(90) towers(91) and(92) the(93) walk(94) to(95) the(96) ice(97) machine(98) was(99) QUITE(100) a(101) long(102) way(103) away(104) .(105) )(106) Words(107) can(108) not(109) explain(110) how(111) magnificent(112) the(113) pool(114) area(115) is(116) .(117) The(118) only(119) thing(120) I(121) noticed(122) was(123) that(124) nearly(125) half(126) of(127) the(128) entire(129) area(130) never(131) received(132) direct(133) sun(134) because(135) of(136) the(137) time(138) of(139) year(140) .(141) If(142) you(143) wanted(144) a(145) sunny(146) spot(147) ,(148) they(149) filled(150) up(151) quickly(152) .(153) But(154) still(155) ,(156) the(157) resort(158) did(159) not(160) seem(161) crowded(162) in(163) any(164) way(165) .(166) The(167) only(168) drawback(169) I(170) found(171) to(172) the(173) hotel(174) was(175) the(176) price(177) of(178) their(179) buffet(180) b'fast(181) and(182) drinks(183) .(184) Friends(185) have(186) told(187) me(188) that(189) when(190) it(191) comes(192) to(193) food(194) ,(195) I(196) have(197) a(198) hollow(199) leg(200) but(201) I(202) still(203) knew(204) there(205) was(206) NO(207) way(208) I(209) would(210) EVER(211) eat(212) $22(213) of(214) eggs(215) ,(216) etc.(217) So(218) ,(219) we(220) decided(221) to(222) order(223) off(224) of(225) the(226) menu(227) .(228) BIG(229) mistake(230) !(231) A(232) side(233) order(234) of(235) bacon(236) was(237) $6(238) and(239) that(240) 's(241) not(242) even(243) including(244) the(245) cost(246) of(247) ((248) 2(249) )(250) eggs(251) w(252) /(253) a(254) small(255) potato(256) pattie(257) .(258) The(259) day(260) that(261) we(262) spent(263) $60(264) on(265) a(266) b'fast(267) for(268) ((269) 2(270) )(271) ,(272) we(273) really(274) felt(275) robbed(276) and(277) sought(278) out(279) a(280) more(281) economical(282) alternative(283) .(284) Turned(285) out(286) ,(287) there(288) is(289) a(290) very(291) nice(292) "(293) Denny(294) 's(295) "(296) type(297) place(298) across(299) the(300) street(301) called(302) VIPs(303) .(304) They(305) have(306) an(307) extensive(308) B'fast(309) /(310) Lunch(311) /(312) Dinner(313) menu(314) and(315) they(316) are(317) owned(318) by(319) WalMart(320) ...(321) LOL(322) !(323) B'fast(324) for(325) ((326) 2(327) )(328) ran(329) no(330) more(331) than(332) $13-$14.In(333) regards(334) to(335) the(336) hotel(337) 's(338) drink(339) prices(340) ,(341) we(342) ordered(343) ((344) 2(345) )(346) mixed(347) drinks(348) by(349) the(350) pool(351) and(352) they(353) came(354) to(355) $22.50(356) .(357) Again(358) ,(359) steep(360) .(361) So(362) ,(363) we(364) decided(365) that(366) if(367) we(368) 'd(369) like(370) a(371) drink(372) ,(373) we(374) 'd(375) buy(376) our(377) own(378) liquor(379) and(380) keep(381) it(382) in(383) the(384) room(385) .(386) No(387) one(388) at(389) the(390) hotel(391) blinked(392) twice(393) whenever(394) we(395) brought(396) in(397) food(398) or(399) drinks(400) .(401) When(402) it(403) comes(404) to(405) quality(406) ,(407) I(408) will(409) spend(410) whatever(411) is(412) necessary(413) for(414) it(415) ....(416) That(417) 's(418) why(419) we(420) chose(421) the(422) FAGCB(423) .(424) But(425) it(426) bugs(427) me(428) to(429) feel(430) like(431) I(432) 'm(433) over-spending(434) for(435) stupid(436) things(437) like(438) drinks(439) /(440) b'fast(441) /(442) etc.(443) The(444) cleanliness(445) of(446) the(447) resort(448) is(449) absolutely(450) impeccable(451) .(452) Actually(453) ,(454) one(455) evening(456) I(457) was(458) standing(459) out(460) on(461) the(462) balcony(463) /(464) terrace(465) and(466) looked(467) down(468) to(469) see(470) ((471) 2(472) )(473) hotel(474) staff(475) members(476) cleaning(477) the(478) expansive(479) pool(480) area(481) 's(482) tile(483) with(484) an(485) electric(486) orbital(487) floor(488) polisher(489) !(490) They(491) never(492) seem(493) to(494) stop(495) making(496) sure(497) that(498) the(499) hotel(500) is(501) spotless(502) .(503) I(504) would(505) return(506) to(507) the(508) FAGCB(509) in(510) a(511) minute(512) !(513) 
+			<opinion feature="hotel" opWords="506" polarity="+"/>
+			<opinion featWords="500" feature="hotel" opWords="502" polarity="+"/>
+			<opinion featWords="114,115" feature="swimming pool" opWords="112" polarity="+"/>
+		</sentence>
+	</text>
+</review>

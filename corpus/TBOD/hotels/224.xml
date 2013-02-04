@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="224" item="Carousel  Beachfront Hotel &amp; Suites" rating="5">
+	<title>
+		<sentence id="1">
+			Carousel(1) Hotel(2) in(3) the(4) Springtime(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Indoor(1) pool(2) ,(3) game(4) room(5) ,(6) ice(7) skating(8) rink(9) ,(10) fitness(11) room(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Long(1) distance(2) from(3) Ocean(4) City(5) Boardwalk(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) was(2) an(3) excellent(4) vacation(5) at(6) an(7) excellent(8) price(9) .(10) 
+			<opinion featWords="9" feature="price" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) Carousel(2) is(3) tops(4) with(5) me(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Carousel(2) Hotel(3) seemed(4) to(5) be(6) a(7) vague(8) entity(9) when(10) I(11) was(12) looking(13) for(14) hotels(15) to(16) stay(17) at(18) in(19) Ocean(20) City(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			I(1) found(2) numerous(3) hotels(4) on(5) the(6) internet(7) ,(8) but(9) I(10) did(11) not(12) see(13) it(14) listed(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) did(2) eventually(3) see(4) it(5) advertised(6) in(7) a(8) travel(9) guide(10) for(11) Ocean(12) City(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) travel(2) guide(3) listed(4) the(5) hotel(6) 's(7) website(8) ,(9) and(10) so(11) I(12) decided(13) to(14) look(15) at(16) it(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			The(1) first(2) thing(3) I(4) was(5) attracted(6) to(7) was(8) the(9) price(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Spring(1) in(2) Ocean(3) City(4) is(5) cool(6) and(7) the(8) crowds(9) are(10) at(11) a(12) minimum(13) ,(14) so(15) hotels(16) lower(17) their(18) prices(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) Carousel(2) was(3) offering(4) a(5) special(6) for(7) $38.00(8) ,(9) which(10) I(11) just(12) could(13) not(14) resist(15) ,(16) so(17) I(18) booked(19) a(20) room(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			After(1) getting(2) my(3) family(4) together(5) ,(6) we(7) travelled(8) to(9) Ocean(10) City(11) and(12) found(13) the(14) Carousel(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			Check-in(1) was(2) easy(3) and(4) the(5) clerk(6) was(7) very(8) friendly(9) .(10) 
+			<opinion featWords="6" feature="front desk" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="10">
+			We(1) went(2) to(3) our(4) room(5) and(6) ,(7) imagine(8) our(9) surprise(10) ,(11) when(12) we(13) opened(14) the(15) door(16) and(17) realized(18) they(19) had(20) given(21) us(22) a(23) better(24) room(25) than(26) the(27) one(28) we(29) had(30) booked(31) !(32) 
+		</sentence>
+		<sentence id="11">
+			They(1) upgraded(2) us(3) to(4) an(5) oceanfront(6) room(7) ,(8) when(9) we(10) only(11) requested(12) a(13) standard(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) was(3) very(4) clean(5) and(6) well-maintained(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			It(1) contained(2) a(3) microwave(4) ,(5) refrigerator(6) and(7) coffeemaker(8) ,(9) which(10) proved(11) to(12) be(13) very(14) helpful(15) during(16) our(17) stay(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			The(1) kids(2) immediately(3) wanted(4) to(5) make(6) use(7) of(8) the(9) indoor(10) pool(11) ,(12) and(13) later(14) on(15) in(16) the(17) evening(18) ,(19) the(20) game(21) room(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			It(1) was(2) not(3) hard(4) to(5) relax(6) listening(7) to(8) the(9) ocean(10) waves(11) that(12) night(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			Overall(1) ,(2) the(3) Carousel(4) made(5) our(6) stay(7) a(8) very(9) pleasant(10) one(11) .(12) 
+		</sentence>
+	</text>
+</review>

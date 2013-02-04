@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="367" item="River Street Inn" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) Stay(2) in(3) Old(4) Savannah(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautifully(1) decorated(2) large(3) room(4) ;(5) extra(6) special(7) touches(8) 
+			<opinion featWords="4" feature="rooms" opWords="1,2" polarity="+"/>
+			<opinion featWords="4" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parking(1) and(2) unloading(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) historical(2) hotel(3) with(4) unique(5) and(6) well(7) decorated(8) rooms(9) with(10) special(11) extra(12) touches(13) .(14) 
+			<opinion featWords="3" feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+			<opinion featWords="9" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="9" feature="rooms" opWords="7,8" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Right(1) in(2) the(3) heart(4) of(5) the(6) Savannah(7) historical(8) district(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) in(4) a(5) great(6) location(7) in(8) Savannah(9) .(10) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Right(1) on(2) the(3) waterfront(4) in(5) the(6) middle(7) of(8) where(9) all(10) the(11) activities(12) are(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) are(3) gorgeous(4) ,(5) they(6) are(7) large(8) ,(9) high(10) ceiling(11) and(12) well(13) decorated(14) .(15) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="10,11" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="13,14" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) a(3) lot(4) of(5) extra(6) special(7) touches(8) such(9) as(10) soothing(11) music(12) ,(13) bathroom(14) toiletries(15) ,(16) lighted(17) magnifying(18) mirror(19) and(20) guest(21) robes(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			They(1) have(2) some(3) of(4) the(5) best(6) mattresses(7) I(8) have(9) had(10) in(11) a(12) hotel(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) property(2) is(3) very(4) interesting(5) from(6) a(7) historical(8) and(9) architectural(10) viewpoint(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Front(1) desk(2) staff(3) was(4) nice(5) .(6) 
+			<opinion featWords="1,2" feature="front desk" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Restaurant(1) was(2) adjacent(3) and(4) was(5) fun(6) being(7) right(8) on(9) the(10) riverfront(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			They(1) have(2) a(3) nice(4) little(5) free(6) happy(7) hour(8) with(9) simple(10) hour(11) de(12) vous(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Parking(1) is(2) a(3) block(4) away(5) in(6) a(7) a(8) city(9) garage(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) very(3) tight(4) at(5) the(6) front(7) entrance(8) for(9) loading(10) and(11) unloading(12) .(13) 
+			<opinion featWords="8" feature="lobby" opWords="4" polarity="-" potency="3"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="167" item="Oasis Cancun - All Inclusive" rating="1">
+	<title>
+		<sentence id="1">
+			avoid(1) the(2) Oasis(3) chain(4) of(5) hotels(6) in(7) Cancun(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			unfriendly(1) ,(2) unhelpful(3) staff(4) no(5) air(6) conditioning(7) overpriced(8) phone(9) card(10) machines(11) 
+			<opinion featWords="4" feature="staff" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="staff" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			avoid(1) the(2) Oasis(3) chain(4) of(5) hotels(6) in(7) Cancun(8) ...(9) there(10) are(11) plenty(12) of(13) other(14) choices(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) friend(2) and(3) I(4) booked(5) the(6) Oasis(7) Cancun(8) for(9) Spring(10) Break(11) 2005(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Upon(1) arrival(2) we(3) were(4) told(5) ((6) along(7) with(8) about(9) 40(10) other(11) people(12) )(13) that(14) there(15) were(16) no(17) rooms(18) available(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			There(1) was(2) no(3) reason(4) given(5) other(6) than(7) a(8) '(9) reservation(10) error(11) '(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			We(1) argued(2) to(3) no(4) avail(5) ,(6) and(7) when(8) we(9) asked(10) for(11) the(12) manager(13) ,(14) we(15) were(16) told(17) '(18) he(19) 's(20) not(21) here(22) ,(23) he(24) 's(25) downtown(26) '(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			They(1) then(2) proceeded(3) to(4) send(5) the(6) lot(7) of(8) us(9) to(10) different(11) hotels(12) in(13) the(14) Oasis(15) chain(16) ;(17) we(18) were(19) shipped(20) off(21) to(22) the(23) Oasis(24) Beach(25) hotel(26) ,(27) whose(28) beachfront(29) is(30) a(31) lagoon(32) with(33) no(34) waves(35) .(36) 
+		</sentence>
+		<sentence id="6">
+			At(1) least(2) the(3) hotel(4) staff(5) there(6) was(7) friendlier(8) and(9) helpful(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			Oasis(1) Cancun(2) had(3) told(4) us(5) we(6) could(7) party(8) at(9) their(10) hotel(11) and(12) pool(13) and(14) eat(15) at(16) their(17) restaurants(18) ,(19) since(20) we(21) were(22) really(23) supposed(24) to(25) stay(26) there(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			But(1) when(2) we(3) asked(4) for(5) bracelets(6) ,(7) they(8) gave(9) us(10) paper(11) cards(12) instead(13) with(14) our(15) names(16) on(17) ...(18) pretty(19) difficult(20) to(21) keep(22) dry(23) when(24) you(25) 're(26) trying(27) to(28) swim(29) up(30) to(31) a(32) bar(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			The(1) staff(2) was(3) the(4) worst(5) I(6) 've(7) seen(8) in(9) my(10) experience(11) with(12) hotels(13) .(14) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			I(1) got(2) the(3) feeling(4) they(5) Oasis(6) views(7) the(8) American(9) tourist(10) as(11) a(12) dollar(13) sign(14) instead(15) of(16) a(17) guest(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			Other(1) tourists(2) we(3) met(4) on(5) the(6) beach(7) told(8) us(9) horror(10) stories(11) of(12) the(13) Grand(14) Oasis(15) and(16) the(17) Oasis(18) Cancun(19) ,(20) such(21) as(22) no(23) air(24) conditioning(25) ,(26) and(27) people(28) breaking(29) into(30) their(31) rooms(32) through(33) the(34) terrace(35) doors(36) ,(37) which(38) interestingly(39) have(40) no(41) locks(42) .(43) 
+		</sentence>
+	</text>
+</review>

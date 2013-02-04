@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="812" item="California Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Spic(1) and(2) Span(3) Hotel(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Well(1) equipped(2) rooms(3) ,(4) food(5) and(6) service(7) was(8) wonderful(9) ,(10) Clean(11) and(12) furnished(13) rooms(14) ,(15) prompt(16) services(17) 
+			<opinion featWords="3" feature="rooms" opWords="1,2" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="9" polarity="+"/>
+			<opinion featWords="7" feature="service" opWords="9" polarity="+"/>
+			<opinion featWords="14" feature="rooms" opWords="11" polarity="+"/>
+			<opinion featWords="14" feature="rooms" opWords="13" polarity="+"/>
+			<opinion featWords="17" feature="service" opWords="16" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) such(2) cons(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) am(2) satisfied(3) with(4) my(5) stay(6) at(7) California(8) Suites(9) Hotel(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			I(1) am(2) a(3) cleanliness(4) fanatic(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			For(1) me(2) cleanliness(3) matters(4) most(5) and(6) everything(7) else(8) comes(9) after(10) that(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			And(1) I(2) would(3) rate(4) this(5) hotel(6) 8(7) on(8) the(9) scale(10) of(11) 10(12) for(13) cleanliness(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) and(3) bathroom(4) were(5) small(6) but(7) spic(8) and(9) span(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="8,9,10" polarity="+"/>
+			<opinion featWords="4" feature="bathroom" opWords="6" polarity="-"/>
+			<opinion featWords="4" feature="bathroom" opWords="8,9,10" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			They(1) were(2) routinely(3) cleaned(4) and(5) had(6) a(7) fresh(8) feeling(9) about(10) them(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			The(1) staff(2) was(3) friendly(4) and(5) alert(6) and(7) quite(8) prompt(9) with(10) their(11) service(12) .(13) 
+			<opinion featWords="2" feature="staff" opWords="6" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="12" feature="service" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) garden(2) was(3) well-maintained(4) with(5) manicured(6) lawns(7) ,(8) beautiful(9) flowers(10) and(11) trimmed(12) bushes(13) .(14) 
+			<opinion featWords="2" feature="gardens" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) definitely(3) like(4) to(5) stay(6) in(7) this(8) hotel(9) again(10) ,(11) the(12) next(13) time(14) I(15) visit(16) San(17) Diego(18) .(19) 
+			<opinion featWords="9" feature="hotel" opWords="6" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="10">
+			This(1) place(2) may(3) not(4) be(5) something(6) out(7) of(8) this(9) world(10) about(11) but(12) it(13) is(14) clean(15) and(16) very(17) comfortable(18) .(19) 
+			<opinion featWords="2" feature="place" opWords="15" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="18" polarity="+" potency="17"/>
+		</sentence>
+	</text>
+</review>

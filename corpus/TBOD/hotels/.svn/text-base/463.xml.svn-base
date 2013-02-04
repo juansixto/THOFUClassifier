@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="463" item="Sleep Inn Williamsburg" rating="3">
+	<title>
+		<sentence id="1">
+			Nothing(1) special(2) but(3) sufficient(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Easy(1) to(2) find(3) ,(4) clean(5) ,(6) affordable(7) ,(8) not(9) rundown(10) .(11) 
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+			<opinion feature="price" opWords="7" polarity="+"/>
+			<opinion feature="hotel" opWords="9,10" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) as(2) much(3) luxury(4) as(5) I(6) like(7) in(8) a(9) hotel(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) simply(3) need(4) a(5) comfortable(6) place(7) to(8) sleep(9) ,(10) this(11) is(12) for(13) you(14) .(15) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) stayed(3) in(4) this(5) hotel(6) approximately(7) six(8) times(9) in(10) the(11) past(12) five(13) years(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) very(2) first(3) time(4) I(5) stayed(6) here(7) ,(8) it(9) was(10) brand(11) new(12) ,(13) so(14) it(15) was(16) immaculately(17) clean(18) then(19) .(20) 
+			<opinion feature="hotel" opWords="18" polarity="+" potency="17"/>
+		</sentence>
+		<sentence id="3">
+			Now(1) I(2) believe(3) it(4) 's(5) changed(6) owners(7) and(8) it(9) 's(10) gone(11) down(12) a(13) hill(14) a(15) bit(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) beds(2) are(3) still(4) extremely(5) comfortable(6) .(7) 
+			<opinion featWords="2" feature="bed" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			We(1) always(2) get(3) a(4) double(5) bed(6) room(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) itself(3) is(4) typical(5) hotel(6) size(7) single(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) air(2) conditioning(3) and(4) heating(5) in(6) the(7) rooms(8) always(9) seem(10) to(11) be(12) working(13) very(14) well(15) ,(16) I(17) know(18) this(19) because(20) I(21) always(22) stay(23) in(24) either(25) the(26) extreme(27) heat(28) or(29) cold(30) of(31) summer(32) or(33) winter(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) are(3) always(4) clean(5) and(6) pretty(7) unremarkable(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="9">
+			The(1) bathroom(2) is(3) large(4) ,(5) but(6) the(7) sink(8) is(9) located(10) outside(11) of(12) the(13) bathroom(14) sliding(15) door(16) ,(17) and(18) no(19) tub(20) exists(21) ,(22) just(23) stand(24) up(25) showers(26) .(27) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			But(1) I(2) personally(3) like(4) that(5) style(6) and(7) do(8) not(9) mind(10) the(11) lacking(12) bathtub(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			The(1) USA(2) today(3) arrives(4) at(5) your(6) Door(7) each(8) morning(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) breakfast(2) is(3) pretty(4) free(5) typical(6) hotel(7) food(8) .(9) 
+			<opinion featWords="8" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="13">
+			Muffins(1) ,(2) donuts(3) ,(4) coffee(5) ,(6) orange(7) juice(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			It(1) 's(2) located(3) right(4) in(5) the(6) middle(7) of(8) town(9) ,(10) a(11) good(12) location(13) with(14) tons(15) of(16) local(17) food(18) establishments(19) within(20) walking(21) distance(22) .(23) 
+			<opinion featWords="13" feature="place" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) swimming(2) pool(3) is(4) indoor(5) and(6) very(7) small(8) ,(9) but(10) warm(11) .(12) 
+			<opinion featWords="2,3" feature="swimming pool" opWords="8" polarity="-" potency="7"/>
+			<opinion featWords="2,3" feature="swimming pool" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			No(1) hot(2) tub(3) .(4) 
+		</sentence>
+		<sentence id="17">
+			Fitness(1) area(2) is(3) pretty(4) lacking(5) .(6) 
+			<opinion featWords="1,2" feature="gym" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="18">
+			Parking(1) is(2) easy(3) and(4) free(5) .(6) 
+			<opinion featWords="1" feature="parking" opWords="3" polarity="+"/>
+			<opinion featWords="1" feature="parking" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			The(1) hotel(2) is(3) almost(4) never(5) full(6) and(7) a(8) very(9) reasonable(10) price(11) ,(12) considering(13) some(14) of(15) the(16) other(17) hotels(18) that(19) are(20) not(21) as(22) nice(23) as(24) this(25) one(26) .(27) 
+			<opinion featWords="11" feature="price" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			A(1) lot(2) of(3) other(4) local(5) hotels(6) are(7) rundown(8) but(9) this(10) one(11) is(12) holding(13) up(14) fine(15) .(16) 
+			<opinion featWords="6" feature="hotel" opWords="8" polarity="-"/>
+		</sentence>
+	</text>
+</review>

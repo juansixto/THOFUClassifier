@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="760" item="JW Marriott Ihilani Resort and Spa at Ko Olina" rating="4">
+	<title>
+		<sentence id="1">
+			Very(1) impressive(2) for(3) the(4) novice(5) ,(6) overpriced(7) for(8) the(9) Conde(10) '(11) Naste(12) Traveler(13) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) service(2) ,(3) very(4) pleasant(5) and(6) relaxing(7) atmosphere(8) ,(9) restaurant(10) selection(11) .(12) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cost(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			It(1) seems(2) more(3) could(4) have(5) been(6) offered(7) for(8) the(9) price(10) .(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Give(1) it(2) a(3) shot(4) if(5) you(6) have(7) the(8) money(9) or(10) the(11) Marriott(12) points(13) for(14) an(15) above(16) average(17) resort(18) .(19) 
+			<opinion featWords="18" feature="hotel" opWords="16,17" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Let(1) me(2) begin(3) by(4) saying(5) that(6) my(7) wife(8) and(9) I(10) were(11) fortunate(12) enough(13) to(14) travel(15) to(16) Hawaii(17) ((18) from(19) Chicago(20) )(21) for(22) our(23) honeymoon(24) in(25) the(26) summer(27) of(28) 2006(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			Needless(1) to(2) say(3) we(4) were(5) not(6) too(7) worried(8) about(9) paying(10) for(11) the(12) trip(13) ,(14) we(15) were(16) consience(17) of(18) the(19) price(20) of(21) items(22) in(23) the(24) gift(25) shops(26) and(27) restaurants(28) and(29) were(30) taken(31) aback(32) ,(33) but(34) often(35) shrugged(36) those(37) things(38) off(39) because(40) we(41) were(42) having(43) the(44) vacation(45) of(46) a(47) lifetime(48) ...(49) at(50) least(51) up(52) to(53) this(54) point(55) ...(56) in(57) Hawaii(58) .(59) 
+		</sentence>
+		<sentence id="3">
+			We(1) traveled(2) a(3) good(4) deal(5) around(6) the(7) island(8) of(9) Oahu(10) which(11) was(12) spectacular(13) ,(14) we(15) felt(16) we(17) found(18) paradise(19) many(20) of(21) the(22) new(23) places(24) we(25) traveled(26) to(27) during(28) our(29) trip(30) which(31) would(32) have(33) been(34) enhanced(35) in(36) the(37) winter(38) months(39) because(40) of(41) the(42) crappy(43) weather(44) back(45) home(46) ,(47) but(48) this(49) is(50) a(51) review(52) about(53) the(54) resort(55) /(56) hotel(57) so(58) I(59) 'll(60) try(61) to(62) stick(63) with(64) that(65) .(66) 
+		</sentence>
+		<sentence id="4">
+			The(1) parking(2) cost(3) was(4) outrageous(5) ((6) $15/day(7) )(8) and(9) I(10) think(11) we(12) made(13) the(14) valet(15) guys(16) upset(17) the(18) few(19) times(20) we(21) did(22) not(23) tip(24) .(25) 
+			<opinion featWords="3" feature="price" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			The(1) service(2) was(3) very(4) nice(5) ,(6) they(7) make(8) you(9) feel(10) like(11) a(12) part(13) of(14) the(15) Marriott(16) /(17) Hawaiian(18) family(19) .(20) 
+			<opinion featWords="2" feature="service" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) a(3) billing(4) issue(5) that(6) I(7) realized(8) when(9) I(10) got(11) back(12) to(13) the(14) mainland(15) and(16) the(17) lady(18) I(19) worked(20) with(21) to(22) get(23) things(24) worked(25) out(26) was(27) very(28) kind(29) ,(30) professional(31) ,(32) and(33) very(34) willing(35) to(36) not(37) only(38) pay(39) off(40) their(41) mistake(42) ,(43) but(44) give(45) me(46) back(47) some(48) other(49) expenses(50) from(51) our(52) trip(53) in(54) an(55) attempt(56) to(57) retain(58) business(59) in(60) the(61) future(62) .(63) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) was(3) spectacular(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			We(1) upgraded(2) from(3) a(4) mountain(5) view(6) to(7) an(8) ocean(9) view(10) when(11) we(12) arrived(13) at(14) the(15) resort(16) ,(17) very(18) good(19) decision(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			We(1) got(2) a(3) clear(4) view(5) of(6) the(7) ocean(8) in(9) front(10) of(11) us(12) and(13) mountains(14) to(15) the(16) west(17) .(18) 
+			<opinion featWords="5" feature="view" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) view(2) was(3) picturesque(4) .(5) 
+			<opinion featWords="2" feature="view" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) lanai(2) was(3) probably(4) the(5) nicest(6) thing(7) about(8) the(9) room(10) ,(11) but(12) I(13) imagine(14) many(15) of(16) the(17) hotel(18) rooms(19) in(20) Hawaii(21) have(22) something(23) similar(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			We(1) could(2) open(3) the(4) glass(5) doors(6) and(7) close(8) the(9) wooden(10) slabbed(11) doors(12) and(13) enjoy(14) the(15) sound(16) of(17) the(18) ocean(19) waves(20) crashing(21) against(22) the(23) rocks(24) a(25) few(26) stories(27) below(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			The(1) ceiling(2) fan(3) was(4) nice(5) and(6) the(7) optional(8) A(9) /(10) C.(11) The(12) bed(13) and(14) the(15) bedding(16) was(17) very(18) comfortable(19) ,(20) clean(21) and(22) made(23) you(24) want(25) to(26) sleep(27) for(28) days(29) ...(30) typical(31) Marriott(32) .(33) 
+			<opinion featWords="13" feature="bed" opWords="19" polarity="+" potency="18"/>
+			<opinion featWords="16" feature="bedding" opWords="19" polarity="+" potency="18"/>
+		</sentence>
+		<sentence id="14">
+			The(1) bathroom(2) was(3) indeed(4) a(5) room(6) in(7) itself(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			Two(1) separate(2) sinks(3) ,(4) a(5) oversized(6) tub(7) ((8) big(9) enough(10) for(11) two(12) )(13) and(14) a(15) good(16) sized(17) stand-up(18) shower(19) .(20) 
+			<opinion featWords="7" feature="tub" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			There(1) was(2) also(3) a(4) separate(5) toilet(6) room(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			The(1) various(2) lagoons(3) were(4) nice(5) ,(6) no(7) waves(8) for(9) the(10) kids(11) ((12) or(13) the(14) kid(15) in(16) us(17) )(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			Beaches(1) were(2) nice(3) ,(4) never(5) very(6) crowded(7) .(8) 
+			<opinion featWords="1" feature="beach" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			The(1) grounds(2) in(3) general(4) were(5) very(6) pleasing(7) to(8) the(9) eye(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Flowers(1) were(2) plentiful(3) ,(4) various(5) walking(6) paths(7) blended(8) well(9) with(10) terrain(11) and(12) where(13) people(14) wanted(15) /(16) needed(17) to(18) walk(19) to(20) ,(21) and(22) there(23) were(24) a(25) few(26) pools(27) at(28) the(29) base(30) of(31) the(32) hotel(33) where(34) many(35) species(36) of(37) sea-life(38) lived(39) ((40) i(41) .(42) e(43) .(44) stingrays(45) ,(46) sharks(47) ,(48) colorful(49) fish(50) )(51) .(52) 
+		</sentence>
+		<sentence id="21">
+			There(1) were(2) opportunities(3) to(4) wade(5) with(6) the(7) stingrays(8) and(9) other(10) fish(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			There(1) are(2) five(3) restaraunts(4) within(5) the(6) hotel(7) including(8) poolside(9) bar(10) which(11) served(12) a(13) decent(14) selection(15) of(16) food(17) options(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			None(1) of(2) these(3) were(4) cheap(5) options(6) even(7) for(8) a(9) quick(10) meal(11) or(12) a(13) light(14) breakfast(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			The(1) service(2) at(3) the(4) restaurants(5) and(6) the(7) quality(8) of(9) food(10) can(11) not(12) be(13) argued(14) against(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			Plenty(1) of(2) drink(3) options(4) and(5) a(6) variety(7) of(8) genres(9) of(10) food(11) which(12) I(13) 'm(14) sure(15) attracted(16) more(17) than(18) ourselves(19) to(20) try(21) each(22) of(23) the(24) restaurants(25) at(26) least(27) once(28) .(29) 
+		</sentence>
+		<sentence id="26">
+			I(1) can(2) not(3) go(4) without(5) mentioning(6) Roy(7) 's(8) down(9) the(10) street(11) in(12) the(13) clubhouse(14) of(15) the(16) Ko(17) Olina(18) golf(19) club(20) .(21) 
+		</sentence>
+		<sentence id="27">
+			You(1) should(2) not(3) pass(4) this(5) up(6) ,(7) nor(8) the(9) chocolate(10) volcano(11) cake(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			The(1) golf(2) course(3) on(4) the(5) other(6) hand(7) should(8) be(9) passed(10) up(11) ...(12) nothing(13) special(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			My(1) wife(2) and(3) I(4) thoroughly(5) enjoyed(6) our(7) honeymoon(8) with(9) much(10) thanks(11) to(12) the(13) Ihilani(14) resort(15) but(16) the(17) next(18) time(19) we(20) travel(21) to(22) Hawaii(23) we(24) will(25) not(26) be(27) staying(28) at(29) this(30) resort(31) ,(32) just(33) not(34) that(35) impressive(36) for(37) the(38) ticket(39) value(40) .(41) 
+		</sentence>
+		<sentence id="30">
+			This(1) may(2) not(3) be(4) the(5) case(6) with(7) you(8) ,(9) we(10) are(11) more(12) adventurous(13) and(14) it(15) would(16) take(17) a(18) something(19) really(20) incredible(21) for(22) us(23) to(24) come(25) back(26) to(27) for(28) more(29) than(30) one(31) trip(32) ...(33) this(34) was(35) just(36) regular(37) incredible(38) .(39) 
+		</sentence>
+		<sentence id="31">
+			Sorry(1) for(2) confusing(3) you(4) !(5) 
+		</sentence>
+	</text>
+</review>

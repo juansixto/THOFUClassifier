@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="330" item="Holiday Inn NIKKI BIRD-MAINGATE-THEME PK" rating="1">
+	<title>
+		<sentence id="1">
+			Warning(1) :(2) this(3) is(4) no(5) longer(6) a(7) Holiday(8) Inn(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nothing(1) to(2) speak(3) of(4) ,(5) other(6) than(7) close(8) to(9) Disney(10) location(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Smell(1) ,(2) service(3) ,(4) quality(5) of(6) rooms(7) ,(8) noise(9) ,(10) no(11) elevators(12) ,(13) bad(14) beds(15) .(16) 
+			<opinion featWords="15" feature="bed" opWords="14" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Not(1) recommended(2) for(3) anyone(4) right(5) now(6) .(7) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			After(1) they(2) complete(3) extensive(4) renovations(5) ,(6) it(7) might(8) due(9) for(10) the(11) bargain(12) basement(13) traveler(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			But(1) I(2) 'd(3) still(4) think(5) you(6) 'll(7) get(8) a(9) better(10) deal(11) elsewhere(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) here(3) a(4) couple(5) months(6) ago(7) and(8) thought(9) I(10) 'd(11) add(12) my(13) warning(14) here(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			This(1) hotel(2) should(3) be(4) avoided(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Booked(1) at(2) a(3) low(4) rate(5) on(6) Priceline(7) ,(8) I(9) was(10) bummed(11) to(12) "(13) win(14) "(15) this(16) property(17) but(18) happy(19) with(20) the(21) rate(22) and(23) hopeful(24) that(25) it(26) would(27) not(28) be(29) as(30) bad(31) as(32) I(33) had(34) feared(35) .(36) 
+			<opinion featWords="5" feature="price" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Upon(1) check(2) in(3) ,(4) we(5) were(6) told(7) the(8) property(9) had(10) been(11) sold(12) ,(13) would(14) now(15) be(16) known(17) as(18) Home(19) Suite(20) Home(21) ,(22) http://www.homesuitehome.com(23) ,(24) they(25) were(26) beginning(27) renovations(28) ,(29) and(30) that(31) it(32) was(33) changing(34) to(35) an(36) extended(37) stay(38) type(39) property(40) .(41) 
+		</sentence>
+		<sentence id="5">
+			That(1) meant(2) :(3) No(4) maid(5) or(6) housekeeping(7) service(8) of(9) any(10) kind(11) No(12) fresh(13) towels(14) ,(15) no(16) trash(17) removal(18) Naturally(19) I(20) called(21) Priceline(22) to(23) complain(24) ,(25) as(26) the(27) hotel(28) manager(29) could(30) not(31) refund(32) our(33) money(34) .(35) 
+		</sentence>
+		<sentence id="6">
+			The(1) issue(2) was(3) resolved(4) after(5) our(6) trip(7) ,(8) but(9) at(10) the(11) time(12) we(13) were(14) stuck(15) at(16) this(17) hotel(18) ((19) unless(20) we(21) wanted(22) to(23) pay(24) for(25) the(26) same(27) trip(28) twice(29) )(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			The(1) rooms(2) :(3) Old(4) and(5) dated(6) ,(7) run(8) down(9) ,(10) smelly(11) ,(12) unclean(13) .(14) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="8,9" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="11" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) an(3) insult(4) to(5) other(6) hotels(7) in(8) this(9) category(10) to(11) call(12) it(13) a(14) 2(15) or(16) 2.5(17) star(18) property(19) ,(20) even(21) if(22) there(23) had(24) been(25) any(26) services(27) provided(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			First(1) thing(2) we(3) had(4) to(5) do(6) was(7) buy(8) and(9) use(10) a(11) can(12) of(13) Lysol(14) ,(15) spray(16) it(17) on(18) everything(19) daily(20) ,(21) bought(22) scented(23) candles(24) ,(25) had(26) to(27) reuse(28) and(29) horde(30) towels(31) .(32) 
+		</sentence>
+		<sentence id="10">
+			The(1) property(2) :(3) An(4) old(5) motel(6) from(7) the(8) 50s(9) or(10) 60s(11) that(12) has(13) seen(14) better(15) days(16) .(17) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			There(1) were(2) several(3) pools(4) ,(5) but(6) we(7) would(8) not(9) be(10) comfortable(11) swimming(12) in(13) one(14) of(15) them(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) whole(2) property(3) was(4) just(5) a(6) series(7) of(8) haphazard(9) two-story(10) buildings(11) ;(12) ours(13) did(14) not(15) have(16) an(17) elevator(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			We(1) were(2) spending(3) all(4) our(5) time(6) at(7) the(8) theme(9) parks(10) ,(11) so(12) we(13) only(14) slept(15) and(16) dressed(17) here(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			But(1) given(2) the(3) state(4) of(5) the(6) property(7) ,(8) we(9) would(10) not(11) have(12) eaten(13) here(14) anyway(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			We(1) 'll(2) never(3) stay(4) here(5) again(6) .(7) 
+		</sentence>
+	</text>
+</review>

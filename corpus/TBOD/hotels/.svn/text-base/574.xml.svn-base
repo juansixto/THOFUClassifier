@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="574" item="Sahara Hotel &amp; Casino" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Sahara(2) serves(3) it(4) 's(5) purpose(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) cheap(3) rates(4) ,(5) fun(6) casino(7) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="price" opWords="3" polarity="+"/>
+			<opinion featWords="7" feature="casino" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Location(1) on(2) the(3) strip(4) ,(5) older(6) property(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) get(2) what(3) you(4) pay(5) for(6) ,(7) perhaps(8) a(9) little(10) more(11) !(12) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) do(3) not(4) require(5) alot(6) and(7) do(8) not(9) expect(10) alot(11) the(12) Sahara(13) could(14) be(15) perfect(16) !(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Sahara(2) Hotel(3) &amp;(4) Casino(5) has(6) been(7) around(8) for(9) a(10) long(11) time(12) by(13) Vegas(14) standards(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Built(1) in(2) 1952(3) it(4) was(5) recently(6) renovated(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			I(1) stayed(2) there(3) in(4) March(5) of(6) 2003(7) for(8) the(9) opening(10) of(11) the(12) 2003(13) March(14) Madness(15) NCAA(16) Basketball(17) tournament(18) during(19) my(20) 4th(21) trip(22) to(23) Vegas(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) traveling(3) with(4) another(5) buddy(6) and(7) we(8) were(9) just(10) happy(11) to(12) be(13) able(14) to(15) get(16) away(17) from(18) our(19) wives(20) and(21) families(22) for(23) a(24) weekend(25) so(26) keep(27) in(28) mind(29) our(30) standards(31) were(32) not(33) to(34) high(35) .(36) 
+		</sentence>
+		<sentence id="5">
+			We(1) wanted(2) to(3) stay(4) at(5) a(6) cheaper(7) property(8) and(9) The(10) Sahara(11) did(12) not(13) disappoint(14) in(15) most(16) regards(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			Rooms(1) :(2) The(3) Sahara(4) rooms(5) are(6) very(7) basic(8) .(9) 
+			<opinion featWords="5" feature="rooms" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="7">
+			Ours(1) included(2) an(3) ironing(4) board(5) and(6) iron(7) ,(8) cable(9) TV(10) and(11) soap(12) and(13) conditioner(14) in(15) the(16) bathroom(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) beds(2) were(3) comfortable(4) but(5) nothing(6) outstanding(7) .(8) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			I(1) would(2) recommend(3) asking(4) to(5) stay(6) in(7) the(8) Tangiers(9) tower(10) rooms(11) ,(12) as(13) these(14) are(15) the(16) rooms(17) that(18) have(19) been(20) recently(21) renovated(22) .(23) 
+		</sentence>
+		<sentence id="10">
+			For(1) the(2) amount(3) of(4) time(5) we(6) typically(7) spend(8) in(9) our(10) rooms(11) while(12) in(13) Las(14) Vegas(15) this(16) was(17) not(18) a(19) problem(20) ,(21) however(22) if(23) you(24) tend(25) to(26) spend(27) a(28) considerably(29) amount(30) of(31) time(32) in(33) your(34) hotel(35) room(36) then(37) you(38) might(39) be(40) a(41) little(42) disappointed(43) .(44) 
+		</sentence>
+		<sentence id="11">
+			We(1) never(2) utilized(3) room(4) service(5) ,(6) however(7) the(8) check(9) in(10) went(11) very(12) smoothly(13) and(14) without(15) a(16) glitch(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			Food(1) :(2) We(3) ate(4) breakfast(5) at(6) the(7) Sahara(8) Buffet(9) and(10) I(11) would(12) recommend(13) that(14) you(15) DO(16) NOT(17) EAT(18) AT(19) THE(20) SAHARA(21) BUFFETT(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Despite(1) being(2) given(3) this(4) advice(5) before(6) we(7) left(8) we(9) ate(10) there(11) anyway(12) and(13) I(14) regret(15) doing(16) so(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			It(1) is(2) a(3) relatively(4) large(5) buffet(6) given(7) Vegas(8) standards(9) but(10) the(11) eggs(12) were(13) very(14) runny(15) and(16) the(17) overall(18) quality(19) of(20) the(21) food(22) suffered(23) .(24) 
+			<opinion featWords="6" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			I(1) never(2) once(3) saw(4) our(5) waitress(6) at(7) the(8) buffet(9) either(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			If(1) you(2) do(3) want(4) to(5) eat(6) in(7) at(8) the(9) Sahara(10) the(11) NASCAR(12) Cafe(13) was(14) tolerable(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			One(1) evening(2) we(3) had(4) a(5) couple(6) of(7) pitchers(8) of(9) beer(10) and(11) enjoyed(12) their(13) Chicken(14) Wings(15) and(16) Mozzarella(17) sticks(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			It(1) was(2) not(3) top-notch(4) food(5) ,(6) but(7) it(8) served(9) its(10) purpose(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			I(1) do(2) have(3) excellent(4) things(5) to(6) say(7) about(8) the(9) coffee(10) shop(11) however(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			One(1) late(2) night(3) we(4) ate(5) in(6) the(7) coffee(8) shop(9) and(10) enjoyed(11) Steak(12) &amp;(13) Eggs(14) and(15) the(16) service(17) was(18) excellent(19) and(20) the(21) price(22) was(23) cheap(24) !(25) 
+			<opinion featWords="17" feature="service" opWords="19" polarity="+"/>
+			<opinion featWords="22" feature="price" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			Casino(1) :(2) This(3) is(4) the(5) best(6) part(7) of(8) the(9) property(10) !(11) 
+		</sentence>
+		<sentence id="22">
+			Plenty(1) of(2) cheap(3) Black(4) Jack(5) Tables(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			Although(1) they(2) advertise(3) $1.00(4) BJ(5) all(6) the(7) time(8) it(9) 's(10) hard(11) to(12) get(13) on(14) those(15) tables(16) ,(17) but(18) the(19) $2.00(20) and(21) $3.00(22) tables(23) are(24) available(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) 're(3) into(4) craps(5) this(6) is(7) also(8) a(9) great(10) place(11) to(12) play(13) .(14) 
+			<opinion featWords="11" feature="place" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			Make(1) sure(2) you(3) get(4) on(5) Danny(6) &amp;(7) Bobby(8) 's(9) table(10) !(11) 
+		</sentence>
+		<sentence id="26">
+			My(1) one(2) complaint(3) about(4) the(5) Sahara(6) 's(7) pit(8) 's(9) are(10) they(11) only(12) have(13) 3-4(14) craps(15) tables(16) open(17) with(18) tons(19) of(20) people(21) standing(22) around(23) .(24) 
+		</sentence>
+		<sentence id="27">
+			They(1) 'd(2) be(3) well(4) advised(5) to(6) open(7) up(8) some(9) more(10) craps(11) tables(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			During(1) the(2) day(3) the(4) casino(5) was(6) not(7) very(8) busy(9) ,(10) however(11) at(12) night(13) time(14) the(15) place(16) really(17) took(18) on(19) another(20) life(21) !(22) 
+			<opinion featWords="5" feature="casino" opWords="7,9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="29">
+			The(1) crowd(2) was(3) basically(4) a(5) mix(6) of(7) younger(8) people(9) on(10) a(11) budget(12) and(13) older(14) people(15) on(16) a(17) budget(18) .(19) :(20) )(21) Not(22) the(23) typical(24) high(25) rollers(26) or(27) high(28) roller(29) wannabe(30) 's(31) you(32) might(33) find(34) at(35) the(36) bigger(37) strip(38) properties(39) .(40) 
+		</sentence>
+		<sentence id="30">
+			If(1) you(2) 're(3) looking(4) for(5) a(6) good(7) Sports(8) Book(9) ,(10) this(11) is(12) not(13) the(14) place(15) to(16) look(17) !(18) 
+		</sentence>
+		<sentence id="31">
+			They(1) do(2) have(3) lines(4) that(5) you(6) can(7) bet(8) on(9) and(10) a(11) couple(12) of(13) big(14) screen(15) TV(16) 's(17) ,(18) but(19) do(20) yourself(21) a(22) favor(23) and(24) go(25) to(26) the(27) Stardust(28) or(29) another(30) large(31) book(32) .(33) 
+		</sentence>
+		<sentence id="32">
+			Other(1) Amenities(2) :(3) The(4) Sahara(5) 's(6) pool(7) was(8) fairly(9) large(10) and(11) quite(12) busy(13) during(14) the(15) last(16) weekend(17) in(18) March(19) ,(20) however(21) by(22) Vegas(23) standards(24) it(25) was(26) a(27) pretty(28) basic(29) pool(30) .(31) 
+			<opinion featWords="7" feature="swimming pool" opWords="10" polarity="+" potency="9"/>
+			<opinion featWords="7" feature="swimming pool" opWords="13" polarity="+" potency="12"/>
+			<opinion featWords="30" feature="swimming pool" opWords="29" polarity="+" potency="28"/>
+		</sentence>
+		<sentence id="33">
+			The(1) shopping(2) at(3) the(4) Sahara(5) consists(6) of(7) a(8) two(9) small(10) souvenir(11) stores(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			We(1) rented(2) a(3) car(4) during(5) our(6) trip(7) so(8) we(9) utilized(10) the(11) valet(12) parking(13) quite(14) often(15) and(16) it(17) was(18) very(19) speedy(20) service(21) with(22) excellent(23) valets(24) .(25) 
+			<opinion featWords="21" feature="service" opWords="20" polarity="+" potency="19"/>
+		</sentence>
+	</text>
+</review>

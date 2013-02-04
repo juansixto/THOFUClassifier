@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="815" item="Fiesta Americana Grand Coral Beach Cancun" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) alternative(2) to(3) chain(4) hotels(5) in(6) Cancun(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) beautiful(4) property(5) ,(6) right(7) on(8) the(9) beach(10) ,(11) fantastic(12) service(13) .(14) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Fairly(1) expensive(2) .(3) 
+			<opinion feature="price" opWords="2" polarity="-" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) not(4) wedded(5) to(6) chain(7) hotels(8) this(9) is(10) a(11) great(12) hotel(13) in(14) Cancun(15) .(16) 
+			<opinion featWords="13" feature="hotel" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Five(1) star(2) Five(3) diamond(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) returned(3) from(4) a(5) four(6) night(7) stay(8) at(9) the(10) Fiesta(11) Americana(12) Grand(13) Coral(14) in(15) Cancun(16) and(17) here(18) are(19) my(20) impressions(21) :(22) Overall(23) :(24) this(25) is(26) a(27) great(28) hotel(29) although(30) I(31) wish(32) it(33) were(34) part(35) of(36) the(37) hotel(38) chains(39) I(40) collectively(41) stay(42) over(43) 200(44) nights(45) per(46) year(47) ((48) Marriott(49) and(50) Starwood(51) )(52) .(53) 
+			<opinion featWords="29" feature="hotel" opWords="28" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) large(4) hotel(5) right(6) on(7) the(8) beach(9) and(10) in(11) the(12) "(13) point(14) "(15) area(16) of(17) Cancun(18) .(19) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Highs(1) :(2) GREAT(3) location(4) .(5) 
+			<opinion featWords="4" feature="place" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) 've(2) stayed(3) at(4) the(5) JW(6) Marriott(7) Cancun(8) and(9) while(10) that(11) hotel(12) is(13) terrific(14) as(15) well(16) the(17) Fiesta(18) American(19) has(20) a(21) superior(22) location(23) in(24) that(25) you(26) can(27) walk(28) from(29) that(30) property(31) to(32) a(33) number(34) of(35) tourist(36) activities(37) and(38) restaurants(39) .(40) 
+			<opinion featWords="12" feature="hotel" opWords="14" polarity="+"/>
+			<opinion featWords="23" feature="place" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) JW(2) Marriott(3) and(4) Le(5) Meridian(6) and(7) Hilton(8) for(9) that(10) matter(11) are(12) really(13) isolated(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			From(1) the(2) the(3) Fiesta(4) Americana(5) you(6) can(7) easily(8) walk(9) to(10) Senor(11) Frogs(12) ,(13) Carlos(14) and(15) Charlies(16) the(17) Mall(18) ,(19) flea(20) market(21) ((22) not(23) fun(24) for(25) me(26) )(27) or(28) any(29) other(30) of(31) a(32) large(33) handful(34) of(35) other(36) tourist(37) spots(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			Beach(1) :(2) the(3) beach(4) at(5) the(6) FA(7) is(8) beautiful(9) and(10) is(11) well(12) groomed(13) by(14) the(15) hotel(16) .(17) 
+			<opinion featWords="4" feature="beach" opWords="9" polarity="+"/>
+			<opinion featWords="4" feature="beach" opWords="12,13" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Note(1) that(2) ALL(3) beaches(4) in(5) Mexico(6) are(7) PUBLIC(8) by(9) law(10) but(11) the(12) FA(13) seems(14) much(15) more(16) private(17) than(18) the(19) beach(20) at(21) the(22) JW(23) Marriott(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			That(1) said(2) the(3) waves(4) at(5) the(6) FA(7) are(8) tame(9) and(10) nearly(11) non(12) existant(13) here(14) compared(15) with(16) the(17) JW(18) or(19) any(20) other(21) other(22) hotels(23) along(24) that(25) stretch(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) have(3) young(4) kids(5) or(6) do(7) not(8) like(9) strong(10) wave(11) with(12) undertwo(13) you(14) 'll(15) like(16) the(17) FA(18) more(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) want(3) monster(4) waves(5) --(6) or(7) nearly(8) ANY(9) waves(10) for(11) that(12) matter(13) you(14) 'll(15) be(16) happier(17) at(18) other(19) hotels(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			Pool(1) :(2) the(3) pool(4) is(5) a(6) series(7) of(8) four(9) pools(10) linked(11) together(12) ,(13) forming(14) one(15) large(16) meandering(17) pool(18) .(19) 
+			<opinion featWords="18" feature="swimming pool" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) pool(2) is(3) beautiful(4) but(5) is(6) NOT(7) a(8) '(9) fun(10) '(11) type(12) pool(13) .(14) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			In(1) other(2) words(3) there(4) are(5) NO(6) slides(7) or(8) even(9) an(10) infinity(11) pool(12) that(13) the(14) JW(15) has(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			There(1) are(2) two(3) very(4) nice(5) pool(6) bars(7) where(8) they(9) serve(10) great(11) drinks(12) and(13) also(14) have(15) a(16) full(17) service(18) menu(19) .(20) 
+			<opinion featWords="7" feature="food" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="12" feature="drinks" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			Lobby(1) :(2) the(3) lobby(4) is(5) huge(6) and(7) very(8) pretty(9) ,(10) it(11) is(12) open(13) and(14) airy(15) and(16) connects(17) the(18) two(19) wings(20) ((21) also(22) connected(23) by(24) the(25) fourth(26) floor(27) )(28) .(29) 
+			<opinion featWords="4" feature="lobby" opWords="6" polarity="+"/>
+			<opinion featWords="4" feature="lobby" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="17">
+			Grand(1) Club(2) :(3) we(4) were(5) upgraded(6) to(7) the(8) Grand(9) Club(10) ,(11) which(12) includes(13) a(14) very(15) nice(16) conceirge(17) club(18) on(19) the(20) 12th(21) floor(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			The(1) Club(2) is(3) beautiful(4) and(5) the(6) service(7) ((8) both(9) by(10) a(11) full-time(12) attendant(13) for(14) food(15) and(16) drinks(17) AND(18) a(19) full-time(20) conceirge(21) )(22) is(23) first(24) rate(25) .(26) 
+		</sentence>
+		<sentence id="19">
+			The(1) breakfast(2) is(3) a(4) full(5) service(6) type(7) ,(8) including(9) wonderful(10) french(11) toast(12) and(13) bacon(14) ,(15) eggs(16) ,(17) etc.(18) The(19) "(20) dinner(21) "(22) is(23) not(24) much(25) of(26) a(27) dinner(28) at(29) all(30) just(31) light(32) snacks(33) --(34) really(35) not(36) that(37) good(38) compared(39) with(40) breakfast(41) which(42) was(43) great(44) .(45) 
+			<opinion featWords="28" feature="food" opWords="44" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			The(1) upgrade(2) fee(3) is(4) $110(5) per(6) night(7) which(8) UNLESS(9) you(10) drink(11) is(12) probably(13) not(14) worth(15) it(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			However(1) ,(2) if(3) you(4) want(5) to(6) drink(7) I(8) would(9) recommend(10) it(11) as(12) there(13) is(14) an(15) open(16) bar(17) starting(18) in(19) the(20) mid(21) afternoon(22) and(23) going(24) nearly(25) all(26) night(27) .(28) 
+			<opinion feature="hotel" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			This(1) is(2) well(3) beyond(4) the(5) normal(6) beer(7) and(8) wine(9) selection(10) you(11) 'd(12) expect(13) at(14) a(15) business(16) class(17) hotel(18) in(19) the(20) USA(21) in(22) that(23) they(24) will(25) make(26) Margaritas(27) ,(28) etc.(29) Javier(30) one(31) of(32) the(33) attendants(34) was(35) great(36) .(37) 
+		</sentence>
+		<sentence id="23">
+			Rooms(1) :(2) The(3) hotels(4) represents(5) itself(6) as(7) an(8) "(9) all(10) suite(11) "(12) property(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			To(1) me(2) a(3) suite(4) has(5) at(6) least(7) two(8) rooms(9) and(10) this(11) is(12) NOT(13) the(14) case(15) at(16) the(17) FA(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			The(1) vast(2) majority(3) of(4) the(5) rooms(6) are(7) "(8) junior(9) suites(10) "(11) which(12) are(13) basically(14) one(15) fairly(16) large(17) room(18) with(19) a(20) small(21) balcony(22) and(23) small(24) bathroom(25) .(26) 
+			<opinion featWords="18" feature="rooms" opWords="17" polarity="+"/>
+			<opinion featWords="25" feature="bathroom" opWords="24" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			We(1) were(2) in(3) room(4) 277(5) which(6) is(7) a(8) "(9) Grand(10) Suite(11) .(12) "(13) The(14) location(15) was(16) great(17) ,(18) right(19) over(20) the(21) marina(22) with(23) commanding(24) views(25) and(26) a(27) huge(28) wrap(29) around(30) deck(31) .(32) 
+			<opinion featWords="15" feature="place" opWords="17" polarity="+"/>
+			<opinion featWords="25" feature="view" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			This(1) "(2) Grand(3) Suite(4) "(5) was(6) still(7) just(8) one(9) room(10) ,(11) albeit(12) a(13) very(14) large(15) room(16) with(17) a(18) sunken(19) in(20) living(21) room(22) .(23) 
+			<opinion featWords="16" feature="rooms" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="28">
+			The(1) bathroom(2) was(3) huge(4) complete(5) with(6) a(7) beautiful(8) walk(9) in(10) shower(11) in(12) marble(13) and(14) with(15) the(16) heavenly(17) bath(18) by(19) Westin(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			It(1) also(2) has(3) a(4) jacuzzi(5) bath(6) which(7) we(8) did(9) not(10) use(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			I(1) would(2) highly(3) recommend(4) upgrading(5) to(6) the(7) larger(8) suite(9) as(10) it(11) is(12) significantly(13) bigger(14) and(15) the(16) deck(17) is(18) fantastic(19) .(20) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="31">
+			Restaurants(1) :(2) since(3) I(4) was(5) there(6) for(7) a(8) convention(9) I(10) really(11) did(12) not(13) eat(14) in(15) any(16) other(17) the(18) restaurants(19) but(20) we(21) did(22) order(23) room(24) service(25) for(26) my(27) kids(28) and(29) it(30) was(31) good(32) .(33) 
+			<opinion featWords="24,25" feature="room service" opWords="32" polarity="+"/>
+		</sentence>
+	</text>
+</review>

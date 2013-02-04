@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="858" item="Lc Sheraton Grande Sukhumvit" rating="4">
+	<title>
+		<sentence id="1">
+			Pretty(1) Good(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) restaurants(2) ,(3) drinks(4) in(5) the(6) lounge(7) was(8) nice(9) .(10) 
+			<opinion featWords="2" feature="food" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="drinks" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Breakfast(1) is(2) a(3) good(4) one(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bathroom(1) tiles(2) were(3) aqua(4) which(5) made(6) it(7) feel(8) weird(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) a(4) normal(5) 5(6) star(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			All(1) the(2) services(3) provided(4) are(5) what(6) we(7) expected(8) for(9) the(10) price(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) food(2) was(3) good(4) ,(5) and(6) the(7) decor(8) was(9) nice(10) .(11) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="decoration" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) service(2) was(3) helpful(4) .(5) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			We(1) would(2) recommend(3) this(4) hotel(5) to(6) anyone(7) looking(8) for(9) a(10) nice(11) 5(12) star(13) in(14) Bangkok(15) .(16) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Free(1) drinks(2) in(3) the(4) lounge(5) were(6) a(7) nice(8) addition(9) .(10) 
+			<opinion featWords="2" feature="drinks" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			The(1) concierge(2) was(3) helpful(4) in(5) planning(6) our(7) day(8) trips(9) around(10) Bangkok(11) .(12) 
+		</sentence>
+	</text>
+</review>

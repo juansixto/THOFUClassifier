@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="331" item="Wild Wild West Gambling Hall" rating="3">
+	<title>
+		<sentence id="1">
+			Better(1) than(2) Expected(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) great(3) pool(4) area(5) ,(6) nice(7) amenities(8) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="place" opWords="3" polarity="+"/>
+			<opinion featWords="8" feature="amenities" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) rooms(2) ,(3) bad(4) neighborhood(5) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) cut-rate(2) hotel(3) stay(4) ,(5) you(6) can(7) not(8) bet(9) this(10) deal(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Las(1) Vegas(2) is(3) the(4) city(5) of(6) cheap(7) hotels(8) ,(9) good(10) food(11) and(12) good(13) entertainment(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) booked(2) a(3) cut-rate(4) room(5) at(6) Wild(7) Wild(8) West(9) because(10) it(11) was(12) close(13) to(14) my(15) business(16) in(17) this(18) city(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Then(1) I(2) read(3) the(4) reviews(5) found(6) on(7) this(8) site(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) deeply(3) concerned(4) over(5) my(6) choice(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) pleasantly(3) surprised(4) by(5) my(6) experience(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			I(1) booked(2) two(3) nights(4) but(5) I(6) was(7) sure(8) I(9) would(10) move(11) on(12) to(13) another(14) hotel(15) ,(16) perhaps(17) the(18) Hampton(19) Inn(20) across(21) the(22) street(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			After(1) seeing(2) the(3) room(4) ,(5) I(6) decided(7) to(8) spend(9) both(10) nights(11) here(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) were(3) small(4) but(5) pleasantly(6) furnished(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="6,7" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			It(1) appeared(2) to(3) be(4) recently(5) remodeled(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			The(1) selling(2) point(3) was(4) more(5) personal(6) in(7) nature(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			I(1) forgot(2) my(3) toiletry(4) bag(5) on(6) this(7) quick(8) trip(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			I(1) would(2) ,(3) once(4) again(5) ,(6) build(7) another(8) bag(9) -(10) or(11) so(12) I(13) thought(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			To(1) my(2) surprise(3) ,(4) the(5) hotel(6) room(7) actually(8) had(9) everything(10) I(11) needed(12) -(13) toothpaste(14) ,(15) deodorant(16) ,(17) razor(18) etc(19) -(20) already(21) in(22) the(23) room(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			I(1) believe(2) this(3) is(4) the(5) first(6) hotel(7) stay(8) I(9) have(10) encountered(11) with(12) such(13) at-home(14) amenities(15) as(16) a(17) standard(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Although(1) the(2) hotel(3) is(4) in(5) a(6) bad(7) neighborhood(8) ,(9) the(10) establishment(11) had(12) plenty(13) of(14) security(15) guards(16) ,(17) well-maintained(18) courtyard(19) and(20) nice(21) pool(22) area(23) .(24) 
+			<opinion featWords="23" feature="place" opWords="21" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			I(1) never(2) felt(3) at(4) risk(5) here(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			I(1) did(2) not(3) use(4) the(5) casino(6) or(7) restaurant(8) so(9) I(10) have(11) no(12) opinion(13) of(14) those(15) amenities(16) The(17) complex(18) is(19) old(20) ,(21) probably(22) built(23) in(24) the(25) 1960(26) 's(27) .(28) 
+		</sentence>
+		<sentence id="18">
+			The(1) land(2) is(3) space(4) owned(5) by(6) Wild(7) Wild(8) West(9) is(10) huge(11) and(12) the(13) Las(14) Vegas(15) expansion(16) is(17) moving(18) this(19) direction(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			I(1) think(2) we(3) will(4) see(5) major(6) changes(7) to(8) the(9) Wild(10) Wild(11) West(12) in(13) the(14) coming(15) few(16) years(17) .(18) 
+		</sentence>
+	</text>
+</review>

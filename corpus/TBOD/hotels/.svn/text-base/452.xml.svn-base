@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="452" item="Days Inn  - Town Hall Casino" rating="3">
+	<title>
+		<sentence id="1">
+			Days(1) Inn(2) on(3) Koval(4) Lane(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) the(3) strip(4) ,(5) clean(6) ,(7) cheap(8) restaurant(9) ,(10) easily(11) accessible(12) .(13) 
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Phone(1) System(2) ,(3) Loooong(4) hallways(5) ,(6) No(7) Bathtub(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) your(2) only(3) wanting(4) a(5) place(6) to(7) crash(8) and(9) want(10) a(11) budget(12) ,(13) then(14) Day(15) 's(16) Inn(17) is(18) for(19) you(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) want(3) glamour(4) ,(5) then(6) get(7) one(8) of(9) the(10) strip(11) hotels(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) main(2) reason(3) I(4) picked(5) Days(6) Inn(7) was(8) that(9) I(10) went(11) to(12) Comdex(13) ((14) big(15) computer(16) show(17) )(18) in(19) mid(20) November(21) and(22) the(23) other(24) good(25) hotel(26) chains(27) were(28) far(29) too(30) expensive(31) as(32) they(33) jacked(34) up(35) the(36) price(37) for(38) whatever(39) reason(40) .(41) 
+			<opinion featWords="26" feature="hotel" opWords="25" polarity="+"/>
+			<opinion featWords="37" feature="price" opWords="30,31" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) maid(2) service(3) was(4) excellent(5) ,(6) they(7) were(8) prompt(9) and(10) did(11) their(12) job(13) well(14) .(15) 
+			<opinion featWords="2" feature="room service" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			They(1) get(2) around(3) a(4) bit(5) early(6) though(7) so(8) be(9) sure(10) to(11) put(12) up(13) the(14) DO(15) NOT(16) DISTURB(17) SIGN(18) if(19) you(20) want(21) to(22) sleep(23) in(24) past(25) 8am(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			The(1) linens(2) were(3) clean(4) and(5) crisp(6) and(7) they(8) had(9) nice(10) sleeping(11) beds(12) .(13) .(14) but(15) if(16) you(17) do(18) not(19) like(20) the(21) cheap(22) thin(23) polyester(24) pillows(25) ,(26) bring(27) your(28) own(29) !(30) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="bedding" opWords="6" polarity="+"/>
+			<opinion featWords="12" feature="bed" opWords="10" polarity="+"/>
+			<opinion featWords="25" feature="bedding" opWords="22" polarity="-"/>
+			<opinion featWords="25" feature="bedding" opWords="23" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			There(1) was(2) no(3) tub(4) in(5) the(6) room(7) ,(8) with(9) only(10) a(11) stand(12) up(13) shower(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			The(1) water(2) pressure(3) was(4) excellent(5) ,(6) in(7) fact(8) stung(9) if(10) turned(11) up(12) all(13) the(14) way(15) ,(16) but(17) they(18) had(19) a(20) SERIOUS(21) problem(22) with(23) the(24) hot(25) water(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			One(1) minute(2) it(3) would(4) be(5) fine(6) ,(7) then(8) it(9) would(10) freeze(11) you(12) ,(13) upon(14) adjusting(15) the(16) hot(17) water(18) ,(19) it(20) was(21) back(22) to(23) normal(24) for(25) about(26) 2(27) mins(28) ,(29) then(30) the(31) hot(32) water(33) came(34) back(35) and(36) scalded(37) me(38) !(39) 
+		</sentence>
+		<sentence id="8">
+			So(1) be(2) forewarned(3) .(4) 
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) was(3) laid(4) out(5) in(6) a(7) square(8) with(9) a(10) pool(11) and(12) spa(13) in(14) the(15) middle(16) ,(17) but(18) they(19) way(20) it(21) was(22) laid(23) out(24) ,(25) it(26) seemed(27) you(28) had(29) to(30) walk(31) a(32) quarter(33) mile(34) from(35) the(36) front(37) desk(38) to(39) the(40) room(41) .(42) 
+		</sentence>
+		<sentence id="10">
+			Phone(1) service(2) ....(3) well(4) its(5) lacking(6) .(7) 50(8) cents(9) for(10) local(11) calls(12) ((13) standard(14) in(15) vegas(16) )(17) but(18) they(19) require(20) a(21) $10(22) deposit(23) just(24) to(25) activate(26) the(27) phone(28) ...(29) and(30) guess(31) what(32) ,(33) when(34) the(35) $10(36) is(37) up(38) ?(39) 
+		</sentence>
+		<sentence id="11">
+			Well(1) your(2) just(3) out(4) of(5) a(6) phone(7) and(8) have(9) to(10) put(11) down(12) an(13) additional(14) deposit(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Like(1) they(2) are(3) afraid(4) your(5) going(6) to(7) rip(8) them(9) off(10) on(11) local(12) calls(13) ?(14) sheesh(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			Also(1) voice(2) mail(3) ?(4) 
+		</sentence>
+		<sentence id="14">
+			What(1) voice(2) mail(3) ?(4) 
+		</sentence>
+		<sentence id="15">
+			The(1) operator(2) takes(3) a(4) message(5) and(6) then(7) your(8) phone(9) has(10) this(11) annoying(12) little(13) ring(14) every(15) 5(16) seconds(17) till(18) you(19) call(20) the(21) operator(22) .(23) .(24) and(25) once(26) ,(27) well(28) the(29) operator(30) forgot(31) to(32) shut(33) it(34) off(35) so(36) I(37) had(38) to(39) call(40) them(41) yet(42) again(43) !(44) *(45) grin(46) *(47) Good(48) stuff(49) :(50) Nice(51) little(52) casino(53) and(54) bar(55) down(56) stairs(57) ...(58) handy(59) gift(60) shop(61) ,(62) and(63) a(64) nice(65) little(66) restaurant(67) where(68) the(69) most(70) expensive(71) breakfast(72) was(73) $4.95(74) ((75) more(76) than(77) I(78) could(79) eat(80) )(81) tho(82) the(83) menu(84) has(85) few(86) items(87) on(88) it(89) .(90) 
+			<opinion featWords="53" feature="casino" opWords="51" polarity="+"/>
+			<opinion featWords="67" feature="food" opWords="65" polarity="+"/>
+			<opinion feature="price" opWords="71" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			The(1) outdoor(2) heated(3) pool(4) and(5) large(6) heated(7) spa(8) were(9) supurb(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			Very(1) clean(2) and(3) very(4) nice(5) to(6) soak(7) in(8) after(9) a(10) long(11) day(12) of(13) walking(14) at(15) Comdex(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			They(1) even(2) provided(3) towels(4) poolside(5) to(6) dry(7) off(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			I(1) found(2) the(3) location(4) best(5) of(6) all(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			It(1) is(2) only(3) one(4) block(5) from(6) Ballys(7) ,(8) Paris(9) ,(10) and(11) Flamingo(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			It(1) is(2) within(3) walking(4) distance(5) !(6) 
+		</sentence>
+		<sentence id="22">
+			Koval(1) lane(2) is(3) easy(4) to(5) find(6) and(7) get(8) around(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			The(1) price(2) was(3) right(4) .(5) $40(6) one(7) night(8) ,(9) and(10) $56(11) the(12) rest(13) of(14) the(15) week(16) ((17) by(18) calling(19) Days(20) Inn(21) reservation(22) line(23) )(24) .(25) 
+			<opinion featWords="2" feature="price" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			They(1) allowed(2) Saturday(3) check-in(4) ((5) unlike(6) a(7) lot(8) of(9) the(10) hotels(11) )(12) Tho(13) not(14) perfect(15) ,(16) I(17) would(18) stay(19) there(20) again(21) if(22) the(23) need(24) arose(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			Just(1) STAY(2) AWAY(3) from(4) the(5) Day(6) 's(7) Inn(8) Downtown(9) Freemont(10) St(11) .(12) ((13) see(14) my(15) other(16) review(17) )(18) and(19) come(20) here(21) instead(22) .(23) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="142" item="Quality Hotel Fort Wayne" rating="1">
+	<title>
+		<sentence id="1">
+			skanky(1) and(2) disgusting(3) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Avoid(1) ,(2) you(3) have(4) been(5) warned(6) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Dirty(1) rooms(2) ,(3) pathetic(4) staff(5) ,(6) Started(7) itching(8) as(9) soon(10) as(11) we(12) got(13) in(14) bed(15) ,(16) woke(17) up(18) with(19) eyes(20) swollen(21) ,(22) pubic(23) hair(24) and(25) hair(26) under(27) the(28) bed(29) sheets(30) .(31) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Our(1) colleagues(2) in(3) other(4) rooms(5) complained(6) of(7) poor(8) draining(9) bath(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			Shower(1) not(2) working(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			Located(1) next(2) door(3) to(4) a(5) truck(6) stop(7) with(8) stripper(9) bars(10) across(11) the(12) road(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			How(1) this(2) hotel(3) survives(4) I(5) will(6) never(7) know(8) .(9) 
+		</sentence>
+	</text>
+</review>

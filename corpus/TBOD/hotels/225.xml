@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="225" item="Carousel  Beachfront Hotel &amp; Suites" rating="1">
+	<title>
+		<sentence id="1">
+			We(1) love(2) Ocean(3) City(4) ,(5) but(6) will(7) not(8) be(9) staying(10) at(11) the(12) Carousel(13) again(14) .(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Our(1) children(2) LOVED(3) the(4) skating(5) rink(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poorly(1) maintained(2) room(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Cleaning(1) staff(2) not(3) reliable(4) .(5) 
+			<opinion featWords="2" feature="staff" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			A(1) /(2) C(3) was(4) loud(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			We(1) will(2) stay(3) in(4) Ocean(5) City(6) again(7) and(8) again(9) ,(10) but(11) it(12) will(13) not(14) be(15) at(16) the(17) Carousel(18) Hotel(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			We(1) could(2) have(3) paid(4) less(5) and(6) gotten(7) a(8) better(9) room(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) Carousel(5) Hotel(6) for(7) our(8) family(9) vacation(10) this(11) past(12) June(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			My(1) father(2) had(3) said(4) what(5) a(6) wonderful(7) place(8) it(9) has(10) been(11) in(12) Ocean(13) City(14) and(15) a(16) co-worker(17) told(18) me(19) how(20) nice(21) it(22) was(23) ,(24) too(25) .(26) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			We(1) 'd(2) received(3) a(4) special(5) book(6) early(7) price(8) of(9) $159/night(10) and(11) were(12) put(13) into(14) a(15) second(16) floor(17) room(18) that(19) was(20) on(21) the(22) small(23) side(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			It(1) had(2) two(3) queen(4) beds(5) ,(6) a(7) sleeper(8) sofa(9) and(10) two(11) side(12) by(13) side(14) dressers(15) on(16) the(17) wall(18) opposite(19) the(20) beds(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Right(1) inside(2) the(3) room(4) 's(5) door(6) was(7) a(8) kitchenette(9) area(10) with(11) a(12) small(13) refrigerator(14) ((15) the(16) kind(17) that(18) fits(19) under(20) the(21) counter(22) )(23) that(24) froze(25) our(26) milk(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			The(1) counter(2) above(3) the(4) refrigerator(5) had(6) a(7) small(8) microwave(9) ,(10) small(11) sink(12) and(13) two(14) cup(15) coffee(16) maker(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			They(1) also(2) included(3) a(4) basket(5) with(6) coffee(7) ((8) regular(9) and(10) decaf(11) )(12) on(13) the(14) counter(15) with(16) the(17) coffee(18) maker(19) ...(20) nice(21) touch(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			Above(1) that(2) were(3) kitchen(4) type(5) cabinets(6) that(7) were(8) empty(9) and(10) not(11) very(12) clean(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) kitchenette(2) was(3) across(4) from(5) the(6) bathroom(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			From(1) the(2) hallway(3) outside(4) our(5) room(6) we(7) had(8) a(9) nice(10) view(11) of(12) the(13) Starbucks(14) /(15) Krispy(16) Kreme(17) snack(18) area(19) and(20) the(21) indoor(22) skating(23) rink(24) .(25) 
+			<opinion featWords="11" feature="view" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			We(1) also(2) had(3) a(4) nice(5) view(6) of(7) the(8) beach(9) from(10) the(11) outside(12) balcony(13) .(14) 
+			<opinion featWords="6" feature="view" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			However(1) ,(2) our(3) suite(4) door(5) was(6) only(7) attached(8) by(9) the(10) top(11) hinge(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) middle(2) hinge(3) was(4) gone(5) and(6) the(7) bottom(8) hinge(9) had(10) no(11) screws(12) in(13) it(14) at(15) all(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			We(1) had(2) to(3) call(4) for(5) Maintenance(6) to(7) come(8) fix(9) it(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			Maintenance(1) also(2) had(3) to(4) be(5) called(6) to(7) fix(8) the(9) running(10) toilet(11) ,(12) the(13) dripping(14) bathtub(15) faucet(16) ,(17) and(18) the(19) regulator(20) for(21) the(22) temperature(23) of(24) the(25) shower(26) water(27) ((28) because(29) as(30) we(31) showered(32) ,(33) the(34) temperature(35) went(36) between(37) scalding(38) hot(39) and(40) ice(41) cold(42) )(43) .(44) 
+		</sentence>
+		<sentence id="16">
+			Our(1) TV(2) reception(3) ,(4) which(5) had(6) a(7) nice(8) selection(9) of(10) channels(11) including(12) HBO(13) ,(14) was(15) fuzzy(16) and(17) they(18) had(19) to(20) come(21) replace(22) the(23) TV(24) ,(25) too(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			Management(1) was(2) very(3) nice(4) about(5) getting(6) everything(7) fixed(8) ,(9) however(10) it(11) was(12) very(13) inconvenient(14) to(15) have(16) to(17) call(18) and(19) call(20) to(21) have(22) everything(23) repaired(24) .(25) 
+			<opinion featWords="1" feature="front desk" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="18">
+			The(1) one(2) thing(3) that(4) was(5) not(6) repaired(7) was(8) the(9) 6:53(10) AM(11) wake(12) up(13) call(14) we(15) received(16) each(17) morning(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			Yes(1) ...(2) an(3) unrequested(4) ,(5) unwanted(6) 6:53(7) AM(8) wake(9) up(10) call(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			The(1) front(2) desk(3) insisted(4) that(5) there(6) was(7) no(8) wake(9) up(10) call(11) in(12) their(13) computer(14) for(15) our(16) room(17) ,(18) so(19) assumed(20) it(21) was(22) the(23) phone(24) .(25) 
+		</sentence>
+		<sentence id="21">
+			Even(1) after(2) the(3) phone(4) was(5) swapped(6) out(7) ,(8) we(9) still(10) received(11) the(12) 6:53(13) wake(14) up(15) call(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			One(1) day(2) the(3) cleaning(4) staff(5) did(6) not(7) do(8) our(9) room(10) until(11) late(12) in(13) the(14) day(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) wireless(3) internet(4) service(5) in(6) the(7) snack(8) area(9) free(10) of(11) charge(12) to(13) Carousel(14) 's(15) guests(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			We(1) found(2) that(3) if(4) we(5) put(6) our(7) laptop(8) right(9) next(10) to(11) our(12) ((13) poorly(14) hung(15) )(16) door(17) ,(18) we(19) could(20) get(21) online(22) in(23) our(24) room(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			There(1) is(2) a(3) restaurant(4) for(5) lunch(6) and(7) dinner(8) inside(9) right(10) next(11) to(12) the(13) skating(14) rink(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			We(1) did(2) not(3) eat(4) there(5) .(6) 
+		</sentence>
+		<sentence id="27">
+			There(1) is(2) also(3) an(4) indoor(5) pool(6) and(7) hot(8) tub(9) which(10) we(11) did(12) not(13) try(14) either(15) .(16) 
+		</sentence>
+	</text>
+</review>

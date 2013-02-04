@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="426" item="Duluth-Days Inn" rating="3">
+	<title>
+		<sentence id="1">
+			Welcome(1) to(2) Average-ville(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Inexpensive(3) ,(4) Friendly(5) Staff(6) 
+			<opinion feature="price" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lack(1) of(2) amenities(3) ,(4) not(5) near(6) the(7) lake(8) ,(9) average(10) rooms(11) 
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) for(2) people(3) who(4) are(5) not(6) picky(7) and(8) on(9) a(10) low(11) budget(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) came(2) up(3) to(4) Duluth(5) on(6) business(7) and(8) spent(9) three(10) nights(11) at(12) the(13) Days(14) Inn(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) live(2) in(3) Duluth(4) during(5) the(6) school(7) year(8) ,(9) so(10) I(11) was(12) already(13) familiar(14) with(15) the(16) area(17) and(18) the(19) like(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			After(1) searching(2) online(3) for(4) the(5) cheapest(6) hotel(7) room(8) Days(9) Inn(10) won(11) at(12) $49(13) a(14) night(15) .(16) 
+			<opinion feature="price" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) wanted(3) the(4) room(5) for(6) 4(7) days(8) but(9) could(10) only(11) get(12) 3(13) ((14) since(15) it(16) was(17) nearing(18) July(19) 4th(20) and(21) most(22) hotels(23) are(24) reserved(25) early(26) then(27) )(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			Our(1) experience(2) was(3) fine(4) but(5) nothing(6) great(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			Getting(1) There(2) /(3) Location(4) The(5) Days(6) Inn(7) Duluth(8) is(9) fairly(10) easy(11) to(12) find(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) directly(3) across(4) from(5) the(6) mall(7) and(8) up(9) on(10) a(11) hill(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Getting(1) there(2) is(3) no(4) sweat(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			The(1) Location(2) is(3) great(4) .(5) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Although(1) it(2) is(3) far(4) from(5) the(6) lake(7) it(8) is(9) in(10) a(11) great(12) location(13) near(14) tons(15) of(16) shopping(17) ,(18) grocery(19) ,(20) gas(21) stations(22) ,(23) restaurants(24) ,(25) and(26) recreation(27) .(28) 
+			<opinion featWords="13" feature="place" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			This(1) said(2) if(3) you(4) need(5) anything(6) all(7) you(8) have(9) to(10) do(11) is(12) cross(13) the(14) street(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			Plus(1) it(2) 's(3) only(4) a(5) short(6) drive(7) to(8) all(9) of(10) Duluth(11) 's(12) better(13) attractions(14) -(15) Enger(16) Tower(17) ,(18) the(19) Lakeshore(20) ,(21) the(22) University(23) ,(24) and(25) plenty(26) of(27) parks(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			Booking(1) We(2) booked(3) online(4) and(5) had(6) no(7) problem(8) with(9) the(10) system(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			It(1) was(2) easy(3) to(4) navigate(5) and(6) pay(7) and(8) we(9) were(10) able(11) to(12) book(13) a(14) room(15) in(16) less(17) than(18) 2(19) minutes(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			I(1) would(2) suggest(3) this(4) method(5) to(6) anyone(7) -(8) you(9) do(10) not(11) have(12) to(13) bother(14) with(15) busy(16) phones(17) ,(18) being(19) put(20) on(21) hold(22) ,(23) and(24) trying(25) to(26) explain(27) yourself(28) over(29) the(30) phone(31) .(32) 
+		</sentence>
+		<sentence id="16">
+			Check-in(1) We(2) were(3) told(4) Check-in(5) begun(6) at(7) 2pm(8) ((9) checkout(10) is(11) 11am(12) )(13) ,(14) so(15) as(16) prompt(17) as(18) we(19) were(20) we(21) arrived(22) at(23) 2:05(24) .(25) 
+		</sentence>
+		<sentence id="17">
+			They(1) took(2) our(3) information(4) and(5) everything(6) but(7) told(8) us(9) the(10) room(11) would(12) not(13) be(14) ready(15) until(16) anywhere(17) between(18) 3(19) and(20) 4:30(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			This(1) was(2) not(3) too(4) much(5) of(6) a(7) problem(8) ,(9) we(10) just(11) went(12) to(13) the(14) mall(15) for(16) a(17) bit(18) and(19) returned(20) at(21) 4:15(22) to(23) our(24) nice(25) ,(26) clean(27) room(28) .(29) 
+			<opinion featWords="28" feature="rooms" opWords="25" polarity="+"/>
+			<opinion featWords="28" feature="rooms" opWords="27" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			As(1) for(2) parking(3) we(4) had(5) no(6) problem(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			There(1) is(2) even(3) parking(4) right(5) in(6) front(7) of(8) doors(9) further(10) down(11) the(12) building(13) so(14) that(15) you(16) do(17) not(18) have(19) to(20) enter(21) via(22) the(23) lobby(24) all(25) the(26) time(27) ((28) the(29) building(30) is(31) only(32) two(33) floors(34) so(35) it(36) extends(37) pretty(38) far(39) down(40) )(41) .(42) 
+		</sentence>
+		<sentence id="21">
+			Room(1) We(2) had(3) a(4) one(5) Queen-sized(6) bed(7) room(8) that(9) was(10) Handicap(11) accessible(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			Although(1) it(2) was(3) fine(4) for(5) us(6) they(7) certainly(8) do(9) not(10) go(11) out(12) of(13) there(14) way(15) with(16) the(17) rooms(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			We(1) had(2) no(3) table(4) ,(5) no(6) bathtub(7) ((8) although(9) that(10) may(11) be(12) due(13) to(14) it(15) being(16) handicap(17) )(18) ,(19) and(20) no(21) fridge(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			What(1) we(2) DID(3) have(4) was(5) a(6) bed(7) ,(8) great(9) TV(10) with(11) HBO(12) ,(13) and(14) a(15) safe-box(16) with(17) a(18) key(19) .(20) 
+			<opinion featWords="10" feature="tv" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			The(1) bed(2) was(3) comfortable(4) although(5) there(6) 's(7) much(8) to(9) be(10) said(11) about(12) the(13) flatness(14) of(15) those(16) pillows(17) .(18) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			If(1) you(2) want(3) to(4) watch(5) movies(6) bring(7) your(8) own(9) VCR(10) &amp;(11) hit(12) up(13) Blockbuster(14) because(15) it(16) costs(17) $6.99(18) to(19) rent(20) a(21) movie(22) from(23) the(24) hotel(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			The(1) A(2) /(3) C(4) was(5) great(6) -(7) it(8) cooled(9) the(10) room(11) off(12) in(13) 5(14) minutes(15) flat(16) .(17) 
+		</sentence>
+		<sentence id="28">
+			The(1) shower(2) was(3) fine(4) -(5) great(6) water(7) pressure(8) ,(9) and(10) a(11) little(12) seat(13) to(14) sit(15) down(16) on(17) ((18) great(19) for(20) the(21) women(22) who(23) have(24) to(25) shave(26) their(27) legs(28) )(29) .(30) 
+		</sentence>
+		<sentence id="29">
+			The(1) lighting(2) in(3) the(4) rooms(5) was(6) not(7) great(8) -(9) no(10) overhead(11) light(12) just(13) 3(14) lamps(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			Overall(1) the(2) room(3) was(4) average(5) .(6) 
+		</sentence>
+		<sentence id="31">
+			Staff(1) I(2) found(3) the(4) staff(5) to(6) be(7) friendly(8) if(9) not(10) over-friendly(11) which(12) is(13) much(14) better(15) than(16) being(17) jerks(18) .(19) 
+		</sentence>
+		<sentence id="32">
+			Our(1) room(2) was(3) always(4) clean(5) when(6) we(7) returned(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="33">
+			That(1) 's(2) pretty(3) much(4) all(5) I(6) can(7) say(8) about(9) the(10) staff(11) ((12) remember(13) it(14) 's(15) a(16) Days(17) Inn(18) not(19) the(20) Ritz(21) .(22) )(23) Amenities(24) /(25) Hotel(26) This(27) Days(28) Inn(29) is(30) thoroughly(31) lacking(32) in(33) amenities(34) :(35) No(36) pool(37) ,(38) no(39) sauna(40) ,(41) no(42) restaurant(43) ,(44) no(45) laundry(46) .(47) 
+		</sentence>
+		<sentence id="34">
+			I(1) was(2) a(3) little(4) disappointed(5) but(6) got(7) over(8) it(9) when(10) I(11) figured(12) I(13) could(14) just(15) go(16) outside(17) and(18) have(19) plenty(20) of(21) restaurants(22) w(23) /(24) in(25) walking(26) distance(27) .(28) 
+		</sentence>
+		<sentence id="35">
+			What(1) DO(2) they(3) have(4) ?(5) --(6) A(7) 7(8) person(9) Whirlpool(10) which(11) is(12) very(13) nice(14) and(15) open(16) until(17) 10pm(18) -(19) it(20) has(21) a(22) timer(23) and(24) complimentary(25) towels(26) .(27) --(28) A(29) fitness(30) "(31) center(32) "(33) which(34) consists(35) of(36) one(37) treadmill(38) ,(39) one(40) stationary(41) bike(42) ,(43) a(44) shower(45) ,(46) and(47) a(48) TV(49) .(50) 
+		</sentence>
+		<sentence id="36">
+			The(1) equipment(2) is(3) top(4) notch(5) though(6) ,(7) and(8) was(9) rarely(10) being(11) used(12) .(13) --(14) Free(15) continental(16) breakfast(17) from(18) 6-10am...which(19) is(20) small(21) but(22) nice(23) of(24) them(25) nonetheless(26) ((27) muffins(28) ,(29) toast(30) ,(31) cereal(32) ,(33) juice(34) ,(35) coffee(36) ,(37) milk(38) )(39) --(40) As(41) far(42) as(43) all-purpose(44) rooms(45) there(46) is(47) one(48) -(49) the(50) Day(51) Room(52) right(53) off(54) the(55) lobby(56) .(57) 
+			<opinion featWords="17" feature="food" opWords="15" polarity="+"/>
+			<opinion featWords="17" feature="food" opWords="21" polarity="-"/>
+			<opinion featWords="17" feature="food" opWords="23" polarity="+"/>
+		</sentence>
+		<sentence id="37">
+			It(1) has(2) a(3) TV(4) and(5) a(6) microwave(7) with(8) about(9) 7(10) tables(11) .(12) --(13) The(14) only(15) other(16) things(17) notable(18) are(19) Free(20) Parking(21) ,(22) Wake(23) Up(24) Calls(25) ,(26) and(27) a(28) coupon(29) booklet(30) that(31) offered(32) a(33) free(34) $10(35) Denny(36) 's(37) certificate(38) if(39) you(40) paid(41) for(42) 2(43) +(44) nights(45) with(46) a(47) Mastercard(48) ((49) which(50) we(51) did(52) )(53) .(54) 
+		</sentence>
+		<sentence id="38">
+			Overall(1) Overall(2) we(3) were(4) pleased(5) with(6) our(7) stay(8) .(9) 
+		</sentence>
+		<sentence id="39">
+			If(1) you(2) are(3) looking(4) for(5) lots(6) of(7) perks(8) do(9) not(10) look(11) here(12) ,(13) but(14) it(15) 's(16) nice(17) and(18) cheap(19) if(20) you(21) 're(22) there(23) to(24) do(25) other(26) stuff(27) ((28) which(29) I(30) recommend(31) because(32) it(33) is(34) a(35) GREAT(36) city(37) )(38) .(39) 
+		</sentence>
+		<sentence id="40">
+			We(1) had(2) no(3) problems(4) whatsoever(5) with(6) the(7) service(8) or(9) the(10) staff(11) and(12) I(13) would(14) definitely(15) recommend(16) staying(17) here(18) if(19) you(20) need(21) a(22) cheap(23) room(24) ((25) or(26) fork(27) out(28) a(29) few(30) more(31) bucks(32) for(33) the(34) Jacuzzi(35) King(36) Suite(37) )(38) .(39) 
+			<opinion feature="hotel" opWords="16" polarity="+" potency="15"/>
+		</sentence>
+	</text>
+</review>

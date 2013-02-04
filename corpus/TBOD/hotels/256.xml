@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="256" item="Sheraton World" rating="1">
+	<title>
+		<sentence id="1">
+			Great(1) Location(2) ,(3) Lousy(4) Service(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) landscaping(3) ,(4) and(5) facilities(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) ,(2) questionable(3) billing(4) practices(5) ,(6) no(7) toll(8) free(9) phone(10) number(11) for(12) when(13) problems(14) arise(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) incredibly(2) poor(3) service(4) ,(5) lack(6) of(7) customer(8) support(9) ,(10) and(11) questionable(12) billing(13) practices(14) more(15) than(16) offset(17) any(18) positives(19) .(20) 
+			<opinion featWords="4" feature="service" opWords="3" polarity="-" potency="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Our(1) problems(2) with(3) Sheraton(4) World(5) started(6) when(7) my(8) wife(9) and(10) I(11) first(12) arrived(13) at(14) the(15) check-in(16) counter(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) reserved(2) 4(3) nights(4) ,(5) and(6) they(7) only(8) had(9) me(10) down(11) for(12) one(13) night(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) took(2) approximately(3) 30(4) minutes(5) to(6) resolve(7) this(8) ,(9) and(10) we(11) were(12) finally(13) checked(14) into(15) our(16) room(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Later(1) that(2) evening(3) ,(4) we(5) went(6) to(7) the(8) restaurant(9) to(10) have(11) a(12) cocktail(13) prior(14) to(15) retiring(16) to(17) our(18) room(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			After(1) finishing(2) our(3) cocktail(4) ,(5) we(6) waited(7) at(8) least(9) 45(10) minutes(11) for(12) our(13) server(14) to(15) bring(16) us(17) the(18) bill(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			When(1) he(2) never(3) showed(4) up(5) ,(6) we(7) had(8) to(9) go(10) inside(11) the(12) restaurant(13) to(14) find(15) him(16) ,(17) where(18) he(19) was(20) busy(21) shooting(22) the(23) breeze(24) with(25) his(26) other(27) co-workers(28) ((29) he(30) seemed(31) irritated(32) with(33) us(34) for(35) hunting(36) him(37) down(38) inside(39) the(40) restaurant(41) )(42) .(43) 
+		</sentence>
+		<sentence id="7">
+			The(1) next(2) morning(3) ,(4) we(5) had(6) the(7) breakfast(8) buffet(9) at(10) the(11) restaurant(12) and(13) had(14) to(15) wait(16) at(17) least(18) 20(19) minutes(20) for(21) the(22) server(23) to(24) bring(25) us(26) the(27) bill(28) ((29) I(30) would(31) have(32) cut(33) them(34) more(35) slack(36) if(37) the(38) restaurant(39) had(40) been(41) busy(42) on(43) either(44) of(45) these(46) occasions(47) ,(48) but(49) it(50) was(51) 'nt(52) )(53) .(54) 
+		</sentence>
+		<sentence id="8">
+			When(1) we(2) tried(3) to(4) check(5) out(6) ,(7) the(8) process(9) took(10) 30-45(11) minutes(12) because(13) when(14) we(15) checked(16) in(17) ,(18) the(19) person(20) working(21) the(22) desk(23) forgot(24) to(25) officially(26) check(27) us(28) in(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			When(1) they(2) did(3) finally(4) print(5) us(6) a(7) checkout(8) statement(9) ,(10) it(11) was(12) full(13) of(14) errors(15) numerous(16) items(17) and(18) services(19) that(20) we(21) never(22) charged(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			It(1) took(2) me(3) nearly(4) one(5) month(6) and(7) numerous(8) long(9) distance(10) phone(11) calls(12) on(13) my(14) nickel(15) ((16) they(17) do(18) 'nt(19) have(20) a(21) toll-free(22) number(23) )(24) to(25) finally(26) get(27) the(28) bill(29) resolved(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			Considering(1) that(2) they(3) overcharged(4) me(5) $300(6) and(7) caused(8) me(9) to(10) spend(11) considerable(12) time(13) straightening(14) their(15) mess(16) out(17) ,(18) you(19) think(20) that(21) they(22) at(23) least(24) would(25) have(26) apologized(27) for(28) the(29) inconvenience(30) but(31) not(32) a(33) chance(34) .(35) 
+			<opinion feature="price" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			Now(1) do(2) 'nt(3) get(4) me(5) wrong(6) ,(7) there(8) are(9) some(10) good(11) things(12) about(13) the(14) hotel(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			The(1) location(2) is(3) unbeatable(4) for(5) Sea(6) World(7) and(8) Discovery(9) Cove(10) .(11) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) landscaping(2) is(3) beautiful(4) ,(5) and(6) the(7) facilities(8) generally(9) seem(10) clean(11) and(12) well-maintained(13) .(14) 
+			<opinion featWords="2" feature="decoration" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="facilities" opWords="11" polarity="+" potency="9"/>
+			<opinion featWords="8" feature="facilities" opWords="13" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="15">
+			Our(1) room(2) in(3) the(4) tower(5) was(6) clean(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			All-in-all(1) ,(2) it(3) would(4) be(5) a(6) nice(7) hotel(8) to(9) stay(10) at(11) provided(12) that(13) you(14) never(15) had(16) to(17) deal(18) with(19) anyone(20) working(21) there(22) .(23) 
+			<opinion featWords="8" feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			But(1) what(2) are(3) the(4) chances(5) of(6) that(7) happening(8) ?(9) 
+		</sentence>
+	</text>
+</review>

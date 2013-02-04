@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="590" item="Hotel San Remo" rating="4">
+	<title>
+		<sentence id="1">
+			Low(1) cost(2) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) ,(2) comfortable(3) 
+			<opinion feature="staff" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) Casino(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) usually(2) stay(3) at(4) the(5) San(6) Remo(7) when(8) we(9) visit(10) Vegas(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) time(3) we(4) stayed(5) there(6) was(7) strictly(8) because(9) the(10) price(11) was(12) right(13) .(14) 
+			<opinion featWords="11" feature="price" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Now(1) we(2) stay(3) there(4) because(5) we(6) like(7) it(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) have(2) found(3) the(4) staff(5) to(6) be(7) very(8) friendly(9) and(10) helpful(11) ,(12) from(13) the(14) front(15) desk(16) employees(17) to(18) the(19) pit(20) bosses(21) .(22) 
+			<opinion featWords="5" feature="staff" opWords="9" polarity="+" potency="8"/>
+			<opinion featWords="5" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) casino(2) is(3) small(4) ,(5) but(6) there(7) is(8) always(9) something(10) to(11) do(12) there(13) .(14) 
+			<opinion featWords="2" feature="casino" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			We(1) have(2) found(3) the(4) food(5) to(6) be(7) very(8) good(9) .(10) 
+			<opinion featWords="5" feature="food" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="7">
+			The(1) rooms(2) are(3) clean(4) and(5) rather(6) large(7) for(8) such(9) a(10) small(11) hotel(12) ,(13) but(14) when(15) we(16) go(17) to(18) Vegas(19) we(20) do(21) not(22) spend(23) a(24) lot(25) of(26) time(27) in(28) our(29) rooms(30) .(31) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+" potency="6"/>
+			<opinion featWords="12" feature="hotel" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			All(1) we(2) require(3) is(4) a(5) clean(6) room(7) with(8) a(9) comfortable(10) bed(11) ,(12) clean(13) bathroom(14) and(15) the(16) San(17) Remo(18) has(19) that(20) .(21) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="11" feature="bed" opWords="10" polarity="+"/>
+			<opinion featWords="14" feature="bathroom" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			We(1) will(2) continue(3) staying(4) there(5) as(6) we(7) can(8) find(9) better(10) things(11) to(12) do(13) with(14) the(15) money(16) we(17) save(18) .(19) 
+		</sentence>
+	</text>
+</review>

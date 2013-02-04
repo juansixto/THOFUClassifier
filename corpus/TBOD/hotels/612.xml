@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="612" item="Boston Park Plaza Hotel &amp; Towers" rating="5">
+	<title>
+		<sentence id="1">
+			Park(1) Plaza(2) Hotel(3) -(4) A(5) Step(6) Back(7) In(8) Time(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautifully(1) restored(2) old(3) hotel(4) .(5) 
+			<opinion featWords="4" feature="hotel" opWords="1,2" polarity="+"/>
+			<opinion featWords="4" feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) location(2) &amp;(3) pleasant(4) staff(5) .(6) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Thin(1) walls(2) ?(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Very(1) well(2) pleased(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			A(1) pleasant(2) experience(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) have(2) just(3) returned(4) from(5) a(6) weekend(7) stay(8) at(9) the(10) Boston(11) Park(12) Plaza(13) Hotel(14) in(15) the(16) Back(17) Bay(18) area(19) of(20) Boston(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Overall(1) ,(2) a(3) very(4) pleasant(5) visit(6) .(7) 1(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) obtained(2) our(3) room(4) through(5) '(6) Priceline(7) .(8) com(9) '(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			As(1) you(2) know(3) ,(4) you(5) do(6) not(7) know(8) where(9) you(10) will(11) be(12) until(13) you(14) actually(15) purchase(16) the(17) room(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) pleasantly(3) surprised(4) to(5) find(6) out(7) our(8) bid(9) of(10) $55(11) per(12) night(13) was(14) accepted(15) by(16) the(17) Park(18) Plaza(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			They(1) normally(2) run(3) $180(4) or(5) higher(6) .(7) 2(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			With(1) Priceline(2) you(3) are(4) guaranteed(5) one(6) double(7) bed(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			Since(1) there(2) were(3) three(4) of(5) us(6) ,(7) I(8) was(9) wondering(10) who(11) was(12) going(13) to(14) sleep(15) on(16) the(17) floor(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			No(1) problem(2) !(3) 
+		</sentence>
+		<sentence id="10">
+			The(1) very(2) friendly(3) girl(4) at(5) the(6) check-in(7) desk(8) suggested(9) we(10) take(11) a(12) handicap(13) accessible(14) room(15) with(16) a(17) king(18) size(19) bed(20) because(21) it(22) would(23) have(24) more(25) room(26) for(27) a(28) rollaway(29) .(30) 
+			<opinion featWords="15" feature="rooms" opWords="13,14" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) room(2) was(3) approximately(4) 10(5) '(6) x(7) 20(8) '(9) with(10) a(11) large(12) closet(13) and(14) beautifully(15) tiled(16) bathroom(17) .(18) 
+			<opinion featWords="13" feature="closet" opWords="12" polarity="+"/>
+			<opinion featWords="17" feature="bathroom" opWords="15,16" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			More(1) than(2) enough(3) room(4) and(5) at(6) no(7) additional(8) cost(9) .(10) 3(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			The(1) room(2) was(3) tastefully(4) decorated(5) and(6) clean(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) king(2) bed(3) as(4) well(5) as(6) the(7) rollaway(8) were(9) comfortable(10) .(11) 
+			<opinion featWords="3" feature="bed" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) usual(2) amenities(3) for(4) a(5) hotel(6) of(7) this(8) class(9) were(10) there(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			Individual(1) climate(2) control(3) ,(4) ironing(5) board(6) and(7) iron(8) ,(9) lots(10) of(11) big(12) fluffy(13) towels(14) and(15) toiletry(16) items(17) .(18) 4(19) .(20) 
+			<opinion featWords="14" feature="towels" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Although(1) there(2) are(3) many(4) dining(5) choices(6) on(7) the(8) premises(9) ,(10) we(11) only(12) sampled(13) the(14) breakfast(15) buffet(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Though(1) fairly(2) pricey(3) at(4) $14.50(5) per(6) person(7) ,(8) the(9) food(10) was(11) quite(12) good(13) and(14) the(15) selection(16) was(17) more(18) than(19) adequate(20) .(21) 5(22) .(23) 
+			<opinion feature="price" opWords="3" polarity="-" potency="2"/>
+			<opinion featWords="10" feature="food" opWords="13" polarity="+" potency="12"/>
+		</sentence>
+		<sentence id="19">
+			There(1) is(2) a(3) health(4) club(5) downstairs(6) ,(7) beauty(8) /(9) barber(10) salon(11) ,(12) gift(13) shop(14) and(15) the(16) major(17) airlines(18) have(19) offices(20) there(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			You(1) are(2) one(3) block(4) from(5) the(6) Arlington(7) St(8) .(9) subway(10) stop(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			The(1) staff(2) was(3) extremely(4) helpful(5) with(6) directions(7) and(8) answering(9) any(10) questions(11) .(12) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="22">
+			Valet(1) parking(2) is(3) $24/day(4) with(5) unlimited(6) in(7) /(8) out(9) .(10) 6(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			The(1) ONLY(2) negative(3) point(4) and(5) one(6) that(7) would(8) not(9) be(10) a(11) problem(12) under(13) normal(14) circumstances(15) ,(16) is(17) the(18) walls(19) between(20) rooms(21) seem(22) a(23) little(24) thin(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			There(1) was(2) a(3) college(4) fraternity(5) leadership(6) conference(7) going(8) on(9) and(10) the(11) boys(12) next(13) door(14) got(15) a(16) little(17) loud(18) during(19) the(20) night(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			Not(1) really(2) bad(3) enough(4) to(5) complain(6) about(7) ,(8) but(9) you(10) could(11) hear(12) them(13) .(14) 7(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			I(1) would(2) stay(3) there(4) again(5) if(6) I(7) could(8) get(9) another(10) great(11) rate(12) like(13) this(14) last(15) one(16) .(17) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="12" feature="price" opWords="11" polarity="+"/>
+		</sentence>
+	</text>
+</review>

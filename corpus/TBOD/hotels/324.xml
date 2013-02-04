@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="324" item="Ashley Plaza Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			This(1) place(2) is(3) a(4) dump(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) ,(2) run(3) down(4) ,(5) misrepresented(6) ,(7) little(8) concern(9) from(10) management(11) ,(12) poor(13) service(14) ,(15) over-priced(16) .(17) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3,4" polarity="-"/>
+			<opinion feature="hotel" opWords="6" polarity="-"/>
+			<opinion featWords="14" feature="service" opWords="13" polarity="-"/>
+			<opinion feature="price" opWords="16" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) booked(2) this(3) hotel(4) on-line(5) ,(6) paying(7) in(8) advance(9) ((10) approx(11) .(12) $110(13) USD(14) )(15) requesting(16) a(17) non-smoking(18) room(19) with(20) king(21) size(22) bed(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			We(1) arrived(2) late(3) ((4) and(5) hungry(6) )(7) and(8) quickly(9) checked(10) in(11) and(12) went(13) down(14) to(15) the(16) restaurant(17) in(18) the(19) hotel(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			The(1) meal(2) was(3) so-so(4) and(5) it(6) was(7) obvious(8) they(9) wanted(10) to(11) close(12) as(13) the(14) bill(15) arrived(16) without(17) any(18) offer(19) of(20) coffee(21) or(22) dessert(23) .(24) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) 9:45(3) !(4) 
+		</sentence>
+		<sentence id="5">
+			They(1) locked(2) the(3) doors(4) behind(5) us(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Then(1) we(2) got(3) to(4) the(5) room(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			The(1) bed(2) was(3) not(4) a(5) king(6) size(7) but(8) two(9) twins(10) pushed(11) together(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) room(2) had(3) obvious(4) recent(5) water(6) damage(7) and(8) plaster(9) walls(10) were(11) bulging(12) with(13) water(14) damage(15) and(16) paint(17) was(18) peeling(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Some(1) wall(2) paper(3) had(4) been(5) removed(6) as(7) part(8) of(9) a(10) half-hearted(11) repair(12) and(13) paint(14) was(15) splattered(16) on(17) the(18) windows(19) and(20) floors(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			The(1) furniture(2) looked(3) like(4) something(5) from(6) the(7) Salvation(8) Army(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			The(1) TV(2) did(3) not(4) work(5) properly(6) and(7) there(8) was(9) no(10) remote(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) rugs(2) were(3) worn(4) ,(5) the(6) hair(7) dryer(8) did(9) not(10) work(11) and(12) the(13) bathroom(14) was(15) supplied(16) with(17) only(18) 1(19) towel(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			We(1) were(2) charged(3) an(4) extra(5) $7(6) for(7) parking(8) in(9) an(10) unsupervised(11) lot(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Avoid(1) this(2) place(3) at(4) all(5) costs(6) .(7) 
+			<opinion featWords="3" feature="place" opWords="1" polarity="-"/>
+		</sentence>
+	</text>
+</review>

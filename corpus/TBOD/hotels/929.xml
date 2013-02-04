@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="929" item="Ritz Carlton Cleveland" rating="5">
+	<title>
+		<sentence id="1">
+			GORGEOUS(1) VIEW(2) FROM(3) ANY(4) FLOOR(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Large(1) rooms(2) ,(3) Courteous(4) staff(5) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			too(1) small(2) of(3) a(4) kitchen(5) area(6) 
+			<opinion featWords="5" feature="kitchen" opWords="1,2" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			MY(1) THOUGHTS(2) :(3) WOW(4) !(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) aghast(3) at(4) the(5) understated(6) opulence(7) of(8) the(9) Ritz-Carlton(10) in(11) Cleveland(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Around(1) every(2) corner(3) in(4) this(5) spacious(6) hotel(7) is(8) a(9) courteous(10) employee(11) as(12) well(13) as(14) anything(15) your(16) heart(17) desires(18) .(19) 
+			<opinion featWords="11" feature="staff" opWords="10" polarity="+"/>
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			EASE(1) OF(2) ACCESSIBILITY(3) :(4) Whether(5) walking(6) in(7) or(8) entering(9) in(10) a(11) wheelchair(12) ,(13) you(14) will(15) notice(16) the(17) amenities(18) are(19) spacious(20) rooms(21) ,(22) wheelchair(23) accessibility(24) to(25) everything(26) including(27) the(28) shower(29) to(30) the(31) balconies(32) to(33) the(34) elevators(35) .(36) 
+			<opinion featWords="21" feature="rooms" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			AMENITIES(1) :(2) I(3) stayed(4) in(5) a(6) large(7) suite(8) of(9) rooms(10) .(11) 
+			<opinion featWords="8" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			There(1) were(2) two(3) bedrooms(4) ,(5) two(6) bathrooms(7) ,(8) a(9) large(10) sitting(11) area(12) ,(13) an(14) intimate(15) kitchen(16) area(17) ,(18) a(19) big(20) balcony(21) and(22) a(23) very(24) large(25) entertainment(26) room(27) .(28) 
+			<opinion featWords="27" feature="rooms" opWords="25" polarity="+" potency="24"/>
+			<opinion featWords="12" feature="place" opWords="10" polarity="+"/>
+			<opinion featWords="16" feature="kitchen" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Anything(1) your(2) heart(3) desires(4) can(5) become(6) yours(7) if(8) your(9) lucky(10) enough(11) to(12) stay(13) here(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			One(1) bedroom(2) was(3) furnished(4) in(5) blue(6) with(7) a(8) Queen(9) Anne(10) 's(11) desk(12) ,(13) a(14) phone(15) ,(16) a(17) king(18) size(19) bed(20) ,(21) automatic(22) coffee(23) pot(24) ,(25) a(26) small(27) refrigerator(28) ,(29) a(30) large(31) chest(32) of(33) drawers(34) ,(35) two(36) comfy(37) chairs(38) ,(39) a(40) wall(41) air(42) conditioner(43) /(44) heater(45) ,(46) a(47) television(48) and(49) a(50) vcr(51) .(52) 
+		</sentence>
+		<sentence id="9">
+			The(1) second(2) bedroom(3) was(4) furnished(5) in(6) orange(7) &amp;(8) yellows(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			Included(1) was(2) a(3) king(4) size(5) bed(6) ,(7) a(8) phone(9) ,(10) three(11) comfy(12) chairs(13) ,(14) a(15) square(16) table(17) ,(18) a(19) television(20) ,(21) a(22) small(23) refrigerator(24) ,(25) a(26) wall(27) air(28) conditioner(29) /(30) heater(31) and(32) smaller(33) copy(34) of(35) the(36) chest(37) of(38) drawers(39) found(40) in(41) the(42) master(43) bedroom(44) suite(45) .(46) 
+		</sentence>
+		<sentence id="11">
+			Both(1) bathrooms(2) ((3) white(4) &amp;(5) silver(6) )(7) included(8) a(9) walk-in(10) or(11) roll-in(12) shower(13) ,(14) very(15) thick(16) ,(17) comfortable(18) towels(19) ,(20) a(21) towel(22) warmer(23) ,(24) a(25) lid(26) for(27) the(28) toilet(29) seat(30) ,(31) a(32) free-standing(33) sink(34) ,(35) and(36) a(37) medicine(38) cabinet(39) in(40) each(41) bathroom(42) that(43) were(44) stocked(45) full(46) of(47) toiletries(48) and(49) regular(50) items(51) you(52) 'd(53) most(54) likely(55) find(56) in(57) your(58) own(59) medicine(60) chest(61) .(62) 
+			<opinion featWords="19" feature="towels" opWords="16" polarity="+"/>
+			<opinion featWords="19" feature="towels" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) kitchen(2) ((3) blue(4) )(5) included(6) a(7) mid-size(8) refrigerator(9) ,(10) a(11) small(12) cook(13) top(14) ((15) 2(16) burners(17) -(18) electric(19) )(20) ,(21) a(22) table(23) that(24) may(25) sit(26) 4(27) people(28) ,(29) and(30) 8(31) small(32) cupboards(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			There(1) was(2) food(3) in(4) the(5) cupboards(6) ,(7) but(8) we(9) were(10) not(11) sure(12) how(13) long(14) it(15) had(16) been(17) there(18) ,(19) so(20) for(21) our(22) stay(23) we(24) bought(25) non(26) perishables(27) ,(28) labeled(29) them(30) with(31) a(32) date(33) in(34) case(35) they(36) were(37) not(38) used(39) so(40) the(41) next(42) person(43) who(44) stayed(45) in(46) that(47) suite(48) of(49) rooms(50) would(51) know(52) when(53) an(54) item(55) was(56) purchased(57) .(58) 
+		</sentence>
+		<sentence id="14">
+			In(1) the(2) sitting(3) area(4) ((5) blue(6) ,(7) green(8) &amp;(9) orange(10) )(11) ,(12) there(13) were(14) 6(15) large(16) comfy(17) chairs(18) ((19) a(20) few(21) of(22) them(23) you(24) could(25) sink(26) into(27) and(28) not(29) be(30) found(31) for(32) a(33) couple(34) of(35) weeks(36) )(37) .(38) 
+			<opinion featWords="18" feature="chairs" opWords="16" polarity="+"/>
+			<opinion featWords="18" feature="chairs" opWords="17" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			Also(1) available(2) were(3) two(4) small(5) square(6) tables(7) ,(8) so(9) that(10) they(11) could(12) be(13) pushed(14) together(15) to(16) form(17) a(18) larger(19) table(20) .(21) 
+			<opinion featWords="7" feature="tables" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			One(1) table(2) did(3) seem(4) a(5) bit(6) wobbly(7) .(8) 
+			<opinion featWords="2" feature="tables" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			There(1) were(2) also(3) 3(4) board(5) games(6) available(7) in(8) a(9) closet(10) :(11) Monopoly(12) ,(13) Life(14) and(15) Parchisi(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			In(1) the(2) entertainment(3) room(4) ((5) yellow(6) &amp;(7) blue(8) )(9) ,(10) there(11) was(12) a(13) large(14) television(15) ((16) 38(17) "(18) )(19) with(20) surround(21) sound(22) and(23) Picture-In-Picture(24) viewing(25) ,(26) 2(27) phones(28) ((29) one(30) on(31) each(32) end(33) of(34) the(35) room(36) )(37) ,(38) four(39) semi-comfy(40) chairs(41) ,(42) a(43) bar(44) area(45) that(46) was(47) very(48) well(49) supplied(50) ,(51) and(52) two(53) couches(54) .(55) 
+			<opinion featWords="44" feature="food" opWords="49,50" polarity="+" potency="48"/>
+			<opinion featWords="15" feature="tv" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			The(1) balcony(2) was(3) concrete(4) of(5) course(6) ,(7) but(8) the(9) floor(10) of(11) the(12) balcony(13) had(14) the(15) indoor(16) /(17) outdoor(18) green(19) carpeting(20) applied(21) to(22) it(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			Three(1) green(2) and(3) yellow(4) chaise(5) loungers(6) were(7) bolted(8) to(9) the(10) floor(11) of(12) the(13) balcony(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			The(1) price(2) I(3) 'm(4) sure(5) was(6) outrageous(7) ;(8) do(9) not(10) know(11) since(12) I(13) won(14) the(15) trip(16) .(17) 
+			<opinion featWords="2" feature="price" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			The(1) shops(2) in(3) and(4) around(5) the(6) Ritz-Carlton(7) were(8) very(9) pricey(10) .(11) 
+			<opinion feature="price" opWords="10" polarity="-" potency="9"/>
+		</sentence>
+		<sentence id="23">
+			In(1) fact(2) ,(3) I(4) went(5) window(6) shopping(7) quite(8) a(9) bit(10) and(11) drooled(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			EMPLOYEES(1) :(2) The(3) employees(4) were(5) very(6) courteous(7) and(8) willing(9) to(10) offer(11) help(12) or(13) advice(14) .(15) 
+			<opinion featWords="4" feature="staff" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="25">
+			There(1) were(2) several(3) massuers(4) ((5) sp(6) ?(7) )(8) on(9) staff(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			One(1) was(2) very(3) helpful(4) in(5) removing(6) the(7) stress(8) knots(9) in(10) my(11) back(12) and(13) feet(14) .(15) 
+		</sentence>
+		<sentence id="27">
+			It(1) seemed(2) as(3) if(4) no(5) one(6) there(7) EVER(8) had(9) a(10) bad(11) day(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			Bell(1) boys(2) ((3) men(4) )(5) were(6) very(7) helpful(8) getting(9) our(10) baggage(11) to(12) rooms(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			Employees(1) there(2) are(3) not(4) supposed(5) to(6) receive(7) tips(8) from(9) clients(10) who(11) stay(12) there(13) we(14) were(15) told(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			RESTAURANTS(1) :(2) There(3) were(4) several(5) located(6) in(7) the(8) Ritz-Carlton(9) itself(10) ,(11) however(12) we(13) did(14) not(15) venture(16) into(17) them(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			We(1) either(2) ate(3) room(4) service(5) or(6) went(7) out(8) on(9) the(10) town(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			OVERALL(1) RATING(2) :(3) GREAT(4) !(5) 
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="33">
+			FANTASTIC(1) !(2) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="34">
+			WONDERFUL(1) !(2) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="35">
+			Would(1) recommend(2) the(3) Ritz-Carlton(4) Cleveland(5) to(6) anyone(7) who(8) has(9) money(10) to(11) burn(12) as(13) well(14) as(15) a(16) very(17) ROMANTIC(18) getaway(19) place(20) for(21) you(22) and(23) your(24) sweetheart(25) !(26) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</text>
+</review>

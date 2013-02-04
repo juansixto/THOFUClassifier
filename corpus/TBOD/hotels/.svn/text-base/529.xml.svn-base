@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="529" item="Alcoa Days Inn - Knoxville Airport" rating="2">
+	<title>
+		<sentence id="1">
+			Old(1) and(2) run(3) down(4) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) about(2) 45(3) bucks(4) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Musty(1) ,(2) old(3) looking(4) ,(5) noisy(6) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion feature="hotel" opWords="6" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) room(2) smelled(3) musty(4) and(5) the(6) overall(7) atmosphere(8) was(9) like(10) 1970(11) .(12) 
+			<opinion featWords="2" feature="rooms" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) an(3) old(4) hotel(5) that(6) had(7) been(8) painted(9) ,(10) etc(11) ,(12) but(13) did(14) not(15) inspire(16) me(17) .(18) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			I(1) thought(2) getting(3) Days(4) Inn(5) highest(6) rating(7) ((8) 5(9) suns(10) )(11) would(12) mean(13) a(14) really(15) nice(16) place(17) .(18) 
+			<opinion featWords="17" feature="place" opWords="16" polarity="+" potency="15"/>
+		</sentence>
+		<sentence id="4">
+			Believe(1) AAA(2) when(3) they(4) do(5) not(6) put(7) a(8) place(9) in(10) their(11) travel(12) book(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Not(1) a(2) bad(3) place(4) ,(5) but(6) was(7) expecting(8) a(9) lot(10) more(11) considering(12) the(13) rating(14) it(15) had(16) .(17) 
+			<opinion featWords="4" feature="place" opWords="1,3" polarity="+"/>
+		</sentence>
+	</text>
+</review>

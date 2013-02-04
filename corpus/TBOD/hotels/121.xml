@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="121" item="Quality Inn At Zion Park" rating="1">
+	<title>
+		<sentence id="1">
+			Noisy(1) and(2) basic(3) motel(4) 
+			<opinion featWords="4" feature="hotel" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			close(1) to(2) Zion(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			noisy(1) ,(2) surrounded(3) by(4) the(5) RV-park(6) ,(7) no(8) cosy(9) atmosphere(10) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			can(1) not(2) recommend(3) unless(4) they(5) put(6) more(7) style(8) on(9) their(10) furniture(11) and(12) rooms(13) get(14) less(15) noise(16) from(17) doors(18) /(19) water(20) .(21) 
+			<opinion feature="hotel" opWords="2,3" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Springdale(1) is(2) a(3) small(4) village(5) adjacent(6) to(7) Zion(8) National(9) Park(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Driving(1) up(2) Main(3) Street(4) to(5) the(6) Park(7) you(8) find(9) some(10) nice(11) colourfull(12) shops(13) ,(14) some(15) Lodges(16) /(17) Inns(18) /(19) Motels(20) and(21) a(22) few(23) restaurants(24) ((25) that(26) I(27) find(28) are(29) upscale(30) in(31) price(32) )(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			Close(1) to(2) the(3) park(4) entrance(5) you(6) will(7) find(8) Quality(9) Inn(10) and(11) its(12) RV-Park(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) surrounding(2) of(3) red(4) rocks(5) and(6) mountains(7) is(8) breathtaking(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			The(1) inn(2) itself(3) is(4) not(5) ...(6) it(7) is(8) just(9) a(10) basic(11) motel(12) of(13) the(14) lower(15) scale(16) ,(17) with(18) no(19) nice(20) or(21) cosy(22) atmosphere(23) ,(24) and(25) I(26) have(27) to(28) downscale(29) it(30) for(31) its(32) noisy(33) rooms(34) ,(35) but(36) read(37) on(38) ...(39) Outside(40) the(41) buildings(42) with(43) the(44) rooms(45) ,(46) the(47) lobby(48) ,(49) a(50) shop(51) ,(52) the(53) laundry(54) and(55) some(56) facilities(57) for(58) the(59) campers(60) there(61) is(62) plenty(63) of(64) space(65) for(66) parking(67) cars(68) and(69) RVs(70) and(71) there(72) are(73) many(74) picnic(75) places(76) throughout(77) the(78) place(79) .(80) 
+			<opinion featWords="12" feature="hotel" opWords="11" polarity="+"/>
+			<opinion featWords="34" feature="rooms" opWords="33" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			You(1) will(2) find(3) some(4) nice(5) sunny(6) places(7) with(8) tables(9) and(10) chairs(11) to(12) relax(13) ,(14) some(15) nicely(16) landscaped(17) spots(18) and(19) you(20) always(21) view(22) those(23) pitturesque(24) red(25) rocks(26) around(27) .(28) 
+			<opinion featWords="7" feature="place" opWords="5" polarity="+"/>
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) walking(3) distance(4) to(5) the(6) Spotted(7) Dog(8) Cafe(9) and(10) Restaurant(11) on(12) the(13) other(14) side(15) of(16) the(17) street(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			They(1) serve(2) very(3) fine(4) food(5) but(6) prices(7) were(8) higher(9) than(10) usual(11) .(12) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="9">
+			Traffic(1) was(2) light(3) so(4) we(5) did(6) never(7) get(8) disturbed(9) by(10) traffic(11) noises(12) and(13) there(14) was(15) no(16) problem(17) walking(18) along(19) Springdales(20) streets(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			The(1) motel(2) lobby(3) is(4) divided(5) into(6) 2(7) rooms(8) ,(9) in(10) the(11) first(12) one(13) you(14) find(15) some(16) nice(17) sofas(18) and(19) there(20) is(21) one(22) computer(23) with(24) internet(25) access(26) you(27) have(28) to(29) pay(30) for(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			In(1) the(2) second(3) room(4) you(5) find(6) the(7) counter(8) and(9) a(10) small(11) breakfast(12) area(13) with(14) uncomfortable(15) chairs(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			This(1) place(2) does(3) not(4) look(5) inviting(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			The(1) aluminium(2) chairs(3) are(4) uncomfortable(5) ,(6) the(7) old(8) worn(9) out(10) floor(11) looks(12) terrible(13) .(14) 
+			<opinion featWords="3" feature="chairs" opWords="5" polarity="-"/>
+			<opinion featWords="11" feature="grounds" opWords="8" polarity="-"/>
+			<opinion featWords="11" feature="grounds" opWords="9,10" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			The(1) whole(2) room(3) is(4) disgusting(5) somehow(6) .(7) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			For(1) breakfast(2) they(3) serve(4) bagles(5) ,(6) toast(7) ,(8) cereals(9) ,(10) boiled(11) eggs(12) ,(13) some(14) fruit(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Butter(1) and(2) creamcheese(3) is(4) not(5) packed(6) ,(7) you(8) have(9) to(10) take(11) it(12) from(13) a(14) bowl(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			They(1) have(2) juices(3) in(4) tiny(5) packages(6) and(7) 2(8) sorts(9) of(10) coffee(11) and(12) hot(13) chocolate(14) as(15) well(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			Adjacent(1) to(2) the(3) lobby(4) you(5) will(6) find(7) a(8) small(9) store(10) with(11) a(12) good(13) range(14) of(15) food(16) and(17) drinks(18) ,(19) which(20) closes(21) in(22) the(23) early(24) evening(25) and(26) opens(27) early(28) in(29) the(30) morning(31) .(32) 
+		</sentence>
+		<sentence id="19">
+			They(1) also(2) sell(3) souvenirs(4) .(5) 
+		</sentence>
+		<sentence id="20">
+			Staff(1) was(2) very(3) friendly(4) and(5) invitingly(6) and(7) check(8) in(9) ((10) prebooked(11) room(12) )(13) was(14) very(15) fast(16) .(17) 
+			<opinion featWords="1" feature="staff" opWords="4" polarity="+" potency="3"/>
+			<opinion featWords="1" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			Probably(1) family(2) business(3) .(4) 
+		</sentence>
+		<sentence id="22">
+			Nevertheless(1) a(2) price(3) of(4) 77(5) plus(6) tax(7) is(8) a(9) lot(10) of(11) money(12) for(13) such(14) a(15) basic(16) room(17) .(18) 
+			<opinion featWords="17" feature="rooms" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			We(1) were(2) shown(3) to(4) the(5) rooms(6) that(7) are(8) in(9) two(10) separate(11) complexes(12) ,(13) each(14) complex(15) with(16) about(17) 20(18) rooms(19) on(20) 2(21) floors(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			We(1) were(2) in(3) complex(4) B(5) that(6) is(7) adjacent(8) to(9) the(10) tiny(11) swimmingpool(12) and(13) concrete(14) pool(15) area(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			Nevertheless(1) it(2) was(3) too(4) cool(5) for(6) swimming(7) ((8) end(9) of(10) October(11) )(12) ,(13) the(14) pool(15) was(16) not(17) in(18) use(19) .(20) 
+		</sentence>
+		<sentence id="26">
+			Some(1) of(2) the(3) rooms(4) on(5) 1st(6) floor(7) have(8) balcony(9) doors(10) to(11) a(12) tiny(13) veranda(14) with(15) 1(16) or(17) 2(18) chairs(19) ((20) dirty(21) ones(22) )(23) ,(24) some(25) in(26) complex(27) A(28) even(29) have(30) a(31) small(32) beautiful(33) landscaped(34) garden(35) with(36) their(37) veranda(38) .(39) 
+		</sentence>
+		<sentence id="27">
+			We(1) got(2) a(3) room(4) at(5) the(6) one(7) end(8) of(9) house(10) B(11) with(12) a(13) window(14) you(15) can(16) open(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			Nice(1) to(2) get(3) some(4) fresh(5) air(6) into(7) the(8) room(9) ,(10) and(11) the(12) mosquito(13) net(14) on(15) the(16) window(17) prevents(18) insects(19) from(20) flying(21) in(22) .(23) 
+		</sentence>
+		<sentence id="29">
+			Both(1) houses(2) have(3) indoor(4) corridors(5) with(6) entrance(7) doors(8) to(9) be(10) opened(11) with(12) your(13) room(14) key(15) for(16) safety(17) reason(18) .(19) 
+		</sentence>
+		<sentence id="30">
+			You(1) will(2) find(3) a(4) vending(5) machine(6) and(7) ice(8) on(9) one(10) end(11) of(12) the(13) corridor(14) .(15) 
+		</sentence>
+		<sentence id="31">
+			The(1) rooms(2) are(3) normal(4) size(5) ,(6) not(7) too(8) small(9) .(10) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="7,9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="32">
+			But(1) the(2) furniture(3) is(4) really(5) not(6) nice(7) at(8) all(9) .(10) 
+			<opinion featWords="3" feature="furnishings" opWords="6,7" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="33">
+			You(1) get(2) a(3) small(4) round(5) table(6) and(7) 2(8) chairs(9) ,(10) 2(11) beds(12) ,(13) a(14) built(15) into(16) the(17) wall(18) rack(19) for(20) the(21) clothes(22) and(23) the(24) usual(25) TV-furniture(26) with(27) 3(28) drawers(29) under(30) the(31) TV(32) .(33) 
+		</sentence>
+		<sentence id="34">
+			The(1) rooms(2) are(3) decorated(4) in(5) green(6) and(7) brown(8) ,(9) with(10) dark(11) green(12) carpets(13) that(14) I(15) did(16) not(17) like(18) from(19) the(20) first(21) moment(22) .(23) 
+		</sentence>
+		<sentence id="35">
+			Even(1) 2(2) pictures(3) on(4) the(5) wall(6) did(7) not(8) bring(9) any(10) colour(11) into(12) the(13) room(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			They(1) should(2) use(3) more(4) and(5) colourful(6) pictures(7) !(8) 
+		</sentence>
+		<sentence id="37">
+			The(1) rooms(2) give(3) you(4) a(5) cold(6) atmosphere(7) ...(8) or(9) no(10) atmosphere(11) at(12) all(13) ...(14) nothing(15) nice(16) about(17) them(18) .(19) 
+		</sentence>
+		<sentence id="38">
+			But(1) I(2) have(3) to(4) admit(5) that(6) the(7) room(8) was(9) clean(10) though(11) it(12) had(13) a(14) strong(15) chemical(16) odour(17) .(18) 
+			<opinion featWords="8" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="39">
+			As(1) a(2) plus(3) we(4) got(5) a(6) fridge(7) ((8) noisy(9) when(10) cooling(11) )(12) and(13) a(14) microwave(15) ,(16) but(17) no(18) ironing(19) equipment(20) .(21) 
+		</sentence>
+		<sentence id="40">
+			With(1) only(2) one(3) small(4) window(5) the(6) room(7) was(8) dark(9) .(10) 
+		</sentence>
+		<sentence id="41">
+			But(1) it(2) had(3) 5(4) lamps(5) to(6) light(7) it(8) well(9) .(10) 
+		</sentence>
+		<sentence id="42">
+			There(1) is(2) no(3) internet(4) access(5) in(6) the(7) room(8) ,(9) but(10) we(11) got(12) a(13) telephone(14) and(15) an(16) alarm(17) clock(18) .(19) 
+		</sentence>
+		<sentence id="43">
+			Bathroom(1) seems(2) to(3) be(4) newly(5) refurbished(6) and(7) looked(8) clean(9) and(10) nice(11) ,(12) though(13) a(14) bit(15) small(16) .(17) 
+			<opinion featWords="1" feature="bathroom" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="1" feature="bathroom" opWords="9" polarity="+"/>
+			<opinion featWords="1" feature="bathroom" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="44">
+			We(1) had(2) a(3) tub(4) with(5) shower(6) ,(7) hairdryer(8) ,(9) a(10) coffee(11) machine(12) and(13) you(14) get(15) the(16) usual(17) stuff(18) like(19) conditioner(20) ,(21) soap(22) and(23) shampoo(24) for(25) your(26) convenience(27) .(28) 
+		</sentence>
+		<sentence id="45">
+			The(1) toilet(2) did(3) work(4) very(5) well(6) ,(7) like(8) those(9) in(10) the(11) airplanes(12) with(13) high(14) pressure(15) .(16) 
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="46">
+			We(1) got(2) enough(3) fluffy(4) towels(5) and(6) one(7) can(8) get(9) some(10) extra(11) if(12) you(13) want(14) to(15) go(16) to(17) the(18) pool(19) .(20) 
+			<opinion featWords="5" feature="towels" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="47">
+			Why(1) I(2) want(3) to(4) downscale(5) this(6) motel(7) is(8) the(9) basic(10) rooms(11) and(12) the(13) noise(14) .(15) 
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="48">
+			Walls(1) are(2) thin(3) and(4) one(5) hears(6) people(7) talking(8) in(9) adjacent(10) rooms(11) and(12) every(13) step(14) from(15) above(16) rooms(17) .(18) 
+			<opinion featWords="1" feature="walls" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="49">
+			Doors(1) are(2) heavy(3) and(4) close(5) with(6) a(7) loud(8) bang(9) .(10) 
+		</sentence>
+		<sentence id="50">
+			People(1) love(2) to(3) slamm(4) their(5) doors(6) when(7) in(8) motels(9) with(10) inroom(11) corridors(12) and(13) it(14) islike(15) a(16) game(17) ,(18) who(19) is(20) the(21) loudest(22) .(23) 
+		</sentence>
+		<sentence id="51">
+			Do(1) they(2) do(3) that(4) at(5) home(6) as(7) well(8) ?(9) 
+		</sentence>
+		<sentence id="52">
+			We(1) heard(2) every(3) step(4) from(5) the(6) corridors(7) and(8) even(9) every(10) noise(11) from(12) the(13) ice(14) machine(15) though(16) it(17) was(18) on(19) the(20) other(21) end(22) of(23) the(24) corridor(25) .(26) 
+		</sentence>
+		<sentence id="53">
+			As(1) worse(2) as(3) those(4) slammed(5) doors(6) were(7) bathroom(8) and(9) water(10) noises(11) .(12) 
+		</sentence>
+		<sentence id="54">
+			You(1) hear(2) every(3) toilet(4) flush(5) from(6) around(7) and(8) if(9) someone(10) turns(11) on(12) water(13) the(14) pipes(15) are(16) roaring(17) like(18) lions(19) .(20) 
+		</sentence>
+		<sentence id="55">
+			It(1) will(2) certainly(3) prevent(4) you(5) from(6) sleeping(7) for(8) hours(9) ,(10) until(11) the(12) last(13) one(14) gets(15) to(16) sleep(17) .(18) 
+		</sentence>
+		<sentence id="56">
+			This(1) is(2) the(3) reason(4) why(5) I(6) will(7) never(8) recommend(9) this(10) motel(11) for(12) any(13) nights(14) stay(15) !(16) 
+		</sentence>
+	</text>
+</review>

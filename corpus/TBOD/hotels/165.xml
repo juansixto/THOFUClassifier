@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="165" item="Oasis Cancun - All Inclusive" rating="4">
+	<title>
+		<sentence id="1">
+			OASIS(1) CANCUN(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) location(2) Rooms(3) were(4) excellent(5) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) sure(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			GO(1) ...(2) Have(3) fun(4) .(5) .(6) its(7) a(8) good(9) time(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) would(2) recommend(3) going(4) to(5) the(6) Oasis(7) Cancun(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Water(1) was(2) pretty(3) safe(4) did(5) not(6) get(7) sick(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Its(1) not(2) the(3) ideal(4) place(5) for(6) a(7) "(8) family(9) "(10) the(11) majority(12) are(13) guests(14) were(15) 18-25(16) but(17) its(18) good(19) if(20) your(21) young(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			Although(1) there(2) where(3) familys(4) there(5) .(6) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) was(3) really(4) clean(5) they(6) were(7) always(8) cleaning(9) .(10) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			We(1) had(2) a(3) great(4) week(5) the(6) weather(7) was(8) great(9) and(10) it(11) only(12) rained(13) on(14) our(15) last(16) day(17) .(18) .(19) ((20) it(21) is(22) still(23) raining(24) )(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			The(1) resturants(2) were(3) good(4) .(5) .(6) the(7) food(8) might(9) have(10) been(11) a(12) little(13) bland(14) on(15) some(16) ocasions(17) or(18) there(19) was(20) a(21) mexican(22) twist(23) to(24) something(25) ((26) ex.(27) pasta(28) sauce(29) )(30) .(31) 
+			<opinion featWords="8" feature="food" opWords="14" polarity="-" potency="13"/>
+		</sentence>
+		<sentence id="8">
+			But(1) I(2) would(3) recommend(4) to(5) go(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			I(1) also(2) noticed(3) the(4) beach(5) there(6) to(7) be(8) much(9) cleaner(10) than(11) some(12) other(13) resorts(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			Personally(1) I(2) would(3) go(4) back(5) .(6) ((7) our(8) package(9) was(10) all-inclusive(11) )(12) 
+		</sentence>
+	</text>
+</review>

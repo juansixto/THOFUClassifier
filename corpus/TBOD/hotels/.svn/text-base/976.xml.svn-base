@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="976" item="Kauhale Makai" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) good(2) spot(3) for(4) the(5) budget(6) minded(7) ,(8) but(9) be(10) careful(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) nice(2) hotel(3) for(4) a(5) good(6) price(7) ,(8) close(9) to(10) town(11) .(12) 
+			<opinion featWords="7" feature="price" opWords="6" polarity="+"/>
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Non-swimmable(1) beach(2) ,(3) older(4) property(5) ,(6) not(7) all(8) with(9) good(10) view(11) 
+			<opinion featWords="11" feature="view" opWords="10" polarity="+"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) good(2) place(3) to(4) enjoy(5) with(6) the(7) family(8) and(9) save(10) some(11) money(12) .(13) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Make(1) sure(2) you(3) get(4) pictures(5) of(6) your(7) specific(8) unit(9) ,(10) and(11) verify(12) the(13) view(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) more(4) popularly(5) known(6) as(7) Village(8) By(9) The(10) Sea(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) part(3) of(4) a(5) row(6) of(7) hotels(8) right(9) on(10) the(11) Ocean(12) just(13) north(14) of(15) Kihei(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Because(1) the(2) ocean(3) here(4) is(5) not(6) good(7) for(8) swimming(9) ,(10) the(11) hotels(12) here(13) are(14) cheaper(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			This(1) hotel(2) is(3) older(4) and(5) the(6) units(7) are(8) privately(9) owned(10) ,(11) so(12) you(13) have(14) to(15) be(16) careful(17) to(18) be(19) sure(20) you(21) are(22) getting(23) a(24) recently(25) remodeled(26) unit(27) that(28) meets(29) your(30) standards(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			In(1) my(2) case(3) ,(4) I(5) spent(6) a(7) week(8) in(9) the(10) Hotel(11) with(12) my(13) 12(14) year(15) old(16) daughter(17) ,(18) and(19) it(20) was(21) perfect(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			We(1) had(2) a(3) 1(4) bedroom(5) unit(6) with(7) well-appointed(8) kitchen(9) on(10) the(11) 4th(12) floor(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			While(1) we(2) did(3) not(4) face(5) the(6) pool(7) ,(8) we(9) were(10) high(11) enough(12) to(13) see(14) the(15) ocean(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			We(1) booked(2) through(3) Expedia(4) ,(5) and(6) definitely(7) saved(8) a(9) lot(10) of(11) money(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			For(1) us(2) ,(3) the(4) location(5) worked(6) well(7) .(8) 
+			<opinion featWords="5" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) condo(2) is(3) 5(4) minutes(5) north(6) of(7) a(8) Long(9) 's(10) ,(11) Safeway(12) and(13) Hilo(14) Hattie(15) 's(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			Also(1) 5(2) minutes(3) away(4) are(5) several(6) kid-friendly(7) restaurants(8) we(9) enjoyed(10) :(11) Peggy(12) Sue(13) 's(14) ((15) Burger(16) &amp;(17) Peanut(18) Butter(19) Milkshake(20) -(21) Yum(22) !(23) )(24) ,(25) Shaka(26) Pizza(27) ,(28) and(29) Antonio(30) 's(31) Italian(32) food(33) .(34) 
+		</sentence>
+		<sentence id="12">
+			We(1) spent(2) many(3) hours(4) down(5) at(6) Makena(7) beach(8) ((9) park(10) at(11) the(12) public(13) lot(14) at(15) Makena(16) Surf(17) .(18) )(19) Great(20) snorkeling(21) with(22) lots(23) of(24) turtles(25) ,(26) and(27) good(28) body(29) surfing(30) ,(31) not(32) a(33) lot(34) of(35) people(36) .(37) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) just(3) 20(4) minutes(5) from(6) the(7) condo(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			The(1) experience(2) at(3) the(4) condo(5) is(6) not(7) your(8) typical(9) resort(10) hotel(11) experience(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) front(2) desk(3) is(4) small(5) and(6) for(7) business(8) purposes(9) only(10) .(11) 
+			<opinion featWords="2,3" feature="front desk" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			The(1) other(2) guests(3) are(4) not(5) all(6) vacation(7) renters(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) locals(3) who(4) live(5) there(6) full(7) time(8) and(9) there(10) are(11) retired(12) vacation(13) owners(14) who(15) come(16) for(17) extended(18) periods(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			It(1) makes(2) for(3) very(4) interesting(5) pool-side(6) conversations(7) ,(8) but(9) not(10) everybody(11) will(12) be(13) on(14) the(15) same(16) vacation(17) mind-set(18) as(19) you(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			The(1) pool(2) is(3) small(4) but(5) clean(6) and(7) well(8) cared(9) for(10) .(11) 
+			<opinion featWords="2" feature="swimming pool" opWords="8,9,10" polarity="+"/>
+			<opinion featWords="2" feature="swimming pool" opWords="6" polarity="+"/>
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			There(1) is(2) a(3) 2(4) foot(5) deep(6) kiddie(7) pool(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			The(1) hot(2) tub(3) was(4) ridiculously(5) hot(6) when(7) we(8) were(9) there(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			There(1) is(2) a(3) coin(4) laundry(5) on(6) every(7) floor(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Parking(1) is(2) heavily(3) restricted(4) -(5) you(6) get(7) a(8) single(9) numbered(10) slot(11) ,(12) and(13) it(14) is(15) none(16) too(17) wide(18) .(19) 
+			<opinion featWords="1" feature="parking" opWords="4" polarity="-" potency="3"/>
+		</sentence>
+	</text>
+</review>

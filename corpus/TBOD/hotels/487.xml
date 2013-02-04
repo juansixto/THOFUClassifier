@@ -1,0 +1,26 @@
+<review id="487" item="Golden Phoenix Hotel &amp; Casino" rating="3">
+	<title>
+		<sentence id="1">
+			this(1) property(2) no(3) longer(4) exists(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nada(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nada(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			There(1) is(2) a(3) small(4) casino(5) still(6) owned(7) by(8) them(9) with(10) a(11) food(12) court(13) .(14) 
+			<opinion featWords="5" feature="casino" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			But(1) the(2) hotel(3) towers(4) etc(5) are(6) gone(7) ,(8) making(9) way(10) for(11) another(12) pie(13) in(14) the(15) sky(16) condo(17) project(18) .(19) 
+		</sentence>
+	</text>
+</review>

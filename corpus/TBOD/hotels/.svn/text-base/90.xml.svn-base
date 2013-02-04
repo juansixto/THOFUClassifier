@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="90" item="Aqua Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			Run(1) ,(2) do(3) not(4) walk(5) ,(6) away(7) from(8) this(9) hotel(10) !(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) hotel(2) staff(3) ,(4) price(5) is(6) ok(7) .(8) 
+			<opinion featWords="3" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="price" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dreadful(1) rooms(2) and(3) atmosphere(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Honestly(1) ,(2) run(3) --(4) do(5) not(6) walk(7) --(8) away(9) from(10) this(11) hotel(12) !(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) made(2) me(3) itchy(4) just(5) being(6) in(7) the(8) room(9) and(10) lobby(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Recently(1) ,(2) I(3) had(4) a(5) team(6) meeting(7) and(8) conference(9) in(10) Miami(11) ,(12) Florida(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			One(1) of(2) my(3) team-mates(4) traveled(5) from(6) Britain(7) for(8) the(9) team(10) meeting(11) portion(12) of(13) our(14) trip(15) and(16) then(17) was(18) staying(19) in(20) Miami(21) for(22) a(23) well-deserved(24) vacation(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			The(1) poor(2) woman(3) was(4) hysterical(5) after(6) one(7) night(8) in(9) this(10) so-called(11) "(12) hotel(13) .(14) "(15) She(16) was(17) sobbing(18) uncontrollably(19) and(20) needed(21) my(22) help(23) in(24) escaping(25) this(26) bottom-of(27) the(28) barrel(29) hotel(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			I(1) still(2) can(3) not(4) believe(5) that(6) she(7) spent(8) one(9) night(10) in(11) this(12) frightening(13) place(14) !(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) have(3) concrete(4) floors(5) in(6) the(7) bedroom(8) /(9) television(10) area(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			The(1) bathroom(2) had(3) little(4) bugs(5) crawling(6) everywhere(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			The(1) people(2) hanging(3) around(4) in(5) the(6) lobby(7) and(8) in(9) the(10) outside(11) hallways(12) were(13) downright(14) scary(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Her(1) room(2) flooded(3) during(4) a(5) typical(6) Miami(7) tropical(8) storm(9) and(10) she(11) 's(12) convinced(13) that(14) something(15) was(16) biting(17) her(18) while(19) she(20) tried(21) to(22) ignore(23) the(24) noise(25) outside(26) and(27) get(28) some(29) sleep(30) .(31) 
+		</sentence>
+		<sentence id="9">
+			The(1) instant(2) I(3) walked(4) into(5) this(6) hotel(7) ,(8) I(9) knew(10) this(11) was(12) a(13) place(14) that(15) I(16) would(17) have(18) taken(19) one(20) look(21) at(22) and(23) then(24) fled(25) the(26) building(27) like(28) the(29) devil(30) was(31) chasing(32) me(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			I(1) also(2) knew(3) that(4) this(5) was(6) not(7) a(8) place(9) that(10) any(11) decent(12) person(13) would(14) consent(15) to(16) stay(17) in(18) for(19) more(20) than(21) thirty(22) seconds(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			The(1) one(2) amazing(3) thing(4) about(5) this(6) hotel(7) ,(8) however(9) ,(10) are(11) the(12) staff(13) .(14) 
+			<opinion featWords="13" feature="staff" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			They(1) are(2) tremendously(3) pleasant(4) ,(5) friendly(6) and(7) willing(8) to(9) help(10) you(11) out(12) in(13) any(14) way(15) possible(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			I(1) was(2) stunned(3) that(4) such(5) wonderful(6) people(7) could(8) continue(9) to(10) work(11) in(12) this(13) place(14) that(15) is(16) quite(17) obviously(18) designed(19) for(20) prostitutes(21) and(22) drug(23) dealers(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			I(1) wish(2) the(3) staff(4) at(5) this(6) hotel(7) had(8) been(9) working(10) at(11) the(12) hotel(13) I(14) was(15) staying(16) in(17) ((18) see(19) my(20) review(21) on(22) Hotel(23) Inter-Continental(24) Miami(25) )(26) .(27) 
+		</sentence>
+		<sentence id="15">
+			This(1) is(2) a(3) perfectly(4) dreadful(5) place(6) and(7) should(8) be(9) avoided(10) at(11) all(12) costs(13) !(14) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+	</text>
+</review>

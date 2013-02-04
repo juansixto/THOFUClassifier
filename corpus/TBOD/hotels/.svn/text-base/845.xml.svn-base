@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="845" item="Four Seasons Las Vegas" rating="5">
+	<title>
+		<sentence id="1">
+			Hotel(1) Heaven(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Atmosphere(1) ,(2) service(3) ,(4) casino(5) off(6) premises(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) perfect(2) getaway(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			We(1) left(2) only(3) once(4) to(5) visit(6) other(7) Vegas(8) sites(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			A(1) week(2) 's(3) vacation(4) in(5) 2(6) nights(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) went(5) to(6) the(7) Four(8) Seasons(9) Hotel(10) for(11) our(12) anniversary(13) in(14) April(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) the(3) most(4) wonderful(5) ,(6) relaxing(7) ,(8) pampering(9) hotel(10) experience(11) we(12) 've(13) ever(14) had(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			Though(1) our(2) reservations(3) were(4) made(5) during(6) Spring(7) Break(8) -(9) an(10) outrageously(11) busy(12) time(13) in(14) Vegas(15) -(16) there(17) was(18) no(19) more(20) than(21) a(22) ten(23) minute(24) wait(25) to(26) check(27) in(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			The(1) lobby(2) was(3) so(4) peaceful(5) &amp;(6) lovely(7) that(8) we(9) would(10) not(11) have(12) minded(13) waiting(14) .(15) 
+			<opinion featWords="2" feature="lobby" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="lobby" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) told(3) upon(4) arrival(5) that(6) because(7) we(8) were(9) celebrating(10) our(11) anniversary(12) ,(13) they(14) had(15) upgraded(16) us(17) at(18) no(19) charge(20) to(21) a(22) strip(23) view(24) suite(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Before(1) I(2) go(3) off(4) in(5) too(6) many(7) directions(8) ,(9) trying(10) to(11) explain(12) all(13) that(14) was(15) superlative(16) about(17) this(18) place(19) ,(20) let(21) me(22) try(23) to(24) organize(25) it(26) for(27) you(28) :(29) Service(30) :(31) First(32) on(33) my(34) list(35) ,(36) and(37) obviously(38) on(39) theirs(40) too(41) .(42) 
+		</sentence>
+		<sentence id="7">
+			Expect(1) to(2) be(3) treated(4) like(5) royalty(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Every(1) member(2) of(3) the(4) staff(5) we(6) encountered(7) at(8) restaurants(9) ,(10) check-in(11) ,(12) room(13) service(14) ,(15) poolside(16) -(17) you(18) name(19) it(20) -(21) made(22) it(23) clear(24) that(25) they(26) were(27) there(28) to(29) make(30) our(31) trip(32) an(33) absolute(34) joy(35) .(36) 
+		</sentence>
+		<sentence id="9">
+			Atmosphere(1) :(2) The(3) entire(4) place(5) is(6) gorgeous(7) .(8) 
+			<opinion featWords="5" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Very(1) sophisticated(2) ,(3) lovely(4) ,(5) muted(6) colors(7) ,(8) top(9) of(10) the(11) line(12) materials(13) ,(14) fresh(15) flowers(16) throughout(17) the(18) common(19) areas(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			Even(1) the(2) restaurants(3) -(4) dreamy(5) .(6) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) was(3) beautiful(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) bed(2) was(3) so(4) comfy(5) we(6) did(7) not(8) want(9) to(10) leave(11) it(12) .(13) 
+			<opinion featWords="2" feature="bed" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) feather(2) pillows(3) so(4) fabulous(5) ,(6) we(7) ordered(8) some(9) from(10) the(11) hotel(12) when(13) we(14) got(15) home(16) .(17) 
+			<opinion featWords="3" feature="bedding" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			The(1) Strip(2) view(3) -(4) spectacular(5) !(6) !(7) 
+			<opinion featWords="3" feature="view" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			After(1) seeing(2) the(3) zoo(4) that(5) was(6) the(7) pool(8) area(9) at(10) Mandalay(11) Bay(12) ((13) shared(14) property(15) )(16) the(17) relatively(18) quiet(19) ,(20) beautiful(21) ,(22) subdued(23) pool(24) area(25) here(26) was(27) a(28) relaxing(29) treat(30) .(31) 
+			<opinion featWords="24" feature="swimming pool" opWords="19" polarity="+" potency="18"/>
+			<opinion featWords="24" feature="swimming pool" opWords="21" polarity="+"/>
+			<opinion featWords="24" feature="swimming pool" opWords="23" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Extras(1) :(2) The(3) Fitness(4) Center(5) is(6) free(7) to(8) use(9) ,(10) as(11) are(12) cabanas(13) ((14) with(15) misters(16) )(17) at(18) the(19) pool(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			Cabana(1) or(2) no(3) cabana(4) ,(5) the(6) poolside(7) service(8) is(9) incomparable(10) .(11) 
+			<opinion featWords="8" feature="service" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			Smiling(1) servers(2) came(3) by(4) on(5) regular(6) rounds(7) to(8) ask(9) if(10) we(11) would(12) like(13) to(14) order(15) anything(16) ,(17) or(18) perhaps(19) we(20) 'd(21) like(22) to(23) be(24) spritzed(25) with(26) Evian(27) water(28) ,(29) or(30) have(31) fresh(32) cucumber(33) slices(34) for(35) our(36) eyes(37) ?(38) 
+		</sentence>
+		<sentence id="20">
+			Coupons(1) for(2) discounts(3) at(4) the(5) spa(6) were(7) placed(8) in(9) our(10) room(11) daily(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			On(1) our(2) anniversary(3) night(4) ,(5) a(6) plate(7) of(8) chocolate(9) dipped(10) strawberries(11) was(12) brought(13) to(14) our(15) room(16) .(17) 
+		</sentence>
+		<sentence id="22">
+			Restaurants(1) :(2) Palmer(3) 's(4) Steakhouse(5) was(6) incredibly(7) pretty(8) &amp;(9) romantic(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			Great(1) service(2) ,(3) yummy(4) steak(5) ,(6) expensive(7) .(8) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			The(1) "(2) casual(3) "(4) restaurant(5) by(6) the(7) pool(8) had(9) excellent(10) service(11) ,(12) and(13) memorably(14) delicious(15) food(16) .(17) 
+			<opinion featWords="11" feature="service" opWords="10" polarity="+"/>
+			<opinion featWords="16" feature="food" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="25">
+			All(1) menu(2) items(3) were(4) made(5) from(6) fresh(7) ,(8) seasonal(9) delights(10) .(11) 
+		</sentence>
+		<sentence id="26">
+			Overall(1) :(2) Why(3) stay(4) anywhere(5) else(6) -(7) ever(8) ?(9) 
+		</sentence>
+	</text>
+</review>

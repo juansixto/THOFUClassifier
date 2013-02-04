@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="22" item="Staunton - Days Inn Mint Springs" rating="2">
+	<title>
+		<sentence id="1">
+			Days(1) Inn(2) ,(3) Mint(4) Springs(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) breakfast(2) buffet(3) was(4) not(5) bad(6) 
+			<opinion featWords="3" feature="food" opWords="5,6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mold(1) and(2) noise(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Even(1) though(2) Days(3) Inn(4) 's(5) are(6) a(7) budget(8) motel(9) /(10) hotel(11) that(12) we(13) have(14) not(15) stayed(16) in(17) for(18) years(19) I(20) was(21) hoping(22) for(23) a(24) better(25) experience(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			This(1) place(2) I(3) suppose(4) was(5) not(6) bad(7) for(8) the(9) price(10) ,(11) but(12) I(13) would(14) never(15) expect(16) mold(17) on(18) the(19) shower(20) tile(21) in(22) ANYPLACE(23) over(24) $25.00(25) per(26) night(27) !(28) !(29) 
+			<opinion featWords="2" feature="place" opWords="6,7" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) carpet(2) should(3) be(4) replaced(5) and(6) I(7) double(8) checked(9) for(10) bed(11) bugs(12) ((13) there(14) was(15) no(16) evidence(17) that(18) I(19) could(20) see(21) )(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			The(1) place(2) needs(3) to(4) be(5) totally(6) renovated(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) suggest(3) those(4) plastic(5) tub(6) surrounds(7) if(8) they(9) can(10) not(11) keep(12) the(13) mold(14) away(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Also(1) we(2) could(3) hear(4) every(5) step(6) the(7) people(8) above(9) took(10) .(11) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="709" item="Grand Resort Hotel And Conv Ctr" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) time(2) at(3) the(4) Grand(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) location(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) bathroom(2) with(3) shower(4) curtain(5) that(6) sticks(7) to(8) you(9) ,(10) they(11) need(12) liners(13) .(14) 
+			<opinion featWords="2" feature="bathroom" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) Grand(5) back(6) in(7) May(8) for(9) the(10) second(11) time(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) fully(2) enjoyed(3) our(4) 3(5) night(6) stay(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) staff(2) was(3) very(4) friendly(5) and(6) helpful(7) .(8) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="staff" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			We(1) loved(2) the(3) stream(4) that(5) ran(6) outside(7) our(8) room(9) and(10) the(11) ducks(12) that(13) was(14) there(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			The(1) first(2) time(3) ,(4) we(5) eat(6) at(7) Seatons(8) Cafe(9) for(10) breakfast(11) and(12) it(13) was(14) good(15) and(16) very(17) cheap(18) .(19) 
+			<opinion featWords="11" feature="food" opWords="15" polarity="+"/>
+			<opinion featWords="11" feature="food" opWords="18" polarity="+" potency="17"/>
+		</sentence>
+		<sentence id="6">
+			The(1) continental(2) breakfast(3) the(4) second(5) time(6) was(7) great(8) as(9) well(10) .(11) 
+			<opinion featWords="3" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Our(1) room(2) was(3) on(4) the(5) lower(6) level(7) and(8) we(9) got(10) to(11) park(12) right(13) next(14) to(15) our(16) room(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			We(1) highly(2) encourage(3) anyone(4) to(5) stay(6) at(7) the(8) Grand(9) Resort(10) anytime(11) of(12) the(13) year(14) .(15) 
+		</sentence>
+	</text>
+</review>

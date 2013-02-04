@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="195" item="Delta Toronto Airport West" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) was(2) not(3) impressed(4) With(5) this(6) Hotel(7) 
+			<opinion featWords="7" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) bed(2) was(3) nice(4) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Breakfast(1) way(2) to(3) high(4) prised(5) for(6) what(7) you(8) get(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			First(1) of(2) all(3) the(4) front(5) desk(6) was(7) not(8) very(9) or(10) freindly(11) ,(12) There(13) are(14) alot(15) charges(16) that(17) should(18) not(19) have(20) to(21) be(22) like(23) why(24) should(25) a(26) Delta(27) hotel(28) have(29) to(30) charge(31) you(32) for(33) a(34) local(35) call(36) ......(37) like(38) duuuhhh(39) when(40) hotels(41) that(42) are(43) not(44) where(45) near(46) A(47) delta(48) standard(49) do(50) not(51) .(52) 
+		</sentence>
+		<sentence id="2">
+			I(1) will(2) never(3) to(4) return(5) to(6) this(7) Hotel(8) .(9) 
+		</sentence>
+	</text>
+</review>

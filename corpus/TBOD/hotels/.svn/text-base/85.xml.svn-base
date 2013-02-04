@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="85" item="Don Cesar Beach Resort &amp; Spa" rating="1">
+	<title>
+		<sentence id="1">
+			Lost(1) Our(2) Reservation(3) &amp;(4) It(5) Went(6) Downhill(7) From(8) There(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Historic(1) building(2) .(3) 
+			<opinion featWords="2" feature="building" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) food(2) at(3) outdoor(4) restaurant(5) .(6) 
+			<opinion featWords="2" feature="food" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overpriced(1) ,(2) run(3) down(4) looking(5) suite(6) .(7) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+			<opinion featWords="6" feature="rooms" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Rude(1) service(2) .(3) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Crowded(1) pool(2) .(3) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Overcharges(1) extras(2) ,(3) that(4) should(5) be(6) free(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Skip(1) staying(2) at(3) the(4) Don(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Stop(1) by(2) for(3) a(4) drink(5) to(6) see(7) the(8) historic(9) lobby(10) and(11) outside(12) of(13) the(14) building(15) .(16) 
+			<opinion featWords="10" feature="lobby" opWords="9" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Don(2) Cesar(3) is(4) very(5) beautiful(6) from(7) the(8) outside(9) &amp;(10) I(11) had(12) always(13) heard(14) it(15) was(16) a(17) nice(18) place(19) to(20) stay(21) .(22) 
+			<opinion feature="hotel" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="2">
+			My(1) husband(2) and(3) I(4) booked(5) a(6) reservation(7) for(8) an(9) Ocean-Front(10) Suite(11) with(12) their(13) #1-800(14) a(15) few(16) weeks(17) before(18) going(19) to(20) Fla(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			When(1) we(2) arrived(3) from(4) Atlanta(5) we(6) were(7) told(8) by(9) a(10) very(11) rude(12) clerk(13) that(14) they(15) did(16) not(17) have(18) our(19) reservation(20) even(21) though(22) he(23) admitted(24) that(25) the(26) reservation(27) #(28) I(29) was(30) given(31) was(32) their(33) number(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) told(3) that(4) the(5) best(6) that(7) they(8) could(9) do(10) was(11) put(12) us(13) in(14) a(15) suite(16) facing(17) the(18) parking(19) lot(20) ,(21) but(22) that(23) they(24) would(25) have(26) to(27) charge(28) us(29) the(30) same(31) price(32) as(33) the(34) ocean-front(35) room(36) because(37) their(38) fees(39) had(40) just(41) changed(42) .(43) 
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) not(3) offered(4) any(5) additional(6) free(7) services(8) for(9) their(10) mix-up(11) ,(12) and(13) were(14) basically(15) told(16) "(17) take(18) it(19) or(20) leave(21) it(22) .(23) "(24) We(25) travel(26) a(27) lot(28) and(29) I(30) had(31) never(32) experienced(33) anything(34) like(35) this(36) .(37) 
+		</sentence>
+		<sentence id="6">
+			When(1) we(2) got(3) to(4) our(5) suite(6) the(7) carpet(8) ,(9) couch(10) and(11) living(12) room(13) chairs(14) looked(15) like(16) they(17) were(18) in(19) desperate(20) need(21) of(22) being(23) replaced(24) and(25) they(26) were(27) very(28) worn(29) and(30) stained(31) .(32) 
+			<opinion featWords="14" feature="chairs" opWords="29" polarity="-" potency="28"/>
+			<opinion featWords="14" feature="chairs" opWords="31" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			The(1) chairs(2) that(3) were(4) supposed(5) to(6) go(7) with(8) the(9) dining(10) table(11) were(12) missing(13) and(14) we(15) had(16) no(17) glasses(18) in(19) the(20) room(21) ,(22) and(23) the(24) bathroom(25) only(26) had(27) a(28) couple(29) of(30) towels(31) .(32) ((33) We(34) 've(35) stayed(36) in(37) many(38) hotels(39) on(40) the(41) Historic(42) Registry(43) and(44) they(45) usually(46) have(47) beautiful(48) rooms(49) that(50) reflect(51) the(52) history(53) of(54) the(55) building(56) -(57) the(58) Don(59) Cesar(60) does(61) not(62) .(63) )(64) The(65) other(66) problem(67) was(68) that(69) we(70) were(71) told(72) the(73) suite(74) was(75) non-smoking(76) ,(77) but(78) the(79) cigarette(80) smoke(81) was(82) very(83) heavy(84) .(85) 
+		</sentence>
+		<sentence id="8">
+			My(1) husband(2) and(3) I(4) went(5) back(6) down(7) to(8) the(9) front(10) desk(11) and(12) were(13) told(14) that(15) they(16) had(17) no(18) other(19) suites(20) available(21) and(22) that(23) we(24) probably(25) would(26) not(27) like(28) the(29) regular(30) rooms(31) because(32) they(33) were(34) small(35) .(36) 
+			<opinion featWords="31" feature="rooms" opWords="35" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			The(1) same(2) rude(3) clerk(4) said(5) he(6) would(7) send(8) a(9) maid(10) up(11) to(12) fix(13) the(14) room(15) .(16) 
+			<opinion featWords="4" feature="front desk" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			When(1) we(2) returned(3) to(4) the(5) room(6) after(7) dinner(8) ,(9) some(10) towels(11) &amp;(12) wash(13) clothes(14) ,(15) and(16) a(17) few(18) glasses(19) were(20) left(21) on(22) a(23) table(24) ,(25) and(26) the(27) room(28) smelled(29) of(30) some(31) kind(32) of(33) air(34) freshener(35) that(36) did(37) not(38) cover(39) up(40) the(41) cigarette(42) smell(43) .(44) 
+		</sentence>
+		<sentence id="11">
+			We(1) decided(2) to(3) make(4) the(5) best(6) of(7) it(8) and(9) had(10) a(11) nice(12) dinner(13) in(14) their(15) outdoor(16) restaurant(17) .(18) 
+			<opinion featWords="13" feature="food" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) food(2) was(3) good(4) ,(5) but(6) the(7) menu(8) was(9) limited(10) ;(11) and(12) if(13) you(14) had(15) teens(16) or(17) kids(18) they(19) may(20) not(21) be(22) happy(23) about(24) the(25) food(26) .(27) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			Another(1) problem(2) is(3) that(4) the(5) Don(6) Cesar(7) charges(8) for(9) everything(10) and(11) I(12) do(13) mean(14) everything(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			A(1) beach(2) chair(3) will(4) run(5) you(6) $20(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			The(1) pool(2) area(3) is(4) very(5) crowded(6) since(7) there(8) is(9) limited(10) space(11) and(12) the(13) Don(14) did(15) not(16) have(17) their(18) beach(19) raked(20) when(21) we(22) were(23) there(24) ,(25) like(26) most(27) resorts(28) do(29) every(30) morning(31) .(32) 
+			<opinion featWords="3" feature="place" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="16">
+			Besides(1) the(2) usual(3) taxes(4) and(5) charges(6) that(7) Florida(8) hotels(9) tack(10) on(11) ,(12) this(13) one(14) has(15) every(16) excuse(17) to(18) charge(19) you(20) $10(21) for(22) this(23) and(24) $20(25) for(26) that(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			do(1) not(2) eat(3) the(4) food(5) served(6) by(7) the(8) pool(9) .(10) 
+		</sentence>
+		<sentence id="18">
+			When(1) we(2) went(3) up(4) to(5) get(6) a(7) drink(8) where(9) they(10) served(11) the(12) food(13) and(14) drinks(15) at(16) the(17) pool(18) area(19) it(20) was(21) nasty(22) .(23) 
+			<opinion featWords="19" feature="place" opWords="22" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			We(1) got(2) a(3) drink(4) but(5) decided(6) to(7) pass(8) on(9) the(10) food(11) ...(12) cigarette(13) butts(14) and(15) ashes(16) ,(17) as(18) well(19) as(20) flies(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			Needless(1) to(2) say(3) we(4) checked(5) out(6) the(7) next(8) day(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			I(1) would(2) not(3) recommend(4) the(5) hotel(6) to(7) anyone(8) .(9) 
+			<opinion featWords="6" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			For(1) over(2) $500(3) a(4) night(5) for(6) a(7) suite(8) ,(9) besides(10) all(11) the(12) extra(13) charges(14) on(15) your(16) bill(17) and(18) the(19) rude(20) staff(21) ,(22) there(23) are(24) much(25) prettier(26) beaches(27) and(28) nicer(29) hotels(30) to(31) stay(32) at(33) for(34) a(35) lot(36) less(37) money(38) and(39) a(40) lot(41) less(42) aggravation(43) .(44) 
+		</sentence>
+		<sentence id="23">
+			If(1) you(2) 're(3) in(4) St(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			Petersburg(1) stop(2) by(3) the(4) Don(5) Cesar(6) to(7) walk(8) around(9) the(10) outside(11) and(12) see(13) the(14) historic(15) building(16) and(17) have(18) a(19) drink(20) .(21) 
+		</sentence>
+	</text>
+</review>

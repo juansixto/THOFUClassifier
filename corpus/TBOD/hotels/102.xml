@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="102" item="Sheraton Columbia Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			More(1) Like(2) a(3) Holiday(4) Inn(5) Than(6) A(7) Sheraton(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Parcourse(1) fitness(2) trail(3) behind(4) hotel(5) ,(6) nice(7) lake(8) views(9) 
+			<opinion featWords="9" feature="view" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Furniture(1) needed(2) updating(3) ,(4) pool(5) &amp;(6) fitness(7) room(8) far(9) away(10) from(11) main(12) hotel(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Until(1) this(2) hotel(3) undergoes(4) a(5) major(6) renovation(7) ,(8) I(9) would(10) not(11) consider(12) staying(13) here(14) again(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			A(1) recent(2) business(3) trip(4) found(5) me(6) in(7) my(8) husband(9) s(10) hometown(11) state(12) of(13) Maryland(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) glad(3) to(4) have(5) his(6) advice(7) as(8) far(9) as(10) hotel(11) locations(12) ,(13) however(14) I(15) was(16) slightly(17) disappointed(18) that(19) I(20) was(21) left(22) to(23) my(24) own(25) devices(26) when(27) it(28) came(29) to(30) choosing(31) the(32) actual(33) hotel(34) .(35) 
+		</sentence>
+		<sentence id="3">
+			I(1) settled(2) on(3) the(4) Sheraton(5) Columbia(6) ,(7) as(8) the(9) area(10) seemed(11) to(12) be(13) nice(14) and(15) of(16) course(17) ,(18) it(19) had(20) my(21) favorite(22) Sheraton(23) name(24) behind(25) it(26) .(27) 
+			<opinion featWords="10" feature="place" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) happy(3) with(4) the(5) location(6) ,(7) but(8) less(9) happy(10) with(11) the(12) hotel(13) -(14) sometimes(15) you(16) can(17) 'nt(18) have(19) it(20) all(21) ,(22) I(23) guess(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			The(1) Sheraton(2) Columbia(3) hotel(4) is(5) just(6) outside(7) of(8) Baltimore(9) ,(10) Maryland(11) ,(12) conveniently(13) on(14) the(15) outskirts(16) of(17) town(18) in(19) a(20) very(21) pleasant(22) ,(23) almost(24) rural(25) setting(26) .(27) 
+			<opinion featWords="26" feature="place" opWords="22" polarity="+" potency="21"/>
+			<opinion featWords="26" feature="place" opWords="25" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Directly(1) past(2) the(3) Columbia(4) Mall(5) ((6) a(7) very(8) nice(9) one(10) ,(11) I(12) hear(13) )(14) are(15) a(16) bunch(17) of(18) random(19) business(20) buildings(21) ,(22) with(23) hardly(24) any(25) signs(26) or(27) indication(28) what(29) they(30) are(31) for(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) have(3) a(4) GPS(5) locator(6) or(7) exact(8) directions(9) to(10) the(11) hotel(12) ,(13) you(14) should(15) be(16) okay(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			However(1) ,(2) there(3) are(4) absolutely(5) no(6) signs(7) or(8) indications(9) of(10) the(11) location(12) of(13) the(14) Sheraton(15) Columbia(16) hotel(17) and(18) I(19) was(20) disappointed(21) by(22) this(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			Arrival(1) Upon(2) arriving(3) at(4) the(5) hotel(6) ,(7) there(8) is(9) one(10) entrance(11) with(12) apparently(13) temporary(14) parking(15) ,(16) but(17) the(18) driveway(19) through(20) is(21) very(22) narrow(23) ,(24) so(25) a(26) large(27) vehicle(28) could(29) block(30) the(31) entrance(32) very(33) easily(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			There(1) were(2) several(3) handicap(4) parking(5) spaces(6) and(7) a(8) place(9) for(10) the(11) hotel(12) s(13) shuttle(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			Across(1) the(2) street(3) from(4) the(5) hotel(6) is(7) a(8) multi-level(9) parking(10) garage(11) ,(12) which(13) is(14) where(15) hotel(16) guests(17) can(18) park(19) for(20) free(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			I(1) like(2) that(3) it(4) was(5) free(6) ,(7) but(8) a(9) few(10) temporary(11) parking(12) spaces(13) would(14) have(15) been(16) nice(17) for(18) loading(19) and(20) unloading(21) luggage(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			The(1) lobby(2) was(3) in(4) a(5) large(6) atrium(7) with(8) nice(9) lighting(10) .(11) 
+			<opinion featWords="2" feature="lobby" opWords="9,10" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			A(1) manager(2) of(3) some(4) sorts(5) was(6) at(7) the(8) entrance(9) greeting(10) guests(11) as(12) they(13) arrived(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			I(1) amm(2) not(3) sure(4) if(5) he(6) had(7) nothing(8) better(9) to(10) do(11) ,(12) or(13) this(14) was(15) his(16) sole(17) job(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			In(1) any(2) case(3) ,(4) I(5) proceeded(6) to(7) check(8) in(9) and(10) was(11) given(12) my(13) room(14) key(15) and(16) sent(17) on(18) my(19) way(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			The(1) front(2) desk(3) clerk(4) was(5) friendly(6) enough(7) ,(8) but(9) not(10) anyone(11) I(12) would(13) even(14) remember(15) the(16) next(17) day(18) .(19) 
+			<opinion featWords="4" feature="front desk" opWords="6,7" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			Is(1) the(2) Sheraton(3) Columbia(4) a(5) converted(6) Embassy(7) Suites(8) ?(9) 
+		</sentence>
+		<sentence id="19">
+			The(1) lobby(2) and(3) subsequent(4) floors(5) of(6) the(7) hotel(8) reminded(9) me(10) of(11) a(12) typical(13) Embassy(14) Suites(15) style(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			It(1) was(2) a(3) large(4) atrium(5) ,(6) with(7) 10(8) floors(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			Every(1) floor(2) had(3) a(4) balcony(5) over(6) looking(7) the(8) center(9) of(10) the(11) hotel(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			The(1) guest(2) rooms(3) were(4) all(5) around(6) the(7) balcony(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			My(1) room(2) ,(3) on(4) the(5) Club(6) Level(7) of(8) the(9) eighth(10) floor(11) overlooked(12) a(13) serene(14) looking(15) lake(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			I(1) can(2) only(3) imagine(4) the(5) lovely(6) views(7) rooms(8) on(9) lower(10) levels(11) facing(12) the(13) parking(14) lot(15) must(16) have(17) had(18) !(19) 
+		</sentence>
+		<sentence id="25">
+			Be(1) sure(2) to(3) request(4) a(5) lakeside(6) view(7) if(8) you(9) do(10) stay(11) here(12) ,(13) it(14) will(15) be(16) probably(17) one(18) of(19) the(20) only(21) redeeming(22) things(23) about(24) this(25) hotel(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			My(1) room(2) was(3) well(4) sized(5) ,(6) with(7) a(8) king(9) sized(10) bed(11) ,(12) two(13) bed(14) side(15) tables(16) that(17) were(18) large(19) ,(20) but(21) looked(22) incredibly(23) worn(24) -(25) almost(26) as(27) though(28) the(29) finish(30) of(31) the(32) wood(33) had(34) worn(35) off(36) .(37) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			No(1) ,(2) it(3) had(4) worn(5) off(6) !(7) !(8) 
+		</sentence>
+		<sentence id="28">
+			The(1) armoire(2) that(3) held(4) the(5) 27(6) inch(7) television(8) and(9) two(10) dresser(11) drawers(12) was(13) also(14) of(15) the(16) same(17) quality(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			Although(1) the(2) carpeting(3) and(4) bedding(5) of(6) the(7) room(8) looked(9) fairly(10) decent(11) ,(12) the(13) furniture(14) really(15) left(16) a(17) lot(18) to(19) be(20) desired(21) .(22) 
+			<opinion featWords="3" feature="carpets" opWords="11" polarity="+" potency="10"/>
+			<opinion featWords="5" feature="bedding" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="30">
+			The(1) bed(2) was(3) a(4) Sheraton(5) Sweet(6) Sleeper(7) bed(8) ,(9) with(10) a(11) pillow(12) top(13) mattress(14) ,(15) a(16) delightfully(17) thick(18) comforter(19) and(20) a(21) down(22) blanket(23) with(24) soft(25) sheets(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			It(1) was(2) definitely(3) the(4) redeeming(5) quality(6) of(7) the(8) room(9) ,(10) aside(11) from(12) the(13) view(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			The(1) desk(2) was(3) ok(4) sized(5) ,(6) but(7) the(8) only(9) outlet(10) available(11) near(12) it(13) was(14) on(15) the(16) desk(17) lamp(18) ,(19) which(20) required(21) the(22) lamp(23) to(24) be(25) on(26) in(27) order(28) for(29) the(30) outlet(31) to(32) work(33) .(34) 
+		</sentence>
+		<sentence id="33">
+			Mostly(1) this(2) was(3) okay(4) ,(5) except(6) that(7) I(8) wanted(9) to(10) charge(11) my(12) laptop(13) while(14) I(15) was(16) sleeping(17) ,(18) but(19) not(20) have(21) to(22) have(23) the(24) light(25) on(26) .(27) 
+		</sentence>
+		<sentence id="34">
+			The(1) bathroom(2) was(3) very(4) small(5) ,(6) in(7) fact(8) ,(9) it(10) was(11) too(12) small(13) even(14) for(15) a(16) curved(17) shower(18) curtain(19) .(20) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="35">
+			The(1) wallpaper(2) was(3) old(4) and(5) definitely(6) needed(7) some(8) updating(9) .(10) 
+			<opinion featWords="2" feature="walls" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="36">
+			Pantene(1) hair(2) products(3) were(4) offered(5) and(6) a(7) hair(8) dryer(9) ((10) that(11) was(12) 'nt(13) attached(14) to(15) the(16) wall(17) -(18) nice(19) )(20) was(21) also(22) in(23) the(24) bathroom(25) .(26) 
+		</sentence>
+		<sentence id="37">
+			Counter(1) space(2) was(3) good(4) and(5) I(6) liked(7) the(8) make-up(9) mirror(10) ,(11) but(12) it(13) needed(14) a(15) few(16) more(17) inches(18) between(19) the(20) tub(21) ,(22) the(23) toilet(24) and(25) the(26) sink(27) .(28) 
+		</sentence>
+		<sentence id="38">
+			A(1) small(2) open(3) closet(4) was(5) opposite(6) the(7) bathroom(8) ,(9) right(10) near(11) the(12) guest(13) room(14) door(15) .(16) 
+			<opinion featWords="4" feature="closet" opWords="2" polarity="-"/>
+		</sentence>
+		<sentence id="39">
+			Across(1) from(2) the(3) closet(4) was(5) a(6) small(7) vanity(8) with(9) an(10) in-room(11) coffee(12) maker(13) and(14) two(15) different(16) lights(17) ,(18) even(19) though(20) it(21) seemed(22) to(23) remain(24) quite(25) dim(26) .(27) 
+		</sentence>
+		<sentence id="40">
+			There(1) was(2) an(3) iron(4) and(5) ironing(6) board(7) in(8) the(9) closet(10) as(11) well(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			Internet(1) service(2) was(3) provided(4) wirelessly(5) ,(6) at(7) a(8) rate(9) of(10) $9.99(11) per(12) day(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			I(1) was(2) lucky(3) to(4) b(5) able(6) to(7) roam(8) on(9) the(10) T-Mobile(11) hotspot(12) network(13) for(14) only(15) $6.99(16) for(17) the(18) day(19) ,(20) which(21) was(22) less(23) than(24) the(25) $10(26) the(27) hotel(28) was(29) charging(30) ,(31) so(32) I(33) took(34) this(35) option(36) .(37) 
+		</sentence>
+		<sentence id="43">
+			Services(1) The(2) Sheraton(3) Columbia(4) is(5) a(6) full(7) service(8) hotel(9) .(10) 
+		</sentence>
+		<sentence id="44">
+			They(1) have(2) a(3) restaurant(4) ,(5) lounge(6) ,(7) gift(8) shop(9) ,(10) pool(11) ,(12) fitness(13) center(14) ,(15) banquet(16) facilities(17) ,(18) a(19) club(20) level(21) lounge(22) ,(23) and(24) a(25) business(26) center(27) .(28) 
+		</sentence>
+		<sentence id="45">
+			None(1) of(2) these(3) services(4) left(5) much(6) of(7) an(8) impression(9) on(10) me(11) .(12) 
+		</sentence>
+		<sentence id="46">
+			The(1) business(2) center(3) charged(4) for(5) internet(6) service(7) ,(8) printing(9) and(10) faxing(11) with(12) the(13) exception(14) of(15) printing(16) airline(17) boarding(18) passes(19) ,(20) which(21) I(22) happily(23) used(24) .(25) 
+		</sentence>
+		<sentence id="47">
+			The(1) fitness(2) center(3) and(4) pool(5) were(6) located(7) so(8) far(9) away(10) from(11) the(12) main(13) guest(14) rooms(15) that(16) I(17) had(18) no(19) desire(20) to(21) go(22) traipsing(23) about(24) the(25) hotel(26) in(27) my(28) bathing(29) suit(30) for(31) a(32) swim(33) .(34) 
+		</sentence>
+		<sentence id="48">
+			The(1) gift(2) shop(3) had(4) pretty(5) much(6) nil(7) as(8) far(9) as(10) I(11) was(12) concerned(13) .(14) 
+		</sentence>
+		<sentence id="49">
+			A(1) few(2) Maryland(3) Crab(4) souvenirs(5) ,(6) but(7) no(8) Orioles(9) or(10) Ravens(11) paraphernalia(12) .(13) 
+		</sentence>
+		<sentence id="50">
+			I(1) would(2) have(3) liked(4) to(5) have(6) seen(7) a(8) few(9) Terps(10) items(11) in(12) stock(13) ,(14) but(15) no(16) ,(17) only(18) crab(19) stuff(20) .(21) 
+		</sentence>
+		<sentence id="51">
+			I(1) heard(2) that(3) the(4) Bay(5) is(6) so(7) polluted(8) that(9) the(10) crabs(11) on(12) menus(13) are(14) 'nt(15) even(16) from(17) Maryland(18) .(19) 
+		</sentence>
+		<sentence id="52">
+			No(1) matter(2) ,(3) I(4) can(5) find(6) my(7) own(8) souvenirs(9) outside(10) of(11) the(12) hotel(13) ,(14) I(15) suppose(16) .(17) 
+		</sentence>
+		<sentence id="53">
+			The(1) restaurant(2) was(3) located(4) on(5) the(6) ground(7) level(8) below(9) the(10) lobby(11) and(12) overlooked(13) the(14) lake(15) .(16) 
+		</sentence>
+		<sentence id="54">
+			I(1) suppose(2) it(3) was(4) a(5) nice(6) restaurant(7) ,(8) but(9) unless(10) it(11) s(12) a(13) big(14) name(15) brand(16) restaurant(17) in(18) the(19) hotel(20) ((21) like(22) Shula(23) s(24) at(25) the(26) Walt(27) Disney(28) World(29) Dolphin(30) )(31) ,(32) hotel(33) restaurants(34) are(35) usually(36) pretty(37) much(38) the(39) same(40) to(41) me(42) .(43) 
+			<opinion featWords="7" feature="food" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="55">
+			The(1) Waterfront(2) Restaurant(3) did(4) offer(5) a(6) champagne(7) Sunday(8) brunch(9) ,(10) which(11) I(12) would(13) have(14) partaken(15) in(16) ,(17) if(18) I(19) was(20) there(21) on(22) a(23) Sunday(24) .(25) 
+		</sentence>
+		<sentence id="56">
+			Otherwise(1) ,(2) the(3) hotel(4) restaurant(5) ,(6) lounge(7) and(8) room(9) service(10) were(11) as(12) close(13) to(14) average(15) as(16) any(17) hotel(18) is(19) going(20) to(21) get(22) .(23) 
+		</sentence>
+		<sentence id="57">
+			The(1) banquet(2) and(3) meeting(4) rooms(5) seemed(6) okay(7) ,(8) but(9) the(10) space(11) outside(12) of(13) the(14) rooms(15) was(16) minimal(17) .(18) 
+			<opinion featWords="4,5" feature="meeting room" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="58">
+			I(1) know(2) from(3) previous(4) meeting(5) and(6) banquets(7) that(8) space(9) outside(10) of(11) the(12) rooms(13) is(14) just(15) as(16) important(17) as(18) the(19) space(20) inside(21) .(22) 
+		</sentence>
+		<sentence id="59">
+			Overall(1) ,(2) it(3) was(4) okay(5) ,(6) but(7) I(8) would(9) 'nt(10) want(11) to(12) have(13) a(14) meeting(15) here(16) if(17) I(18) had(19) the(20) choice(21) .(22) 
+		</sentence>
+		<sentence id="60">
+			A(1) good(2) friend(3) of(4) mine(5) s(6) nephew(7) is(8) getting(9) married(10) here(11) in(12) a(13) few(14) months(15) and(16) I(17) amm(18) kind(19) of(20) sorry(21) that(22) I(23) could(24) 'nt(25) have(26) made(27) any(28) recommendations(29) sooner(30) ((31) not(32) that(33) they(34) would(35) have(36) listened(37) to(38) me(39) )(40) .(41) 
+		</sentence>
+		<sentence id="61">
+			Overall(1) The(2) area(3) around(4) the(5) hotel(6) was(7) nice(8) ,(9) it(10) felt(11) safe(12) and(13) I(14) enjoyed(15) going(16) for(17) a(18) lakeside(19) run(20) along(21) a(22) Parcourse(23) Fitness(24) Trail(25) ,(26) but(27) other(28) than(29) that(30) ,(31) I(32) was(33) really(34) less(35) than(36) impressed(37) with(38) this(39) hotel(40) .(41) 
+			<opinion featWords="3" feature="place" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="62">
+			It(1) felt(2) like(3) an(4) outdated(5) Holiday(6) Inn(7) to(8) me(9) .(10) 
+		</sentence>
+		<sentence id="63">
+			The(1) service(2) was(3) fine(4) ,(5) except(6) that(7) housekeeping(8) kept(9) knocking(10) on(11) my(12) door(13) after(14) I(15) did(16) 'nt(17) answer(18) ((19) even(20) though(21) it(22) was(23) dead(24) bolted(25) and(26) chain-locked(27) )(28) .(29) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="64">
+			The(1) hotel(2) did(3) have(4) full(5) services(6) available(7) ,(8) even(9) though(10) they(11) were(12) primarily(13) sub(14) par(15) .(16) 
+		</sentence>
+		<sentence id="65">
+			If(1) the(2) Sheraton(3) Columbia(4) underwent(5) a(6) complete(7) renovation(8) ,(9) I(10) might(11) consider(12) staying(13) here(14) again(15) ,(16) but(17) otherwise(18) ,(19) there(20) was(21) nothing(22) exciting(23) about(24) it(25) ,(26) no(27) special(28) rooms(29) to(30) recommend(31) ,(32) no(33) great(34) services(35) offered(36) .(37) 
+		</sentence>
+		<sentence id="66">
+			I(1) debated(2) filling(3) out(4) the(5) comment(6) card(7) for(8) this(9) hotel(10) because(11) overall(12) ,(13) I(14) did(15) 'nt(16) have(17) a(18) terrible(19) experience(20) ,(21) but(22) for(23) a(24) Sheraton(25) hotel(26) ,(27) this(28) one(29) definitely(30) let(31) me(32) down(33) .(34) 
+		</sentence>
+	</text>
+</review>

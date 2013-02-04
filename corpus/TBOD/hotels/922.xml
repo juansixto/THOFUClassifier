@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="922" item="Ritz Carlton Pentagon City" rating="5">
+	<title>
+		<sentence id="1">
+			Pentagon(1) City(2) 's(3) Ritz(4) Carlton(5) is(6) the(7) best(8) of(9) the(10) best(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fantastic(1) service(2) ,(3) beautiful(4) decor(5) ,(6) luxurious(7) rooms(8) 
+			<opinion featWords="8" feature="rooms" opWords="7" polarity="+"/>
+			<opinion featWords="5" feature="decoration" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) !(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) flight(2) to(3) D.C.(4) was(5) a(6) rough(7) one(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Weather(1) had(2) caused(3) a(4) long(5) delay(6) at(7) Metropolitan(8) Airport(9) most(10) of(11) it(12) sitting(13) in(14) a(15) plane(16) on(17) the(18) runway(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) arrived(3) at(4) the(5) Ritz(6) Carlton(7) Pentagon(8) City(9) I(10) was(11) tired(12) and(13) irritated(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			This(1) was(2) my(3) first(4) ((5) and(6) only(7) so(8) far(9) )(10) stay(11) at(12) a(13) Ritz(14) Carlton(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			I(1) knew(2) they(3) had(4) won(5) the(6) Malcolm(7) Baldridge(8) award(9) for(10) Quality(11) multiple(12) times(13) ,(14) but(15) my(16) expectations(17) were(18) 'nt(19) really(20) all(21) that(22) high(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			I(1) expected(2) it(3) to(4) be(5) a(6) good(7) hotel(8) ,(9) but(10) I(11) did(12) 'nt(13) expect(14) to(15) get(16) swept(17) off(18) my(19) feet(20) the(21) way(22) I(23) did(24) .(25) 
+			<opinion featWords="8" feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			I(1) arrived(2) by(3) rental(4) car(5) and(6) was(7) immediately(8) greeted(9) by(10) a(11) valet(12) who(13) took(14) my(15) car(16) and(17) assured(18) me(19) that(20) the(21) bags(22) I(23) was(24) attempting(25) to(26) take(27) out(28) of(29) the(30) trunk(31) would(32) be(33) delivered(34) to(35) my(36) room(37) .(38) 
+		</sentence>
+		<sentence id="8">
+			I(1) entered(2) the(3) softly(4) lit(5) lobby(6) ,(7) and(8) was(9) greeted(10) by(11) a(12) door(13) attendant(14) who(15) walked(16) me(17) to(18) the(19) front(20) desk(21) rather(22) than(23) engage(24) in(25) any(26) such(27) uncouth(28) behavior(29) as(30) pointing(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			My(1) reservation(2) had(3) been(4) made(5) by(6) the(7) association(8) whose(9) convention(10) I(11) was(12) attending(13) and(14) the(15) front(16) desk(17) agent(18) had(19) a(20) little(21) difficulty(22) finding(23) it(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Despite(1) that(2) ,(3) she(4) was(5) able(6) to(7) handle(8) my(9) check-in(10) with(11) minimal(12) fuss(13) and(14) no(15) stress(16) on(17) my(18) part(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			I(1) was(2) starting(3) to(4) unwind(5) from(6) the(7) arduous(8) trip(9) and(10) grateful(11) that(12) check-in(13) had(14) been(15) so(16) problem-free(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			As(1) I(2) had(3) no(4) luggage(5) ,(6) I(7) deferred(8) having(9) a(10) bell(11) attendant(12) escort(13) me(14) to(15) my(16) room(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			I(1) walked(2) to(3) the(4) elevators(5) and(6) was(7) charmed(8) by(9) the(10) marble(11) floors(12) ,(13) tall(14) mirrors(15) ,(16) and(17) beautiful(18) artwork(19) in(20) the(21) elevator(22) lobby(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			Throughout(1) the(2) lobby(3) and(4) public(5) areas(6) of(7) the(8) hotel(9) was(10) an(11) understated(12) atmosphere(13) of(14) luxury(15) and(16) comfort(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			I(1) entered(2) my(3) room(4) with(5) aching(6) muscles(7) and(8) a(9) tired(10) mind(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			It(1) was(2) then(3) that(4) my(5) satisfaction(6) turned(7) to(8) enchantment(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			The(1) lights(2) on(3) the(4) room(5) were(6) already(7) on(8) ,(9) but(10) they(11) were(12) softly(13) lit(14) ,(15) casting(16) a(17) dim(18) glow(19) throughout(20) the(21) room(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			The(1) radio(2) was(3) softly(4) playing(5) classical(6) music(7) ,(8) my(9) bed(10) had(11) been(12) turned(13) down(14) and(15) an(16) oversized(17) terrycloth(18) robe(19) lay(20) on(21) the(22) bed(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			My(1) luggage(2) had(3) already(4) been(5) delivered(6) to(7) my(8) room(9) ((10) how(11) they(12) managed(13) this(14) when(15) my(16) reservation(17) was(18) mixed(19) up(20) ,(21) I(22) am(23) not(24) sure(25) )(26) and(27) wrapped(28) chocolates(29) were(30) resting(31) on(32) my(33) pillow(34) .(35) 
+		</sentence>
+		<sentence id="20">
+			My(1) stress(2) melted(3) away(4) and(5) I(6) quickly(7) wrapped(8) myself(9) in(10) the(11) luxurious(12) bathrobe(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			I(1) then(2) drew(3) myself(4) a(5) bubble(6) bath(7) in(8) the(9) huge(10) marble-filled(11) bathroom(12) .(13) 
+			<opinion featWords="12" feature="bathroom" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			The(1) towels(2) in(3) the(4) room(5) were(6) not(7) the(8) small(9) ,(10) rough(11) pieces(12) of(13) linen(14) that(15) are(16) so(17) common(18) in(19) hotels(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			No(1) ,(2) these(3) were(4) large(5) ,(6) soft(7) ,(8) terry(9) cloth(10) towels(11) .(12) 
+			<opinion featWords="11" feature="towels" opWords="5" polarity="+"/>
+			<opinion featWords="11" feature="towels" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			The(1) hotel(2) was(3) generous(4) with(5) its(6) amenities(7) ,(8) including(9) shampoo(10) ,(11) conditioner(12) ,(13) moisturizer(14) ,(15) bubble(16) bath(17) ((18) though(19) they(20) called(21) it(22) shower(23) gel(24) )(25) and(26) mouthwash(27) .(28) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			The(1) bathroom(2) came(3) equipped(4) with(5) not(6) only(7) a(8) hair(9) dryer(10) and(11) lighted(12) makeup(13) mirror(14) ,(15) but(16) a(17) scale(18) ((19) I(20) am(21) still(22) undecided(23) about(24) whether(25) I(26) like(27) that(28) last(29) so-called(30) feature(31) )(32) .(33) 
+		</sentence>
+		<sentence id="26">
+			The(1) room(2) was(3) filled(4) with(5) beautiful(6) fixtures(7) ,(8) artwork(9) ,(10) and(11) handsome(12) wood(13) furniture(14) .(15) 
+		</sentence>
+		<sentence id="27">
+			It(1) had(2) a(3) fully(4) stocked(5) refreshment(6) bar(7) and(8) a(9) large(10) desk(11) that(12) was(13) wonderful(14) to(15) work(16) on(17) during(18) the(19) week(20) I(21) stayed(22) at(23) the(24) hotel(25) .(26) 
+		</sentence>
+		<sentence id="28">
+			The(1) closet(2) was(3) filled(4) with(5) hangers(6) that(7) had(8) those(9) wonderful(10) pads(11) on(12) them(13) to(14) protect(15) ones(16) clothes(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			The(1) bed(2) was(3) as(4) heavenly(5) as(6) the(7) rest(8) of(9) the(10) room(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			I(1) like(2) to(3) sleep(4) with(5) a(6) lot(7) of(8) pillows(9) especially(10) when(11) I(12) am(13) traveling(14) away(15) from(16) home(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			The(1) room(2) was(3) supplied(4) with(5) extra(6) pillows(7) all(8) filled(9) with(10) goose(11) down(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			I(1) am(2) told(3) that(4) they(5) also(6) had(7) non-allergenic(8) foam(9) pillows(10) available(11) ,(12) but(13) the(14) down(15) pillows(16) were(17) perfect(18) for(19) me(20) .(21) 
+		</sentence>
+		<sentence id="33">
+			It(1) s(2) not(3) too(4) surprising(5) that(6) the(7) rooms(8) are(9) so(10) beautifully(11) furnished(12) .(13) 
+			<opinion featWords="8" feature="rooms" opWords="11,12" polarity="+"/>
+		</sentence>
+		<sentence id="34">
+			After(1) all(2) ,(3) this(4) is(5) a(6) hotel(7) where(8) rooms(9) typically(10) run(11) from(12) $279(13) a(14) night(15) to(16) $465(17) .(18) 
+		</sentence>
+		<sentence id="35">
+			Yet(1) ,(2) I(3) did(4) not(5) have(6) one(7) of(8) their(9) executive(10) suites(11) or(12) deluxe(13) rooms(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			I(1) had(2) the(3) standard(4) room(5) and(6) it(7) was(8) more(9) beautiful(10) than(11) any(12) room(13) I(14) had(15) ever(16) stayed(17) in(18) before(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			Although(1) I(2) did(3) 'nt(4) eat(5) in(6) the(7) hotel(8) very(9) often(10) ,(11) I(12) did(13) have(14) tea(15) in(16) the(17) Lobby(18) Lounge(19) on(20) one(21) of(22) the(23) afternoons(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			Although(1) the(2) lobby(3) lounge(4) opens(5) into(6) the(7) hallways(8) that(9) lead(10) to(11) the(12) connecting(13) Pentagon(14) City(15) Mall(16) ,(17) the(18) tea(19) there(20) managed(21) to(22) be(23) a(24) quiet(25) ,(26) and(27) muted(28) affair(29) .(30) 
+		</sentence>
+		<sentence id="39">
+			There(1) was(2) a(3) pianist(4) playing(5) and(6) it(7) made(8) for(9) a(10) relaxing(11) half(12) hour(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			The(1) motto(2) of(3) Ritz(4) Carlton(5) is(6) ,(7) We(8) are(9) ladies(10) and(11) gentlemen(12) serving(13) ladies(14) and(15) gentlemen(16) .(17) 
+		</sentence>
+		<sentence id="41">
+			The(1) service(2) throughout(3) my(4) stay(5) at(6) the(7) hotel(8) was(9) consistently(10) incredible(11) .(12) 
+			<opinion featWords="8" feature="hotel" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="42">
+			I(1) work(2) for(3) a(4) hospitality(5) association(6) that(7) produces(8) training(9) materials(10) for(11) hotels(12) .(13) 
+		</sentence>
+		<sentence id="43">
+			Typically(1) when(2) I(3) stay(4) at(5) a(6) hotel(7) ,(8) it(9) is(10) easy(11) to(12) pick(13) up(14) mistakes(15) and(16) lapses(17) in(18) the(19) service(20) standards(21) .(22) 
+		</sentence>
+		<sentence id="44">
+			I(1) could(2) spot(3) no(4) service(5) errors(6) at(7) the(8) Ritz(9) Carlton(10) .(11) 
+		</sentence>
+		<sentence id="45">
+			One(1) day(2) as(3) I(4) rode(5) an(6) elevator(7) down(8) to(9) the(10) conference(11) room(12) where(13) I(14) was(15) attending(16) a(17) session(18) ,(19) I(20) commented(21) to(22) the(23) person(24) next(25) to(26) me(27) that(28) the(29) elevator(30) was(31) going(32) rather(33) slow(34) .(35) 
+		</sentence>
+		<sentence id="46">
+			I(1) had(2) 'nt(3) noticed(4) that(5) the(6) person(7) was(8) a(9) Ritz(10) Carlton(11) employee(12) .(13) 
+		</sentence>
+		<sentence id="47">
+			The(1) employee(2) agreed(3) with(4) me(5) in(6) a(7) friendly(8) fashion(9) and(10) then(11) added(12) ,(13) Here(14) at(15) the(16) Ritz(17) Carlton(18) we(19) want(20) everything(21) about(22) your(23) stay(24) to(25) be(26) relaxed(27) and(28) comfortable(29) .(30) "(31) It(32) impressed(33) me(34) that(35) an(36) employee(37) could(38) take(39) even(40) an(41) off-handed(42) near-complaint(43) and(44) turn(45) it(46) into(47) a(48) positive(49) statement(50) .(51) That(52) is(53) the(54) sign(55) of(56) a(57) hotel(58) that(59) has(60) sold(61) its(62) employees(63) on(64) service(65) .(66) 
+		</sentence>
+	</text>
+</review>

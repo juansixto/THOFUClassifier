@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="214" item="Imperial Palace Hotel and Casino Biloxi" rating="2">
+	<title>
+		<sentence id="1">
+			Imperial(1) Palace(2) -(3) Not(4) too(5) hot(6) a(7) stay(8) !(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Easy(1) to(2) get(3) in(4) and(5) out(6) of(7) -(8) good(9) valet(10) service(11) .(12) 
+			<opinion featWords="11" feature="service" opWords="9" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Better(1) to(2) get(3) out(4) of(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Poorly(1) designed(2) and(3) out(4) of(5) date(6) .(7) 
+			<opinion feature="hotel" opWords="4,5,6" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) location(2) ,(3) nice(4) casino(5) but(6) the(7) rooms(8) leave(9) much(10) to(11) be(12) desired(13) .(14) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="casino" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Needs(1) to(2) be(3) updated(4) !(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Biloxi(2) Imperial(3) Palace(4) is(5) one(6) that(7) we(8) will(9) not(10) put(11) on(12) our(13) desirable(14) list(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) an(3) older(4) facility(5) that(6) looks(7) great(8) from(9) the(10) curb(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			However(1) ,(2) once(3) in(4) your(5) room(6) ,(7) it(8) appears(9) to(10) be(11) an(12) outdated(13) hotel(14) .(15) 
+			<opinion featWords="14" feature="hotel" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) furnishings(2) are(3) poor(4) ,(5) at(6) best(7) and(8) were(9) really(10) uncomfortable(11) .(12) 
+			<opinion featWords="2" feature="furnishings" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			The(1) bedding(2) was(3) about(4) the(5) quality(6) of(7) that(8) found(9) in(10) a(11) camper(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) shabby(3) looking(4) and(5) the(6) quality(7) of(8) the(9) bedding(10) looked(11) like(12) something(13) they(14) found(15) at(16) Salvation(17) Army(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			We(1) called(2) and(3) asked(4) for(5) two(6) pillows(7) in(8) addition(9) to(10) the(11) three(12) on(13) the(14) bed(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			The(1) housekeeper(2) said(3) "(4) you(5) want(6) TWO(7) pillows(8) ?(9) ?(10) ?(11) "(12) This(13) is(14) the(15) kind(16) of(17) place(18) where(19) the(20) bedding(21) looks(22) like(23) it(24) has(25) been(26) on(27) the(28) beds(29) for(30) years(31) and(32) years(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			It(1) almost(2) makes(3) you(4) feel(5) like(6) you(7) do(8) not(9) want(10) to(11) lay(12) on(13) the(14) bedspread(15) ,(16) since(17) you(18) are(19) not(20) quite(21) sure(22) what(23) has(24) transpired(25) on(26) it(27) !(28) !(29) !(30) 
+		</sentence>
+		<sentence id="10">
+			Furthermore(1) ,(2) the(3) towels(4) looked(5) like(6) they(7) were(8) homeless(9) shelter(10) rejects(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			They(1) were(2) not(3) terribly(4) white(5) looking(6) and(7) were(8) slightly(9) larger(10) than(11) a(12) dish(13) towel(14) !(15) !(16) 
+		</sentence>
+		<sentence id="12">
+			We(1) were(2) duly(3) unimpressed(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			The(1) bathroom(2) left(3) much(4) to(5) be(6) desired(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			It(1) appeared(2) that(3) there(4) were(5) only(6) double(7) showers(8) in(9) the(10) rooms(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			It(1) was(2) clean(3) and(4) roomy(5) ,(6) however(7) ,(8) if(9) you(10) are(11) not(12) a(13) shower(14) person(15) ,(16) it(17) could(18) have(19) implications(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			The(1) guest(2) amenities(3) that(4) were(5) provided(6) in(7) the(8) bathroom(9) were(10) the(11) quality(12) one(13) might(14) expect(15) in(16) a(17) Super(18) 8(19) Motel(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			Small(1) skinny(2) bars(3) of(4) soap(5) and(6) shampoo(7) that(8) we(9) will(10) use(11) for(12) the(13) dog(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			No(1) comfort(2) in(3) this(4) Palace(5) !(6) 
+		</sentence>
+		<sentence id="19">
+			The(1) rooms(2) leave(3) much(4) to(5) be(6) desired(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			I(1) had(2) my(3) laptop(4) with(5) me(6) and(7) found(8) that(9) to(10) hook(11) it(12) up(13) took(14) more(15) than(16) what(17) it(18) was(19) worth(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			The(1) person(2) who(3) checked(4) us(5) in(6) warned(7) us(8) that(9) to(10) use(11) their(12) phone(13) for(14) long(15) distance(16) could(17) result(18) in(19) up(20) to(21) $8.00(22) a(23) minute(24) charges(25) !(26) !(27) !(28) 
+		</sentence>
+		<sentence id="22">
+			Lighting(1) was(2) also(3) a(4) problem(5) in(6) the(7) room(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Not(1) enough(2) and(3) poor(4) locations(5) with(6) large(7) gaps(8) for(9) darkened(10) spaces(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			Even(1) the(2) selections(3) on(4) the(5) tv(6) were(7) marginal(8) at(9) best(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			This(1) was(2) a(3) hotel(4) with(5) all(6) of(7) the(8) creature(9) comforts(10) markedly(11) absent(12) .(13) 
+		</sentence>
+		<sentence id="26">
+			Please(1) note(2) that(3) we(4) have(5) formerly(6) stayed(7) at(8) the(9) Beau(10) Rivage(11) and(12) could(13) not(14) get(15) into(16) it(17) ,(18) due(19) to(20) the(21) holiday(22) .(23) 
+		</sentence>
+		<sentence id="27">
+			However(1) ,(2) this(3) was(4) a(5) very(6) far(7) cry(8) from(9) that(10) 5(11) star(12) facility(13) .(14) 
+		</sentence>
+		<sentence id="28">
+			We(1) found(2) the(3) food(4) at(5) IP(6) to(7) be(8) the(9) least(10) desirable(11) in(12) a(13) town(14) that(15) prides(16) itself(17) with(18) great(19) food(20) at(21) the(22) casinos(23) .(24) 
+		</sentence>
+		<sentence id="29">
+			So(1) ,(2) breakfast(3) was(4) the(5) only(6) meal(7) we(8) ate(9) there(10) ,(11) and(12) it(13) was(14) mediocre(15) at(16) best(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			The(1) casino(2) pays(3) pretty(4) well(5) ,(6) so(7) we(8) played(9) there(10) some(11) ,(12) however(13) ,(14) it(15) was(16) not(17) well(18) enough(19) to(20) keep(21) us(22) there(23) the(24) whole(25) time(26) we(27) spent(28) in(29) Biloxi(30) .(31) 
+		</sentence>
+		<sentence id="31">
+			The(1) valet(2) parking(3) people(4) are(5) very(6) quick(7) and(8) gracious(9) ,(10) and(11) that(12) was(13) the(14) best(15) feature(16) we(17) found(18) at(19) this(20) hotel(21) .(22) 
+		</sentence>
+		<sentence id="32">
+			This(1) was(2) our(3) only(4) choice(5) of(6) hotels(7) ,(8) and(9) for(10) the(11) price(12) -(13) $398.00(14) for(15) a(16) holiday(17) weekend(18) ,(19) we(20) felt(21) we(22) could(23) have(24) done(25) better(26) staying(27) at(28) a(29) Fairfield(30) Inn(31) or(32) some(33) reasonable(34) chain(35) where(36) the(37) quality(38) is(39) consistent(40) with(41) the(42) name(43) .(44) 
+		</sentence>
+		<sentence id="33">
+			We(1) would(2) not(3) choose(4) this(5) hotel(6) in(7) the(8) future(9) .(10) 
+		</sentence>
+	</text>
+</review>

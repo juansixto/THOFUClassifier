@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="380" item="Holiday Inn MINNEAPOLIS-METRODOME" rating="3">
+	<title>
+		<sentence id="1">
+			This(1) place(2) is(3) like(4) Luby(5) 's(6) ...(7) only(8) a(9) hotel(10) instead(11) of(12) a(13) restaurant(14) .(15) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) staff(2) ,(3) large(4) meeting(5) facilities(6) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="6" feature="facilities" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Housekeeping(1) left(2) a(3) lot(4) to(5) be(6) desired(7) .(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) decor(2) of(3) this(4) place(5) reminds(6) me(7) of(8) Luby(9) 's(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			My(1) sleeping(2) room(3) was(4) small(5) ,(6) dimly(7) lit(8) ,(9) and(10) housekeeping(11) neglected(12) to(13) clean(14) my(15) room(16) two(17) days(18) in(19) a(20) row(21) apparently(22) because(23) I(24) did(25) not(26) pick(27) up(28) the(29) free(30) newspaper(31) outside(32) my(33) door(34) .(35) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="-"/>
+			<opinion featWords="3" feature="rooms" opWords="7,8" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Had(1) I(2) known(3) this(4) was(5) the(6) system(7) ,(8) I(9) would(10) have(11) gone(12) on(13) a(14) paper-pick-up(15) crusade(16) for(17) my(18) entire(19) floor(20) so(21) we(22) 'd(23) all(24) be(25) blessed(26) with(27) cleaner(28) rooms(29) .(30) 
+		</sentence>
+		<sentence id="4">
+			The(1) location(2) is(3) good(4) ((5) Grandma(6) 's(7) restaurant(8) across(9) the(10) street(11) is(12) great(13) !(14) )(15) and(16) the(17) meeting(18) space(19) is(20) large(21) and(22) clean(23) .(24) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="food" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) staff(2) is(3) friendly(4) ...(5) except(6) for(7) housekeeping(8) who(9) I(10) 'm(11) still(12) holding(13) a(14) grudge(15) toward(16) for(17) not(18) cleaning(19) my(20) already(21) dirty(22) room(23) .(24) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="23" feature="rooms" opWords="22" polarity="-"/>
+		</sentence>
+	</text>
+</review>

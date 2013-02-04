@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="698" item="Quality Inn International" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) great(2) stay(3) --(4) with(5) great(6) prices(7) !(8) 
+			<opinion featWords="7" feature="price" opWords="6" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) quiet(3) ,(4) two(5) pools(6) ,(7) European(8) clientele(9) ,(10) central(11) to(12) everything(13) .(14) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) a(2) luxury(3) hotel(4) ,(5) but(6) good(7) value(8) for(9) the(10) price(11) .(12) 
+			<opinion featWords="4" feature="hotel" opWords="1,3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) great(2) value(3) ,(4) if(5) you(6) are(7) in(8) Orlando(9) to(10) do(11) the(12) Parks(13) --(14) it(15) 's(16) a(17) perfect(18) place(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			After(1) reading(2) reviews(3) of(4) low-priced(5) hotels(6) in(7) the(8) Orlando(9) /(10) Kissimmee(11) area(12) on(13) this(14) and(15) other(16) websites(17) ,(18) I(19) was(20) pretty(21) pessimistic(22) --(23) but(24) the(25) Quality(26) Inn(27) ((28) the(29) one(30) at(31) 2600(32) International(33) right(34) off(35) the(36) I4-Sand(37) Lake(38) Rd(39) .(40) Interchange(41) )(42) was(43) a(44) very(45) pleasant(46) surprise(47) .(48) 
+		</sentence>
+		<sentence id="2">
+			My(1) sister(2) ,(3) niece(4) and(5) I(6) shared(7) a(8) room(9) w(10) /(11) 2(12) double(13) beds(14) ,(15) refrigerator(16) ,(17) microwave(18) &amp;(19) coffeemaker(20) for(21) the(22) low(23) rate(24) of(25) $42/night(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			There(1) were(2) two(3) pools(4) ((5) with(6) towels(7) for(8) guests(9) )(10) ,(11) a(12) restaurant(13) &amp;(14) bar(15) --(16) and(17) many(18) restaurants(19) in(20) walking(21) distance(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			The(1) staff(2) is(3) helpful(4) and(5) there(6) are(7) many(8) families(9) and(10) groups(11) --(12) many(13) British(14) &amp;(15) Australians(16) as(17) well(18) as(19) U.S.(20) guests(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) a(3) great(4) location(5) for(6) a(7) tourist(8) --(9) it(10) lies(11) along(12) one(13) of(14) the(15) main(16) streets(17) with(18) tons(19) of(20) restaurants(21) --(22) and(23) is(24) literally(25) 1(26) 1/2(27) blocks(28) from(29) a(30) freeway(31) exit(32) --(33) central(34) to(35) both(36) Universal(37) ,(38) Seaworld(39) and(40) Disney(41) ((42) about(43) 10(44) min(45) to(46) each(47) )(48) .(49) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) plain(4) ,(5) but(6) newly(7) painted(8) ,(9) clean(10) and(11) quiet(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			We(1) did(2) breakfast(3) and(4) snacks(5) in(6) our(7) room(8) to(9) save(10) $$(11) ,(12) but(13) also(14) just(15) to(16) have(17) some(18) quieter(19) ,(20) easier(21) dining(22) .(23) 
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) easy(3) to(4) come(5) back(6) to(7) the(8) hotel(9) and(10) pool(11) midday(12) --(13) a(14) great(15) respite(16) from(17) the(18) theme(19) park(20) burnout(21) that(22) inevitably(23) occurs(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			Also(1) --(2) only(3) an(4) hour(5) from(6) Cocoa(7) Beach(8) --(9) a(10) nice(11) break(12) from(13) the(14) parks(15) !(16) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) 're(3) on(4) a(5) budget(6) ,(7) I(8) recommend(9) this(10) hotel(11) .(12) 
+		</sentence>
+	</text>
+</review>

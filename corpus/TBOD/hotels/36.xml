@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="36" item="Fairfield Inn Virginia Beach" rating="1">
+	<title>
+		<sentence id="1">
+			Will(1) never(2) stay(3) here(4) again(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) rate(2) was(3) decent(4) $115/night(5) .(6) 
+			<opinion featWords="2" feature="price" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) people(2) at(3) the(4) front(5) desk(6) were(7) friendly(8) .(9) 
+			<opinion featWords="5,6" feature="front desk" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			EVERYTHING(1) !(2) 
+		</sentence>
+		<sentence id="2">
+			The(1) room(2) smelled(3) and(4) the(5) carpet(6) was(7) damp(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="3" polarity="-"/>
+			<opinion featWords="6" feature="carpets" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) never(3) recommend(4) this(5) place(6) for(7) a(8) family(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) for(3) twenty-somethings(4) looking(5) for(6) cheap(7) accomodations(8) and(9) a(10) place(11) to(12) continue(13) the(14) partying(15) after(16) the(17) bars(18) close(19) .(20) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) selected(2) this(3) Marriot(4) property(5) because(6) it(7) was(8) recently(9) renovated(10) and(11) close(12) to(13) the(14) beach(15) ((16) a(17) 10(18) minute(19) drive(20) on(21) the(22) expressway(23) )(24) and(25) my(26) parents(27) who(28) we(29) were(30) visiting(31) for(32) the(33) weekend(34) ((35) June(36) 22-25(37) ,(38) 2007(39) )(40) .(41) 
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) not(3) my(4) first(5) choice(6) ,(7) but(8) it(9) was(10) the(11) only(12) Marriot(13) property(14) available(15) that(16) weekend(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			When(1) we(2) checked(3) in(4) ,(5) I(6) was(7) pleased(8) to(9) see(10) families(11) with(12) young(13) children(14) enjoying(15) the(16) pool(17) area(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) lady(2) in(3) the(4) front(5) desk(6) was(7) friendly(8) and(9) promptly(10) checked(11) us(12) in(13) .(14) 
+			<opinion featWords="5,6" feature="front desk" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			We(1) asked(2) for(3) a(4) third(5) floor(6) room(7) hoping(8) it(9) would(10) be(11) quiet(12) since(13) all(14) the(15) doors(16) opened(17) from(18) the(19) inside(20) instead(21) of(22) the(23) outside(24) like(25) the(26) first(27) two(28) floors(29) which(30) were(31) motel-like(32) accomodations(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) small(4) and(5) bathroom(6) very(7) minimal(8) and(9) DIRTY(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="6" feature="bathroom" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="7">
+			The(1) bathtub(2) looked(3) like(4) it(5) was(6) not(7) cleaned(8) from(9) the(10) previous(11) guests(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) carpet(2) was(3) damp(4) which(5) made(6) the(7) room(8) smell(9) like(10) mildew(11) or(12) a(13) wet(14) dog(15) .(16) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Although(1) I(2) booked(3) for(4) three(5) days(6) ,(7) we(8) checked(9) out(10) after(11) one(12) night(13) because(14) of(15) the(16) drunks(17) we(18) could(19) hear(20) until(21) 3:30(22) in(23) the(24) morning(25) ((26) June(27) 22(28) to(29) 23(30) ,(31) 2007(32) )(33) .(34) 
+		</sentence>
+		<sentence id="10">
+			We(1) called(2) the(3) lobby(4) to(5) complain(6) ,(7) but(8) the(9) screaming(10) and(11) yelling(12) by(13) the(14) drunken(15) hotel(16) guests(17) continued(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			After(1) checking(2) out(3) ,(4) we(5) saw(6) trash(7) bins(8) in(9) the(10) parking(11) lot(12) overflowing(13) with(14) empty(15) beer(16) bottles(17) and(18) cases(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) nothing(3) against(4) having(5) a(6) great(7) time(8) ,(9) but(10) this(11) is(12) not(13) the(14) place(15) for(16) families(17) as(18) I(19) was(20) led(21) to(22) believe(23) .(24) ((25) We(26) have(27) a(28) 2(29) year(30) old(31) toddler(32) who(33) fortunately(34) could(35) sleep(36) through(37) the(38) yelling(39) .(40) )(41) WE(42) WILL(43) NEVER(44) STAY(45) HERE(46) AGAIN(47) EVEN(48) IF(49) IT(50) IS(51) THE(52) VERY(53) LAST(54) HOTEL(55) AVAILABLE(56) IN(57) VIRGINIA(58) BEACH(59) !(60) 
+		</sentence>
+	</text>
+</review>

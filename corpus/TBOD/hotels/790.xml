@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="790" item="Ritz Carlton San Francisco" rating="5">
+	<title>
+		<sentence id="1">
+			We(1) live(2) in(3) the(4) area(5) ,(6) but(7) came(8) her(9) to(10) vacation(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) service(2) ,(3) quiet(4) ,(5) elegant(6) ,(7) good(8) food(9) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			pricey(1) ((2) but(3) you(4) get(5) what(6) you(7) pay(8) for(9) )(10) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) service(2) ,(3) pretty(4) rooms(5) ,(6) good(7) dining-We(8) would(9) go(10) back(11) !(12) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) live(2) an(3) hour(4) away(5) ,(6) but(7) wanted(8) a(9) romantic(10) weekend(11) away(12) in(13) The(14) City(15) and(16) were(17) told(18) the(19) Ritz(20) Dining(21) Room(22) was(23) great(24) and(25) decided(26) to(27) stay(28) here(29) as(30) well(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			Wonderful(1) phone(2) manners(3) every(4) time(5) I(6) talked(7) to(8) them(9) beforehand(10) set(11) a(12) great(13) tone(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			I(1) checked(2) the(3) internet(4) and(5) ended(6) up(7) calling(8) them(9) direct(10) and(11) got(12) their(13) AAA(14) rate(15) ,(16) but(17) they(18) have(19) an(20) Amex(21) rate(22) that(23) is(24) very(25) similar(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			We(1) payed(2) $266(3) ,(4) but(5) parking(6) is(7) $45(8) a(9) night(10) and(11) ended(12) up(13) spending(14) $250(15) at(16) the(17) Dining(18) Room(19) !(20) 
+		</sentence>
+		<sentence id="5">
+			Pricey(1) but(2) worth(3) it(4) .(5) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			We(1) celebrated(2) my(3) birthday(4) and(5) they(6) asked(7) if(8) we(9) had(10) a(11) special(12) occasion(13) upon(14) reservation(15) ....(16) so(17) they(18) put(19) a(20) birthday(21) card(22) and(23) chocolate(24) dipped(25) strawberries(26) in(27) out(28) room(29) and(30) special(31) dessert(32) at(33) dinner(34) !(35) 
+		</sentence>
+		<sentence id="7">
+			Nice(1) touch(2) .(3) 
+		</sentence>
+		<sentence id="8">
+			It(1) is(2) located(3) above(4) the(5) Stockton(6) tunnel(7) ,(8) so(9) there(10) is(11) not(12) much(13) traffic(14) .(15) 2(16) blocks(17) west(18) up(19) the(20) hill(21) to(22) Nob(23) Hill(24) ,(25) 1(26) blocks(27) east(28) down(29) to(30) Chinatown(31) .(32) 3(33) block(34) south(35) to(36) Union(37) Square(38) .(39) 
+		</sentence>
+		<sentence id="9">
+			You(1) could(2) walk(3) thru(4) Chinatown(5) to(6) North(7) Beach(8) or(9) thru(10) Union(11) Square(12) to(13) SOMA(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			Attentive(1) staff(2) were(3) super(4) helpful(5) and(6) fast(7) and(8) gracious(9) .(10) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="staff" opWords="7" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) desk(2) clerk(3) remembered(4) my(5) name(6) the(7) next(8) morning(9) !(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) lobby(2) is(3) understated(4) with(5) pretty(6) flowers(7) and(8) feminine(9) French(10) decor(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Not(1) the(2) bold(3) gaudy(4) lobby(5) of(6) the(7) Fairmont(8) or(9) Mark(10) Hopkins(11) etc.(12) We(13) saw(14) practically(15) NO(16) other(17) guests(18) eventhough(19) the(20) place(21) was(22) full-very(23) relaxing(24) .(25) 
+		</sentence>
+		<sentence id="14">
+			Our(1) room(2) was(3) on(4) the(5) north(6) side(7) on(8) Calif(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			St(1) .(2) ,(3) but(4) a(5) hike(6) from(7) the(8) elevators(9) which(10) are(11) on(12) the(13) south(14) side(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			We(1) could(2) hear(3) cable(4) cars(5) and(6) see(7) the(8) pyramid(9) and(10) chinatown(11) !(12) 
+		</sentence>
+		<sentence id="17">
+			The(1) room(2) was(3) nice(4) ,(5) but(6) not(7) spectacular(8) :(9) pink(10) and(11) green(12) with(13) roses(14) and(15) french(16) tapestry(17) .(18) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="7,8" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			BW(1) marble(2) bathroom(3) with(4) very(5) good(6) shower(7) and(8) nice(9) ammenities(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) stayed(3) in(4) comparable(5) and(6) nicer(7) rooms(8) ,(9) but(10) very(11) nice(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			We(1) ate(2) at(3) the(4) Dining(5) Room(6) and(7) had(8) 4(9) and(10) 5(11) course(12) meals(13) which(14) have(15) set(16) prices(17) of(18) $72(19) and(20) $78(21) each(22) ,(23) but(24) we(25) got(26) coffee(27) ,(28) 2(29) glasses(30) of(31) champagne(32) and(33) one(34) glass(35) of(36) red(37) wine(38) .(39) 
+		</sentence>
+		<sentence id="21">
+			The(1) food(2) is(3) very(4) good(5) ,(6) especially(7) if(8) you(9) want(10) to(11) try(12) odd(13) and(14) luxe(15) items(16) :(17) I(18) had(19) foie(20) gras(21) ,(22) lobster(23) ,(24) rabbit(25) and(26) truffle(27) rissotto(28) .(29) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="22">
+			My(1) wife(2) is(3) a(4) vegetarian(5) but(6) likes(7) some(8) fish(9) and(10) she(11) was(12) a(13) bit(14) limited(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			Call(1) ahead(2) if(3) you(4) have(5) special(6) needs-they(7) say(8) they(9) can(10) make(11) a(12) special(13) menu(14) !(15) !(16) 
+		</sentence>
+		<sentence id="24">
+			The(1) Terrace(2) for(3) lunch(4) is(5) great(6) deal-granted(7) we(8) spent(9) $70(10) !(11) 
+			<opinion feature="food" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			I(1) had(2) their(3) $20(4) three(5) course(6) meal-great(7) deala(8) nd(9) very(10) good(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			The(1) outdoor(2) setting(3) and(4) more(5) relaxed(6) nature(7) is(8) a(9) ncie(10) counterpoint(11) to(12) the(13) dining(14) room(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			We(1) had(2) heard(3) about(4) the(5) chocoalte(6) chip(7) cookies(8) at(9) turndown(10) ,(11) but(12) did(13) not(14) get(15) any(16) ,(17) just(18) rose(19) pettles(20) on(21) the(22) bed(23) !(24) 
+		</sentence>
+		<sentence id="28">
+			I(1) called(2) down(3) and(4) enquired(5) and(6) the(7) clerk(8) seemed(9) to(10) not(11) know(12) about(13) it(14) .(15) 
+		</sentence>
+		<sentence id="29">
+			But(1) 5(2) minutes(3) later(4) he(5) himself(6) delivered(7) a(8) plate(9) of(10) cookies(11) to(12) my(13) door-very(14) good(15) too(16) !(17) !(18) !(19) 
+		</sentence>
+		<sentence id="30">
+			The(1) pool(2) was(3) empty(4) and(5) very(6) nice(7) !(8) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="swimming pool" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="31">
+			We(1) did(2) not(3) try(4) the(5) tea(6) ,(7) but(8) it(9) looks(10) good(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			We(1) will(2) be(3) back(4) to(5) try(6) the(7) Sunday(8) jazz(9) brunch(10) at(11) $50(12) a(13) person-I(14) hear(15) it(16) is(17) the(18) best(19) in(20) SF(21) !(22) 
+		</sentence>
+		<sentence id="33">
+			Checkout(1) and(2) valet(3) was(4) smooth(5) as(6) silk(7) and(8) we(9) enjoyed(10) our(11) stay(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			We(1) would(2) come(3) back(4) and(5) maybe(6) even(7) try(8) to(9) the(10) club(11) floor(12) with(13) all(14) day(15) food(16) .(17) 
+		</sentence>
+	</text>
+</review>

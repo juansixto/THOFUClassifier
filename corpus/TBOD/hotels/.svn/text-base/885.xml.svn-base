@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="885" item="The Hay Adams Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Elegant(1) and(2) right(3) in(4) the(5) heart(6) of(7) where(8) you(9) want(10) to(11) be(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Service(3) ,(4) Luxurious(5) 
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pricey(1) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) right(3) smack(4) in(5) the(6) middle(7) of(8) everything(9) a(10) tourist(11) would(12) want(13) to(14) see(15) in(16) Washington(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) property(2) is(3) 5(4) star(5) in(6) every(7) sense(8) !(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Such(1) a(2) lovely(3) old(4) hotel(5) that(6) has(7) been(8) refurbished(9) in(10) the(11) ultimate(12) good(13) taste(14) .(15) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			The(1) lobby(2) is(3) beautiful(4) with(5) richly(6) detailed(7) wood(8) paneling(9) with(10) gilt(11) bronze(12) accents(13) .(14) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Desk(1) staff(2) suggested(3) we(4) upgrade(5) for(6) a(7) better(8) view(9) --(10) of(11) historic(12) yellow(13) church(14) across(15) street(16) instead(17) of(18) blank(19) wall(20) and(21) it(22) was(23) worth(24) the(25) $30(26) difference(27) to(28) get(29) a(30) nicer(31) view(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			This(1) hotel(2) is(3) also(4) on(5) the(6) corner(7) across(8) from(9) Lafayette(10) Park(11) which(12) is(13) across(14) from(15) the(16) back(17) side(18) of(19) The(20) White(21) House(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			The(1) concierge(2) suggested(3) we(4) walk(5) through(6) the(7) park(8) ,(9) past(10) the(11) White(12) HOuse(13) ,(14) to(15) our(16) dinner(17) reservation(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			This(1) is(2) definitely(3) not(4) something(5) you(6) would(7) have(8) done(9) 20(10) years(11) ago(12) !(13) 
+		</sentence>
+		<sentence id="7">
+			Or(1) maybe(2) the(3) unfortuntate(4) happenings(5) of(6) 9/11(7) are(8) to(9) thank(10) for(11) the(12) additional(13) safety(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Our(1) room(2) was(3) spacious(4) and(5) plush(6) ,(7) decorated(8) in(9) a(10) soft(11) green(12) and(13) ivory(14) toile(15) .(16) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			The(1) bedding(2) was(3) so(4) luxurious(5) that(6) we(7) felt(8) like(9) royalty(10) .(11) 
+			<opinion featWords="2" feature="bedding" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="10">
+			We(1) also(2) had(3) cocktails(4) and(5) a(6) late(7) dessert(8) in(9) the(10) Off(11) the(12) Record(13) bar(14) in(15) the(16) basement(17) of(18) the(19) Hay(20) Adams(21) which(22) we(23) found(24) to(25) have(26) a(27) great(28) drink(29) selection(30) and(31) atmosphere(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			THe(1) bathroom(2) was(3) small(4) ,(5) but(6) lovely(7) and(8) efficient(9) .(10) 
+			<opinion featWords="2" feature="bathroom" opWords="9" polarity="+"/>
+			<opinion featWords="2" feature="bathroom" opWords="7" polarity="+"/>
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			Like(1) some(2) of(3) The(4) Ritz(5) Carlton(6) older(7) properties(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			We(1) had(2) breakfast(3) in(4) the(5) elegant(6) and(7) sunny(8) dining(9) room(10) in(11) the(12) morning(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			Food(1) and(2) service(3) were(4) excellent(5) .(6) 
+			<opinion featWords="1" feature="food" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="service" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			Pricey(1) ,(2) as(3) you(4) might(5) expect(6) .(7) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			But(1) served(2) on(3) some(4) of(5) the(6) loveliest(7) china(8) !(9) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) have(3) kids(4) and(5) want(6) to(7) save(8) on(9) breakfast(10) ,(11) you(12) can(13) walk(14) down(15) the(16) street(17) to(18) some(19) other(20) larger(21) chain(22) hotels(23) 
+		</sentence>
+	</text>
+</review>

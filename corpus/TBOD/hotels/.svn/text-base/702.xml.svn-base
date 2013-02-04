@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="702" item="Eastland Park Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) wonderful(2) hotel(3) 
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Tip(1) :(2) Ask(3) for(4) an(5) extra(6) large(7) room(8) .(9) 
+			<opinion featWords="8" feature="rooms" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parking(1) is(2) $15(3) a(4) day(5) which(6) seems(7) a(8) little(9) high(10) for(11) the(12) area(13) .(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) recently(3) married(4) in(5) Portland(6) ,(7) Maine(8) and(9) I(10) stayed(11) at(12) the(13) Eastland(14) Park(15) Hotel(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			My(1) family(2) and(3) I(4) are(5) not(6) from(7) this(8) area(9) ,(10) so(11) many(12) of(13) our(14) guests(15) stayed(16) in(17) this(18) hotel(19) during(20) the(21) weekend(22) of(23) wedding(24) activities(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			The(1) hotel(2) staff(3) was(4) very(5) accommodating(6) to(7) our(8) needs(9) and(10) went(11) out(12) of(13) their(14) way(15) to(16) be(17) sure(18) we(19) had(20) a(21) pleasant(22) stay(23) .(24) 
+			<opinion featWords="3" feature="staff" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="736" item="Four Points by Sheraton Phoenix Metrocenter" rating="3">
+	<title>
+		<sentence id="1">
+			Four(1) Points(2) in(3) Phoenix(4) :(5) A(6) Solid(7) Three(8) Star(9) Stay(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Four(1) Comforts(2) bed(3) ,(4) outdoor(5) fireplace(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Understaffed(1) in(2) restaurant(3) 
+			<opinion featWords="3" feature="food" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Hotel(1) was(2) overrun(3) with(4) pre-teens(5) &amp;(6) teenagers(7) during(8) our(9) stay(10) ,(11) otherwise(12) ,(13) this(14) hotel(15) was(16) a(17) decent(18) stay(19) .(20) 
+			<opinion featWords="15" feature="hotel" opWords="18" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) found(3) myself(4) in(5) Phoenix(6) ,(7) looking(8) for(9) a(10) decent(11) hotel(12) and(13) a(14) decent(15) rate(16) .(17) 
+			<opinion featWords="12" feature="hotel" opWords="11" polarity="+"/>
+			<opinion featWords="16" feature="price" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			I(1) came(2) up(3) with(4) the(5) Four(6) Points(7) By(8) Sheraton(9) Phoenix(10) Metrocenter(11) ,(12) where(13) I(14) found(15) a(16) somewhat(17) decent(18) rate(19) at(20) a(21) somewhat(22) decent(23) hotel(24) .(25) 
+			<opinion featWords="24" feature="hotel" opWords="23" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Overall(1) ,(2) my(3) experience(4) could(5) have(6) been(7) way(8) better(9) than(10) it(11) was(12) and(13) thus(14) begins(15) my(16) review(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) booked(2) a(3) king(4) suite(5) at(6) the(7) rate(8) of(9) $149(10) on(11) a(12) weekday(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			Compared(1) to(2) other(3) hotels(4) in(5) the(6) area(7) ,(8) especially(9) of(10) the(11) Sheraton(12) brand(13) ,(14) this(15) was(16) the(17) best(18) rate(19) that(20) I(21) could(22) find(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) located(3) off(4) of(5) a(6) major(7) highway(8) and(9) was(10) relatively(11) easy(12) to(13) find(14) ,(15) which(16) was(17) nice(18) .(19) 
+			<opinion feature="hotel" opWords="12,13,14" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			When(1) we(2) arrived(3) at(4) the(5) Four(6) Points(7) Metrocenter(8) ,(9) there(10) was(11) plenty(12) of(13) parking(14) and(15) the(16) lobby(17) was(18) large(19) ,(20) with(21) a(22) long(23) front(24) desk(25) and(26) a(27) sitting(28) area(29) that(30) had(31) sofa(32) seating(33) and(34) a(35) large(36) television(37) .(38) 
+			<opinion featWords="24,25" feature="front desk" opWords="23" polarity="+"/>
+			<opinion featWords="37" feature="tv" opWords="36" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			I(1) was(2) quickly(3) checked(4) in(5) and(6) given(7) directions(8) to(9) our(10) room(11) ,(12) which(13) was(14) through(15) a(16) courtyard(17) area(18) ,(19) so(20) we(21) had(22) to(23) go(24) outside(25) to(26) get(27) to(28) our(29) room(30) ,(31) which(32) was(33) part(34) of(35) their(36) Cabana(37) rooms(38) .(39) 
+		</sentence>
+		<sentence id="9">
+			Although(1) there(2) was(3) a(4) multi-story(5) building(6) attached(7) to(8) the(9) lobby(10) that(11) was(12) the(13) main(14) building(15) of(16) the(17) hotel(18) where(19) most(20) of(21) the(22) guest(23) rooms(24) were(25) ,(26) our(27) room(28) was(29) located(30) off(31) of(32) the(33) pool(34) area(35) and(36) had(37) individual(38) outdoor(39) entrances(40) ,(41) although(42) they(43) were(44) part(45) of(46) an(47) enclosed(48) terrace(49) area(50) that(51) was(52) secured(53) by(54) locked(55) gates(56) .(57) 
+		</sentence>
+		<sentence id="10">
+			I(1) thought(2) this(3) would(4) be(5) a(6) nice(7) feature(8) ,(9) since(10) we(11) had(12) our(13) daughter(14) with(15) us(16) and(17) she(18) can(19) get(20) quite(21) bouncy(22) in(23) hotel(24) rooms(25) ,(26) so(27) the(28) fewer(29) neighbors(30) there(31) are(32) ,(33) the(34) better(35) sometimes(36) .(37) 
+		</sentence>
+		<sentence id="11">
+			My(1) room(2) consisted(3) of(4) two(5) rooms(6) ,(7) the(8) first(9) room(10) had(11) a(12) sleeper(13) sofa(14) ,(15) a(16) dining(17) table(18) and(19) a(20) large(21) counter(22) area(23) with(24) a(25) wet(26) bar(27) sink(28) ,(29) mini(30) fridge(31) and(32) a(33) microwave(34) .(35) 
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) also(3) a(4) television(5) on(6) the(7) counter(8) area(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			The(1) front(2) room(3) had(4) tile(5) floors(6) which(7) made(8) it(9) seem(10) quite(11) cold(12) ,(13) but(14) I(15) suppose(16) this(17) might(18) be(19) a(20) blessing(21) in(22) the(23) heat(24) of(25) summer(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			There(1) was(2) a(3) door(4) closing(5) this(6) room(7) off(8) from(9) the(10) bathroom(11) and(12) bedroom(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			The(1) bedroom(2) area(3) was(4) pretty(5) small(6) ,(7) with(8) simply(9) the(10) king(11) bed(12) and(13) a(14) television(15) on(16) top(17) of(18) a(19) dresser(20) .(21) 
+			<opinion featWords="2" feature="bedroom" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="16">
+			There(1) was(2) a(3) closet(4) that(5) was(6) average(7) sized(8) .(9) 
+			<opinion featWords="4" feature="closet" opWords="7,8" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			The(1) bathroom(2) was(3) very(4) small(5) ,(6) with(7) an(8) odd(9) shaped(10) shallow(11) tub(12) /(13) shower(14) combo(15) .(16) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="12" feature="tub" opWords="9" polarity="-"/>
+			<opinion featWords="12" feature="tub" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			There(1) was(2) a(3) sink(4) /(5) vanity(6) area(7) on(8) the(9) outside(10) of(11) the(12) bathroom(13) that(14) was(15) small(16) without(17) much(18) counter(19) space(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			Both(1) the(2) front(3) room(4) and(5) the(6) bedrooms(7) had(8) ceiling(9) fans(10) ,(11) which(12) I(13) really(14) liked(15) ((16) not(17) something(18) too(19) common(20) in(21) hotels(22) !(23) )(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			Everything(1) was(2) clean(3) and(4) it(5) was(6) nice(7) to(8) have(9) two(10) separate(11) rooms(12) ,(13) although(14) neither(15) room(16) was(17) very(18) large(19) .(20) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="16" feature="rooms" opWords="19" polarity="+" potency="18"/>
+		</sentence>
+		<sentence id="21">
+			The(1) swimming(2) pool(3) was(4) practically(5) right(6) outside(7) of(8) our(9) guest(10) room(11) ,(12) which(13) was(14) both(15) convenient(16) and(17) irritating(18) .(19) 
+			<opinion featWords="2,3" feature="swimming pool" opWords="16" polarity="-"/>
+			<opinion featWords="2,3" feature="swimming pool" opWords="18" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			A(1) large(2) group(3) of(4) people(5) were(6) staying(7) in(8) the(9) guest(10) room(11) next(12) to(13) us(14) and(15) although(16) they(17) were(18) sitting(19) outside(20) ,(21) we(22) could(23) hear(24) practically(25) everything(26) they(27) said(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			The(1) pool(2) was(3) heated(4) and(5) a(6) large(7) box(8) held(9) pool(10) toys(11) that(12) we(13) enjoyed(14) .(15) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			The(1) hot(2) tub(3) had(4) great(5) whirlpool(6) ,(7) but(8) the(9) next(10) day(11) ,(12) because(13) of(14) all(15) the(16) people(17) at(18) the(19) pool(20) ,(21) it(22) was(23) looking(24) a(25) little(26) nasty(27) .(28) 
+			<opinion featWords="6" feature="swimming pool" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			The(1) fitness(2) room(3) was(4) up(5) to(6) date(7) and(8) was(9) in(10) good(11) shape(12) ,(13) with(14) new(15) cardio(16) equipment(17) and(18) had(19) free(20) weights(21) available(22) .(23) 
+			<opinion featWords="2,3" feature="gym" opWords="5,6,7" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			Located(1) right(2) off(3) of(4) the(5) pool(6) area(7) ,(8) it(9) just(10) happened(11) to(12) be(13) right(14) next(15) door(16) to(17) our(18) guest(19) room(20) .(21) 
+		</sentence>
+		<sentence id="27">
+			Normally(1) ,(2) it(3) probably(4) would(5) 'nt(6) have(7) been(8) an(9) issue(10) ,(11) but(12) there(13) were(14) a(15) bunch(16) of(17) teenagers(18) staying(19) in(20) the(21) hotel(22) and(23) they(24) thought(25) the(26) gym(27) would(28) be(29) a(30) good(31) place(32) to(33) hang(34) out(35) -(36) only(37) slightly(38) irritating(39) !(40) 
+			<opinion featWords="32" feature="place" opWords="31" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			There(1) was(2) a(3) nice(4) semi-covered(5) area(6) that(7) had(8) a(9) fireplace(10) as(11) well(12) as(13) several(14) heat(15) lamps(16) that(17) surrounded(18) an(19) outdoor(20) area(21) with(22) tables(23) and(24) seating(25) -(26) a(27) really(28) nice(29) feature(30) -(31) why(32) the(33) people(34) in(35) the(36) room(37) next(38) to(39) us(40) did(41) 'nt(42) take(43) advantage(44) of(45) this(46) ,(47) I(48) have(49) no(50) idea(51) !(52) 
+			<opinion featWords="6" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			We(1) ate(2) at(3) the(4) hotel(5) restaurant(6) for(7) both(8) dinner(9) and(10) breakfast(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			Although(1) definitely(2) understaffed(3) ,(4) the(5) servers(6) that(7) we(8) had(9) were(10) very(11) friendly(12) and(13) helpful(14) .(15) 
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="31">
+			The(1) menu(2) was(3) pretty(4) basic(5) ,(6) serving(7) fairly(8) generic(9) food(10) -(11) I(12) had(13) a(14) Caesar(15) salad(16) ,(17) my(18) daughter(19) had(20) chicken(21) fingers(22) and(23) my(24) husband(25) had(26) a(27) club(28) sandwich(29) .(30) 
+			<opinion featWords="10" feature="food" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="32">
+			The(1) pricing(2) was(3) reasonable(4) and(5) everything(6) was(7) clean(8) .(9) 
+			<opinion featWords="2" feature="price" opWords="4" polarity="+"/>
+			<opinion feature="hotel" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="33">
+			Breakfast(1) was(2) both(3) a(4) la(5) carte(6) and(7) buffet(8) ,(9) and(10) was(11) a(12) bit(13) more(14) hectic(15) than(16) dinner(17) was(18) ,(19) but(20) we(21) were(22) able(23) to(24) get(25) everything(26) we(27) wanted(28) ((29) French(30) Toast(31) ,(32) Trix(33) cereal(34) and(35) scrambled(36) eggs(37) )(38) ,(39) so(40) I(41) really(42) can(43) 'nt(44) complain(45) .(46) 
+		</sentence>
+		<sentence id="34">
+			Located(1) near(2) the(3) hotel(4) were(5) plenty(6) of(7) chain(8) restaurants(9) for(10) other(11) dining(12) options(13) ,(14) such(15) as(16) Outback(17) Steakhouse(18) and(19) the(20) Olive(21) Garden(22) -(23) not(24) necessarily(25) top(26) of(27) the(28) line(29) restaurants(30) ,(31) but(32) still(33) fairly(34) reasonable(35) .(36) 
+		</sentence>
+		<sentence id="35">
+			There(1) was(2) also(3) a(4) Barnes(5) &amp;(6) Noble(7) book(8) store(9) across(10) the(11) street(12) with(13) a(14) Starbucks(15) for(16) my(17) fellow(18) latte(19) lovers(20) .(21) 
+		</sentence>
+		<sentence id="36">
+			We(1) checked(2) out(3) without(4) any(5) problems(6) or(7) surprises(8) on(9) our(10) bill(11) .(12) 
+		</sentence>
+		<sentence id="37">
+			Unfortunately(1) ,(2) about(3) 75(4) miles(5) west(6) of(7) Phoenix(8) ,(9) we(10) realized(11) that(12) we(13) left(14) behind(15) one(16) of(17) our(18) faithful(19) traveling(20) companions(21) ,(22) Curious(23) George(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			After(1) several(2) calls(3) during(4) the(5) next(6) 24(7) hours(8) ,(9) we(10) were(11) able(12) to(13) locate(14) George(15) .(16) 
+		</sentence>
+		<sentence id="39">
+			The(1) staff(2) assisted(3) in(4) shipping(5) him(6) back(7) to(8) us(9) ((10) at(11) our(12) expense(13) )(14) ,(15) but(16) he(17) really(18) meant(19) a(20) lot(21) to(22) us(23) and(24) I(25) totally(26) appreciated(27) them(28) humoring(29) us(30) to(31) recover(32) a(33) lost(34) stuffed(35) animal(36) .(37) 
+		</sentence>
+		<sentence id="40">
+			Overall(1) ,(2) there(3) was(4) a(5) little(6) too(7) much(8) chaos(9) the(10) night(11) that(12) we(13) happened(14) to(15) stay(16) at(17) the(18) Four(19) Points(20) Metrocenter(21) Phoenix(22) .(23) 
+		</sentence>
+		<sentence id="41">
+			It(1) was(2) a(3) slightly(4) unfortunate(5) ,(6) as(7) my(8) experience(9) at(10) this(11) hotel(12) was(13) subpar(14) .(15) 
+		</sentence>
+		<sentence id="42">
+			The(1) room(2) was(3) fine(4) and(5) the(6) staff(7) was(8) completely(9) friendly(10) and(11) as(12) accommodating(13) as(14) possible(15) .(16) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="staff" opWords="10" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="43">
+			Do(1) 'nt(2) expect(3) a(4) high(5) end(6) hotel(7) here(8) ,(9) but(10) it(11) will(12) probably(13) serve(14) you(15) better(16) than(17) a(18) local(19) Holiday(20) Inn(21) ,(22) although(23) pretty(24) close(25) in(26) quality(27) -(28) not(29) bad(30) ,(31) but(32) AAA(33) will(34) 'nt(35) be(36) giving(37) out(38) 4(39) stars(40) here(41) any(42) time(43) soon(44) .(45) 
+			<opinion featWords="7" feature="hotel" opWords="5,6" polarity="+"/>
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) are(3) looking(4) for(5) a(6) mostly(7) reliable(8) hotel(9) to(10) stay(11) at(12) and(13) can(14) get(15) a(16) decent(17) rate(18) ((19) less(20) than(21) $130(22) )(23) ,(24) then(25) you(26) might(27) consider(28) this(29) Four(30) Points(31) locale(32) .(33) 
+			<opinion featWords="9" feature="hotel" opWords="7,8" polarity="+"/>
+			<opinion featWords="18" feature="price" opWords="17" polarity="+"/>
+		</sentence>
+	</text>
+</review>

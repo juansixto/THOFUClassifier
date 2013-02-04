@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="55" item="Motel 6 Orlando Kissimmee Main Gate" rating="1">
+	<title>
+		<sentence id="1">
+			Motel(1) 6(2) You(3) Get(4) What(5) You(6) Pay(7) For(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Non(1) at(2) all(3) just(4) the(5) price(6) of(7) a(8) room(9) 34.00(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) Light(2) On(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Not(1) Safe(2) !(3) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) commercial(2) "(3) We(4) Leave(5) The(6) Light(7) On(8) For(9) You(10) "(11) Is(12) Not(13) True(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			We(1) recently(2) stayed(3) at(4) a(5) Motel(6) 6(7) over(8) night(9) while(10) visiting(11) family(12) ,(13) our(14) car(15) broke(16) down(17) in(18) the(19) parking(20) lot(21) ((22) Tell(23) me(24) about(25) it(26) )(27) We(28) were(29) stuck(30) and(31) had(32) to(33) stay(34) the(35) room(36) price(37) with(38) tax(39) wa(40) 34.00(41) ,(42) But(43) I(44) have(45) never(46) stayed(47) in(48) a(49) motel(50) and(51) never(52) will(53) again(54) .(55) 
+		</sentence>
+		<sentence id="3">
+			First(1) of(2) all(3) the(4) room(5) lights(6) outside(7) are(8) not(9) on(10) for(11) ALL(12) ROOMS(13) ,(14) you(15) have(16) your(17) typical(18) loosers(19) walking(20) around(21) trying(22) to(23) get(24) into(25) the(26) rooms(27) also(28) Drug(29) Busts(30) and(31) also(32) Domestic(33) Disputes(34) !(35) 
+		</sentence>
+		<sentence id="4">
+			This(1) is(2) not(3) a(4) place(5) you(6) bring(7) your(8) children(9) too(10) for(11) a(12) stay(13) for(14) theme(15) parks(16) I(17) know(18) the(19) saying(20) "(21) It(22) 's(23) just(24) a(25) motel(26) to(27) sleep(28) in(29) "(30) Yes(31) but(32) my(33) threory(34) is(35) "(36) Do(37) you(38) want(39) to(40) sleep(41) with(42) one(43) eye(44) opened(45) or(46) 2(47) eys(48) closed(49) "(50) Room(51) was(52) clean(53) No(54) coffe(55) pot(56) expected(57) ,(58) we(59) slept(60) with(61) chair(62) against(63) the(64) door(65) !(66) 
+			<opinion featWords="51" feature="rooms" opWords="53" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Not(1) worht(2) the(3) risk(4) !(5) !(6) 
+		</sentence>
+		<sentence id="6">
+			For(1) 59.00(2) You(3) can(4) stay(5) on(6) Disney(7) property(8) for(9) same(10) size(11) room(12) probably(13) bigger(14) 
+		</sentence>
+	</text>
+</review>

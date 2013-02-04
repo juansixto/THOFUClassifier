@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="779" item="Copthorne Tara Kensington Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			A(1) week(2) in(3) the(4) Copthorne(5) Tara(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) nice(2) hotel(3) ...(4) helpful(5) staff(6) 
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+" potency="1"/>
+			<opinion featWords="6" feature="staff" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			did(1) not(2) have(3) any(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) hotel(2) .....(3) would(4) definately(5) stay(6) there(7) again(8) !(9) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) my(2) son(3) and(4) I(5) were(6) in(7) London(8) in(9) April(10) this(11) year(12) ,(13) we(14) spent(15) a(16) week(17) in(18) the(19) Copthorne(20) Tara(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) very(4) nice(5) hotel(6) and(7) the(8) staff(9) were(10) very(11) helpful(12) to(13) us(14) .(15) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="+"/>
+			<opinion featWords="9" feature="staff" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) were(3) very(4) clean(5) when(6) we(7) returned(8) each(9) day(10) from(11) sightseeing(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a(3) nice(4) gift(5) shop(6) ,(7) a(8) theatre(9) reservation(10) desk(11) ,(12) a(13) currency(14) exchange(15) window(16) ,(17) and(18) 3(19) restaurants(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) located(3) a(4) block(5) from(6) High(7) Street(8) Kensington(9) ((10) buses(11) and(12) the(13) tubes(14) )(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) only(3) 0.5(4) miles(5) from(6) Harrod(7) 's(8) and(9) Notting(10) Hill(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			You(1) are(2) 10(3) minutes(4) from(5) Kensington(6) Palace(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			Very(1) good(2) location(3) for(4) walking(5) about(6) in(7) London(8) !(9) !(10) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+	</text>
+</review>

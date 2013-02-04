@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="372" item="La Copa Inn Resort" rating="2">
+	<title>
+		<sentence id="1">
+			What(1) La(2) Copa(3) meant(4) to(5) my(6) romantic(7) weekend(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			On(1) the(2) beach(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Nice(1) beds(2) .(3) 
+			<opinion featWords="2" feature="bed" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			price(1) ,(2) quality(3) ,(4) not(5) a(6) resort(7) at(8) all(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) to(2) the(3) Motel(4) 6(5) across(6) the(7) street(8) and(9) get(10) the(11) same(12) experience(13) b(14) /(15) c(16) you(17) will(18) still(19) technically(20) be(21) walking(22) to(23) a(24) public(25) beach(26) .(27) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) La(2) Copa(3) Inn(4) is(5) more(6) on(7) par(8) with(9) a(10) Days(11) Inn(12) in(13) service(14) and(15) amenities(16) ,(17) only(18) at(19) 4(20) times(21) the(22) price(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			Two(1) complimentary(2) drinks(3) ,(4) a(5) continental(6) breakfast(7) ((8) read(9) coffee(10) ,(11) donuts(12) ,(13) and(14) four(15) waffles(16) irons(17) )(18) ,(19) and(20) access(21) to(22) an(23) already(24) public(25) beach(26) do(27) not(28) a(29) resort(30) make(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			The(1) La(2) Copa(3) does(4) not(5) even(6) offer(7) complimentary(8) beach(9) chairs(10) at(11) their(12) resort(13) ,(14) but(15) at(16) the(17) end(18) of(19) the(20) admittedly(21) nice(22) wooden(23) walkway(24) to(25) the(26) beach(27) await(28) the(29) no(30) doubt(31) cousins(32) of(33) the(34) owners(35) with(36) their(37) $15(38) per(39) day(40) rental(41) chairs(42) .(43) 
+		</sentence>
+		<sentence id="4">
+			Want(1) an(2) umbrella(3) with(4) that(5) ?(6) 
+		</sentence>
+		<sentence id="5">
+			Apparently(1) at(2) more(3) than(4) $200(5) a(6) night(7) even(8) for(9) rooms(10) that(11) do(12) not(13) have(14) a(15) view(16) of(17) the(18) ocean(19) ,(20) the(21) La(22) Copa(23) can(24) not(25) afford(26) to(27) offer(28) their(29) customers(30) chairs(31) and(32) umbrellas(33) .(34) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) ridiculous(3) .(4) 
+		</sentence>
+		<sentence id="7">
+			I(1) could(2) not(3) get(4) wireless(5) internet(6) to(7) work(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			But(1) the(2) hotel(3) offered(4) "(5) The(6) Business(7) Room(8) "(9) with(10) 3(11) eMachines(12) ,(13) one(14) of(15) which(16) did(17) not(18) work(19) ,(20) and(21) the(22) other(23) two(24) with(25) connections(26) so(27) slow(28) that(29) I(30) could(31) not(32) check(33) my(34) email(35) in(36) the(37) imposed(38) 15(39) minute(40) time(41) limit(42) .(43) 
+		</sentence>
+		<sentence id="9">
+			Take(1) my(2) advice(3) and(4) stay(5) at(6) the(7) Motel(8) 6(9) across(10) the(11) street(12) for(13) a(14) third(15) the(16) price(17) ,(18) and(19) walk(20) over(21) to(22) the(23) beach(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Your(1) hot(2) girlfriend(3) is(4) not(5) going(6) to(7) mind(8) ,(9) and(10) you(11) can(12) spend(13) that(14) $300(15) you(16) save(17) for(18) the(19) weekend(20) on(21) a(22) couple(23) of(24) nice(25) meals(26) at(27) De(28) Luna(29) 's(30) .(31) 
+			<opinion featWords="26" feature="food" opWords="25" polarity="+"/>
+		</sentence>
+	</text>
+</review>

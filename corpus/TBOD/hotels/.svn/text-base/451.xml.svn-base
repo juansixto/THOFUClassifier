@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="451" item="Comfort Inn Pont-A-Mousson" rating="3">
+	<title>
+		<sentence id="1">
+			Comfort(1) in(2) Pont-A-Mousson(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			A(1) good(2) stopover(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pretty(1) basic(2) .(3) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Comfort(1) Inn(2) Primavere(3) ,(4) Pont-A-Mousson(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Last(1) September(2) ,(3) we(4) drove(5) from(6) Frankfurt-Hahn(7) airport(8) to(9) the(10) South(11) of(12) France(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			By(1) the(2) time(3) we(4) had(5) landed(6) and(7) picked(8) up(9) our(10) hired(11) car(12) ,(13) a(14) couple(15) of(16) hours(17) driving(18) was(19) all(20) that(21) I(22) was(23) willing(24) to(25) do(26) ,(27) or(28) to(29) be(30) more(31) accurate(32) ,(33) capable(34) of(35) doing(36) ,(37) before(38) laying(39) our(40) weary(41) heads(42) down(43) for(44) the(45) night(46) .(47) 
+		</sentence>
+		<sentence id="3">
+			We(1) 've(2) done(3) the(4) journey(5) before(6) and(7) the(8) last(9) time(10) we(11) stayed(12) in(13) a(14) Campanile(15) hotel(16) a(17) little(18) ways(19) past(20) Nancy(21) -(22) which(23) was(24) fine(25) ,(26) but(27) it(28) was(29) just(30) a(31) little(32) too(33) far(34) .(35) so(36) this(37) time(38) ,(39) after(40) a(41) little(42) search(43) ,(44) we(45) opted(46) for(47) the(48) Comfort(49) Inn(50) at(51) Pont-A-Mousson(52) ,(53) halfway(54) between(55) Metz(56) and(57) Nancy(58) .(59) 
+		</sentence>
+		<sentence id="4">
+			It(1) seemed(2) a(3) good(4) choice(5) for(6) what(7) we(8) wanted(9) as(10) it(11) was(12) on(13) the(14) access(15) road(16) from(17) the(18) town(19) to(20) the(21) motorway(22) we(23) were(24) traveling(25) on(26) which(27) would(28) mean(29) it(30) 'd(31) be(32) easy(33) to(34) find(35) and(36) easy(37) to(38) get(39) back(40) on(41) our(42) travels(43) first(44) thing(45) in(46) the(47) morning(48) .(49) 
+		</sentence>
+		<sentence id="5">
+			Well(1) ,(2) that(3) was(4) the(5) plan(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) three(3) ((4) count(5) them(6) ,(7) 3(8) )(9) exits(10) that(11) can(12) be(13) taken(14) for(15) Pont-A-Mousson(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			These(1) are(2) :(3) 28(4) ,(5) 27(6) ,(7) and(8) 26(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			We(1) took(2) 25(3) .(4) 
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) not(3) a(4) major(5) problem(6) ,(7) it(8) just(9) meant(10) driving(11) ten(12) miles(13) or(14) so(15) through(16) the(17) southern(18) ,(19) industrial(20) suburbs(21) of(22) the(23) town(24) .(25) ((26) Pont-A-Mousson(27) is(28) a(29) steel(30) town(31) and(32) it(33) certainly(34) was(35) not(36) the(37) most(38) attractive(39) direction(40) to(41) approach(42) the(43) town(44) from(45) !(46) )(47) Had(48) we(49) taken(50) any(51) one(52) of(53) the(54) other(55) three(56) exits(57) ,(58) all(59) would(60) have(61) led(62) onto(63) the(64) same(65) road(66) into(67) town(68) across(69) the(70) old(71) bridge(72) .(73) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) was(3) on(4) this(5) road(6) ,(7) a(8) few(9) hundred(10) metres(11) from(12) the(13) bridge(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			The(1) hotel(2) is(3) pretty(4) hard(5) to(6) miss(7) as(8) it(9) sits(10) next(11) to(12) a(13) roundabout(14) and(15) is(16) the(17) only(18) white(19) ,(20) three-storey(21) building(22) in(23) a(24) sea(25) of(26) suburban(27) ,(28) terraced(29) housing(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			The(1) rear(2) of(3) the(4) hotel(5) looks(6) over(7) some(8) rough(9) ground(10) to(11) the(12) River(13) Moselle(14) so(15) a(16) room(17) at(18) the(19) back(20) of(21) the(22) hotel(23) would(24) be(25) relatively(26) peaceful(27) .(28) 
+			<opinion featWords="23" feature="hotel" opWords="27" polarity="+" potency="26"/>
+		</sentence>
+		<sentence id="13">
+			Our(1) room(2) was(3) at(4) the(5) front(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			The(1) hotel(2) has(3) 40(4) rooms(5) -(6) 16(7) with(8) king-size(9) beds(10) ,(11) 20(12) with(13) twin(14) beds(15) ,(16) 2(17) family(18) rooms(19) and(20) 2(21) rooms(22) suitable(23) for(24) disabled(25) guests(26) .(27) 
+		</sentence>
+		<sentence id="15">
+			All(1) rooms(2) are(3) fully(4) equipped(5) with(6) telephone(7) ,(8) television(9) ,(10) Canal(11) +(12) ,(13) bathroom(14) and(15) WC(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) smoking(3) and(4) non-smoking(5) rooms(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			Check-in(1) We(2) had(3) pre-booked(4) so(5) checking(6) in(7) was(8) a(9) formality(10) that(11) took(12) no(13) more(14) than(15) a(16) very(17) few(18) minutes(19) -(20) the(21) staff(22) spoke(23) good(24) English(25) and(26) were(27) pleasant(28) and(29) friendly(30) .(31) 
+			<opinion featWords="22" feature="staff" opWords="28" polarity="+"/>
+			<opinion featWords="22" feature="staff" opWords="30" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			The(1) lobby(2) was(3) not(4) very(5) large(6) but(7) there(8) was(9) enough(10) space(11) for(12) a(13) sofa(14) and(15) a(16) couple(17) of(18) easy-chairs(19) where(20) you(21) could(22) read(23) the(24) free(25) local(26) newspapers(27) -(28) assuming(29) you(30) could(31) read(32) in(33) French(34) ,(35) obviously(36) .(37) 
+			<opinion featWords="2" feature="lobby" opWords="4,6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="19">
+			The(1) bar(2) and(3) restaurant(4) led(5) off(6) from(7) the(8) reception(9) area(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			There(1) was(2) no(3) elevator(4) ,(5) so(6) it(7) was(8) a(9) trudge(10) up(11) the(12) stairs(13) and(14) into(15) the(16) room(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			Our(1) Room(2) As(3) this(4) would(5) be(6) classed(7) as(8) a(9) budget(10) hotel(11) ,(12) we(13) were(14) not(15) expecting(16) to(17) be(18) overwhelmed(19) by(20) the(21) opulent(22) grandeur(23) of(24) the(25) room(26) -(27) we(28) were(29) not(30) disappointed(31) .(32) 
+		</sentence>
+		<sentence id="22">
+			do(1) not(2) get(3) me(4) wrong(5) ,(6) the(7) room(8) was(9) OK(10) ,(11) but(12) it(13) was(14) basic(15) .(16) 
+			<opinion featWords="8" feature="rooms" opWords="10" polarity="+"/>
+			<opinion featWords="8" feature="rooms" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			The(1) twin(2) beds(3) were(4) a(5) little(6) too(7) close(8) together(9) but(10) they(11) were(12) comfortable(13) enough(14) ,(15) and(16) there(17) was(18) adequate(19) wardrobe(20) and(21) drawer(22) space(23) .(24) 
+			<opinion featWords="3" feature="bed" opWords="13,14" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			No(1) fancy(2) table(3) and(4) chairs(5) here(6) ,(7) just(8) a(9) sort(10) of(11) bench-type(12) affair(13) below(14) the(15) window(16) and(17) a(18) desk(19) and(20) chair(21) in(22) the(23) corner(24) below(25) the(26) wall-mounted(27) TV(28) -(29) I(30) hate(31) those(32) .(33) 
+		</sentence>
+		<sentence id="25">
+			Not(1) so(2) much(3) because(4) they(5) 're(6) wall-mounted(7) as(8) such(9) ,(10) but(11) for(12) some(13) unfathomable(14) reason(15) ,(16) they(17) 're(18) usually(19) just(20) a(21) couple(22) of(23) inches(24) from(25) the(26) ceiling(27) and(28) almost(29) impossible(30) to(31) watch(32) unless(33) you(34) 're(35) flat(36) on(37) your(38) back(39) .(40) 
+		</sentence>
+		<sentence id="26">
+			The(1) decor(2) in(3) the(4) room(5) was(6) bland(7) ,(8) inoffensive(9) and(10) instantly(11) forgettable(12) ,(13) which(14) is(15) why(16) I(17) will(18) not(19) be(20) describing(21) it(22) here(23) .(24) 
+			<opinion featWords="2" feature="decoration" opWords="7" polarity="-"/>
+			<opinion featWords="2" feature="decoration" opWords="9" polarity="-"/>
+			<opinion featWords="2" feature="decoration" opWords="12" polarity="-" potency="11"/>
+		</sentence>
+		<sentence id="27">
+			Suffice(1) to(2) say(3) it(4) was(5) bright(6) ,(7) clean(8) and(9) in(10) a(11) reasonable(12) state(13) of(14) repair(15) -(16) as(17) was(18) the(19) carpet(20) .(21) 
+			<opinion featRef="rooms" featWords="4" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featRef="rooms" featWords="4" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			Overall(1) ,(2) the(3) room(4) was(5) clean(6) and(7) tidy(8) ,(9) if(10) a(11) little(12) tired(13) .(14) 
+			<opinion featWords="4" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="4" feature="rooms" opWords="8" polarity="+"/>
+			<opinion featWords="4" feature="rooms" opWords="13" polarity="-" potency="12"/>
+		</sentence>
+		<sentence id="29">
+			The(1) bathroom(2) was(3) small(4) and(5) functional(6) .(7) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="30">
+			It(1) had(2) all(3) the(4) facilities(5) you(6) would(7) expect(8) in(9) a(10) room(11) of(12) this(13) nature(14) although(15) the(16) bath-tub(17) was(18) definitely(19) of(20) the(21) small(22) variety(23) -(24) plop(25) a(26) battleship(27) and(28) a(29) couple(30) of(31) rubber(32) ducks(33) in(34) and(35) there(36) be(37) no(38) room(39) to(40) climb(41) in(42) beside(43) them(44) ......(45) luckily(46) the(47) shower(48) was(49) good(50) .(51) 
+		</sentence>
+		<sentence id="31">
+			The(1) toiletries(2) were(3) adequate(4) and(5) the(6) towels(7) were(8) soft(9) ,(10) fluffy(11) and(12) glaringly(13) clean(14) .(15) 
+			<opinion featWords="7" feature="towels" opWords="9" polarity="+"/>
+			<opinion featWords="7" feature="towels" opWords="11" polarity="+"/>
+			<opinion featWords="7" feature="towels" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+		<sentence id="32">
+			The(1) room(2) did(3) not(4) have(5) A(6) /(7) C(8) but(9) as(10) we(11) 'd(12) brought(13) the(14) cool(15) weather(16) with(17) us(18) ,(19) it(20) was(21) not(22) really(23) a(24) concern(25) for(26) us(27) .(28) we(29) had(30) the(31) window(32) open(33) but(34) because(35) we(36) faced(37) the(38) road(39) ,(40) the(41) traffic(42) noise(43) was(44) a(45) little(46) intrusive(47) -(48) although(49) the(50) road(51) was(52) not(53) to(54) busy(55) after(56) around(57) 10pm(58) .(59) ing(60) and(61) Drinking(62) For(63) all(64) those(65) people(66) who(67) have(68) withdrawal(69) symptoms(70) when(71) they(72) go(73) more(74) than(75) a(76) McDay(77) without(78) a(79) McFix(80) of(81) McMince(82) ,(83) there(84) 's(85) a(86) well-known(87) chain(88) restaurant(89) -(90) which(91) shall(92) remain(93) nameless(94) ((95) as(96) well(97) as(98) tasteless(99) )(100) directly(101) next(102) door(103) to(104) the(105) hotel(106) .(107) 
+		</sentence>
+		<sentence id="33">
+			Centre-Ville(1) is(2) just(3) on(4) the(5) other(6) side(7) of(8) the(9) river(10) and(11) the(12) bridge(13) is(14) just(15) a(16) few(17) minutes(18) walk(19) .(20) 
+		</sentence>
+		<sentence id="34">
+			We(1) drove(2) through(3) the(4) middle(5) of(6) town(7) on(8) our(9) circuitous(10) route(11) to(12) the(13) hotel(14) and(15) it(16) looked(17) fairly(18) pleasant(19) with(20) lots(21) of(22) dining(23) opportunities(24) ,(25) but(26) we(27) decided(28) to(29) eat(30) at(31) the(32) hotel(33) .(34) 
+		</sentence>
+		<sentence id="35">
+			We(1) knew(2) from(3) experience(4) that(5) French(6) hotels(7) like(8) this(9) pride(10) themselves(11) on(12) their(13) restaurants(14) and(15) we(16) have(17) had(18) many(19) great(20) meals(21) in(22) these(23) and(24) the(25) similar(26) Campanile(27) chain(28) .(29) 
+			<opinion featWords="21" feature="food" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="36">
+			For(1) a(2) few(3) pennies(4) more(5) than(6) the(7) price(8) of(9) a(10) McWhopperMac(11) Big(12) McMeal(13) thingie(14) ,(15) we(16) sat(17) down(18) to(19) an(20) '(21) all(22) you(23) can(24) eat(25) '(26) buffet(27) with(28) items(29) such(30) as(31) :(32) fresh(33) salmon(34) ,(35) prawns(36) ,(37) cold(38) meats(39) ,(40) a(41) forest(42) of(43) salads(44) and(45) lots(46) of(47) bread(48) and(49) cheese(50) .(51) 
+		</sentence>
+		<sentence id="37">
+			Of(1) course(2) ,(3) drinks(4) were(5) extra(6) but(7) last(8) time(9) I(10) looked(11) ,(12) Big(13) Ron(14) did(15) not(16) serve(17) a(18) nice(19) bottle(20) of(21) Cote(22) De(23) Nuits(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			I(1) 'd(2) thoroughly(3) recommend(4) the(5) restaurant(6) ,(7) whether(8) for(9) a(10) snack(11) ,(12) or(13) a(14) full-blown(15) feast(16) .(17) 
+		</sentence>
+		<sentence id="39">
+			In(1) conclusion(2) ,(3) this(4) hotel(5) was(6) not(7) the(8) Ritz(9) -(10) of(11) course(12) ,(13) neither(14) is(15) the(16) Plaza(17) -(18) but(19) we(20) were(21) not(22) expecting(23) a(24) luxurious(25) resort(26) .(27) 
+		</sentence>
+		<sentence id="40">
+			What(1) we(2) wanted(3) was(4) somewhere(5) to(6) stop(7) around(8) 7-8pm(9) ,(10) have(11) a(12) bite(13) to(14) eat(15) ,(16) get(17) a(18) decent(19) night(20) 's(21) sleep(22) ,(23) get(24) up(25) with(26) the(27) larks(28) *(29) and(30) be(31) on(32) the(33) motorway(34) heading(35) south(36) before(37) the(38) roads(39) got(40) too(41) busy(42) .(43) 
+		</sentence>
+		<sentence id="41">
+			Mr(1) &amp;(2) Mrs(3) Lark(4) were(5) going(6) to(7) Arles(8) .(9) 
+		</sentence>
+		<sentence id="42">
+			It(1) was(2) clean(3) ,(4) it(5) was(6) cheap(7) ,(8) it(9) was(10) cheerful(11) and(12) it(13) was(14) conveniently(15) located(16) .(17) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3" polarity="+"/>
+			<opinion feature="price" opWords="7" polarity="+"/>
+			<opinion featRef="hotel" featWords="9" feature="hotel" opWords="11" polarity="+"/>
+			<opinion featRef="place" featWords="13" feature="place" opWords="15,16" polarity="+"/>
+		</sentence>
+		<sentence id="43">
+			Our(1) room(2) cost(3) 45(4) euros(5) ,(6) which(7) is(8) 32(9) or(10) about(11) $55(12) -(13) a(14) pretty(15) competitive(16) rate(17) ,(18) I(19) think(20) you(21) 'll(22) agree(23) .(24) 
+			<opinion featWords="17" feature="price" opWords="16" polarity="+" potency="15"/>
+		</sentence>
+		<sentence id="44">
+			Thanks(1) for(2) reading(3) proxam2004(4) 
+		</sentence>
+	</text>
+</review>

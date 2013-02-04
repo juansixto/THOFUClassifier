@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="572" item="Sahara Hotel &amp; Casino" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) value(2) on(3) the(4) strip(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) price(2) ,(3) Monorail(4) access(5) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Buffet(1) quality(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) a(6) good(7) hotel(8) at(9) a(10) great(11) price(12) then(13) I(14) 'd(15) recommend(16) the(17) Sahara(18) .(19) 
+			<opinion featWords="8" feature="hotel" opWords="7" polarity="+"/>
+			<opinion featWords="12" feature="price" opWords="11" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) stayed(3) in(4) the(5) Sahara(6) 4-5(7) times(8) now(9) over(10) the(11) past(12) few(13) years(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) 've(2) also(3) stayed(4) at(5) Riviera(6) ,(7) Excalibur(8) ,(9) Circus(10) Circus(11) ,(12) Imperial(13) Palace(14) and(15) Four(16) Queens(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			Sahara(1) remains(2) my(3) favorite(4) for(5) the(6) value(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			PRICE(1) /(2) VALUE(3) If(4) you(5) shop(6) around(7) and(8) compare(9) the(10) major(11) hotels(12) on(13) the(14) strip(15) the(16) Sahara(17) usually(18) has(19) the(20) cheaper(21) rates(22) .(23) 
+			<opinion featWords="12" feature="hotel" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			You(1) can(2) find(3) cheaper(4) hotels(5) downtown(6) but(7) the(8) quality(9) is(10) lower(11) and(12) the(13) access(14) to(15) the(16) strip(17) from(18) the(19) Sahara(20) is(21) a(22) good(23) value(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) want(3) 4-5(4) star(5) quality(6) then(7) this(8) is(9) not(10) the(11) place(12) for(13) you(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			But(1) if(2) you(3) want(4) a(5) good(6) room(7) on(8) the(9) strip(10) for(11) a(12) great(13) price(14) then(15) I(16) 'd(17) recommend(18) the(19) Sahara(20) .(21) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="14" feature="price" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			ROOMS(1) The(2) rooms(3) are(4) decent(5) size(6) and(7) the(8) furniture(9) and(10) decorations(11) are(12) in(13) good(14) condition(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			Theres(1) nothing(2) especially(3) fancy(4) here(5) but(6) they(7) are(8) clean(9) .(10) 
+			<opinion featRef="rooms" featWords="7" feature="rooms" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			ATTRACTIONS(1) The(2) rollercoaster(3) at(4) the(5) Sahara(6) is(7) pretty(8) good(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			But(1) other(2) than(3) that(4) the(5) features(6) and(7) attractions(8) at(9) the(10) Sahara(11) are(12) not(13) too(14) impressive(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) a(3) NASCAR(4) cafe(5) and(6) NASCAR(7) theme(8) stuff(9) which(10) might(11) appeal(12) some(13) to(14) NASCAR(15) fans(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			But(1) honestly(2) I(3) do(4) not(5) see(6) much(7) there(8) to(9) interest(10) folks(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			I(1) have(2) not(3) tried(4) the(5) pool(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			THe(1) pool(2) is(3) not(4) too(5) big(6) but(7) looks(8) ok(9) .(10) 
+			<opinion featWords="2" feature="swimming pool" opWords="4,5,6" polarity="-"/>
+			<opinion featWords="2" feature="swimming pool" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			The(1) casino(2) is(3) typical(4) of(5) large(6) vegas(7) hotels(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			They(1) have(2) all(3) the(4) main(5) gambling(6) options(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			The(1) slots(2) &amp;(3) video(4) poker(5) are(6) converted(7) to(8) tickets(9) now(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			Sports(1) book(2) is(3) pretty(4) meager(5) .(6) 
+		</sentence>
+		<sentence id="20">
+			FOOD(1) I(2) do(3) not(4) recommend(5) the(6) buffet(7) here(8) .(9) 
+			<opinion featWords="7" feature="food" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="21">
+			The(1) buffet(2) is(3) not(4) particularly(5) good(6) .(7) 
+			<opinion featWords="2" feature="food" opWords="4,6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="22">
+			Its(1) cheap(2) but(3) there(4) are(5) a(6) lot(7) better(8) buffet(9) options(10) around(11) .(12) 
+			<opinion feature="price" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			This(1) is(2) one(3) of(4) the(5) worst(6) I(7) 've(8) been(9) to(10) frankly(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) need(3) to(4) eat(5) at(6) Sahara(7) then(8) try(9) out(10) the(11) cafe(12) .(13) 
+		</sentence>
+		<sentence id="25">
+			Its(1) OK(2) prices(3) and(4) decent(5) food(6) .(7) 
+			<opinion featWords="3" feature="price" opWords="2" polarity="+"/>
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			But(1) overall(2) ,(3) I(4) 'd(5) eat(6) elsewhere(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			MONORAIL(1) One(2) nice(3) feature(4) is(5) that(6) the(7) Sahara(8) has(9) a(10) monorail(11) station(12) for(13) easy(14) trips(15) up(16) and(17) down(18) the(19) strip(20) .(21) 
+		</sentence>
+		<sentence id="28">
+			As(1) of(2) last(3) visit(4) ((5) April(6) 2007(7) )(8) the(9) monorail(10) was(11) $5(12) a(13) trip(14) or(15) $15(16) for(17) all(18) day(19) .(20) 
+		</sentence>
+	</text>
+</review>

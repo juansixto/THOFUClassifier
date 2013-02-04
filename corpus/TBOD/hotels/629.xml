@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="629" item="Wolcott Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Affordable(1) Mid-Town(2) Location(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			That(1) 's(2) about(3) it(4) .(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			location(1) ,(2) price(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			it(1) 's(2) an(3) old(4) hotel(5) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) an(3) affordable(4) centrally(5) located(6) hotel(7) in(8) a(9) city(10) where(11) very(12) little(13) is(14) affordable(15) .(16) 
+			<opinion feature="price" opWords="4" polarity="+"/>
+			<opinion feature="place" opWords="5,6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Wolcott(2) Hotel(3) is(4) affordable(5) and(6) located(7) in(8) Midtown(9) Manhattan(10) .(11) 
+			<opinion feature="price" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) 're(3) not(4) rolling(5) in(6) dough(7) and(8) you(9) want(10) to(11) be(12) close(13) to(14) a(15) touristy(16) area(17) of(18) NYC(19) ,(20) this(21) is(22) probably(23) a(24) good(25) choice(26) for(27) you(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			OVERALL(1) Nothing(2) at(3) the(4) Wolcott(5) is(6) new(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			From(1) the(2) once(3) grand(4) ,(5) now(6) rather(7) gaudy(8) retro(9) lobby(10) ,(11) all(12) they(13) way(14) up(15) the(16) creaky(17) elevator(18) to(19) the(20) misshapen(21) and(22) rather(23) dark(24) rooms(25) ,(26) this(27) is(28) a(29) place(30) that(31) once(32) was(33) .(34) 
+			<opinion featWords="18" feature="elevator" opWords="17" polarity="-"/>
+			<opinion featWords="25" feature="rooms" opWords="24" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			But(1) for(2) the(3) price(4) ,(5) I(6) can(7) put(8) up(9) with(10) a(11) little(12) decrepitness(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			My(1) triple(2) room(3) was(4) $200(5) ,(6) had(7) a(8) private(9) bathroom(10) ,(11) and(12) was(13) reasonably(14) clean(15) .(16) 
+			<opinion featWords="3" feature="rooms" opWords="15" polarity="+" potency="14"/>
+			<opinion featWords="10" feature="bathroom" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			That(1) 's(2) good(3) enough(4) for(5) me(6) .(7) 
+			<opinion feature="hotel" opWords="3,4" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			LOCATION(1) The(2) Wolcott(3) is(4) located(5) in(6) Midtown(7) just(8) steps(9) from(10) the(11) Empire(12) State(13) Building(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			The(1) section(2) of(3) 31st(4) Street(5) the(6) hotel(7) is(8) actually(9) on(10) is(11) not(12) grand(13) or(14) well(15) lit(16) ,(17) and(18) we(19) were(20) followed(21) by(22) a(23) homeless(24) man(25) one(26) night(27) for(28) several(29) blocks(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			But(1) it(2) 's(3) as(4) safe(5) a(6) location(7) as(8) any(9) in(10) NYC(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) a(3) subway(4) terminal(5) about(6) two(7) blocks(8) away(9) ,(10) making(11) it(12) easy(13) to(14) get(15) anywhere(16) in(17) the(18) city(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			The(1) Wolcott(2) does(3) not(4) have(5) a(6) restaurant(7) but(8) there(9) are(10) plenty(11) of(12) dining(13) options(14) in(15) the(16) area(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			Koreatown(1) is(2) nearby(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			There(1) is(2) a(3) cute(4) gourmet(5) take(6) out(7) place(8) on(9) a(10) nearby(11) corner(12) .(13) 
+			<opinion featWords="8" feature="place" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			And(1) while(2) I(3) was(4) at(5) the(6) Wolcott(7) ,(8) I(9) actually(10) had(11) some(12) decent(13) sushi(14) delivered(15) to(16) my(17) room(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			THE(1) ROOM(2) Again(3) ,(4) I(5) stayed(6) in(7) a(8) triple(9) with(10) a(11) private(12) bathroom(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Some(1) of(2) the(3) rooms(4) at(5) the(6) Wolcott(7) have(8) shared(9) bathrooms(10) in(11) the(12) hall(13) ,(14) but(15) that(16) would(17) be(18) made(19) clear(20) when(21) reserving(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			The(1) triple(2) was(3) quite(4) spacious(5) ,(6) considering(7) I(8) have(9) stayed(10) in(11) NYC(12) hotel(13) rooms(14) where(15) I(16) could(17) touch(18) three(19) of(20) four(21) walls(22) from(23) my(24) bed(25) .(26) 
+			<opinion feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="19">
+			My(1) room(2) consisted(3) of(4) three(5) twin(6) beds(7) ,(8) two(9) in(10) one(11) room(12) with(13) a(14) tv(15) and(16) dresser(17) ,(18) and(19) the(20) third(21) past(22) an(23) arched(24) doorway(25) ((26) no(27) door(28) )(29) ,(30) in(31) a(32) little(33) separate(34) area(35) with(36) a(37) second(38) television(39) .(40) 
+		</sentence>
+		<sentence id="20">
+			The(1) bathroom(2) was(3) plain(4) and(5) smallish(6) ,(7) but(8) clean(9) enough(10) .(11) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="bathroom" opWords="9,10" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			A(1) slightly(2) awkward(3) layout(4) ,(5) but(6) acceptable(7) by(8) all(9) accounts(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			PERKS(1) There(2) are(3) not(4) many(5) perks(6) besides(7) the(8) location(9) ,(10) cheap(11) wireless(12) access(13) ,(14) and(15) the(16) free(17) muffins(18) and(19) coffee(20) ,(21) served(22) in(23) the(24) ornate(25) lobby(26) every(27) morning(28) .(29) 
+		</sentence>
+		<sentence id="23">
+			For(1) light(2) packers(3) ,(4) there(5) is(6) also(7) laundry(8) on(9) the(10) bottom(11) floor(12) of(13) the(14) hotel(15) ,(16) though(17) I(18) never(19) used(20) it(21) .(22) 
+		</sentence>
+	</text>
+</review>

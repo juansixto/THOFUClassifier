@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="374" item="Hotel Domspatz" rating="4">
+	<title>
+		<sentence id="1">
+			Hotel(1) Domspatz(2) update(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			-(1) Right(2) in(3) town(4) -(5) Online(6) reservation(7) -(8) Modem(9) line(10) on(11) every(12) room(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			-(1) Higher(2) room(3) rates(4) during(5) exhibition(6) times(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) stay(3) there(4) again(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Hi(1) everyone(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			You(1) can(2) go(3) and(4) check(5) out(6) the(7) hotel(8) 's(9) webpage(10) at(11) http://www.hotel-domspatz.com(12) I(13) stayed(14) there(15) in(16) February(17) so(18) I(19) know(20) :(21) -(22) )(23) The(24) 12(25) room(26) hotel(27) is(28) really(29) nice(30) with(31) its(32) old-stylished(33) decor(34) ,(35) especially(36) in(37) the(38) breakfast(39) room(40) ,(41) but(42) it(43) is(44) a(45) modern(46) hotel(47) !(48) 
+			<opinion featWords="34" feature="decoration" opWords="33" polarity="+"/>
+			<opinion featWords="27" feature="hotel" opWords="30" polarity="+" potency="29"/>
+			<opinion featWords="47" feature="hotel" opWords="46" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) continental(2) breakfast(3) featured(4) classic(5) things(6) like(7) spreads(8) but(9) also(10) fresh(11) things(12) like(13) cheese(14) ,(15) salami(16) ,(17) cereals(18) ,(19) etc.(20) Bread(21) and(22) rolls(23) both(24) available(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			Tasted(1) fresh(2) and(3) good(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			Drinks(1) available(2) for(3) breakfast(4) were(5) fresh(6) juices(7) ,(8) coffee(9) ,(10) water(11) ,(12) mineral(13) water(14) ,(15) milk(16) ,(17) cacao(18) .(19) 
+		</sentence>
+		<sentence id="6">
+			Overall(1) I(2) 'd(3) say(4) a(5) good(6) and(7) typical(8) breakfast(9) with(10) something(11) to(12) eat(13) for(14) everyone(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			What(1) I(2) enjoyed(3) the(4) most(5) was(6) that(7) it(8) was(9) not(10) crowded(11) due(12) to(13) that(14) they(15) only(16) have(17) 12(18) rooms(19) .(20) 
+		</sentence>
+		<sentence id="8">
+			They(1) only(2) offer(3) breakfast(4) and(5) a(6) room(7) service(8) for(9) drinks(10) ,(11) but(12) there(13) are(14) enough(15) good(16) restaurants(17) around(18) the(19) hotel(20) and(21) also(22) at(23) a(24) 5(25) minutes(26) walking(27) distance(28) in(29) the(30) '(31) old(32) town(33) '(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			They(1) even(2) have(3) a(4) McDonald(5) 's(6) on(7) the(8) next(9) block(10) :(11) -(12) )(13) Sleeping(14) was(15) sound(16) and(17) good(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			When(1) I(2) first(3) booked(4) I(5) feared(6) that(7) you(8) would(9) hear(10) a(11) lot(12) at(13) night(14) because(15) it(16) is(17) in(18) the(19) middle(20) of(21) Cologne(22) and(23) close(24) to(25) the(26) big(27) spots(28) ,(29) but(30) they(31) have(32) good(33) windows(34) and(35) are(36) located(37) in(38) a(39) more(40) quiet(41) side-street(42) so(43) you(44) do(45) not(46) get(47) any(48) of(49) that(50) noise(51) you(52) would(53) expect(54) at(55) this(56) great(57) location(58) .(59) 
+			<opinion featWords="58" feature="place" opWords="57" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			I(1) only(2) had(3) to(4) walk(5) 30(6) seconds(7) to(8) get(9) to(10) the(11) Cathedral(12) or(13) main(14) station(15) but(16) did(17) not(18) hear(19) any(20) train(21) or(22) tour(23) bus(24) from(25) there(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Also(1) the(2) area(3) is(4) nice(5) and(6) modern(7) .(8) '(9) Bigger(10) '(11) things(12) renewed(13) end(14) of(15) 2001/early(16) 2002(17) :(18) New(19) carpets(20) ,(21) new(22) TV(23) sets(24) ,(25) all(26) rooms(27) and(28) areas(29) inside(30) repainted(31) ,(32) new(33) phones(34) on(35) all(36) rooms(37) .(38) 
+			<opinion featWords="3" feature="place" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="place" opWords="7" polarity="+"/>
+			<opinion featWords="20" feature="carpets" opWords="19" polarity="+"/>
+			<opinion featWords="23" feature="tv" opWords="22" polarity="+"/>
+			<opinion featWords="27" feature="rooms" opWords="31" polarity="+"/>
+			<opinion featWords="29" feature="place" opWords="31" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) cool(2) thing(3) is(4) that(5) you(6) can(7) go(8) and(9) plug(10) your(11) notebook(12) 's(13) modem(14) in(15) on(16) every(17) room(18) and(19) surf(20) the(21) web(22) or(23) send(24) a(25) fax(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) do(3) not(4) have(5) a(6) notebook(7) but(8) still(9) need(10) to(11) check(12) something(13) on(14) the(15) internet(16) you(17) can(18) do(19) so(20) at(21) the(22) reception(23) if(24) you(25) ask(26) .(27) 
+		</sentence>
+		<sentence id="15">
+			They(1) also(2) have(3) a(4) fax-service(5) and(6) several(7) other(8) services(9) you(10) 'll(11) find(12) on(13) their(14) webpage(15) under(16) the(17) '(18) The(19) hotel(20) '(21) section(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			I(1) booked(2) our(3) room(4) on(5) their(6) homepage(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			You(1) send(2) in(3) a(4) '(5) reservation(6) request(7) '(8) first(9) without(10) obligation(11) for(12) you(13) so(14) you(15) can(16) still(17) check(18) other(19) hotels(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			They(1) 'll(2) send(3) you(4) a(5) fax(6) or(7) e-mail(8) if(9) a(10) room(11) is(12) available(13) and(14) the(15) total(16) price(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			Simply(1) confirm(2) your(3) reservation(4) then(5) .(6) 
+		</sentence>
+		<sentence id="20">
+			That(1) 's(2) it(3) !(4) 
+		</sentence>
+	</text>
+</review>

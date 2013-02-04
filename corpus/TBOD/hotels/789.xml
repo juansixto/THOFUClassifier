@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="789" item="Ritz Carlton San Francisco" rating="5">
+	<title>
+		<sentence id="1">
+			This(1) is(2) an(3) excellent(4) hotel(5) for(6) your(7) San(8) Francisco(9) stay(10) !(11) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Incredibly(1) elegant(2) ,(3) excellent(4) health(5) facilities(6) ,(7) rooms(8) are(9) spacious(10) ,(11) worth(12) every(13) penny(14) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+			<opinion featWords="5,6" feature="gym" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Location(1) could(2) be(3) a(4) bit(5) better(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			With(1) its(2) extraordinary(3) well(4) known(5) reputation(6) ,(7) the(8) Ritz(9) Carlton(10) San(11) Francisco(12) is(13) a(14) hotel(15) that(16) you(17) will(18) feel(19) like(20) you(21) are(22) pampered(23) with(24) luxury(25) and(26) satisfaction(27) .(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) minute(2) that(3) I(4) pulled(5) up(6) to(7) this(8) hotel(9) ,(10) I(11) was(12) awaited(13) by(14) the(15) bell(16) man(17) in(18) their(19) proper(20) blue(21) jackets(22) ,(23) welcoming(24) us(25) to(26) one(27) of(28) the(29) greatest(30) cities(31) in(32) the(33) country(34) ,(35) San(36) Francisco(37) .(38) 
+		</sentence>
+		<sentence id="2">
+			This(1) was(2) my(3) first(4) time(5) here(6) ,(7) and(8) I(9) knew(10) that(11) staying(12) at(13) the(14) Ritz(15) would(16) certainly(17) not(18) displease(19) me(20) ,(21) but(22) the(23) overall(24) stay(25) was(26) much(27) better(28) than(29) what(30) I(31) imagined(32) .(33) 
+		</sentence>
+		<sentence id="3">
+			There(1) was(2) so(3) much(4) to(5) do(6) just(7) inside(8) the(9) hotel(10) that(11) it(12) made(13) touring(14) the(15) city(16) seem(17) boring(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			First(1) of(2) all(3) ,(4) there(5) are(6) many(7) restaurants(8) located(9) throughout(10) the(11) large(12) hotel(13) .(14) 
+			<opinion featWords="13" feature="hotel" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Anything(1) from(2) the(3) garden(4) restaurant(5) ,(6) to(7) the(8) little(9) lobby(10) restaurant(11) for(12) tea(13) and(14) cookies(15) ,(16) to(17) the(18) award(19) winning(20) dining(21) room(22) ,(23) voted(24) the(25) best(26) in(27) San(28) Francisco(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			Though(1) ,(2) beware(3) ,(4) look(5) at(6) the(7) prices(8) before(9) you(10) order(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Nothing(1) here(2) is(3) cheap(4) ,(5) but(6) there(7) is(8) not(9) doubt(10) that(11) it(12) is(13) worth(14) it(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			After(1) a(2) long(3) day(4) of(5) touring(6) the(7) city(8) ,(9) why(10) not(11) go(12) for(13) a(14) swim(15) in(16) the(17) amazing(18) health(19) center(20) ?(21) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) an(3) indoor(4) pool(5) ,(6) masseuse(7) ,(8) and(9) an(10) incredible(11) exercise(12) room(13) fitting(14) all(15) of(16) your(17) needs(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			Then(1) ,(2) stop(3) by(4) the(5) concierge(6) to(7) get(8) a(9) recommendation(10) for(11) the(12) best(13) restaurants(14) in(15) town(16) ,(17) if(18) you(19) want(20) to(21) leave(22) the(23) hotel(24) of(25) course(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) are(3) not(4) in(5) the(6) mood(7) to(8) leave(9) your(10) room(11) ,(12) there(13) are(14) many(15) hit(16) movies(17) to(18) choose(19) from(20) ,(21) and(22) room(23) service(24) is(25) exquisite(26) .(27) 
+		</sentence>
+		<sentence id="12">
+			Anything(1) from(2) a(3) business(4) trip(5) to(6) a(7) family(8) vacation(9) ,(10) The(11) Ritz(12) can(13) make(14) anyone(15) feel(16) satisfied(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			This(1) hotel(2) has(3) modern(4) amenities(5) ,(6) but(7) still(8) keeps(9) the(10) charm(11) and(12) luxury(13) of(14) historical(15) San(16) Francisco(17) .(18) 
+			<opinion featWords="5" feature="amenities" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) certainly(3) an(4) extraordinary(5) hotel(6) which(7) would(8) make(9) any(10) stay(11) in(12) San(13) Francisco(14) an(15) amazing(16) one(17) .(18) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+	</text>
+</review>

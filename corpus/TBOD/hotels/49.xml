@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="49" item="Adams Mark Winston Salem" rating="2">
+	<title>
+		<sentence id="1">
+			Needs(1) Improvement(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Downtown(1) location(2) connected(3) to(4) the(5) civic(6) center(7) .(8) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unprepared(1) to(2) handle(3) large(4) groups(5) at(6) check-in(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Small(1) room(2) .(3) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			We(1) were(2) very(3) disappointed(4) ,(5) especially(6) with(7) the(8) 90-minute(9) wait(10) to(11) check(12) in(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			A(1) convention(2) hotel(3) needs(4) to(5) anticipate(6) crowds(7) and(8) handle(9) them(10) more(11) efficiently(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) Adams(5) Mark(6) ,(7) Winston-Salem(8) ,(9) on(10) Thanksgiving(11) night(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) the(3) only(4) 3-star(5) hotel(6) available(7) through(8) Priceline(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			The(1) price(2) we(3) paid(4) ,(5) however(6) ,(7) was(8) only(9) a(10) few(11) dollars(12) less(13) than(14) their(15) government(16) employee(17) rate(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			When(1) we(2) got(3) there(4) ,(5) there(6) was(7) a(8) crowd(9) in(10) the(11) lobby(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			It(1) turns(2) out(3) the(4) check-in(5) line(6) snaked(7) through(8) the(9) lobby(10) ,(11) almost(12) to(13) the(14) bar(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) stood(2) in(3) line(4) 90(5) minutes(6) before(7) being(8) able(9) to(10) check(11) in(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) front(2) desk(3) was(4) understaffed(5) .(6) 
+			<opinion featWords="2,3" feature="front desk" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			The(1) computers(2) were(3) slow(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) a(3) cheerleader(4) event(5) the(6) next(7) day(8) ,(9) with(10) lots(11) of(12) families(13) checking(14) in(15) at(16) the(17) same(18) time(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) should(3) have(4) been(5) prepared(6) for(7) the(8) number(9) of(10) reservations(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			Once(1) we(2) got(3) to(4) our(5) room(6) ,(7) I(8) immediately(9) thought(10) of(11) the(12) Microtel(13) room(14) we(15) had(16) stayed(17) at(18) on(19) a(20) previous(21) trip(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			It(1) was(2) almost(3) that(4) small(5) .(6) 
+			<opinion featRef="rooms" featWords="1" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			There(1) was(2) not(3) a(4) closet(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			The(1) room(2) had(3) just(4) one(5) double(6) bed(7) ,(8) an(9) entertainment(10) center(11) ((12) with(13) drawers(14) and(15) a(16) pseudo-closet(17) )(18) ,(19) a(20) couple(21) of(22) small(23) lamp(24) tables(25) beside(26) the(27) bed(28) ,(29) a(30) small(31) table(32) and(33) chair(34) .(35) 
+			<opinion featWords="32" feature="tables" opWords="31" polarity="-"/>
+			<opinion featWords="34" feature="chairs" opWords="31" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			The(1) bathroom(2) was(3) similarly(4) cramped(5) ,(6) especially(7) the(8) shower(9) ,(10) which(11) had(12) a(13) ceiling(14) height(15) of(16) 6(17) '(18) 6(19) "(20) .(21) The(22) carpet(23) was(24) worn(25) and(26) stained(27) .(28) The(29) linens(30) were(31) not(32) good(33) --(34) not(35) up(36) to(37) my(38) 3-star(39) standards(40) .(41) I(42) 'm(43) sure(44) my(45) 90-minute(46) wait(47) to(48) check(49) in(50) made(51) me(52) more(53) critical(54) than(55) I(56) otherwise(57) would(58) have(59) been(60) .(61) We(62) would(63) have(64) rather(65) had(66) time(67) to(68) enjoy(69) the(70) pool(71) ,(72) which(73) looked(74) nice(75) .(76) Most(77) of(78) the(79) public(80) areas(81) were(82) nice(83) looking(84) .(85) There(86) was(87) a(88) problem(89) with(90) trash(91) on(92) the(93) floor(94) in(95) some(96) areas(97) .(98) When(99) I(100) worked(101) at(102) a(103) small(104) hotel(105) ,(106) we(107) did(108) not(109) let(110) trash(111) stay(112) on(113) the(114) floor(115) .(116) Any(117) staff(118) member(119) walking(120) by(121) would(122) pick(123) it(124) up(125) .(126) The(127) downtown(128) location(129) of(130) the(131) Adams(132) Mark(133) is(134) great(135) if(136) you(137) 're(138) attending(139) something(140) in(141) the(142) civic(143) center(144) .(145) We(146) did(147) not(148) have(149) any(150) problem(151) with(152) parking(153) ,(154) although(155) according(156) to(157) the(158) front(159) desk(160) clerk(161) ,(162) the(163) lot(164) we(165) parked(166) in(167) filled(168) up(169) soon(170) afterward(171) .(172) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-"/>
+			<opinion featWords="23" feature="carpets" opWords="25" polarity="-"/>
+			<opinion featWords="23" feature="carpets" opWords="27" polarity="-"/>
+			<opinion featWords="30" feature="bedding" opWords="32,33" polarity="-"/>
+			<opinion featWords="71" feature="swimming pool" opWords="75" polarity="+"/>
+			<opinion featWords="129" feature="place" opWords="135" polarity="+"/>
+		</sentence>
+	</text>
+</review>

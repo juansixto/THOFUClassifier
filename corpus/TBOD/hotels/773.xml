@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="773" item="Les Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) value(2) for(3) your(4) family(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) value(2) for(3) family(4) vacation(5) ,(6) location(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Security(1) after(2) dark(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) hotel(2) is(3) an(4) excellent(5) value(6) in(7) a(8) great(9) location(10) compared(11) to(12) similarly(13) priced(14) rooms(15) in(16) other(17) Ottawa(18) area(19) hotels(20) .(21) 
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Recently(1) had(2) the(3) opportunity(4) to(5) return(6) to(7) Ottawa(8) and(9) decided(10) to(11) use(12) this(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			This(1) hotel(2) is(3) located(4) in(5) the(6) Byward(7) Market(8) -(9) near(10) shops(11) ,(12) services(13) ,(14) restaurants(15) ,(16) the(17) Rideau(18) Centre(19) ,(20) the(21) canal(22) and(23) Parliament(24) Hill(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			We(1) stayed(2) in(3) a(4) King(5) Suite(6) which(7) has(8) a(9) large(10) master-suite(11) like(12) atmosphere(13) with(14) an(15) ensuite(16) 3-piece(17) bathroom(18) .(19) 
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			There(1) are(2) also(3) double(4) suites(5) with(6) a(7) second(8) equipped(9) full(10) bedroom(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) also(3) a(4) second(5) ((6) 3(7) pc(8) )(9) bathroom(10) in(11) the(12) suite(13) ,(14) an(15) office(16) room(17) ((18) which(19) can(20) be(21) used(22) with(23) the(24) pull(25) out(26) couch(27) )(28) ,(29) a(30) kitchenette(31) equipped(32) with(33) a(34) microwave(35) ,(36) stove(37) ,(38) dishwasher(39) and(40) refrigerator(41) .(42) 
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) also(3) full(4) laundry(5) facilities(6) and(7) ironing(8) equipment(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) also(3) a(4) full(5) size(6) dining(7) table(8) and(9) a(10) good(11) size(12) living(13) room(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) TV(3) in(4) the(5) living(6) room(7) as(8) well(9) as(10) in(11) the(12) master(13) suite(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			This(1) hotel(2) is(3) equipped(4) as(5) a(6) condominium(7) setting(8) at(9) a(10) regular(11) hotel(12) room(13) price(14) .(15) 
+			<opinion featWords="14" feature="price" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			We(1) also(2) used(3) the(4) pool(5) and(6) the(7) parking(8) privileges(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			The(1) pool(2) is(3) nice(4) ,(5) clean(6) and(7) well(8) kept(9) .(10) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="swimming pool" opWords="6" polarity="+"/>
+			<opinion featWords="2" feature="swimming pool" opWords="8,9" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) not(3) overly(4) large(5) .(6) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3,5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) sauna(2) facilities(3) in(4) the(5) locker(6) rooms(7) were(8) down(9) for(10) maintenance(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			The(1) showers(2) in(3) the(4) locker(5) room(6) facilities(7) were(8) clean(9) and(10) functioning(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			The(1) hotel(2) is(3) not(4) new(5) and(6) the(7) appliances(8) are(9) showing(10) their(11) age(12) .(13) 
+			<opinion featWords="2" feature="hotel" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			They(1) were(2) however(3) all(4) basic(5) and(6) working(7) to(8) our(9) satisfaction(10) .(11) 
+		</sentence>
+		<sentence id="17">
+			The(1) kitchenette(2) had(3) an(4) adequate(5) supply(6) of(7) amenities(8) for(9) basic(10) meal(11) preparation(12) .(13) 
+			<opinion featWords="11" feature="food" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			The(1) downside(2) of(3) this(4) hotel(5) is(6) the(7) parkade(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			It(1) is(2) not(3) included(4) in(5) the(6) room(7) rate(8) and(9) the(10) parking(11) with(12) large(13) vehicles(14) is(15) difficult(16) and(17) the(18) parking(19) spaces(20) very(21) tight(22) .(23) 
+			<opinion featWords="11" feature="parking" opWords="16" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			Be(1) prepared(2) for(3) tight(4) corners(5) ,(6) approaching(7) traffic(8) and(9) pedestrians(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			This(1) hotel(2) ,(3) at(4) night(5) ,(6) can(7) have(8) security(9) concerns(10) in(11) this(12) part(13) of(14) the(15) Market(16) due(17) to(18) its(19) proximity(20) to(21) shelters(22) and(23) homeless(24) persons(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			However(1) ,(2) the(3) hotel(4) has(5) security(6) card(7) access(8) and(9) we(10) had(11) no(12) issues(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			If(1) you(2) are(3) visiting(4) Ottawa(5) with(6) a(7) family(8) -(9) this(10) hotel(11) should(12) be(13) considered(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			There(1) was(2) wireless(3) internet(4) ((5) complimentary(6) )(7) included(8) with(9) the(10) room(11) which(12) we(13) did(14) not(15) use(16) as(17) we(18) were(19) on(20) vacation(21) !(22) :(23) )(24) It(25) is(26) unaffiliated(27) ((28) to(29) my(30) knowledge(31) )(32) with(33) any(34) national(35) chains(36) and(37) does(38) not(39) have(40) a(41) frequent(42) stay(43) program(44) that(45) they(46) were(47) advertising(48) in(49) any(50) way(51) .(52) 
+		</sentence>
+	</text>
+</review>

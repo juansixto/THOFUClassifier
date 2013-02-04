@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="88" item="Radisson Hotel Sharon" rating="1">
+	<title>
+		<sentence id="1">
+			Dirty(1) /(2) Wet(3) Hotel(4) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) Interstate(3) 80(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) /(2) Dirty(3) carpets(4) in(5) room(6) and(7) around(8) pool(9) .(10) 
+			<opinion featWords="4" feature="carpets" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="carpets" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Run(1) down(2) atmosphere(3) .(4) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Dilapidated(1) elevators(2) .(3) 
+			<opinion featWords="2" feature="elevator" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) Radisson(2) @(3) Sharon(4) ,(5) PA(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Drive(1) through(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) booked(2) two(3) rooms(4) with(5) double(6) beds(7) in(8) order(9) to(10) rest(11) on(12) our(13) drive(14) into(15) New(16) York(17) from(18) Michigan(19) ((20) summer(21) 2003(22) )(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			The(1) pool(2) and(3) the(4) Radisson(5) name(6) attracted(7) me(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			Well(1) ,(2) on(3) entering(4) the(5) hotel(6) I(7) got(8) an(9) odor(10) that(11) would(12) not(13) leave(14) the(15) whole(16) stay(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) a(3) stale(4) /(5) humid(6) odor(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			In(1) short(2) ,(3) I(4) felt(5) that(6) this(7) hotel(8) was(9) not(10) much(11) better(12) than(13) a(14) Motel(15) 6(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Well(1) ,(2) the(3) dilapidated(4) elevators(5) and(6) then(7) the(8) room(9) just(10) confirmed(11) it(12) .(13) 
+			<opinion featWords="5" feature="elevator" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			The(1) elevators(2) are(3) rickety(4) and(5) do(6) not(7) register(8) the(9) floor(10) easily(11) .(12) 
+			<opinion featWords="2" feature="elevator" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			As(1) soon(2) as(3) my(4) bare(5) feet(6) touched(7) the(8) carpeting(9) I(10) knew(11) where(12) the(13) stale(14) odor(15) came(16) from(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) carpet(2) felt(3) dirty(4) and(5) looked(6) dirty(7) so(8) my(9) whole(10) stay(11) I(12) kept(13) my(14) shoes(15) /(16) sandals(17) on(18) .(19) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			I(1) insisted(2) that(3) my(4) kids(5) do(6) the(7) same(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			They(1) were(2) not(3) happy(4) .(5) 
+		</sentence>
+		<sentence id="12">
+			We(1) went(2) through(3) the(4) restaurant(5) to(6) the(7) pool(8) area(9) and(10) I(11) was(12) surprised(13) that(14) the(15) carpeting(16) abuts(17) the(18) pool(19) !(20) 
+		</sentence>
+		<sentence id="13">
+			The(1) carpets(2) were(3) wet(4) ,(5) wet(6) ,(7) wet(8) !(9) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			I(1) immediately(2) figured(3) out(4) where(5) the(6) humidity(7) in(8) the(9) air(10) came(11) from(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			Anyway(1) ,(2) my(3) kids(4) spent(5) time(6) in(7) the(8) pool(9) and(10) enjoyed(11) themselves(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			To(1) be(2) fair(3) ,(4) there(5) were(6) fresh(7) towels(8) and(9) a(10) lifeguard(11) .(12) 
+			<opinion featWords="8" feature="towels" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Well(1) ,(2) after(3) this(4) we(5) did(6) not(7) eat(8) at(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			Next(1) day(2) ,(3) we(4) escaped(5) as(6) soon(7) as(8) we(9) could(10) .(11) 
+		</sentence>
+	</text>
+</review>

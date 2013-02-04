@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="561" item="Best Eastern Sovietsky Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Tired(1) Old(2) Lady(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) Breakfast(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Overall(1) quality(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			When(1) you(2) can(3) not(4) afford(5) the(6) expensive(7) hotels(8) ...(9) but(10) do(11) not(12) want(13) to(14) be(15) too(16) far(17) from(18) the(19) City(20) Centre(21) ...(22) 
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) 's(2) not(3) that(4) it(5) 's(6) a(7) bad(8) hotel(9) ...(10) it(11) just(12) feels(13) "(14) tired(15) "(16) .(17) 
+			<opinion feature="hotel" opWords="15" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			The(1) beds(2) are(3) OK(4) ...(5) the(6) location(7) is(8) OK(9) ...(10) the(11) service(12) is(13) OK(14) ...(15) the(16) bathroom(17) is(18) OK(19) ...(20) that(21) 's(22) just(23) the(24) point(25) -(26) everything(27) is(28) just(29) OK(30) -(31) except(32) for(33) the(34) breakfast(35) ,(36) which(37) is(38) definitely(39) above(40) average(41) .(42) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="place" opWords="9" polarity="+"/>
+			<opinion featWords="12" feature="service" opWords="14" polarity="+"/>
+			<opinion featWords="17" feature="bathroom" opWords="19" polarity="+"/>
+			<opinion featWords="35" feature="food" opWords="40,41" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) overall(2) feeling(3) is(4) OK(5) -(6) value(7) for(8) money(9) as(10) well(11) .(12) 
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) hallways(2) are(3) MASSIVE(4) ...(5) pity(6) the(7) rooms(8) are(9) not(10) as(11) big(12) !(13) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			It(1) just(2) has(3) that(4) "(5) gone(6) past(7) it(8) 's(9) use(10) by(11) date(12) "(13) feeling(14) to(15) it(16) ...(17) nothing(18) a(19) total(20) refit(21) and(22) refurbishment(23) would(24) not(25) fix(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			Location(1) is(2) OK(3) ...(4) again(5) that(6) word(7) ,(8) "(9) OK(10) "(11) .(12) 
+			<opinion featWords="1" feature="place" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Close(1) enough(2) to(3) the(4) city(5) centre(6) to(7) walk(8) ((9) for(10) the(11) energetic(12) )(13) or(14) if(15) not(16) wanting(17) a(18) hearty(19) stroll(20) on(21) the(22) streets(23) of(24) Moscow(25) ,(26) you(27) can(28) enjoy(29) the(30) Metro(31) ,(32) with(33) the(34) hotel(35) mid-point(36) between(37) two(38) stations(39) .(40) 
+		</sentence>
+	</text>
+</review>

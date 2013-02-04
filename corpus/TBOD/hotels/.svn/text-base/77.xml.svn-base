@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="77" item="Radisson Hotel Sharon" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) Waste(3) The(4) Money(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Tropical(1) atrium(2) ,(3) Video(4) Games(5) for(6) the(7) kids(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) Poor(2) Quality(3) Rooms(4) that(5) need(6) some(7) serious(8) help(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Staff(1) is(2) Very(3) Rude(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) not(3) recommend(4) this(5) hotel(6) ,(7) I(8) would(9) say(10) try(11) to(12) find(13) somewhere(14) else(15) ,(16) Radisson(17) Corporate(18) needs(19) to(20) come(21) into(22) this(23) hotel(24) and(25) do(26) some(27) major(28) renovations(29) .(30) 
+			<opinion featWords="6" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Location(1) The(2) Radisson(3) Hotel(4) Sharon(5) is(6) located(7) exit(8) 1(9) North(10) off(11) of(12) Interstate(13) 80.in(14) West(15) Middlesex(16) Pa(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Mercer(1) County(2) about(3) a(4) 1(5) hour(6) drive(7) from(8) Pittsburgh(9) and(10) Cleveland(11) Ohio(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Just(1) 15(2) miles(3) from(4) Youngstown(5) ((6) OH(7) )(8) And(9) 5(10) miles(11) from(12) Downtown(13) Sharon(14) ((15) PA(16) )(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) Radisson(2) is(3) not(4) located(5) by(6) any(7) major(8) attractions(9) ,(10) you(11) can(12) visit(13) some(14) places(15) like(16) Daffins(17) Candies(18) ,(19) The(20) Winner(21) Clothing(22) Outlet(23) and(24) Prime(25) Outlets(26) is(27) not(28) to(29) far(30) of(31) a(32) drive(33) away(34) in(35) Mercer(36) County(37) .(38) 
+		</sentence>
+		<sentence id="5">
+			Hotel(1) The(2) hotel(3) can(4) be(5) seen(6) from(7) the(8) Interstate(9) ,(10) when(11) you(12) drive(13) up(14) you(15) can(16) see(17) that(18) this(19) is(20) a(21) older(22) style(23) Radisson(24) that(25) needs(26) some(27) serios(28) help(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			They(1) have(2) a(3) large(4) parking(5) lot(6) that(7) is(8) not(9) well(10) lit(11) at(12) night(13) the(14) area(15) needs(16) some(17) major(18) landscaping(19) .(20) 
+			<opinion featWords="5" feature="parking" opWords="4" polarity="+"/>
+			<opinion featWords="5" feature="parking" opWords="9,10,11" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			You(1) you(2) first(3) arrive(4) you(5) can(6) drive(7) under(8) the(9) carport(10) to(11) unload(12) your(13) luggage(14) or(15) to(16) run(17) to(18) the(19) front(20) desk(21) to(22) check(23) in(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			The(1) lobby(2) is(3) nice(4) ,(5) they(6) have(7) a(8) large(9) sitting(10) area(11) with(12) blue(13) and(14) white(15) decor(16) ,(17) gift(18) shop(19) front(20) desk(21) and(22) coffee(23) area(24) .(25) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+			<opinion featWords="11" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			This(1) is(2) one(3) of(4) the(5) nice(6) areas(7) of(8) the(9) hotel(10) .(11) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			They(1) also(2) offer(3) three(4) meeting(5) rooms(6) each(7) accommodating(8) up(9) to(10) 50(11) people(12) and(13) a(14) large(15) ballroom(16) with(17) seating(18) for(19) up(20) to(21) 500(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			Rooms(1) We(2) made(3) a(4) easy(5) reservation(6) on(7) the(8) Radisson(9) web(10) site(11) ,(12) we(13) reserved(14) the(15) Romantic(16) Splash(17) Adventure(18) Package(19) which(20) included(21) Bottle(22) of(23) Champagne(24) and(25) Full(26) Breakfast(27) for(28) two(29) and(30) a(31) Hot(32) tub(33) in(34) the(35) room(36) .(37) 
+		</sentence>
+		<sentence id="12">
+			When(1) you(2) first(3) walk(4) into(5) the(6) not(7) so(8) spacious(9) room(10) the(11) carpet(12) is(13) like(14) a(15) emerald(16) green(17) not(18) so(19) clean(20) ,(21) dark(22) walnut(23) furniture(24) ,(25) -(26) Cable(27) TV(28) with(29) remote(30) control(31) -(32) In(33) room(34) movies(35) -(36) In(37) room(38) video(39) games(40) -(41) Free(42) local(43) phone(44) calls(45) -(46) Dataports(47) -(48) Desk(49) -(50) High(51) Speed(52) Internet(53) Access(54) -(55) Two(56) ,(57) 2-Line(58) Phones(59) -(60) Voice(61) mail(62) -(63) Speaker(64) phones(65) -(66) Two(67) person(68) jacuzzi(69) -(70) Iron(71) and(72) ironing(73) board(74) -(75) Room(76) Service(77) -(78) Hairdryer(79) -(80) Easy(81) Chair(82) -(83) Lamps(84) -(85) Ice(86) Bucket(87) -(88) Balcony(89) rooms(90) The(91) comforter(92) matched(93) the(94) curtains(95) very(96) well(97) ,(98) They(99) have(100) smoking(101) and(102) non-smoking(103) rooms(104) ,(105) which(106) the(107) non-smoking(108) rooms(109) smell(110) just(111) as(112) bad(113) as(114) the(115) smoking(116) rooms(117) ,(118) they(119) have(120) several(121) different(122) rooms(123) and(124) packages(125) to(126) choose(127) from(128) ,(129) King(130) beds(131) to(132) queen(133) and(134) doubles(135) .(136) 
+			<opinion featWords="10" feature="rooms" opWords="7,9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="13">
+			Most(1) are(2) overpriced(3) for(4) this(5) hotel(6) .(7) 
+			<opinion feature="price" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			The(1) bathroom(2) has(3) a(4) toilet(5) ,(6) shower(7) /(8) tub(9) ,(10) not(11) to(12) much(13) room(14) to(15) move(16) around(17) in(18) and(19) not(20) very(21) clean(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			The(1) rooms(2) in(3) this(4) hotel(5) need(6) some(7) serious(8) updating(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			The(1) iron(2) board(3) was(4) torn(5) to(6) shreds(7) and(8) pop(9) or(10) drink(11) stains(12) on(13) the(14) fabric(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			These(1) rooms(2) are(3) not(4) like(5) the(6) other(7) Radisson(8) 's(9) I(10) have(11) stayed(12) at(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			Tropical(1) Atrium(2) You(3) can(4) view(5) this(6) from(7) your(8) room(9) if(10) you(11) request(12) one(13) off(14) the(15) atrium(16) ,(17) they(18) have(19) a(20) number(21) of(22) palm(23) trees(24) and(25) plants(26) throughout(27) the(28) area(29) ,(30) large(31) pool(32) that(33) was(34) nice(35) but(36) kept(37) very(38) very(39) warm(40) .(41) 
+			<opinion featWords="32" feature="swimming pool" opWords="31" polarity="+"/>
+			<opinion featWords="32" feature="swimming pool" opWords="35" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			The(1) pool(2) area(3) is(4) kept(5) clean(6) ,(7) they(8) have(9) a(10) good(11) number(12) of(13) lounge(14) chairs(15) and(16) tables(17) ,(18) a(19) nice(20) place(21) order(22) a(23) drink(24) from(25) the(26) lounge(27) .(28) 
+			<opinion featWords="3" feature="place" opWords="6" polarity="+"/>
+			<opinion featWords="21" feature="place" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			They(1) also(2) have(3) a(4) whirlpool(5) and(6) sauna(7) which(8) is(9) nice(10) to(11) relax(12) in(13) ,(14) also(15) in(16) the(17) area(18) they(19) have(20) a(21) gameroom(22) for(23) the(24) kids(25) with(26) video(27) games(28) ,(29) exercise(30) room(31) .(32) 
+			<opinion featWords="5" feature="swimming pool" opWords="10" polarity="+"/>
+			<opinion featWords="7" feature="sauna" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			Crystal(1) Steakhouse(2) The(3) Crystal(4) Steakhouse(5) offeres(6) some(7) American(8) style(9) menu(10) they(11) offer(12) Breakfast(13) ,(14) Lunch(15) and(16) Dinner(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			The(1) food(2) from(3) our(4) experience(5) was(6) not(7) all(8) that(9) good(10) about(11) the(12) same(13) as(14) you(15) would(16) get(17) at(18) any(19) Fridays(20) or(21) Applebees(22) ,(23) very(24) much(25) overpriced(26) but(27) we(28) expected(29) this(30) in(31) a(32) hotel(33) .(34) 
+			<opinion featWords="2" feature="food" opWords="7,10" polarity="-" potency="8,9"/>
+			<opinion feature="price" opWords="26" polarity="-" potency="24,25"/>
+		</sentence>
+		<sentence id="23">
+			You(1) can(2) get(3) Steaks(4) ,(5) Chicken(6) ,(7) burgers(8) ,(9) Sea(10) food(11) and(12) so(13) on(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			JW(1) 's(2) Other(3) Club(4) This(5) is(6) a(7) Nighclub(8) in(9) the(10) hotel(11) ,(12) this(13) was(14) not(15) a(16) bad(17) place(18) to(19) watch(20) the(21) football(22) game(23) or(24) just(25) listen(26) to(27) some(28) live(29) bands(30) ,(31) have(32) a(33) drink(34) or(35) two(36) before(37) heading(38) back(39) to(40) your(41) room(42) .(43) 
+		</sentence>
+		<sentence id="25">
+			They(1) have(2) a(3) large(4) bar(5) or(6) you(7) can(8) sit(9) in(10) one(11) of(12) the(13) tables(14) or(15) booths(16) ,(17) you(18) can(19) also(20) order(21) a(22) appetizer(23) if(24) you(25) would(26) like(27) .(28) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			The(1) night(2) that(3) the(4) live(5) bands(6) play(7) do(8) not(9) expect(10) to(11) get(12) into(13) a(14) deep(15) conversation(16) with(17) the(18) person(19) you(20) are(21) with(22) the(23) bands(24) do(25) get(26) kind(27) of(28) loud(29) .(30) 
+		</sentence>
+		<sentence id="27">
+			Staff(1) The(2) hotel(3) staff(4) was(5) not(6) the(7) nicest(8) of(9) hotel(10) employees(11) I(12) have(13) had(14) to(15) deal(16) with(17) .(18) 
+			<opinion featWords="4" feature="staff" opWords="6,8" polarity="-"/>
+		</sentence>
+		<sentence id="28">
+			The(1) front(2) desk(3) clerks(4) were(5) very(6) rude(7) when(8) we(9) called(10) about(11) the(12) condition(13) of(14) our(15) room(16) and(17) said(18) that(19) the(20) hotel(21) was(22) full(23) so(24) they(25) could(26) not(27) change(28) our(29) room(30) .(31) 
+			<opinion featWords="2,3" feature="front desk" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="29">
+			When(1) I(2) went(3) down(4) to(5) the(6) front(7) desk(8) the(9) clerk(10) had(11) me(12) standing(13) there(14) for(15) a(16) good(17) 10(18) min(19) why(20) they(21) finished(22) a(23) personal(24) phone(25) call(26) which(27) everyone(28) in(29) the(30) lobby(31) could(32) hear(33) .(34) 
+		</sentence>
+		<sentence id="30">
+			The(1) maid(2) service(3) in(4) the(5) rooms(6) was(7) very(8) poor(9) quality(10) for(11) the(12) price(13) of(14) the(15) weekend(16) package(17) or(18) just(19) the(20) price(21) of(22) the(23) room(24) you(25) would(26) expect(27) to(28) have(29) a(30) nice(31) clean(32) room(33) but(34) the(35) way(36) it(37) looked(38) like(39) the(40) maid(41) did(42) not(43) spend(44) to(45) much(46) time(47) on(48) any(49) one(50) room(51) .(52) 
+			<opinion featWords="3" feature="service" opWords="9,10" polarity="-" potency="8"/>
+			<opinion featWords="33" feature="rooms" opWords="31" polarity="+"/>
+			<opinion featWords="33" feature="rooms" opWords="32" polarity="+"/>
+		</sentence>
+		<sentence id="31">
+			Overall(1) I(2) think(3) that(4) this(5) was(6) one(7) of(8) Radissons(9) hotels(10) that(11) need(12) a(13) complete(14) renovation(15) including(16) staff(17) ,(18) I(19) would(20) not(21) normally(22) rate(23) a(24) Radisson(25) a(26) poor(27) hotel(28) but(29) this(30) one(31) did(32) not(33) seem(34) like(35) the(36) typical(37) Radisson(38) .(39) 
+			<opinion featWords="28" feature="hotel" opWords="27" polarity="-"/>
+		</sentence>
+		<sentence id="32">
+			We(1) did(2) speak(3) with(4) the(5) hotel(6) manager(7) before(8) we(9) checked(10) out(11) and(12) he(13) did(14) give(15) us(16) a(17) discount(18) on(19) the(20) package(21) and(22) said(23) that(24) he(25) would(26) check(27) into(28) the(29) problems(30) ,(31) we(32) also(33) wrote(34) to(35) the(36) Radisson(37) Corp(38) who(39) did(40) get(41) back(42) to(43) us(44) and(45) said(46) they(47) would(48) also(49) address(50) the(51) problems(52) at(53) this(54) hotel(55) .(56) 
+		</sentence>
+		<sentence id="33">
+			The(1) rooms(2) here(3) are(4) just(5) well(6) overpriced(7) you(8) can(9) get(10) Web(11) /(12) Hot(13) Deals(14) priced(15) at(16) $79(17) up(18) to(19) $108(20) a(21) night(22) ,(23) they(24) also(25) offer(26) AAA(27) discounts(28) ,(29) senior(30) discounts(31) and(32) weekend(33) packages(34) .(35) 
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="34">
+			Radisson(1) Gold(2) Rewards(3) Radisson(4) does(5) offer(6) a(7) Rewards(8) card(9) I(10) would(11) recommend(12) anyone(13) who(14) stays(15) at(16) Radisson(17) Hotels(18) to(19) join(20) ,(21) you(22) do(23) not(24) have(25) to(26) pay(27) anything(28) and(29) you(30) can(31) get(32) some(33) nice(34) rewards(35) like(36) free(37) nights(38) ,(39) gifts(40) and(41) also(42) earn(43) points(44) from(45) Hotel(46) Partners(47) like(48) -(49) Skymall(50) -(51) Procolor(52) -(53) Spa(54) Finder(55) -(56) T.G.I.(57) Friday(58) 's(59) -(60) Thrifty(61) Car(62) Rental(63) -(64) The(65) Flower(66) Club(67) -(68) Park(69) Plaza(70) hotels(71) -(72) Park(73) Inn(74) hotels(75) -(76) The(77) Food(78) Emporium(79) -(80) Country(81) Inns(82) &amp;(83) Suites(84) and(85) many(86) more(87) these(88) points(89) gave(90) us(91) a(92) free(93) nights(94) stay(95) in(96) Myrtle(97) beach(98) .(99) 
+		</sentence>
+		<sentence id="35">
+			Address(1) :(2) Route(3) 18(4) &amp;(5) I-80(6) ,(7) Exit(8) West(9) Middlesex(10) Pennsylvania(11) 16159(12) USA(13) Telephone(14) :(15) ((16) 724(17) )(18) 528-2501(19) Reservations(20) :(21) ((22) 800(23) )(24) 333-3333(25) USA(26) 
+		</sentence>
+	</text>
+</review>

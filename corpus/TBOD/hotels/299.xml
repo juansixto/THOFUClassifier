@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="299" item="Double Jj Ranch And Golf Rsrt" rating="2">
+	<title>
+		<sentence id="1">
+			Rustic(1) or(2) Cheap(3) ?(4) 
+		</sentence>
+		<sentence id="2">
+			What(1) do(2) you(3) think(4) ?(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) activities(3) ,(4) good(5) food(6) 
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) run-down(2) buildings(3) /(4) facilities(5) ,(6) sometimes(7) poor(8) service(9) ,(10) high(11) prices(12) 
+			<opinion featWords="3" feature="building" opWords="2" polarity="-"/>
+			<opinion featWords="5" feature="facilities" opWords="2" polarity="-"/>
+			<opinion featWords="12" feature="price" opWords="11" polarity="-"/>
+			<opinion featWords="9" feature="service" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) is(2) a(3) lot(4) of(5) emphasis(6) on(7) new(8) construction(9) while(10) they(11) are(12) neglecting(13) the(14) already(15) owned(16) property(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Also(1) ,(2) prices(3) are(4) just(5) too(6) high(7) considering(8) the(9) quality(10) of(11) the(12) facilities(13) .(14) 
+			<opinion featWords="3" feature="price" opWords="6,7" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Recently(1) my(2) husband(3) and(4) I(5) visited(6) the(7) Double(8) JJ(9) Ranch(10) and(11) Golf(12) Resort(13) located(14) in(15) Rothbury(16) ,(17) Michigan(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Rothbury(1) is(2) about(3) an(4) hour(5) north(6) of(7) Grand(8) Rapids(9) ,(10) and(11) about(12) 20(13) miles(14) north(15) of(16) my(17) hometown(18) of(19) Muskegon(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			We(1) purchased(2) a(3) package(4) called(5) -(6) Stake(7) Your(8) Claim(9) ,(10) which(11) was(12) a(13) deal(14) we(15) just(16) could(17) not(18) refuse(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			In(1) exchange(2) for(3) sitting(4) through(5) a(6) 90(7) minute(8) sales(9) presentation(10) ,(11) my(12) husband(13) and(14) I(15) received(16) a(17) two(18) nights(19) stay(20) in(21) one(22) of(23) their(24) log(25) cabins(26) ,(27) a(28) free(29) round(30) of(31) golf(32) or(33) horseback(34) riding(35) for(36) two(37) ,(38) and(39) a(40) $25(41) voucher(42) to(43) be(44) used(45) toward(46) food(47) ,(48) activities(49) ,(50) etc.(51) In(52) addition(53) to(54) all(55) of(56) this(57) ,(58) we(59) were(60) offered(61) free(62) admission(63) to(64) the(65) rodeo(66) ,(67) and(68) use(69) of(70) the(71) swimmin(72) '(73) hole(74) ((75) this(76) was(77) closed(78) due(79) to(80) the(81) weather(82) )(83) and(84) other(85) activities(86) .(87) 
+		</sentence>
+		<sentence id="5">
+			Now(1) the(2) Double(3) JJ(4) is(5) divided(6) into(7) sections(8) .(9) 
+		</sentence>
+		<sentence id="6">
+			This(1) is(2) important(3) to(4) know(5) if(6) you(7) 're(8) going(9) to(10) visit(11) so(12) that(13) you(14) get(15) in(16) the(17) right(18) section(19) of(20) the(21) resort(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			The(1) Back(2) Forty(3) This(4) is(5) the(6) "(7) family(8) "(9) section(10) of(11) the(12) resort(13) and(14) the(15) area(16) in(17) which(18) we(19) stayed(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			You(1) will(2) have(3) three(4) lodging(5) options(6) if(7) you(8) decide(9) to(10) stay(11) in(12) The(13) Back(14) Forty(15) -(16) the(17) RV(18) Park(19) ,(20) the(21) log(22) cabin(23) or(24) the(25) log(26) home(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			The(1) RV(2) Park(3) is(4) of(5) course(6) the(7) most(8) economical(9) of(10) lodging(11) options(12) ;(13) however(14) ,(15) do(16) not(17) get(18) too(19) excited(20) as(21) the(22) park(23) rates(24) range(25) from(26) $32(27) -(28) about(29) $55(30) per(31) night(32) .(33) 
+		</sentence>
+		<sentence id="10">
+			I(1) 've(2) even(3) heard(4) that(5) some(6) have(7) paid(8) higher(9) during(10) high(11) activity(12) season(13) ((14) their(15) activities(16) were(17) included(18) in(19) the(20) rate(21) )(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			The(1) log(2) cabin(3) is(4) where(5) we(6) stayed(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			These(1) are(2) very(3) small(4) ,(5) quaint(6) cabins(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			They(1) sleep(2) comfortably(3) 4(4) and(5) even(6) as(7) many(8) as(9) 6(10) if(11) you(12) do(13) not(14) mind(15) tight(16) quarters(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			It(1) comes(2) with(3) a(4) master(5) suite(6) with(7) a(8) jacuzzi(9) ,(10) a(11) loft(12) area(13) with(14) two(15) bunk(16) beds(17) ,(18) a(19) combined(20) living(21) and(22) eating(23) area(24) with(25) a(26) sleep(27) sofa(28) ,(29) and(30) a(31) bath(32) with(33) a(34) shower(35) .(36) 
+		</sentence>
+		<sentence id="15">
+			Normally(1) the(2) cabin(3) rents(4) for(5) about(6) $180-$200(7) per(8) night(9) ((10) can(11) be(12) more(13) or(14) less(15) depending(16) upon(17) the(18) season(19) )(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			The(1) nicest(2) accommodations(3) in(4) this(5) are(6) the(7) log(8) homes(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			They(1) are(2) much(3) larger(4) than(5) the(6) log(7) cabins(8) ((9) they(10) have(11) two(12) bedrooms(13) )(14) and(15) offer(16) a(17) full(18) kitchen(19) and(20) living(21) room(22) with(23) a(24) fireplace(25) .(26) 
+		</sentence>
+		<sentence id="18">
+			These(1) are(2) typically(3) sold(4) as(5) real(6) estate(7) and(8) /(9) or(10) timeshare(11) but(12) can(13) be(14) rented(15) .(16) 
+		</sentence>
+		<sentence id="19">
+			Most(1) of(2) the(3) family(4) activities(5) take(6) place(7) in(8) this(9) section(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			The(1) swimmin(2) '(3) hole(4) ((5) an(6) very(7) small(8) outdoor(9) waterpark(10) )(11) ,(12) arts(13) and(14) crafts(15) center(16) ,(17) video(18) arcade(19) and(20) more(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			There(1) are(2) also(3) a(4) few(5) eateries(6) in(7) this(8) part(9) of(10) the(11) resort(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			The(1) Ranch(2) Is(3) the(4) adult(5) exclusive(6) area(7) of(8) the(9) resort(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			It(1) 's(2) only(3) open(4) from(5) May(6) until(7) October(8) .(9) 
+		</sentence>
+		<sentence id="24">
+			This(1) is(2) for(3) the(4) person(5) looking(6) for(7) a(8) true(9) outdoor(10) adventure(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			There(1) are(2) no(3) amenities(4) in(5) the(6) bunkhouses(7) ,(8) that(9) 's(10) right(11) ,(12) no(13) television(14) ,(15) telephones(16) ,(17) etc.(18) They(19) boast(20) of(21) being(22) really(23) nice(24) but(25) from(26) what(27) I(28) 've(29) seen(30) they(31) are(32) run(33) down(34) and(35) need(36) some(37) updating(38) .(39) 
+		</sentence>
+		<sentence id="26">
+			You(1) can(2) get(3) a(4) bunkhouse(5) with(6) twin(7) beds(8) or(9) go(10) fancy(11) and(12) get(13) a(14) jacuzzi(15) in(16) your(17) room(18) .(19) 
+		</sentence>
+		<sentence id="27">
+			Room(1) rates(2) range(3) from(4) $120-$500+/night(5) .(6) 
+		</sentence>
+		<sentence id="28">
+			Adult(1) activities(2) include(3) horseback(4) riding(5) ,(6) fishing(7) ,(8) swimming(9) ,(10) hot(11) tub(12) ,(13) and(14) nighttime(15) activities(16) such(17) as(18) mechanical(19) bull(20) riding(21) ,(22) rodeo(23) ,(24) pig(25) roast(26) and(27) more(28) .(29) 
+		</sentence>
+		<sentence id="29">
+			The(1) Thoroughbred(2) Is(3) probably(4) the(5) more(6) "(7) upscale(8) "(9) section(10) of(11) the(12) resort(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			This(1) is(2) where(3) the(4) golf(5) course(6) is(7) located(8) .(9) 
+		</sentence>
+		<sentence id="31">
+			Lodging(1) options(2) include(3) The(4) Loft(5) Hotel(6) ,(7) The(8) Homestead(9) Condominiums(10) and(11) The(12) Thoroughbred(13) Suites(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			The(1) Loft(2) Hotel(3) offers(4) basic(5) accommodations(6) with(7) twin(8) beds(9) or(10) a(11) queen(12) bed(13) ,(14) or(15) family(16) accommodations(17) in(18) a(19) 2-bedroom(20) suite(21) .(22) 
+		</sentence>
+		<sentence id="33">
+			Jacuzzis(1) are(2) also(3) available(4) in(5) the(6) loft(7) hotels(8) .(9) 
+		</sentence>
+		<sentence id="34">
+			Also(1) in(2) this(3) area(4) of(5) the(6) resort(7) are(8) the(9) Homestead(10) Condominiums(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			You(1) can(2) purchase(3) these(4) and(5) according(6) to(7) the(8) resort(9) ,(10) they(11) are(12) selling(13) fast(14) .(15) 
+		</sentence>
+		<sentence id="36">
+			A(1) very(2) small(3) condo(4) with(5) just(6) one(7) bedroom(8) is(9) great(10) for(11) a(12) couple(13) ,(14) or(15) if(16) you(17) have(18) a(19) family(20) go(21) for(22) the(23) three(24) bedroom(25) /(26) three(27) bath(28) .(29) 
+			<opinion featWords="4" feature="rooms" opWords="3" polarity="-" potency="2"/>
+		</sentence>
+		<sentence id="37">
+			Last(1) but(2) not(3) least(4) in(5) this(6) section(7) are(8) the(9) Thoroughbred(10) Suites(11) .(12) 
+		</sentence>
+		<sentence id="38">
+			These(1) are(2) great(3) for(4) wedding(5) parties(6) and(7) /(8) or(9) other(10) large(11) groups(12) .(13) 
+		</sentence>
+		<sentence id="39">
+			The(1) largest(2) suite(3) is(4) over(5) 1500(6) square(7) feet(8) and(9) sleeps(10) eleven(11) people(12) .(13) 
+		</sentence>
+		<sentence id="40">
+			The(1) cost(2) to(3) stay(4) in(5) the(6) Thoroughbred(7) section(8) ranges(9) from(10) about(11) $139/per(12) night(13) ((14) in(15) the(16) Loft(17) Hotel(18) )(19) ,(20) to(21) as(22) high(23) as(24) $800(25) +(26) per(27) night(28) in(29) one(30) of(31) the(32) suites(33) .(34) 
+		</sentence>
+		<sentence id="41">
+			The(1) condos(2) overlook(3) the(4) beautiful(5) 18-hole(6) golf(7) course(8) .(9) 
+		</sentence>
+		<sentence id="42">
+			The(1) golf(2) course(3) was(4) designed(5) by(6) Arthur(7) Hills(8) and(9) it(10) is(11) quite(12) challenging(13) and(14) beautiful(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			Also(1) in(2) this(3) section(4) is(5) the(6) Sundance(7) Saloon(8) with(9) excellent(10) food(11) .(12) 
+			<opinion featWords="11" feature="food" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="44">
+			Other(1) Information(2) Activities(3) are(4) quite(5) expensive(6) so(7) be(8) sure(9) to(10) explore(11) their(12) all-inclusive(13) packages(14) .(15) 
+			<opinion feature="price" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="45">
+			For(1) example(2) ,(3) the(4) rodeo(5) cost(6) $8(7) per(8) person(9) .(10) 
+		</sentence>
+		<sentence id="46">
+			The(1) outdoor(2) swimmin(3) '(4) hole(5) costs(6) $25/person(7) without(8) a(9) package(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			Just(1) those(2) two(3) activities(4) alone(5) would(6) cost(7) your(8) family(9) $132(10) for(11) the(12) day(13) not(14) including(15) meals(16) .(17) 
+		</sentence>
+		<sentence id="48">
+			There(1) are(2) an(3) array(4) of(5) activities(6) on(7) site(8) including(9) golf(10) ,(11) horseback(12) riding(13) ,(14) sledding(15) ,(16) snoe(17) shoeing(18) ,(19) fishing(20) ,(21) stunt(22) shows(23) ,(24) a(25) petting(26) farm(27) and(28) more(29) .(30) 
+		</sentence>
+		<sentence id="49">
+			In(1) November(2) of(3) 2006(4) ,(5) they(6) plan(7) to(8) open(9) an(10) indoor(11) waterpark(12) .(13) 
+		</sentence>
+		<sentence id="50">
+			The(1) food(2) on-site(3) is(4) very(5) good(6) and(7) reasonable(8) .(9) 
+			<opinion featWords="2" feature="food" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="2" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="51">
+			It(1) 's(2) one(3) of(4) the(5) few(6) compliments(7) I(8) will(9) give(10) this(11) resort(12) .(13) 
+		</sentence>
+		<sentence id="52">
+			The(1) Sundance(2) Saloon(3) is(4) a(5) beautiful(6) restaurant(7) overlooking(8) the(9) golf(10) course(11) .(12) 
+			<opinion featWords="7" feature="food" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="53">
+			They(1) serve(2) ,(3) what(4) else(5) ,(6) western(7) type(8) food(9) -(10) steaks(11) ,(12) ribs(13) ,(14) burgers(15) ,(16) etc.(17) But(18) to(19) our(20) surprise(21) ,(22) my(23) husband(24) and(25) I(26) ordered(27) pasta(28) dishes(29) and(30) they(31) were(32) quite(33) delicious(34) as(35) was(36) the(37) fresh(38) bread(39) .(40) 
+		</sentence>
+		<sentence id="54">
+			Our(1) order(2) ((3) no(4) alcohol(5) )(6) came(7) to(8) under(9) $30(10) for(11) two(12) meals(13) ,(14) not(15) bad(16) at(17) all(18) .(19) 
+		</sentence>
+		<sentence id="55">
+			We(1) also(2) ate(3) at(4) Shooters(5) in(6) the(7) Back(8) Forty(9) .(10) 
+		</sentence>
+		<sentence id="56">
+			This(1) is(2) a(3) small(4) bar(5) offering(6) appetizers(7) and(8) sandwiches(9) .(10) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="57">
+			One(1) night(2) we(3) had(4) a(5) snack(6) -(7) fried(8) mushrooms(9) and(10) soup(11) .(12) 
+		</sentence>
+		<sentence id="58">
+			My(1) favorite(2) was(3) my(4) lunch(5) in(6) which(7) I(8) had(9) a(10) rootbeer(11) chicken(12) sandwich(13) .(14) 
+		</sentence>
+		<sentence id="59">
+			The(1) chicken(2) is(3) actually(4) marinated(5) in(6) rootbeer(7) .(8) 
+		</sentence>
+		<sentence id="60">
+			It(1) is(2) delicious(3) .(4) 
+		</sentence>
+		<sentence id="61">
+			Our(1) lunch(2) cost(3) us(4) about(5) $22.50(6) ,(7) again(8) no(9) alcohol(10) ,(11) just(12) lemonades(13) .(14) 
+		</sentence>
+		<sentence id="62">
+			Closing(1) I(2) have(3) heard(4) that(5) the(6) Double(7) JJ(8) used(9) to(10) be(11) the(12) place(13) to(14) go(15) .(16) 
+		</sentence>
+		<sentence id="63">
+			It(1) is(2) still(3) nice(4) in(5) places(6) .(7) 
+		</sentence>
+		<sentence id="64">
+			For(1) example(2) ,(3) the(4) Thoroughbred(5) condos(6) and(7) the(8) suites(9) are(10) more(11) new(12) and(13) updated(14) .(15) 
+		</sentence>
+		<sentence id="65">
+			The(1) Ranch(2) area(3) is(4) really(5) run(6) down(7) and(8) needs(9) some(10) updating(11) .(12) 
+			<opinion featWords="3" feature="place" opWords="6,7" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="66">
+			And(1) the(2) log(3) cabins(4) are(5) okay(6) and(7) the(8) log(9) homes(10) pretty(11) much(12) new(13) .(14) 
+		</sentence>
+		<sentence id="67">
+			It(1) just(2) seems(3) to(4) me(5) that(6) they(7) would(8) take(9) the(10) money(11) from(12) the(13) building(14) of(15) the(16) indoor(17) waterpark(18) and(19) update(20) the(21) facilities(22) .(23) 
+		</sentence>
+		<sentence id="68">
+			It(1) 's(2) like(3) they(4) are(5) letting(6) certain(7) areas(8) go(9) down(10) while(11) they(12) build(13) new(14) construction(15) -(16) condos(17) ,(18) homes(19) and(20) the(21) indoor(22) waterpark(23) .(24) 
+		</sentence>
+		<sentence id="69">
+			Possibly(1) the(2) plan(3) is(4) to(5) tear(6) the(7) old(8) down(9) once(10) the(11) new(12) is(13) done(14) -(15) we(16) 'll(17) see(18) .(19) 
+		</sentence>
+		<sentence id="70">
+			By(1) the(2) way(3) ,(4) the(5) cabin(6) has(7) curtains(8) in(9) it(10) made(11) out(12) of(13) burlap(14) sacks(15) -(16) rustic(17) or(18) cheap(19) ?(20) 
+		</sentence>
+		<sentence id="71">
+			What(1) do(2) you(3) think(4) ?(5) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="57" item="Kawada Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			Tried(1) to(2) check(3) out(4) the(5) 1st(6) day(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nothing(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Smell(1) ,(2) location(3) ,(4) look(5) ,(6) policies(7) ,(8) everything(9) .(10) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Unfortunately(1) ,(2) saving(3) a(4) buck(5) seems(6) to(7) be(8) the(9) only(10) guideline(11) for(12) my(13) company(14) when(15) booking(16) business(17) trips(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			This(1) hotel(2) is(3) cheap(4) ,(5) but(6) disgusting(7) .(8) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="hotel" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) reserved(3) 3(4) non-smoking(5) rooms(6) and(7) only(8) ended(9) up(10) with(11) two(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) smoking(2) room(3) probably(4) gave(5) me(6) cancer(7) just(8) by(9) entering(10) it(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Honestly(1) ,(2) I(3) was(4) pretty(5) scared(6) to(7) stay(8) in(9) this(10) place(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			The(1) location(2) is(3) awful(4) ,(5) the(6) carpets(7) were(8) stained(9) and(10) by(11) the(12) look(13) of(14) the(15) other(16) people(17) who(18) were(19) in(20) the(21) hotel(22) ,(23) they(24) probably(25) offer(26) hourly(27) rates(28) .(29) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="-"/>
+			<opinion featWords="7" feature="carpets" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			Everything(1) about(2) this(3) place(4) was(5) bad(6) ;(7) from(8) my(9) initial(10) step(11) onto(12) the(13) elevator(14) ((15) that(16) would(17) not(18) stop(19) at(20) my(21) floor(22) )(23) to(24) the(25) mildew(26) in(27) the(28) bathroom(29) and(30) the(31) screeching(32) sink(33) ((34) that(35) only(36) produced(37) luke-warm(38) water(39) )(40) .(41) 
+		</sentence>
+		<sentence id="8">
+			The(1) Kawada(2) is(3) not(4) close(5) to(6) anything(7) unless(8) you(9) count(10) a(11) VERY(12) scary(13) convenience(14) store(15) ((16) down(17) 2(18) blocks(19) and(20) under(21) a(22) bridge(23) -(24) carry(25) mace(26) ladies(27) )(28) and(29) the(30) only(31) restaurant(32) is(33) attached(34) ((35) if(36) that(37) says(38) anything(39) )(40) .(41) 
+		</sentence>
+		<sentence id="9">
+			However(1) ,(2) the(3) food(4) was(5) actually(6) decent(7) .(8) 
+			<opinion featWords="4" feature="food" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="10">
+			We(1) checked(2) out(3) after(4) 1(5) night(6) 's(7) stay(8) ((9) to(10) avoid(11) losing(12) our(13) deposit(14) )(15) and(16) checked(17) into(18) the(19) Holiday(20) Inn(21) conveniently(22) located(23) across(24) from(25) the(26) Convention(27) Center(28) .(29) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) only(3) $5(4) more(5) .(6) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="349" item="Hawaii Polo Inn and Tower" rating="2">
+	<title>
+		<sentence id="1">
+			Polo(1) Inn(2) -(3) Budget(4) Accommodations(5) in(6) an(7) Expensive(8) City(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) the(3) beach(4) ,(5) dining(6) and(7) shopping(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Spacious(1) room(2) .(3) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Seedy(1) neighborhood(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Parking(1) is(2) a(3) pain(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			Too(1) far(2) to(3) lug(4) luggage(5) .(6) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) low(4) budget(5) place(6) to(7) stay(8) .(9) 
+			<opinion featWords="6" feature="place" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Sometimes(1) you(2) get(3) what(4) you(5) pay(6) for(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Polo(1) Inn(2) Waikiki(3) Honolulu(4) ,(5) Hawaii(6) Hubby(7) and(8) I(9) needed(10) a(11) place(12) to(13) stay(14) for(15) a(16) few(17) days(18) after(19) our(20) cruise(21) in(22) the(23) Hawaiian(24) Islands(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			He(1) went(2) to(3) Travelocity(4) and(5) looked(6) for(7) a(8) low(9) cost(10) place(11) to(12) stay(13) for(14) 3(15) days(16) .(17) 
+			<opinion featWords="11" feature="place" opWords="9,10" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Polo(1) Inn(2) met(3) our(4) needs(5) as(6) it(7) was(8) low(9) cost(10) and(11) about(12) 7(13) miles(14) from(15) the(16) airport(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			Location(1) /(2) Parking(3) We(4) eventually(5) got(6) there(7) in(8) heavy(9) Sunday(10) traffic(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) located(3) on(4) 1696(5) Ala(6) Moana(7) Blvd(8) ,(9) about(10) a(11) block(12) from(13) the(14) harbor(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			We(1) passed(2) by(3) ,(4) intending(5) to(6) turn(7) in(8) the(9) driveway(10) ,(11) but(12) there(13) was(14) no(15) driveway(16) !(17) 
+		</sentence>
+		<sentence id="7">
+			There(1) was(2) some(3) yellow(4) caution(5) tape(6) around(7) poles(8) under(9) a(10) large(11) carport(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			I(1) was(2) at(3) a(4) loss(5) how(6) to(7) stop(8) and(9) take(10) out(11) our(12) luggage(13) !(14) 
+		</sentence>
+		<sentence id="9">
+			I(1) told(2) Hubby(3) if(4) he(5) dialed(6) the(7) number(8) on(9) the(10) cell(11) phone(12) ,(13) I(14) do(15) the(16) talking(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			Contacting(1) the(2) front(3) desk(4) by(5) phone(6) ,(7) he(8) told(9) us(10) to(11) pull(12) into(13) the(14) Aqua(15) Marina(16) driveway(17) and(18) park(19) in(20) their(21) garage(22) .(23) 
+		</sentence>
+		<sentence id="11">
+			All(1) their(2) spots(3) were(4) filled(5) ,(6) so(7) I(8) asked(9) a(10) man(11) I(12) saw(13) chatting(14) inside(15) the(16) garage(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			He(1) pointed(2) to(3) a(4) painted(5) space(6) that(7) said(8) something(9) about(10) parking(11) to(12) check(13) in(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			He(1) told(2) us(3) to(4) be(5) quick(6) about(7) it(8) .(9) 
+		</sentence>
+		<sentence id="14">
+			Like(1) I(2) had(3) any(4) control(5) over(6) the(7) situation(8) !(9) 
+		</sentence>
+		<sentence id="15">
+			We(1) took(2) any(3) luggage(4) that(5) could(6) be(7) seen(8) ,(9) from(10) out(11) of(12) the(13) car(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			We(1) lugged(2) it(3) about(4) 100(5) to(6) the(7) street(8) ,(9) and(10) about(11) 20(12) to(13) the(14) STAIRS(15) !(16) 
+		</sentence>
+		<sentence id="17">
+			There(1) were(2) 18(3) stairs(4) between(5) two(6) flights(7) to(8) lug(9) your(10) luggage(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			An(1) elevator(2) could(3) not(4) get(5) you(6) to(7) this(8) level(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) entryway(2) is(3) open(4) air(5) ,(6) with(7) a(8) small(9) enclosed(10) desk(11) area(12) to(13) the(14) left(15) .(16) 
+			<opinion featWords="12" feature="place" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			There(1) is(2) a(3) fair(4) sized(5) lobby(6) straight(7) ahead(8) ,(9) with(10) the(11) elevator(12) to(13) the(14) right(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			There(1) is(2) an(3) outdoor(4) pool(5) another(6) 50(7) or(8) so(9) ,(10) that(11) we(12) did(13) 'nt(14) visit(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			Very(1) little(2) if(3) any(4) sunshine(5) gets(6) to(7) this(8) pool(9) ,(10) due(11) to(12) the(13) tall(14) buildings(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			Checking(1) in(2) Check-in(3) went(4) smoothly(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			We(1) asked(2) where(3) to(4) park(5) .(6) 
+		</sentence>
+		<sentence id="25">
+			The(1) clerk(2) said(3) limited(4) parking(5) is(6) available(7) for(8) $10(9) a(10) day(11) in(12) the(13) Aqua(14) Marina(15) Hotel(16) s(17) parking(18) garage(19) next(20) door(21) .(22) 
+		</sentence>
+		<sentence id="26">
+			Since(1) there(2) was(3) no(4) other(5) parking(6) available(7) on(8) the(9) street(10) ,(11) this(12) seemed(13) like(14) a(15) bargain(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			We(1) were(2) given(3) a(4) remote(5) for(6) the(7) gated(8) entrance(9) of(10) the(11) garage(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			The(1) parking(2) level(3) for(4) the(5) Polo(6) Inn(7) is(8) on(9) the(10) top(11) level(12) of(13) the(14) Aqua(15) Marina(16) s(17) garage(18) ,(19) where(20) there(21) are(22) about(23) 10(24) labeled(25) spaces(26) .(27) 
+		</sentence>
+		<sentence id="29">
+			To(1) get(2) the(3) elevators(4) to(5) work(6) ,(7) you(8) put(9) in(10) your(11) key(12) card(13) ,(14) and(15) take(16) it(17) back(18) out(19) again(20) .(21) 
+		</sentence>
+		<sentence id="30">
+			Now(1) you(2) can(3) tell(4) the(5) elevator(6) where(7) to(8) go(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			The(1) Polo(2) Inn(3) s(4) elevator(5) is(6) an(7) older(8) one(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			It(1) gives(2) a(3) bit(4) of(5) a(6) shake(7) each(8) time(9) the(10) door(11) closes(12) .(13) 
+		</sentence>
+		<sentence id="33">
+			We(1) got(2) off(3) on(4) the(5) 5th(6) floor(7) as(8) our(9) room(10) was(11) 508(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			The(1) building(2) is(3) older(4) as(5) well(6) .(7) 
+		</sentence>
+		<sentence id="35">
+			The(1) rooms(2) were(3) to(4) the(5) right(6) side(7) of(8) the(9) hall(10) ,(11) and(12) the(13) open(14) air(15) hallway(16) is(17) to(18) the(19) left(20) .(21) 
+		</sentence>
+		<sentence id="36">
+			We(1) reached(2) our(3) room(4) .(5) 
+		</sentence>
+		<sentence id="37">
+			It(1) was(2) spacious(3) and(4) done(5) in(6) tropical(7) with(8) bamboo(9) furniture(10) .(11) 
+		</sentence>
+		<sentence id="38">
+			The(1) bed(2) was(3) made(4) .(5) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="39">
+			The(1) top(2) of(3) the(4) bedspread(5) was(6) turned(7) back(8) .(9) 
+		</sentence>
+		<sentence id="40">
+			Three(1) pillows(2) were(3) on(4) the(5) bed(6) ,(7) only(8) one(9) had(10) a(11) pillowcase(12) .(13) 
+		</sentence>
+		<sentence id="41">
+			It(1) was(2) as(3) if(4) the(5) maid(6) had(7) gotten(8) distracted(9) and(10) just(11) left(12) .(13) 
+		</sentence>
+		<sentence id="42">
+			We(1) called(2) the(3) desk(4) and(5) asked(6) for(7) two(8) pillowcases(9) .(10) 
+		</sentence>
+		<sentence id="43">
+			As(1) well(2) ,(3) we(4) noticed(5) one(6) of(7) the(8) pillows(9) had(10) a(11) black(12) stain(13) on(14) it(15) ,(16) and(17) asked(18) to(19) have(20) that(21) replaced(22) as(23) well(24) .(25) 
+		</sentence>
+		<sentence id="44">
+			You(1) might(2) consider(3) bringing(4) your(5) own(6) inexpensive(7) ,(8) disposable(9) pillows(10) .(11) 
+		</sentence>
+		<sentence id="45">
+			Laundry(1) At(2) this(3) point(4) ,(5) we(6) had(7) been(8) on(9) the(10) ship(11) a(12) week(13) ,(14) and(15) needed(16) to(17) do(18) laundry(19) in(20) the(21) worst(22) way(23) .(24) 
+		</sentence>
+		<sentence id="46">
+			We(1) were(2) told(3) we(4) could(5) use(6) the(7) laundry(8) facilities(9) at(10) the(11) Aqua(12) Marina(13) Inn(14) ,(15) next(16) door(17) ,(18) on(19) the(20) 3rd(21) floor(22) .(23) 
+		</sentence>
+		<sentence id="47">
+			Both(1) washers(2) and(3) dryers(4) were(5) $1.00(6) .(7) 
+		</sentence>
+		<sentence id="48">
+			Three(1) or(2) four(3) nice(4) washers(5) and(6) about(7) 4(8) nice(9) dryers(10) were(11) available(12) .(13) 
+		</sentence>
+		<sentence id="49">
+			We(1) rarely(2) saw(3) anybody(4) there(5) .(6) 
+		</sentence>
+		<sentence id="50">
+			Safety(1) The(2) first(3) night(4) was(5) the(6) worst(7) .(8) 
+		</sentence>
+		<sentence id="51">
+			We(1) heard(2) loud(3) voices(4) next(5) door(6) .(7) 
+		</sentence>
+		<sentence id="52">
+			The(1) next(2) thing(3) we(4) knew(5) ,(6) the(7) doorknob(8) between(9) our(10) room(11) and(12) the(13) room(14) next(15) door(16) was(17) rattling(18) .(19) 
+		</sentence>
+		<sentence id="53">
+			Hubby(1) called(2) the(3) front(4) desk(5) .(6) 
+		</sentence>
+		<sentence id="54">
+			A(1) calm(2) voice(3) on(4) the(5) other(6) end(7) acknowledged(8) what(9) Hubby(10) told(11) him(12) .(13) 
+		</sentence>
+		<sentence id="55">
+			Within(1) 5(2) minutes(3) we(4) heard(5) additional(6) voices(7) talking(8) calmly(9) but(10) forcefully(11) .(12) 
+		</sentence>
+		<sentence id="56">
+			Only(1) a(2) couple(3) of(4) minutes(5) later(6) we(7) heard(8) police(9) radios(10) .(11) 
+		</sentence>
+		<sentence id="57">
+			It(1) remained(2) silent(3) for(4) the(5) remainder(6) of(7) the(8) night(9) .(10) 
+		</sentence>
+		<sentence id="58">
+			Bathroom(1) /(2) Kitchen(3) The(4) bathroom(5) is(6) small(7) and(8) consists(9) of(10) a(11) stool(12) with(13) a(14) commercial(15) type(16) handle(17) ,(18) and(19) a(20) small(21) shower(22) .(23) 
+			<opinion featWords="5" feature="bathroom" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="59">
+			Your(1) sink(2) sits(3) just(4) outside(5) the(6) bathroom(7) ,(8) in(9) the(10) kitchenette(11) .(12) 
+		</sentence>
+		<sentence id="60">
+			The(1) sink(2) did(3) not(4) have(5) a(6) stopper(7) in(8) it(9) ,(10) and(11) the(12) faucet(13) had(14) a(15) problem(16) dripping(17) .(18) 
+		</sentence>
+		<sentence id="61">
+			An(1) island(2) with(3) ceramic(4) tile(5) provides(6) you(7) a(8) bit(9) of(10) counter(11) space(12) .(13) 
+		</sentence>
+		<sentence id="62">
+			A(1) coffee(2) maker(3) is(4) provided(5) ,(6) as(7) is(8) coffee(9) the(10) first(11) day(12) you(13) are(14) there(15) .(16) 
+		</sentence>
+		<sentence id="63">
+			A(1) microwave(2) is(3) located(4) in(5) the(6) closet(7) ,(8) just(9) outside(10) the(11) restroom(12) .(13) 
+		</sentence>
+		<sentence id="64">
+			You(1) have(2) a(3) dorm(4) style(5) refrigerator(6) to(7) keep(8) pop(9) or(10) last(11) night(12) s(13) dinner(14) from(15) spoiling(16) .(17) 
+		</sentence>
+		<sentence id="65">
+			The(1) next(2) morning(3) ,(4) hubby(5) went(6) to(7) take(8) a(9) shower(10) .(11) 
+		</sentence>
+		<sentence id="66">
+			Hubby(1) complained(2) the(3) hot(4) water(5) was(6) only(7) good(8) for(9) less(10) than(11) a(12) minute(13) ,(14) and(15) he(16) likes(17) a(18) hot(19) shower(20) .(21) 
+		</sentence>
+		<sentence id="67">
+			DAMN(1) !(2) 
+		</sentence>
+		<sentence id="68">
+			I(1) went(2) to(3) the(4) phone(5) book(6) located(7) in(8) the(9) nightstand(10) .(11) 
+		</sentence>
+		<sentence id="69">
+			In(1) it(2) was(3) a(4) pen(5) stuck(6) inside(7) the(8) pages(9) for(10) hotels(11) .(12) 
+		</sentence>
+		<sentence id="70">
+			I(1) called(2) bed(3) and(4) breakfast(5) brokers(6) and(7) learned(8) they(9) normally(10) charge(11) $80-$120(12) per(13) night(14) for(15) a(16) studio(17) apartment(18) with(19) a(20) private(21) entrance(22) .(23) 
+		</sentence>
+		<sentence id="71">
+			These(1) are(2) booked(3) 6-8(4) weeks(5) in(6) advance(7) .(8) 
+		</sentence>
+		<sentence id="72">
+			It(1) turns(2) out(3) the(4) hot(5) and(6) cold(7) water(8) labels(9) were(10) on(11) the(12) wrong(13) faucets(14) ,(15) and(16) this(17) problem(18) was(19) solved(20) quickly(21) .(22) 
+		</sentence>
+		<sentence id="73">
+			Cleanliness(1) When(2) I(3) amm(4) not(5) wearing(6) my(7) reading(8) glasses(9) ,(10) everything(11) looks(12) clean(13) .(14) 
+			<opinion featRef="hotel" featWords="11" feature="hotel" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="74">
+			I(1) rarely(2) wore(3) them(4) in(5) this(6) hotel(7) room(8) .(9) 
+		</sentence>
+		<sentence id="75">
+			I(1) did(2) notice(3) the(4) enamel(5) paint(6) had(7) chipped(8) in(9) places(10) on(11) the(12) plaster(13) walls(14) in(15) the(16) bathroom(17) .(18) 
+		</sentence>
+		<sentence id="76">
+			I(1) also(2) noticed(3) when(4) they(5) painted(6) the(7) walls(8) ,(9) they(10) painted(11) over(12) the(13) outlets(14) .(15) 
+		</sentence>
+		<sentence id="77">
+			Subtleties(1) such(2) as(3) missing(4) minor(5) pieces(6) of(7) tile(8) and(9) adding(10) a(11) bit(12) of(13) white(14) caulk(15) could(16) have(17) made(18) things(19) look(20) better(21) .(22) 
+		</sentence>
+		<sentence id="78">
+			When(1) in(2) the(3) Aqua(4) Marina(5) laundry(6) mat(7) ,(8) Hubby(9) thought(10) he(11) saw(12) little(13) tiny(14) crawly(15) creatures(16) .(17) 
+		</sentence>
+		<sentence id="79">
+			They(1) looked(2) about(3) as(4) tiny(5) as(6) a(7) flea(8) .(9) 
+		</sentence>
+		<sentence id="80">
+			Hubby(1) thought(2) they(3) might(4) be(5) roaches(6) since(7) they(8) seemed(9) intelligent(10) enough(11) to(12) run(13) when(14) you(15) put(16) a(17) finger(18) close(19) to(20) them(21) .(22) 
+		</sentence>
+		<sentence id="81">
+			Air(1) Conditioning(2) When(3) we(4) arrived(5) ,(6) the(7) large(8) sliding(9) glass(10) window(11) into(12) the(13) courtyard(14) was(15) open(16) ,(17) with(18) no(19) screens(20) .(21) 
+		</sentence>
+		<sentence id="82">
+			At(1) this(2) point(3) we(4) could(5) hear(6) traffic(7) fairly(8) well(9) .(10) 
+		</sentence>
+		<sentence id="83">
+			Traffic(1) noise(2) was(3) much(4) better(5) when(6) we(7) closed(8) the(9) window(10) ,(11) and(12) especially(13) when(14) we(15) had(16) the(17) television(18) or(19) air(20) conditioning(21) on(22) .(23) 
+		</sentence>
+		<sentence id="84">
+			Speaking(1) of(2) the(3) air(4) conditioning(5) ,(6) it(7) had(8) a(9) remote(10) control(11) .(12) 
+		</sentence>
+		<sentence id="85">
+			The(1) unit(2) hung(3) just(4) outside(5) our(6) door(7) in(8) the(9) hallway(10) .(11) 
+		</sentence>
+		<sentence id="86">
+			When(1) water(2) came(3) out(4) ,(5) it(6) leaked(7) onto(8) the(9) indoor(10) /(11) outdoor(12) carpeting(13) in(14) the(15) hallway(16) .(17) 
+		</sentence>
+		<sentence id="87">
+			The(1) unit(2) was(3) quite(4) noisy(5) ,(6) but(7) then(8) again(9) ,(10) it(11) helped(12) drown(13) out(14) the(15) traffic(16) noise(17) .(18) 
+			<opinion featWords="2" feature="air conditioning units" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="88">
+			Television(1) The(2) television(3) probably(4) had(5) about(6) 35(7) channels(8) ,(9) including(10) at(11) least(12) one(13) in(14) Japanese(15) .(16) 
+		</sentence>
+		<sentence id="89">
+			Hubby(1) is(2) the(3) master(4) channel(5) changer(6) .(7) 
+		</sentence>
+		<sentence id="90">
+			I(1) know(2) they(3) had(4) The(5) Weather(6) Channel(7) ,(8) perhaps(9) CNBC(10) or(11) CNN(12) and(13) the(14) local(15) network(16) channels(17) .(18) 
+		</sentence>
+		<sentence id="91">
+			They(1) did(2) 'nt(3) have(4) any(5) lt(6) channels(7) .(8) 
+		</sentence>
+		<sentence id="92">
+			We(1) had(2) no(3) complaints(4) about(5) the(6) television(7) or(8) the(9) remote(10) .(11) 
+		</sentence>
+		<sentence id="93">
+			Location(1) The(2) Polo(3) Inn(4) is(5) located(6) about(7) a(8) block(9) from(10) the(11) harbor(12) .(13) 
+		</sentence>
+		<sentence id="94">
+			We(1) could(2) not(3) see(4) the(5) beach(6) from(7) our(8) hotel(9) room(10) ,(11) but(12) it(13) was(14) 'nt(15) exactly(16) one(17) of(18) our(19) goals(20) .(21) 
+		</sentence>
+		<sentence id="95">
+			We(1) did(2) have(3) a(4) great(5) view(6) of(7) the(8) rooms(9) at(10) another(11) hotel(12) and(13) their(14) outside(15) porches(16) .(17) 
+			<opinion featWords="6" feature="view" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="96">
+			It(1) seems(2) by(3) their(4) Christmas(5) decorations(6) that(7) some(8) folks(9) are(10) long(11) time(12) residents(13) .(14) 
+		</sentence>
+		<sentence id="97">
+			There(1) were(2) a(3) few(4) palm(5) trees(6) between(7) us(8) and(9) the(10) other(11) high(12) rise(13) ,(14) perhaps(15) 100(16) away(17) .(18) 
+		</sentence>
+		<sentence id="98">
+			Although(1) parking(2) in(3) the(4) neighborhood(5) was(6) impossible(7) ,(8) it(9) was(10) within(11) walking(12) distance(13) to(14) the(15) ABC(16) corner(17) stores(18) that(19) have(20) everything(21) from(22) prepared(23) foods(24) to(25) a(26) few(27) basic(28) ingredients(29) ,(30) trinkets(31) ,(32) and(33) hoards(34) of(35) souvenirs(36) .(37) 
+		</sentence>
+		<sentence id="99">
+			There(1) is(2) also(3) a(4) Chart(5) House(6) restaurant(7) one(8) block(9) toward(10) the(11) shore(12) ,(13) despite(14) the(15) address(16) being(17) shown(18) on(19) Ala(20) Moana(21) .(22) 
+		</sentence>
+		<sentence id="100">
+			Also(1) located(2) just(3) across(4) the(5) street(6) were(7) Outback(8) Steakhouse(9) and(10) the(11) Red(12) Lobster(13) .(14) 
+		</sentence>
+		<sentence id="101">
+			McDonalds(1) ((2) walk(3) in(4) only(5) )(6) is(7) less(8) than(9) a(10) block(11) away(12) for(13) a(14) quick(15) ice(16) cream(17) cone(18) or(19) taro(20) fried(21) pie(22) .(23) 
+		</sentence>
+		<sentence id="102">
+			Checking(1) Out(2) We(3) originally(4) made(5) reservations(6) with(7) Travelocity(8) through(9) Wednesday(10) ,(11) but(12) then(13) changed(14) our(15) mind(16) before(17) we(18) got(19) here(20) .(21) 
+		</sentence>
+		<sentence id="103">
+			We(1) extended(2) our(3) reservation(4) by(5) a(6) day(7) ,(8) calling(9) the(10) Polo(11) Inn(12) directly(13) .(14) 
+		</sentence>
+		<sentence id="104">
+			Now(1) it(2) was(3) Wednesday(4) ,(5) the(6) day(7) of(8) our(9) original(10) departure(11) .(12) 
+		</sentence>
+		<sentence id="105">
+			We(1) went(2) to(3) our(4) room(5) ,(6) and(7) our(8) keycard(9) did(10) 'nt(11) work(12) .(13) 
+		</sentence>
+		<sentence id="106">
+			We(1) went(2) down(3) to(4) the(5) reservation(6) desk(7) ,(8) telling(9) the(10) clerk(11) what(12) was(13) wrong(14) ,(15) and(16) what(17) I(18) thought(19) the(20) problem(21) was(22) .(23) 
+		</sentence>
+		<sentence id="107">
+			He(1) asked(2) if(3) we(4) had(5) checked(6) out(7) ,(8) and(9) told(10) him(11) we(12) had(13) not(14) .(15) 
+		</sentence>
+		<sentence id="108">
+			He(1) handed(2) us(3) different(4) key(5) cards(6) that(7) worked(8) .(9) ((10) BTW(11) ,(12) they(13) said(14) they(15) could(16) not(17) match(18) Travelocity(19) s(20) original(21) rate(22) of(23) $80(24) per(25) day(26) ,(27) but(28) it(29) would(30) rather(31) be(32) $89(33) per(34) day(35) .(36) )(37) When(38) we(39) finally(40) did(41) check(42) out(43) the(44) following(45) day(46) ,(47) that(48) is(49) when(50) we(51) paid(52) for(53) the(54) extra(55) day(56) plus(57) the(58) charges(59) for(60) parking(61) .(62) 
+		</sentence>
+		<sentence id="109">
+			Due(1) to(2) the(3) tight(4) parking(5) in(6) this(7) area(8) ,(9) I(10) suggest(11) you(12) walk(13) ,(14) take(15) a(16) trolley(17) or(18) tram(19) where(20) you(21) need(22) to(23) go(24) .(25) 1696(26) Ala(27) Moana(28) Boulevard(29) ,(30) Honolulu(31) ,(32) Oahu(33) ,(34) Hawaii(35) 96815(36) ,(37) United(38) States(39) Rooms(40) :(41) 68(42) ((43) 808(44) )(45) 949-0061(46) Their(47) website(48) is(49) currently(50) under(51) construction(52) .(53) 
+		</sentence>
+	</text>
+</review>

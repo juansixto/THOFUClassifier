@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="591" item="Hotel San Remo" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) NICE(2) PLACE(3) TO(4) STAY(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Soon(1) to(2) join(3) a(4) partnership(5) with(6) Hooters(7) in(8) 2005(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) as(2) polished(3) as(4) the(5) mega(6) resorts(7) .(8) 
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			But(1) all(2) in(3) all(4) a(5) nice(6) place(7) to(8) stay(9) .(10) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			After(1) reviewing(2) some(3) of(4) the(5) rateings(6) I(7) was(8) real(9) nervous(10) about(11) staying(12) here(13) and(14) had(15) plan(16) "(17) B(18) "(19) in(20) place(21) just(22) in(23) case(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			But(1) I(2) found(3) the(4) San(5) Remo(6) to(7) be(8) a(9) nice(10) place(11) to(12) stay(13) .(14) 
+			<opinion featWords="11" feature="place" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) pool(2) is(3) heated(4) as(5) it(6) only(7) gets(8) sun(9) till(10) @(11) 2pm.Its(12) small(13) but(14) it(15) never(16) had(17) more(18) then(19) 5(20) people(21) in(22) it(23) the(24) entire(25) time(26) I(27) was(28) there(29) .(30) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="swimming pool" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) service(2) was(3) good(4) ,(5) from(6) check(7) in(8) to(9) the(10) resturants(11) .(12) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Although(1) the(2) breakfast(3) buffet(4) is(5) small(6) its(7) ok(8) for(9) 8(10) bucks(11) .(12) 
+			<opinion featWords="4" feature="food" opWords="6" polarity="-"/>
+			<opinion featWords="4" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			But(1) the(2) two(3) drinks(4) in(5) the(6) small(7) glasses(8) dont(9) cut(10) it(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) was(3) nice(4) and(5) clean(6) and(7) provided(8) a(9) nice(10) view(11) of(12) the(13) south(14) strip(15) area(16) ((17) luxor(18) newyork(19) new(20) york(21) &amp;(22) excaliper(23) )(24) .(25) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="11" feature="view" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Keep(1) in(2) mind(3) this(4) is(5) an(6) older(7) property(8) I(9) stayed(10) at(11) the(12) Luxor(13) for(14) the(15) past(16) 6(17) years(18) and(19) I(20) will(21) say(22) this(23) ,(24) when(25) you(26) compare(27) the(28) two(29) It(30) is(31) like(32) compareing(33) apples(34) and(35) oranges(36) and(37) thats(38) not(39) a(40) bad(41) thing(42) .(43) 
+		</sentence>
+		<sentence id="9">
+			You(1) cant(2) compare(3) the(4) San(5) Remo(6) to(7) the(8) Vegas(9) Mega(10) Resorts(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			But(1) the(2) people(3) are(4) nicer(5) and(6) did(7) go(8) out(9) of(10) there(11) way(12) to(13) make(14) our(15) stay(16) a(17) pleasent(18) one(19) .(20) 
+		</sentence>
+	</text>
+</review>

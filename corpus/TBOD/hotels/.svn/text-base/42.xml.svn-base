@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="42" item="The Suites Of Dorchester" rating="2">
+	<title>
+		<sentence id="1">
+			Good(1) location(2) ,(3) bad(4) service(5) ,(6) roaches(7) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="service" opWords="4" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Pool(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) rooms(2) ,(3) bad(4) service(5) ,(6) broken(7) appliances(8) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="service" opWords="4" polarity="-"/>
+			<opinion featWords="8" feature="appliances" opWords="7" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) rented(2) a(3) 2(4) bedroom(5) apartment(6) from(7) the(8) owner(9) in(10) this(11) hotel(12) ,(13) so(14) this(15) could(16) be(17) different(18) from(19) other(20) suites(21) ,(22) but(23) I(24) have(25) a(26) feeling(27) the(28) service(29) is(30) similar(31) .(32) 
+		</sentence>
+		<sentence id="2">
+			The(1) fridge(2) did(3) not(4) work(5) and(6) had(7) to(8) be(9) replaced(10) ,(11) which(12) took(13) 3(14) days(15) ,(16) there(17) were(18) cockroaches(19) everywhere(20) on(21) the(22) premises(23) until(24) we(25) disinfected(26) the(27) room(28) ourselves(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			The(1) pool(2) is(3) there(4) and(5) actually(6) not(7) too(8) bad(9) ,(10) but(11) the(12) room(13) service(14) was(15) aweful(16) -(17) they(18) never(19) arrived(20) at(21) the(22) promised(23) time(24) ,(25) did(26) not(27) speak(28) English(29) ,(30) and(31) it(32) took(33) them(34) ages(35) to(36) clean(37) .(38) 
+			<opinion featWords="2" feature="swimming pool" opWords="7,9" polarity="+" potency="8"/>
+			<opinion featWords="13,14" feature="room service" opWords="16" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			We(1) actually(2) preferred(3) no(4) service(5) at(6) all(7) ,(8) but(9) this(10) was(11) ,(12) too(13) ,(14) imposible(15) to(16) communicate(17) .(18) 
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) a(3) buffet(4) style(5) breakfast(6) at(7) the(8) hotel(9) ,(10) but(11) their(12) continental(13) costs(14) $14(15) per(16) person(17) ,(18) and(19) it(20) does(21) not(22) live(23) up(24) to(25) its(26) price(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			We(1) liked(2) the(3) location(4) -(5) it(6) 's(7) two(8) block(9) from(10) the(11) beach(12) ,(13) one(14) block(15) from(16) the(17) library(18) ,(19) and(20) 5(21) blocks(22) from(23) Lincoln(24) street(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			We(1) rented(2) a(3) car(4) and(5) regreted(6) it(7) :(8) we(9) could(10) walk(11) everywhere(12) including(13) supermarket(14) and(15) pharmacies(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) think(2) pool(3) was(4) owned(5) and(6) operated(7) independantly(8) -(9) it(10) had(11) a(12) bar(13) w(14) /(15) music(16) and(17) was(18) very(19) clean(20) 
+			<opinion featWords="3" feature="swimming pool" opWords="20" polarity="+" potency="19"/>
+		</sentence>
+	</text>
+</review>

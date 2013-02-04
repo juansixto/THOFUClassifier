@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="429" item="Four Points by Sheraton Tucson University Plaza" rating="3">
+	<title>
+		<sentence id="1">
+			Comfy(1) bed(2) ,(3) shabby(4) halls(5) .(6) 
+			<opinion featWords="2" feature="bed" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="lobby" opWords="4" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Wonderful(1) bed(2) ,(3) high-speed(4) internet(5) ,(6) great(7) location(8) ,(9) friendly(10) staff(11) .(12) 
+			<opinion featWords="2" feature="bed" opWords="1" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+			<opinion featWords="11" feature="staff" opWords="10" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Public(1) areas(2) in(3) poor(4) repair(5) ,(6) limited(7) business(8) facilities(9) ,(10) no(11) individual(12) heating(13) /(14) cooling(15) in(16) room(17) .(18) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) a(6) comfortable(7) night(8) 's(9) sleep(10) near(11) the(12) university(13) ,(14) this(15) hotel(16) is(17) convenient(18) and(19) has(20) all(21) the(22) basics(23) ...(24) just(25) close(26) your(27) eyes(28) in(29) the(30) elevators(31) and(32) hallways(33) .(34) 
+			<opinion featWords="16" feature="hotel" opWords="18" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Location(1) The(2) hotel(3) is(4) located(5) literally(6) across(7) the(8) street(9) from(10) the(11) University(12) of(13) Arizona(14) and(15) UA(16) Medical(17) Center(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) on(3) a(4) main(5) street(6) with(7) a(8) little(9) strip(10) mall(11) nearby(12) that(13) has(14) a(15) Subway(16) ,(17) Cold(18) Stone(19) Creamery(20) ,(21) and(22) similar(23) businesses(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			Parking(1) is(2) free(3) in(4) a(5) small(6) but(7) accessible(8) lot(9) .(10) 
+			<opinion featWords="1" feature="parking" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Lobby(1) /(2) Front(3) Desk(4) Nicely(5) decorated(6) lobby(7) ,(8) friendly(9) ,(10) helpful(11) front(12) desk(13) staff(14) .(15) 
+			<opinion featWords="14" feature="staff" opWords="9" polarity="+"/>
+			<opinion featWords="14" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) one(3) public(4) computer(5) and(6) printer(7) next(8) to(9) the(10) front(11) desk(12) that(13) is(14) in(15) high(16) demand(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			As(1) far(2) as(3) I(4) know(5) ,(6) there(7) was(8) not(9) another(10) business(11) center(12) or(13) other(14) area(15) with(16) computers(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) front(2) desk(3) people(4) were(5) very(6) willing(7) to(8) help(9) me(10) print(11) documents(12) ,(13) since(14) the(15) printer(16) was(17) out(18) of(19) ink(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Public(1) Areas(2) The(3) hallways(4) and(5) elevators(6) were(7) absolutely(8) disgusting(9) .(10) 
+			<opinion featWords="4" feature="lobby" opWords="9" polarity="-" potency="8"/>
+			<opinion featWords="6" feature="elevator" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="9">
+			Green(1) ,(2) peeling(3) paint(4) ,(5) shabby(6) carpets(7) ,(8) vending(9) machines(10) stuck(11) in(12) unfinished(13) boiler(14) rooms(15) .(16) 
+			<opinion featWords="7" feature="carpets" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			The(1) elevators(2) were(3) shaky(4) ,(5) and(6) sound(7) traveled(8) easily(9) through(10) the(11) thin(12) walls(13) .(14) 
+			<opinion featWords="2" feature="elevator" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			The(1) small(2) workout(3) area(4) was(5) newer(6) and(7) in(8) good(9) repair(10) .(11) 
+			<opinion featWords="3,4" feature="gym" opWords="2" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			I(1) tried(2) both(3) restaurants(4) ,(5) and(6) was(7) pleased(8) with(9) the(10) service(11) ,(12) food(13) quality(14) ,(15) and(16) facilities(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			The(1) food(2) prices(3) were(4) also(5) reasonable(6) .(7) 
+			<opinion featWords="3" feature="price" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			Room(1) Newly(2) renovated(3) ,(4) clean(5) room(6) with(7) the(8) usual(9) amenities(10) plus(11) a(12) cable(13) for(14) high-speed(15) internet(16) ((17) no(18) wireless(19) )(20) ,(21) coffee-maker(22) ,(23) hairdryer(24) ,(25) iron(26) .(27) 
+			<opinion featWords="6" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="10" feature="amenities" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) "(2) Four(3) Points(4) Comfort(5) Bed(6) "(7) was(8) the(9) most(10) comfortable(11) hotel(12) bed(13) I(14) have(15) ever(16) slept(17) in(18) !(19) 
+			<opinion featWords="13" feature="bed" opWords="10,11" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			That(1) definitely(2) won(3) me(4) over(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			The(1) pillows(2) and(3) blankets(4) were(5) heavenly(6) .(7) 
+			<opinion featWords="2" feature="bedding" opWords="6" polarity="+"/>
+			<opinion featWords="4" feature="bedding" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			I(1) was(2) annoyed(3) that(4) the(5) thermostat(6) is(7) centrally(8) controlled(9) ,(10) and(11) can(12) not(13) be(14) changed(15) by(16) guests(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			They(1) have(2) a(3) sign(4) offering(5) space(6) heaters(7) or(8) fans(9) by(10) request(11) .(12) 
+		</sentence>
+	</text>
+</review>

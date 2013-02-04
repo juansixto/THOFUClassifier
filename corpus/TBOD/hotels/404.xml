@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="404" item="Ameritania Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			just(1) okay(2) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			location(1) ;(2) friendly(3) housekeeping(4) staff(5) 
+			<opinion featWords="4" feature="room service" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			surly(1) reception(2) staff(3) ;(4) minimal(5) niceties(6) 
+			<opinion featWords="3" feature="staff" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			An(1) affordable(2) ,(3) acceptable(4) hotel(5) if(6) you(7) can(8) just(9) take(10) a(11) deep(12) breath(13) of(14) good(15) ol(16) '(17) NYC(18) atmosphere(19) and(20) let(21) go(22) of(23) the(24) irritating(25) small(26) stuff(27) .(28) 
+			<opinion feature="price" opWords="2" polarity="+"/>
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Reception(1) staff(2) insisted(3) that(4) I(5) had(6) cancelled(7) my(8) 3-night(9) reservation(10) the(11) day(12) before(13) ;(14) then(15) they(16) claimed(17) that(18) they(19) never(20) received(21) the(22) reservation(23) from(24) Expedia(25) .(26) com(27) ;(28) then(29) they(30) told(31) me(32) to(33) "(34) walk(35) around(36) the(37) city(38) "(39) for(40) an(41) hour(42) while(43) they(44) tried(45) to(46) work(47) out(48) at(49) least(50) one(51) night(52) 's(53) stay(54) .(55) 
+		</sentence>
+		<sentence id="2">
+			Not(1) a(2) good(3) welcome(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			I(1) eventually(2) got(3) my(4) room(5) ((6) with(7) no(8) apologies(9) from(10) the(11) Reception(12) staff(13) )(14) ,(15) which(16) was(17) small(18) but(19) acceptable(20) .(21) 
+			<opinion featWords="5" feature="rooms" opWords="18" polarity="-"/>
+			<opinion featWords="5" feature="rooms" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Over(1) the(2) course(3) of(4) 4(5) days(6) ,(7) however(8) ,(9) I(10) was(11) disappointed(12) by(13) "(14) continental(15) breakfast(16) "(17) consisting(18) of(19) beverage(20) and(21) bagel(22) only(23) ;(24) no(25) hand(26) towels(27) in(28) bath(29) room(30) for(31) 3(32) days(33) ;(34) one(35) broken(36) elevator(37) ((38) one(39) working(40) )(41) ;(42) leaky(43) ceiling(44) in(45) lobby(46) .(47) $35(48) car(49) service(50) to(51) LGA(52) is(53) worth(54) it(55) .(56) 
+			<opinion featWords="37" feature="elevator" opWords="36" polarity="-"/>
+		</sentence>
+	</text>
+</review>

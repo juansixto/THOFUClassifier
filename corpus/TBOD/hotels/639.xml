@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="639" item="Sheraton Boston" rating="3">
+	<title>
+		<sentence id="1">
+			Sheraton(1) Boston(2) -(3) Unbiased(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) indoor(3) /(4) outdoor(5) pool(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Housekeeping(1) forgets(2) stuff(3) ,(4) concierge(5) recommends(6) crummy(7) restaurants(8) ,(9) no(10) minibar(11) ,(12) parking(13) fee(14) 
+			<opinion featWords="8" feature="food" opWords="7" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) is(2) a(3) nice(4) location(5) ,(6) but(7) the(8) rooms(9) lack(10) some(11) ammenities(12) .(13) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Housekeeping(1) is(2) sub-par(3) for(4) a(5) Sheraton(6) .(7) 
+			<opinion featWords="1" feature="room service" opWords="3" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) in(3) the(4) Boston(5) Sheraton(6) in(7) September(8) 2002(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) heard(3) that(4) rooms(5) were(6) recently(7) renovated(8) .(9) 
+			<opinion featWords="5" feature="rooms" opWords="7,8" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			There(1) were(2) newer(3) comforters(4) and(5) sheets(6) on(7) the(8) beds(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			However(1) they(2) were(3) white(4) and(5) readily(6) show(7) dirt(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) furnishings(2) were(3) nice(4) ,(5) but(6) not(7) overly(8) elaborate(9) .(10) 
+			<opinion featWords="2" feature="furnishings" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="furnishings" opWords="7,9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="6">
+			The(1) location(2) is(3) great(4) .(5) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			The(1) Sheraton(2) is(3) connected(4) with(5) a(6) huge(7) mall(8) and(9) the(10) convention(11) center(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			There(1) are(2) lots(3) of(4) places(5) nearby(6) for(7) food(8) such(9) as(10) the(11) famous(12) Boston(13) Seafood(14) restaurant(15) ,(16) Cheesecake(17) Factory(18) and(19) other(20) chains(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			You(1) are(2) also(3) very(4) close(5) to(6) local(7) eateries(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			The(1) subway(2) is(3) just(4) a(5) block(6) away(7) and(8) the(9) system(10) is(11) awesome(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			It(1) is(2) very(3) easy(4) to(5) get(6) around(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			The(1) hotel(2) has(3) a(4) restaurant(5) ,(6) a(7) healthclub(8) ((9) surcharge(10) )(11) ,(12) and(13) an(14) indoor(15) /(16) outdoor(17) pool(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) amenities(2) were(3) good(4) .(5) 
+			<opinion featWords="2" feature="amenities" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) room(2) itself(3) has(4) one(5) phone(6) ,(7) a(8) jack(9) for(10) computers(11) ,(12) NO(13) MINIBAR(14) ,(15) iron(16) ,(17) a(18) coffee(19) maker(20) with(21) supplies(22) and(23) NO(24) SAFE(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			I(1) liked(2) the(3) fact(4) that(5) with(6) the(7) coffeemaker(8) they(9) provided(10) both(11) ceramic(12) and(13) disposable(14) cups(15) with(16) lids(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			The(1) climate(2) control(3) unit(4) was(5) noisy(6) and(7) I(8) could(9) never(10) get(11) the(12) room(13) set(14) to(15) a(16) good(17) temperature(18) .(19) 
+			<opinion featWords="2,3,4" feature="air conditioning units" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			Each(1) of(2) the(3) six(4) days(5) we(6) were(7) there(8) housekeeping(9) forgot(10) something(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			At(1) check-in(2) we(3) had(4) no(5) soap(6) .(7) 
+		</sentence>
+		<sentence id="19">
+			The(1) next(2) day(3) it(4) was(5) shampoo(6) .(7) 
+		</sentence>
+		<sentence id="20">
+			Another(1) day(2) they(3) forgot(4) to(5) leave(6) the(7) sugar(8) /(9) creamer(10) for(11) the(12) coffee(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			I(1) was(2) disappointed(3) in(4) this(5) .(6) 
+		</sentence>
+		<sentence id="22">
+			The(1) concierge(2) ,(3) although(4) friendly(5) and(6) helpful(7) ,(8) did(9) not(10) recommend(11) good(12) restaurants(13) .(14) 
+			<opinion featWords="13" feature="food" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			They(1) obviously(2) are(3) compensated(4) to(5) recommend(6) certain(7) eateries(8) .(9) 
+		</sentence>
+		<sentence id="24">
+			The(1) Indian(2) place(3) they(4) recommended(5) was(6) bad(7) for(8) example(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			Also(1) ,(2) you(3) often(4) had(5) to(6) wait(7) quite(8) a(9) few(10) minutes(11) for(12) assistance(13) from(14) the(15) concierge(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			The(1) parking(2) is(3) very(4) expensive(5) ,(6) but(7) in-line(8) with(9) Boston(10) rates(11) .(12) 
+			<opinion feature="price" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="27">
+			It(1) is(2) $33/day(3) to(4) park(5) .(6) 
+		</sentence>
+		<sentence id="28">
+			Also(1) ,(2) our(3) rate(4) included(5) one(6) free(7) kids(8) meal(9) with(10) every(11) adult(12) meal(13) .(14) 
+		</sentence>
+		<sentence id="29">
+			We(1) found(2) the(3) one(4) restaurant(5) that(6) Sheraton(7) owns(8) to(9) be(10) very(11) overpriced(12) so(13) we(14) never(15) used(16) this(17) benefit(18) .(19) 
+			<opinion feature="price" opWords="12" polarity="-" potency="11"/>
+		</sentence>
+	</text>
+</review>

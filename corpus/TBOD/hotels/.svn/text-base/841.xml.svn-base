@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="841" item="Four Seasons Las Vegas" rating="5">
+	<title>
+		<sentence id="1">
+			Your(1) Special(2) Occasion(3) Headquarters(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Access(1) to(2) Mandalay(3) Bay(4) ,(5) first-rate(6) service(7) ,(8) decadent(9) suites(10) ,(11) yummy(12) food(13) 
+			<opinion featWords="7" feature="service" opWords="6" polarity="+"/>
+			<opinion featWords="10" feature="rooms" opWords="9" polarity="-"/>
+			<opinion featWords="13" feature="food" opWords="12" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Standard(1) rooms(2) disappoint(3) in(4) appearance(5) and(6) size(7) considering(8) price(9) 
+			<opinion featWords="2" feature="rooms" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) choice(2) if(3) you(4) are(5) celebrating(6) a(7) grand(8) occasion(9) or(10) seek(11) a(12) Las(13) Vegas(14) vacation(15) focused(16) on(17) your(18) stay(19) and(20) comfort(21) rather(22) than(23) on(24) the(25) casino(26) .(27) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Location(1) /(2) Overview(3) The(4) Four(5) Seasons(6) Hotel(7) rests(8) quietly(9) in(10) back(11) of(12) the(13) Mandalay(14) Bay(15) Hotel(16) /(17) Casino(18) at(19) the(20) southern(21) most(22) end(23) of(24) the(25) Las(26) Vegas(27) Strip(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) accessible(3) by(4) a(5) hidden(6) drive(7) off(8) Las(9) Vegas(10) Blvd(11) .(12) or(13) through(14) two(15) entrances(16) inside(17) the(18) Mandalay(19) Bay(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			One(1) entrance(2) is(3) by(4) key-card(5) only(6) ,(7) provides(8) direct(9) access(10) to(11) the(12) Four(13) Seasons(14) guest(15) elevators(16) ,(17) and(18) sits(19) just(20) off(21) Mandalay(22) s(23) lobby(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) other(2) is(3) tucked(4) into(5) a(6) corner(7) of(8) Mandalay(9) s(10) pool(11) /(12) shop(13) /(14) spa(15) level(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			Guest(1) rooms(2) make(3) up(4) the(5) top(6) four(7) floors(8) ((9) 35-59(10) )(11) of(12) the(13) Mandalay(14) Bay(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			The(1) lobby(2) is(3) made(4) up(5) of(6) two(7) main(8) seating(9) areas(10) ,(11) one(12) with(13) a(14) fireplace(15) and(16) desk(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			As(1) soon(2) as(3) you(4) get(5) up(6) someone(7) will(8) inevitably(9) be(10) by(11) to(12) fluff(13) the(14) indent(15) you(16) left(17) in(18) the(19) pillows(20) ,(21) or(22) pick(23) up(24) the(25) gum(26) wrapper(27) that(28) unexpectedly(29) fell(30) out(31) of(32) your(33) pocket(34) ((35) okay(36) ,(37) I(38) amm(39) guilty(40) )(41) .(42) 
+		</sentence>
+		<sentence id="8">
+			You(1) may(2) even(3) be(4) offered(5) a(6) bottle(7) of(8) water(9) if(10) refreshments(11) are(12) not(13) already(14) being(15) served(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			Everything(1) about(2) this(3) hotel(4) whispers(5) elegance(6) ,(7) from(8) the(9) rich(10) furniture(11) and(12) wood(13) mosaic(14) floors(15) ,(16) to(17) the(18) carefully(19) placed(20) floral(21) arrangements(22) by(23) Subrosa(24) ,(25) the(26) hotel(27) s(28) florist(29) .(30) 
+			<opinion featWords="11" feature="furnishings" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Large(1) hallways(2) extend(3) from(4) either(5) side(6) of(7) the(8) lobby(9) area(10) :(11) left(12) are(13) the(14) Charlie(15) Palmer(16) Steak(17) Restaurant(18) ,(19) The(20) Verandah(21) restaurant(22) ,(23) and(24) grand(25) spiral(26) staircase(27) to(28) the(29) meeting(30) facilities(31) ;(32) right(33) leads(34) to(35) the(36) concierge(37) ,(38) spa(39) ,(40) Palm(41) Room(42) ((43) another(44) meeting(45) room(46) )(47) ,(48) gift(49) shop(50) ,(51) and(52) several(53) boutiques(54) .(55) 
+			<opinion featWords="2" feature="lobby" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			This(1) way(2) also(3) leads(4) to(5) the(6) guest(7) elevators(8) and(9) a(10) nondescript(11) door(12) to(13) the(14) Mandalay(15) Bay(16) s(17) pool(18) /(19) shop(20) /(21) spa(22) level(23) ((24) take(25) a(26) right(27) just(28) before(29) entering(30) the(31) elevator(32) area(33) )(34) .(35) 
+		</sentence>
+		<sentence id="12">
+			The(1) main(2) door(3) to(4) the(5) Four(6) Seasons(7) /(8) Mandalay(9) Bay(10) pool(11) areas(12) is(13) also(14) adjacent(15) to(16) these(17) elevators(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			The(1) Four(2) Seasons(3) Hotel(4) does(5) not(6) have(7) a(8) casino(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Price(1) This(2) was(3) an(4) extremely(5) special(6) occasion(7) so(8) my(9) husband(10) and(11) I(12) decided(13) to(14) splurge(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			I(1) made(2) the(3) reservations(4) in(5) April(6) for(7) an(8) October(9) stay(10) and(11) paid(12) $500(13) for(14) Saturday(15) night(16) and(17) $400(18) for(19) each(20) additional(21) night(22) .(23) 
+		</sentence>
+		<sentence id="16">
+			I(1) called(2) the(3) hotel(4) s(5) reservation(6) department(7) directly(8) and(9) saved(10) $50(11) a(12) night(13) off(14) the(15) prices(16) quoted(17) on(18) their(19) web(20) site(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			We(1) stayed(2) in(3) a(4) Four(5) Seasons(6) room(7) ,(8) which(9) is(10) similar(11) to(12) an(13) Executive(14) Suite(15) except(16) it(17) has(18) a(19) strip(20) view(21) and(22) does(23) not(24) have(25) a(26) separate(27) bedroom(28) area(29) .(30) 
+		</sentence>
+		<sentence id="18">
+			Both(1) rooms(2) are(3) 800(4) square(5) feet(6) .(7) 
+		</sentence>
+		<sentence id="19">
+			Larger(1) rooms(2) are(3) available(4) ((5) as(6) are(7) smaller(8) )(9) and(10) the(11) hotel(12) s(13) web(14) site(15) clearly(16) explains(17) every(18) available(19) option(20) .(21) 
+		</sentence>
+		<sentence id="20">
+			Regular(1) rooms(2) average(3) about(4) $200(5) a(6) night(7) ((8) depending(9) on(10) time(11) of(12) year(13) ,(14) day(15) of(16) week(17) )(18) ,(19) however(20) packages(21) including(22) free(23) breakfast(24) or(25) spa(26) treatments(27) ((28) to(29) name(30) a(31) few(32) )(33) are(34) available(35) on(36) their(37) web(38) site(39) .(40) 
+		</sentence>
+		<sentence id="21">
+			My(1) parents(2) also(3) stayed(4) here(5) the(6) same(7) weekend(8) we(9) did(10) and(11) paid(12) about(13) $200(14) a(15) night(16) for(17) a(18) standard(19) room(20) through(21) Delta(22) Vacations(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			Phone(1) calls(2) are(3) $1.00(4) a(5) piece(6) and(7) parking(8) is(9) around(10) $8(11) a(12) day(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			What(1) We(2) Think(3) The(4) Four(5) Seasons(6) is(7) expensive(8) but(9) does(10) offer(11) a(12) level(13) of(14) service(15) and(16) comfort(17) unmatched(18) by(19) many(20) hotels(21) in(22) Las(23) Vegas(24) ((25) and(26) beyond(27) )(28) .(29) 
+			<opinion feature="price" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) have(3) a(4) special(5) occasion(6) to(7) celebrate(8) or(9) a(10) reason(11) to(12) splurge(13) I(14) would(15) highly(16) recommend(17) a(18) suite(19) .(20) 
+			<opinion featWords="19" feature="rooms" opWords="17" polarity="+" potency="16"/>
+		</sentence>
+		<sentence id="25">
+			Otherwise(1) ,(2) I(3) would(4) not(5) recommend(6) a(7) standard(8) room(9) unless(10) you(11) really(12) want(13) to(14) stay(15) here(16) and(17) an(18) upgraded(19) room(20) is(21) not(22) an(23) option(24) .(25) 
+			<opinion featWords="9" feature="rooms" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			In(1) fact(2) ,(3) if(4) I(5) had(6) to(7) choose(8) between(9) the(10) Four(11) Seasons(12) and(13) the(14) Mandalay(15) Bay(16) ,(17) I(18) would(19) definitely(20) recommend(21) Mandalay(22) s(23) standard(24) rooms(25) over(26) the(27) Four(28) Seasons(29) ((30) similar(31) in(32) size(33) but(34) lack(35) the(36) Four(37) Seasons(38) special(39) touches(40) and(41) personal(42) service(43) )(44) .(45) 
+			<opinion feature="hotel" opWords="21" polarity="+" potency="20"/>
+		</sentence>
+		<sentence id="27">
+			I(1) know(2) that(3) Mandalay(4) s(5) standard(6) room(7) prices(8) can(9) sometimes(10) soar(11) into(12) the(13) realm(14) of(15) expensive(16) to(17) very(18) expensive(19) ,(20) and(21) if(22) this(23) is(24) the(25) case(26) I(27) would(28) definitely(29) advise(30) also(31) pricing(32) rooms(33) at(34) the(35) Four(36) Seasons(37) .(38) 
+		</sentence>
+		<sentence id="28">
+			Our(1) Room(2) After(3) a(4) hassle(5) free(6) mid-Saturday(7) morning(8) check-in(9) and(10) a(11) mini-tour(12) of(13) the(14) hotel(15) by(16) the(17) gentlemen(18) handling(19) our(20) bags(21) ,(22) we(23) were(24) escorted(25) to(26) our(27) room(28) .(29) 
+		</sentence>
+		<sentence id="29">
+			A(1) small(2) foyer(3) area(4) greeted(5) us(6) when(7) we(8) opened(9) the(10) door(11) ,(12) with(13) an(14) extremely(15) large(16) walk-in(17) closet(18) to(19) the(20) right(21) ,(22) including(23) a(24) complimentary(25) safe(26) ,(27) L(28) Occitane(29) lavender(30) water(31) ,(32) fabric(33) covered(34) hangers(35) ,(36) and(37) plenty(38) of(39) shelving(40) .(41) 
+		</sentence>
+		<sentence id="30">
+			To(1) the(2) left(3) ,(4) a(5) completely(6) marble(7) bathroom(8) boasted(9) a(10) Jacuzzi(11) tub(12) ,(13) shower(14) with(15) glass(16) doors(17) ,(18) two(19) luscious(20) robes(21) ,(22) scale(23) ,(24) magnifying(25) mirror(26) ,(27) hair(28) dryer(29) ,(30) cotton(31) balls(32) ,(33) and(34) an(35) assortment(36) of(37) L(38) Occitane(39) products(40) scattered(41) over(42) the(43) glass(44) shelf(45) above(46) the(47) sink(48) ,(49) around(50) the(51) tub(52) ,(53) and(54) in(55) the(56) shower(57) .(58) 
+		</sentence>
+		<sentence id="31">
+			I(1) greedily(2) used(3) as(4) many(5) of(6) these(7) products(8) as(9) I(10) could(11) each(12) day(13) and(14) they(15) were(16) always(17) replenished(18) .(19) 
+		</sentence>
+		<sentence id="32">
+			The(1) toilet(2) and(3) one(4) of(5) 4(6) telephones(7) ((8) including(9) a(10) cordless(11) )(12) were(13) in(14) a(15) separate(16) room(17) off(18) the(19) bathroom(20) .(21) 
+		</sentence>
+		<sentence id="33">
+			When(1) we(2) first(3) entered(4) the(5) foyer(6) area(7) ,(8) we(9) were(10) immediately(11) struck(12) by(13) the(14) full(15) wall(16) of(17) windows(18) directly(19) in(20) front(21) of(22) us(23) ,(24) all(25) of(26) which(27) overlooked(28) the(29) Strip(30) and(31) mountain(32) area(33) .(34) 
+		</sentence>
+		<sentence id="34">
+			Past(1) the(2) foyer(3) ,(4) the(5) room(6) contained(7) a(8) canopy(9) bed(10) decked(11) out(12) in(13) a(14) subtle(15) gold-print(16) bedspread(17) and(18) dark(19) wooden(20) end(21) tables(22) ((23) one(24) with(25) the(26) cordless(27) phone(28) ,(29) the(30) other(31) with(32) a(33) Bose(34) alarm(35) clock(36) )(37) .(38) 
+		</sentence>
+		<sentence id="35">
+			An(1) armoire(2) with(3) a(4) large(5) TV(6) ((7) HBO(8) )(9) and(10) stereo(11) system(12) was(13) also(14) present(15) .(16) 
+			<opinion featWords="6" feature="tv" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="36">
+			The(1) TV(2) rolled(3) out(4) and(5) tilted(6) toward(7) the(8) bed(9) for(10) an(11) easy(12) view(13) .(14) 
+			<opinion featWords="13" feature="view" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="37">
+			A(1) desk(2) area(3) with(4) two(5) chairs(6) and(7) the(8) usual(9) lamp(10) ,(11) phone(12) ,(13) writing(14) utensils(15) ,(16) etc.(17) was(18) flush(19) against(20) the(21) windows(22) ,(23) and(24) a(25) large(26) potted(27) fern(28) interrupted(29) the(30) space(31) between(32) the(33) second(34) desk(35) chair(36) and(37) the(38) couch(39) /(40) coffee(41) table(42) /(43) wing(44) chair(45) arrangement(46) on(47) the(48) far(49) side(50) of(51) the(52) room(53) .(54) ((55) Check(56) out(57) the(58) wonderful(59) candies(60) in(61) a(62) dish(63) on(64) the(65) coffee(66) table(67) also(68) replenished(69) daily(70) !(71) )(72) Two(73) more(74) end(75) tables(76) flanked(77) the(78) couch(79) and(80) were(81) home(82) to(83) another(84) phone(85) ,(86) lamps(87) ,(88) and(89) some(90) miscellaneous(91) plants(92) .(93) 
+		</sentence>
+		<sentence id="38">
+			A(1) wet(2) bar(3) with(4) a(5) refrigerator(6) and(7) more(8) than(9) the(10) usual(11) assortment(12) of(13) goodies(14) completed(15) the(16) room(17) .(18) 
+		</sentence>
+		<sentence id="39">
+			Housekeeping(1) came(2) twice(3) per(4) day(5) ,(6) once(7) to(8) clean(9) and(10) the(11) other(12) to(13) remove(14) the(15) bedspread(16) and(17) turn(18) down(19) the(20) most(21) amazing(22) down(23) comforter(24) my(25) husband(26) and(27) I(28) have(29) ever(30) encountered(31) .(32) 
+		</sentence>
+		<sentence id="40">
+			We(1) thought(2) the(3) robes(4) were(5) to(6) die(7) for(8) until(9) we(10) got(11) into(12) bed(13) !(14) ((15) The(16) robes(17) are(18) available(19) from(20) the(21) spa(22) for(23) $85(24) )(25) .(26) 
+		</sentence>
+		<sentence id="41">
+			A(1) beautiful(2) arrangement(3) of(4) flowers(5) also(6) showed(7) up(8) courtesy(9) of(10) the(11) hotel(12) to(13) celebrate(14) our(15) special(16) occasion(17) .(18) ((19) Later(20) we(21) also(22) received(23) chocolate(24) mousse(25) cake(26) and(27) champagne(28) !(29) !(30) )(31) You(32) can(33) also(34) make(35) arrangements(36) to(37) have(38) massages(39) and(40) other(41) spa(42) treatments(43) done(44) in(45) your(46) room(47) .(48) 
+		</sentence>
+		<sentence id="42">
+			Standard(1) Rooms(2) Standard(3) rooms(4) are(5) somewhat(6) bland(7) in(8) style(9) ,(10) overlook(11) the(12) mountains(13) ,(14) and(15) average(16) about(17) 450(18) square(19) feet(20) .(21) 
+		</sentence>
+		<sentence id="43">
+			When(1) you(2) enter(3) the(4) room(5) ,(6) the(7) mini(8) bar(9) area(10) and(11) closets(12) are(13) directly(14) to(15) the(16) left(17) with(18) the(19) bathroom(20) to(21) the(22) right(23) .(24) 
+		</sentence>
+		<sentence id="44">
+			Everything(1) present(2) in(3) our(4) bathroom(5) was(6) present(7) here(8) ((9) including(10) the(11) robes(12) )(13) .(14) 
+		</sentence>
+		<sentence id="45">
+			A(1) large(2) armoire(3) was(4) at(5) the(6) foot(7) of(8) the(9) king-sized(10) bed(11) ,(12) which(13) was(14) covered(15) in(16) that(17) wonderful(18) comforter(19) .(20) 
+		</sentence>
+		<sentence id="46">
+			End(1) tables(2) flanked(3) each(4) side(5) of(6) the(7) bed(8) ,(9) along(10) with(11) a(12) wing(13) chair(14) and(15) desk(16) area(17) .(18) 
+		</sentence>
+		<sentence id="47">
+			My(1) parents(2) loved(3) this(4) room(5) because(6) it(7) was(8) extremely(9) quiet(10) at(11) night(12) ,(13) very(14) comfortable(15) ,(16) and(17) afforded(18) them(19) the(20) level(21) of(22) service(23) that(24) accompanies(25) a(26) stay(27) at(28) the(29) Four(30) Seasons(31) .(32) 
+			<opinion featWords="5" feature="rooms" opWords="3" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="10" polarity="+" potency="9"/>
+			<opinion featWords="5" feature="rooms" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="48">
+			Mandalay(1) Bay(2) The(3) Four(4) Seasons(5) elevators(6) do(7) not(8) stop(9) at(10) any(11) of(12) the(13) Mandalay(14) Bay(15) s(16) room(17) floors(18) but(19) do(20) let(21) you(22) out(23) in(24) their(25) lobby(26) ((27) casino(28) level(29) )(30) .(31) 
+		</sentence>
+		<sentence id="49">
+			One(1) of(2) the(3) best(4) parts(5) about(6) staying(7) at(8) the(9) Four(10) Seasons(11) is(12) being(13) able(14) to(15) enjoy(16) everything(17) at(18) the(19) Mandalay(20) Bay(21) ,(22) including(23) their(24) pools(25) ,(26) restaurants(27) ,(28) and(29) casino(30) ambiance(31) ,(32) without(33) stepping(34) outside(35) .(36) 
+		</sentence>
+		<sentence id="50">
+			Most(1) mornings(2) my(3) parents(4) ate(5) at(6) Raffles(7) ,(8) Mandalay(9) Bay(10) s(11) 24-hour(12) cafe(13) that(14) offers(15) a(16) wonderful(17) variety(18) of(19) food(20) in(21) a(22) tropical(23) setting(24) .(25) 
+		</sentence>
+		<sentence id="51">
+			The(1) House(2) of(3) Blues(4) also(5) serves(6) breakfast(7) .(8) 
+		</sentence>
+		<sentence id="52">
+			Trattoria(1) del(2) Lupo(3) ((4) Wolfgang(5) Puck(6) s(7) restaurant(8) )(9) at(10) the(11) Mandalay(12) is(13) very(14) good(15) but(16) pricey(17) for(18) dinner(19) .(20) 
+			<opinion featWords="19" feature="food" opWords="15" polarity="+" potency="14"/>
+			<opinion featWords="19" feature="food" opWords="17" polarity="-"/>
+		</sentence>
+		<sentence id="53">
+			Across(1) from(2) Trattoria(3) is(4) rumjungle(5) ,(6) which(7) is(8) an(9) excellent(10) pre-dinner(11) meeting(12) place(13) to(14) soak(15) up(16) atmosphere(17) and(18) plenty(19) of(20) overpriced-but-worth-it(21) drinks(22) .(23) 
+			<opinion featWords="13" feature="place" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="54">
+			They(1) also(2) serve(3) dinner(4) and(5) can(6) get(7) very(8) crowded(9) .(10) 
+			<opinion feature="hotel" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="55">
+			The(1) Coral(2) Reef(3) lounge(4) serves(5) great(6) sushi(7) and(8) its(9) open(10) air(11) environment(12) off(13) the(14) casino(15) lets(16) you(17) keep(18) tabs(19) on(20) the(21) hot(22) slot(23) machines(24) .(25) 
+		</sentence>
+		<sentence id="56">
+			Take(1) note(2) of(3) the(4) wonderful(5) fish(6) tank(7) ,(8) too(9) .(10) 
+		</sentence>
+		<sentence id="57">
+			My(1) husband(2) and(3) I(4) love(5) Mandalay(6) s(7) pool(8) area(9) ((10) especially(11) the(12) wave(13) pool(14) and(15) lazy(16) river(17) )(18) even(19) though(20) it(21) can(22) get(23) crowded(24) .(25) 
+			<opinion feature="hotel" opWords="24" polarity="-"/>
+		</sentence>
+		<sentence id="58">
+			Here(1) s(2) where(3) you(4) win(5) by(6) staying(7) at(8) the(9) Four(10) Seasons(11) :(12) should(13) Mandalay(14) start(15) to(16) disappoint(17) ,(18) you(19) can(20) always(21) return(22) to(23) the(24) Four(25) Seasons(26) pool(27) area(28) via(29) two(30) guest(31) key-card(32) only(33) wrought(34) iron(35) gates(36) .(37) 
+		</sentence>
+		<sentence id="59">
+			Here(1) ,(2) luxury(3) greets(4) you(5) in(6) the(7) form(8) of(9) comfy(10) lounge(11) chairs(12) ,(13) plenty(14) of(15) palm-frond(16) created(17) shade(18) ,(19) and(20) attentive(21) staff(22) .(23) ((24) Note(25) :(26) If(27) you(28) are(29) offered(30) an(31) Evian(32) face(33) misting(34) ,(35) take(36) it(37) !(38) You(39) ll(40) get(41) over(42) the(43) I-don(44) t-really-deserve-this-luxury(45) feeling(46) soon(47) enough(48) !(49) )(50) Besides(51) room(52) service(53) ((54) which(55) was(56) prompt(57) ,(58) hot(59) ,(60) and(61) extremely(62) yummy(63) )(64) ,(65) the(66) only(67) Four(68) Seasons(69) restaurant(70) we(71) ate(72) at(73) was(74) The(75) Verandah(76) the(77) outside(78) of(79) which(80) envelopes(81) the(82) pool(83) area(84) with(85) wooden(86) slated(87) tables(88) and(89) chairs(90) ,(91) and(92) plenty(93) of(94) lush(95) ferns(96) .(97) 
+			<opinion featWords="52,53" feature="room service" opWords="63" polarity="+" potency="62"/>
+			<opinion featWords="52,53" feature="room service" opWords="59" polarity="+"/>
+			<opinion featWords="52,53" feature="room service" opWords="57" polarity="+"/>
+			<opinion featWords="12" feature="chairs" opWords="10" polarity="+"/>
+			<opinion featWords="22" feature="staff" opWords="21" polarity="+"/>
+		</sentence>
+		<sentence id="60">
+			The(1) food(2) here(3) is(4) excellent(5) .(6) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="61">
+			My(1) Mom(2) even(3) special(4) ordered(5) something(6) that(7) was(8) 'nt(9) on(10) the(11) Lunch(12) menu(13) and(14) they(15) gave(16) it(17) to(18) her(19) .(20) 
+		</sentence>
+		<sentence id="62">
+			Do(1) 'nt(2) forget(3) to(4) take(5) note(6) of(7) the(8) bread(9) and(10) olive(11) oil(12) /(13) apple(14) vinegar(15) combination(16) they(17) lay(18) out(19) for(20) you(21) to(22) indulge(23) in(24) before(25) your(26) meal(27) arrives(28) .(29) 
+		</sentence>
+		<sentence id="63">
+			Even(1) my(2) iced(3) tea(4) had(5) frozen(6) iced(7) tea(8) iced(9) cubes(10) in(11) it(12) !(13) 
+		</sentence>
+		<sentence id="64">
+			Lunch(1) for(2) three(3) cost(4) around(5) $50(6) .(7) 
+		</sentence>
+	</text>
+</review>

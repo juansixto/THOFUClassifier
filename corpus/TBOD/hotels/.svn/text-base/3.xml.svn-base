@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="3" item="Westgate Park City Rst And Spa" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) NOT(2) BUY(3) A(4) TIMESHARE(5) AT(6) WESTGATE(7) PARK(8) CITY(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Other(1) than(2) that(3) none(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Westgate(1) Park(2) City(3) is(4) a(5) horrible(6) property(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Poorly(1) trained(2) ,(3) unprofessional(4) staff(5) .(6) 
+			<opinion featWords="5" feature="staff" opWords="1,2" polarity="-"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Impossible(1) restrictions(2) for(3) reservations(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) never(3) formally(4) complained(5) about(6) anything(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			But(1) this(2) is(3) a(4) serious(5) matter(6) and(7) involves(8) a(9) major(10) investment(11) from(12) families(13) '(14) savings(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			From(1) our(2) first(3) night(4) at(5) Westgate(6) Resort(7) Park(8) City(9) ,(10) when(11) we(12) all(13) got(14) food(15) poisoning(16) from(17) pizza(18) at(19) the(20) resort(21) restaurant(22) ,(23) our(24) stay(25) was(26) a(27) nightmare(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) no(3) idea(4) how(5) Westgate(6) Park(7) City(8) earned(9) 5(10) stars(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			The(1) staff(2) is(3) rude(4) and(5) unresponsive(6) .(7) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="staff" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			Worse(1) ,(2) when(3) we(4) explained(5) to(6) the(7) timeshare(8) sales(9) people(10) that(11) we(12) needed(13) flexibility(14) ,(15) they(16) sold(17) us(18) on(19) an(20) upgraded(21) "(22) ski(23) prime(24) package(25) "(26) for(27) significantly(28) more(29) and(30) it(31) turns(32) out(33) ,(34) it(35) means(36) absolutely(37) nothing(38) .(39) 
+		</sentence>
+		<sentence id="7">
+			To(1) get(2) a(3) reservation(4) at(5) this(6) Westgate(7) Parkcity(8) during(9) ski(10) season(11) you(12) must(13) book(14) 11(15) months(16) in(17) advance(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Unless(1) you(2) have(3) the(4) ability(5) to(6) know(7) your(8) schedule(9) that(10) far(11) in(12) advance(13) do(14) not(15) bother(16) with(17) this(18) resort(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			Lastly(1) ,(2) we(3) have(4) had(5) non-stop(6) ,(7) weekly(8) phone(9) calls(10) from(11) Westgate(12) Inc.(13) trying(14) to(15) sell(16) us(17) upgraded(18) this(19) and(20) insurance(21) that(22) and(23) incentives(24) for(25) getting(26) our(27) friends(28) to(29) buy(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) relentless(3) .(4) 
+		</sentence>
+		<sentence id="11">
+			The(1) worst(2) investment(3) we(4) 've(5) ever(6) made(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			When(1) we(2) think(3) what(4) that(5) money(6) could(7) have(8) done(9) invested(10) elsewhere(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			We(1) are(2) trying(3) to(4) sell(5) asap(6) .(7) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="265" item="Rosario Resort And Spa" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) bother(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			good(1) food(2) 
+			<opinion featWords="2" feature="food" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			horrible(1) views(2) ,(3) exceptionally(4) bad(5) service(6) ,(7) worn(8) furnishings(9) 
+			<opinion featWords="2" feature="view" opWords="1" polarity="-"/>
+			<opinion featWords="6" feature="service" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="9" feature="furnishings" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) resort(2) is(3) extremely(4) expensive(5) and(6) the(7) poor(8) service(9) and(10) old(11) ,(12) worn(13) rooms(14) nowhere(15) near(16) justify(17) the(18) $300-plus(19) price(20) .(21) 
+			<opinion feature="price" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="9" feature="service" opWords="8" polarity="-"/>
+			<opinion featWords="14" feature="rooms" opWords="11" polarity="-"/>
+			<opinion featWords="14" feature="rooms" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			do(1) not(2) bother(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			From(1) the(2) moment(3) I(4) arrived(5) until(6) the(7) moment(8) I(9) left(10) I(11) was(12) met(13) with(14) unfriendly(15) staff(16) and(17) poor(18) service(19) .(20) 
+			<opinion featWords="16" feature="staff" opWords="15" polarity="-"/>
+			<opinion featWords="19" feature="service" opWords="18" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			After(1) my(2) experience(3) at(4) Rosario(5) ,(6) I(7) can(8) say(9) with(10) certainty(11) that(12) I(13) will(14) never(15) recommend(16) the(17) hotel(18) to(19) any(20) other(21) traveler(22) and(23) would(24) have(25) serious(26) reservations(27) about(28) trusting(29) another(30) RockResort(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			The(1) front(2) desk(3) staff(4) had(5) an(6) attitude(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			They(1) looked(2) annoyed(3) to(4) have(5) to(6) be(7) bothered(8) helping(9) anyone(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			They(1) gave(2) no(3) information(4) about(5) the(6) hotel(7) ,(8) restaurants(9) ,(10) facilities(11) ,(12) hotel(13) shuttle(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			Nothing(1) .(2) 
+		</sentence>
+		<sentence id="7">
+			We(1) were(2) still(3) finding(4) out(5) new(6) things(7) on(8) our(9) third(10) day(11) there(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			The(1) poor(2) attitude(3) is(4) something(5) we(6) encountered(7) every(8) single(9) time(10) we(11) approached(12) the(13) desk(14) with(15) a(16) question(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) customer(2) service(3) was(4) exceptionally(5) poor(6) .(7) 
+			<opinion featWords="3" feature="service" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="10">
+			There(1) was(2) no(3) greeting(4) ,(5) not(6) even(7) a(8) hello(9) as(10) you(11) approached(12) the(13) desk(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			There(1) was(2) no(3) can(4) we(5) help(6) you(7) ?(8) 
+		</sentence>
+		<sentence id="12">
+			The(1) greeting(2) I(3) received(4) on(5) several(6) occasions(7) was(8) a(9) yup(10) or(11) whaddya(12) need(13) ?(14) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) not(3) the(4) way(5) to(6) treat(7) guests(8) at(9) a(10) very(11) expensive(12) hotel(13) .(14) 
+			<opinion feature="price" opWords="12" polarity="-" potency="11"/>
+		</sentence>
+		<sentence id="14">
+			I(1) feel(2) I(3) would(4) have(5) gotten(6) better(7) customer(8) service(9) at(10) a(11) Motel(12) 6(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Housekeeping(1) was(2) a(3) problem(4) throughout(5) our(6) stay(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			It(1) took(2) an(3) unacceptable(4) amount(5) of(6) time(7) for(8) our(9) room(10) to(11) be(12) made(13) up(14) ((15) after(16) 3:30(17) pm(18) the(19) room(20) was(21) still(22) not(23) cleaned(24) )(25) ;(26) we(27) were(28) often(29) without(30) towels(31) when(32) we(33) needed(34) them(35) and(36) when(37) we(38) asked(39) for(40) them(41) ,(42) we(43) were(44) told(45) the(46) housekeeping(47) staff(48) was(49) out(50) of(51) them(52) .(53) 
+		</sentence>
+		<sentence id="17">
+			Having(1) used(2) up(3) the(4) body(5) wash(6) provided(7) on(8) the(9) first(10) day(11) ,(12) it(13) was(14) never(15) replaced(16) for(17) the(18) rest(19) of(20) our(21) time(22) there(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			Although(1) we(2) paid(3) for(4) a(5) hillside(6) king(7) which(8) promised(9) ,(10) panoramic(11) views(12) overlooking(13) Cascade(14) Bay(15) and(16) the(17) Resort(18) ,(19) we(20) had(21) absolutely(22) no(23) view(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			The(1) water(2) view(3) we(4) paid(5) dearly(6) for(7) was(8) completely(9) blocked(10) by(11) trees(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			We(1) called(2) the(3) front(4) desk(5) to(6) request(7) a(8) different(9) room(10) one(11) with(12) an(13) actual(14) view(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			After(1) being(2) told(3) they(4) would(5) call(6) me(7) back(8) in(9) 15(10) minutes(11) ,(12) I(13) was(14) the(15) one(16) calling(17) them(18) back(19) an(20) hour(21) and(22) a(23) half(24) later(25) wondering(26) what(27) was(28) going(29) on(30) .(31) 
+		</sentence>
+		<sentence id="22">
+			We(1) were(2) brought(3) to(4) a(5) different(6) room(7) that(8) had(9) a(10) slightly(11) better(12) view(13) than(14) ours(15) ,(16) except(17) most(18) of(19) it(20) was(21) parking(22) lot(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			But(1) the(2) terrible(3) views(4) were(5) only(6) the(7) beginning(8) of(9) the(10) problems(11) with(12) the(13) room(14) .(15) 
+			<opinion featWords="4" feature="view" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			The(1) carpeting(2) was(3) old(4) and(5) stained(6) .(7) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="carpets" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="25">
+			The(1) bedspread(2) was(3) extremely(4) worn(5) and(6) even(7) ripped(8) and(9) hastily(10) hand-sewn(11) back(12) together(13) in(14) one(15) spot(16) .(17) 
+			<opinion featWords="2" feature="bedding" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="bedding" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			The(1) sheets(2) were(3) worn(4) feeling(5) .(6) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="27">
+			The(1) bed(2) was(3) lumpy(4) and(5) uncomfortable(6) .(7) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="bed" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="28">
+			The(1) furniture(2) was(3) nicked(4) and(5) stained(6) .(7) 
+			<opinion featWords="2" feature="furnishings" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="furnishings" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="29">
+			And(1) ,(2) it(3) was(4) 'nt(5) just(6) one(7) room(8) that(9) was(10) in(11) poor(12) shape(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			Both(1) of(2) the(3) rooms(4) we(5) were(6) shown(7) in(8) our(9) category(10) were(11) in(12) equally(13) as(14) poor(15) shape(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			If(1) you(2) can(3) 'nt(4) keep(5) the(6) appearance(7) of(8) the(9) rooms(10) clean(11) ,(12) am(13) I(14) to(15) trust(16) that(17) the(18) towels(19) and(20) sheets(21) are(22) being(23) washed(24) properly(25) ?(26) 
+		</sentence>
+		<sentence id="32">
+			If(1) what(2) I(3) can(4) see(5) is(6) dirty(7) ,(8) should(9) 'nt(10) I(11) be(12) afraid(13) of(14) what(15) s(16) going(17) on(18) behind(19) closed(20) doors(21) ?(22) 
+		</sentence>
+		<sentence id="33">
+			The(1) room(2) was(3) filled(4) with(5) more(6) problems(7) .(8) 
+		</sentence>
+		<sentence id="34">
+			For(1) example(2) ,(3) the(4) climate(5) control(6) in(7) the(8) room(9) was(10) non-existent(11) .(12) 
+		</sentence>
+		<sentence id="35">
+			Without(1) air(2) conditioning(3) ,(4) the(5) only(6) method(7) of(8) cooling(9) the(10) room(11) were(12) to(13) open(14) the(15) windows(16) .(17) 
+		</sentence>
+		<sentence id="36">
+			And(1) ,(2) closing(3) the(4) sliding(5) doors(6) for(7) security(8) reasons(9) leaves(10) only(11) two(12) small(13) windows(14) for(15) ventilation(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			This(1) was(2) not(3) nearly(4) enough(5) and(6) we(7) were(8) quite(9) warm(10) throughout(11) our(12) stay(13) .(14) 
+		</sentence>
+		<sentence id="38">
+			In(1) addition(2) ,(3) our(4) room(5) was(6) on(7) the(8) bottom(9) floor(10) of(11) the(12) building(13) and(14) ,(15) although(16) we(17) asked(18) for(19) one(20) on(21) the(22) top(23) floor(24) ,(25) we(26) were(27) unable(28) to(29) be(30) accommodated(31) .(32) 
+		</sentence>
+		<sentence id="39">
+			Therefore(1) ,(2) throughout(3) our(4) stay(5) ,(6) we(7) had(8) to(9) listen(10) to(11) the(12) people(13) above(14) us(15) walking(16) ,(17) which(18) was(19) extremely(20) loud(21) .(22) 
+		</sentence>
+		<sentence id="40">
+			We(1) could(2) hear(3) the(4) TV(5) of(6) the(7) people(8) next(9) to(10) us(11) .(12) 
+		</sentence>
+		<sentence id="41">
+			The(1) rooms(2) and(3) buildings(4) are(5) obviously(6) in(7) need(8) of(9) dire(10) refurbishing(11) .(12) 
+		</sentence>
+		<sentence id="42">
+			The(1) noise(2) level(3) and(4) the(5) unacceptable(6) condition(7) of(8) the(9) room(10) interior(11) certainly(12) do(13) not(14) make(15) this(16) a(17) luxurious(18) room(19) as(20) their(21) Web(22) site(23) claims(24) .(25) 
+		</sentence>
+		<sentence id="43">
+			The(1) customer(2) service(3) at(4) the(5) spa(6) desk(7) was(8) only(9) slightly(10) better(11) than(12) at(13) the(14) front(15) desk(16) .(17) 
+		</sentence>
+		<sentence id="44">
+			We(1) waited(2) more(3) than(4) 10(5) minutes(6) to(7) be(8) helped(9) as(10) we(11) stood(12) in(13) front(14) of(15) the(16) desk(17) attendant(18) and(19) watched(20) him(21) take(22) not(23) one(24) ,(25) but(26) two(27) ,(28) phone(29) calls(30) before(31) helping(32) people(33) standing(34) directly(35) in(36) front(37) of(38) him(39) there(40) was(41) not(42) even(43) a(44) glance(45) or(46) a(47) hand(48) motion(49) that(50) he(51) d(52) be(53) with(54) us(55) in(56) a(57) moment(58) .(59) 
+		</sentence>
+		<sentence id="45">
+			The(1) actual(2) spa(3) services(4) were(5) adequate(6) ,(7) although(8) the(9) severely(10) stained(11) carpeting(12) I(13) had(14) to(15) look(16) at(17) while(18) I(19) lay(20) on(21) the(22) treatment(23) bed(24) was(25) extremely(26) off-putting(27) ,(28) especially(29) considering(30) the(31) high(32) prices(33) the(34) spa(35) charges(36) .(37) 
+			<opinion featWords="3" feature="spa" opWords="6" polarity="+"/>
+			<opinion featWords="33" feature="price" opWords="32" polarity="-"/>
+		</sentence>
+		<sentence id="46">
+			Also(1) ,(2) the(3) layout(4) of(5) the(6) treatment(7) rooms(8) next(9) to(10) the(11) gift(12) shop(13) resulted(14) in(15) the(16) constant(17) noise(18) of(19) shoppers(20) talking(21) .(22) 
+		</sentence>
+		<sentence id="47">
+			Dirty(1) rooms(2) and(3) loud(4) noise(5) negate(6) the(7) relaxation(8) aspects(9) the(10) spa(11) is(12) supposed(13) to(14) give(15) you(16) .(17) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="48">
+			In(1) terms(2) of(3) the(4) restaurant(5) ,(6) while(7) some(8) of(9) the(10) food(11) was(12) quite(13) good(14) ,(15) the(16) service(17) was(18) poor(19) ,(20) especially(21) in(22) the(23) bar(24) and(25) lounge(26) .(27) 
+			<opinion featWords="11" feature="food" opWords="14" polarity="+" potency="13"/>
+			<opinion featWords="17" feature="service" opWords="19" polarity="-"/>
+		</sentence>
+		<sentence id="49">
+			In(1) the(2) Compass(3) Room(4) ,(5) we(6) had(7) to(8) ask(9) for(10) three(11) different(12) wines(13) in(14) all(15) different(16) price(17) ranges(18) before(19) we(20) came(21) across(22) one(23) you(24) had(25) in(26) stock(27) .(28) 
+		</sentence>
+		<sentence id="50">
+			The(1) waiter(2) took(3) so(4) long(5) getting(6) back(7) to(8) us(9) to(10) take(11) our(12) order(13) that(14) the(15) kitchen(16) had(17) run(18) out(19) of(20) the(21) specials(22) he(23) quoted(24) us(25) when(26) we(27) sat(28) down(29) .(30) 
+		</sentence>
+		<sentence id="51">
+			The(1) wait(2) staff(3) seemed(4) to(5) forget(6) about(7) you(8) regardless(9) of(10) which(11) restaurant(12) we(13) ate(14) in(15) .(16) 
+		</sentence>
+		<sentence id="52">
+			The(1) kitchen(2) routinely(3) ran(4) out(5) of(6) food(7) ,(8) including(9) the(10) most(11) basic(12) items(13) like(14) bread(15) .(16) 
+		</sentence>
+		<sentence id="53">
+			In(1) every(2) aspect(3) ,(4) the(5) luxury(6) that(7) Rosario(8) professes(9) to(10) offer(11) was(12) no(13) where(14) to(15) be(16) found(17) .(18) 
+		</sentence>
+		<sentence id="54">
+			From(1) the(2) rude(3) treatment(4) by(5) the(6) staff(7) ,(8) to(9) the(10) poor(11) quality(12) of(13) the(14) room(15) and(16) common(17) room(18) furnishings(19) ,(20) to(21) the(22) ill-run(23) restaurants(24) ,(25) Rosario(26) does(27) not(28) deliver(29) .(30) 
+			<opinion featWords="24" feature="food" opWords="23" polarity="-"/>
+		</sentence>
+		<sentence id="55">
+			Several(1) people(2) we(3) met(4) at(5) the(6) resort(7) had(8) the(9) exact(10) same(11) complaints(12) and(13) the(14) same(15) feeling(16) of(17) being(18) duped(19) .(20) 
+		</sentence>
+	</text>
+</review>

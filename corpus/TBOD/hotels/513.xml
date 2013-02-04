@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="513" item="Blackfoot Inn" rating="2">
+	<title>
+		<sentence id="1">
+			Missed(1) Out(2) on(3) Their(4) Potential(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Had(1) a(2) fun(3) bar(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Average(1) ,(2) costly(3) for(4) what(5) you(6) get(7) .(8) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="price" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Unless(1) the(2) Stampede(3) crowd(4) forces(5) you(6) into(7) this(8) place(9) ,(10) I(11) would(12) try(13) another(14) .(15) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) in(3) Calgary(4) for(5) a(6) few(7) days(8) on(9) business(10) ,(11) and(12) this(13) looked(14) like(15) a(16) decent(17) enough(18) spot(19) that(20) would(21) be(22) close(23) to(24) where(25) I(26) needed(27) to(28) go(29) .(30) 
+			<opinion featRef="hotel" featWords="13" feature="hotel" opWords="17,18" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) looks(3) somewhat(4) impressive(5) on(6) the(7) outside(8) ,(9) and(10) the(11) lobby(12) is(13) huge(14) .(15) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="+"/>
+			<opinion featWords="12" feature="lobby" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			It(1) adjoins(2) a(3) restaurant(4) on(5) the(6) left(7) and(8) down(9) the(10) hall(11) a(12) club(13) ,(14) and(15) even(16) further(17) down(18) a(19) comedy(20) club(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			It(1) has(2) a(3) nice(4) wide(5) drive(6) to(7) the(8) lobby(9) that(10) is(11) covered(12) ,(13) and(14) looks(15) like(16) it(17) would(18) be(19) decent(20) .(21) 
+			<opinion featRef="hotel" featWords="17" feature="hotel" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Prices(1) run(2) about(3) $130.00(4) nightly(5) and(6) for(7) that(8) I(9) would(10) have(11) expected(12) a(13) better(14) room(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) an(3) average(4) hotel(5) room(6) on(7) the(8) cheaper(9) side(10) ,(11) with(12) an(13) average(14) bathroom(15) and(16) amenities(17) .(18) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+			<opinion featWords="15" feature="bathroom" opWords="14" polarity="-"/>
+			<opinion featWords="17" feature="amenities" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			A(1) connection(2) for(3) the(4) computer(5) ,(6) and(7) a(8) small(9) area(10) to(11) work(12) in(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Cable(1) was(2) average(3) for(4) a(5) hotel(6) in(7) Canada(8) with(9) about(10) 20(11) channels(12) and(13) 4(14) you(15) would(16) actually(17) sit(18) and(19) watch(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			No(1) huge(2) deal(3) in(4) any(5) respect(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			The(1) bed(2) was(3) average(4) ,(5) amenities(6) were(7) average(8) .(9) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="-"/>
+			<opinion featWords="6" feature="amenities" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			It(1) felt(2) like(3) a(4) $65(5) dollar(6) per(7) night(8) hotel(9) anywhere(10) else(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) had(3) some(4) odors(5) that(6) were(7) evident(8) prior(9) to(10) my(11) checking(12) in(13) ,(14) it(15) smelled(16) like(17) a(18) saloon(19) in(20) some(21) respects(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			Due(1) to(2) the(3) less(4) than(5) palatable(6) food(7) downstairs(8) I(9) never(10) even(11) tried(12) Room(13) Service(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			The(1) bathroom(2) was(3) clean(4) and(5) had(6) the(7) usual(8) cheap(9) shampoo(10) and(11) tissue(12) holder(13) ,(14) but(15) the(16) toilet(17) was(18) holding(19) the(20) contents(21) of(22) the(23) cleaning(24) staff(25) that(26) they(27) forgot(28) to(29) flush(30) before(31) I(32) checked(33) in(34) .(35) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			Check-in(1) and(2) service(3) were(4) decent(5) the(6) first(7) day(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			But(1) the(2) next(3) morning(4) in(5) the(6) restaurant(7) ,(8) some(9) of(10) the(11) staff(12) seemed(13) as(14) if(15) put(16) out(17) by(18) people(19) who(20) actually(21) came(22) in(23) to(24) eat(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			I(1) may(2) have(3) expected(4) this(5) in(6) Quebec(7) ,(8) but(9) even(10) there(11) I(12) was(13) treated(14) with(15) much(16) more(17) respect(18) and(19) with(20) better(21) service(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			Everywhere(1) else(2) in(3) Calgary(4) was(5) a(6) better(7) experience(8) by(9) far(10) .(11) 
+		</sentence>
+		<sentence id="19">
+			This(1) is(2) NOT(3) indicative(4) of(5) the(6) Calgary(7) population(8) by(9) any(10) means(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			In(1) fact(2) it(3) is(4) opposite(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			The(1) food(2) was(3) a(4) bit(5) expensive(6) as(7) is(8) usual(9) in(10) hotels(11) ,(12) but(13) nothing(14) more(15) in(16) my(17) opinion(18) than(19) a(20) casual(21) diner(22) anywhere(23) else(24) ,(25) just(26) a(27) little(28) cleaner(29) .(30) 
+			<opinion feature="price" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			The(1) bar(2) is(3) fun(4) ,(5) the(6) wait(7) staff(8) were(9) very(10) accommodating(11) and(12) fun(13) .(14) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="staff" opWords="11" polarity="+" potency="10"/>
+			<opinion featWords="8" feature="staff" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			They(1) have(2) machine(3) gambling(4) on(5) premise(6) there(7) ,(8) so(9) if(10) you(11) like(12) you(13) can(14) try(15) your(16) luck(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			Mine(1) left(2) after(3) 40(4) bucks(5) and(6) I(7) went(8) back(9) to(10) the(11) bar(12) where(13) my(14) money(15) got(16) me(17) something(18) tangible(19) .(20) 
+		</sentence>
+		<sentence id="25">
+			Access(1) to(2) downtown(3) is(4) fairly(5) easy(6) ,(7) you(8) can(9) drive(10) in(11) almost(12) a(13) straight(14) line(15) and(16) be(17) in(18) the(19) center(20) .(21) 
+		</sentence>
+		<sentence id="26">
+			A(1) trip(2) to(3) the(4) airport(5) is(6) not(7) bad(8) either(9) ,(10) so(11) location(12) is(13) not(14) bad(15) unless(16) you(17) have(18) to(19) do(20) business(21) downtown(22) and(23) wish(24) to(25) save(26) 20(27) minutes(28) by(29) staying(30) downtown(31) .(32) 
+			<opinion featWords="12" feature="place" opWords="14,15" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			The(1) concierge(2) was(3) helpful(4) and(5) gave(6) us(7) some(8) good(9) tips(10) on(11) having(12) a(13) good(14) time(15) in(16) the(17) city(18) ,(19) as(20) well(21) as(22) the(23) best(24) means(25) of(26) travel(27) there(28) .(29) 
+		</sentence>
+		<sentence id="28">
+			My(1) stay(2) in(3) Calgary(4) was(5) pleasant(6) due(7) to(8) the(9) wonderful(10) nature(11) and(12) good(13) manners(14) of(15) the(16) people(17) there(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			But(1) this(2) hotel(3) would(4) definitely(5) not(6) be(7) on(8) my(9) list(10) for(11) another(12) stay(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			A(1) few(2) more(3) bucks(4) and(5) you(6) can(7) find(8) a(9) better(10) hotel(11) within(12) a(13) 5(14) mile(15) radius(16) and(17) enjoy(18) a(19) great(20) city(21) even(22) more(23) !(24) 
+		</sentence>
+		<sentence id="31">
+			This(1) hotel(2) has(3) lots(4) of(5) potential(6) in(7) it(8) 's(9) size(10) ,(11) location(12) ,(13) and(14) it(15) just(16) never(17) seemed(18) to(19) grow(20) into(21) it(22) .(23) 
+		</sentence>
+	</text>
+</review>

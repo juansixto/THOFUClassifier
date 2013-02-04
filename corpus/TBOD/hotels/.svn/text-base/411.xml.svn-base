@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="411" item="Adam's Mark - Buffalo" rating="2">
+	<title>
+		<sentence id="1">
+			Lacks(1) a(2) lot(3) for(4) a(5) higher-end(6) hotel(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Convenient(1) to(2) highway(3) ramps(4) and(5) main(6) walking(7) streets(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Clean(1) and(2) attractive(3) building(4) .(5) 
+			<opinion featWords="4" feature="building" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="building" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Surly(1) desk(2) staff(3) ,(4) absent(5) baggage(6) handlers(7) ,(8) no(9) genuine(10) concierge(11) ,(12) mediocre(13) restaurant(14) .(15) 
+			<opinion featWords="3" feature="staff" opWords="1" polarity="-"/>
+			<opinion featWords="14" feature="food" opWords="13" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Avoid(1) Adam(2) 's(3) Mark(4) Buffalo-Niagra(5) if(6) you(7) 're(8) vacationing(9) ,(10) they(11) 'll(12) make(13) you(14) hate(15) Buffalo(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Location(1) and(2) amenities(3) might(4) be(5) acceptable(6) for(7) business(8) travelers(9) .(10) 
+			<opinion featWords="1" feature="place" opWords="6" polarity="+"/>
+			<opinion featWords="3" feature="amenities" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) the(4) Adam(5) 's(6) Mark(7) Buffalo-Niagra(8) hotel(9) over(10) the(11) 4th(12) of(13) July(14) weekend(15) while(16) attending(17) my(18) cousin(19) 's(20) wedding(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) is(3) nice(4) enough(5) ,(6) but(7) less(8) than(9) I(10) 'd(11) expect(12) from(13) a(14) higher-end(15) hotel(16) .(17) 
+			<opinion featWords="2" feature="hotel" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Granted(1) ,(2) $148(3) a(4) night(5) is(6) not(7) all(8) that(9) much(10) ,(11) but(12) it(13) 's(14) 2(15) to(16) 3(17) times(18) the(19) local(20) rate(21) for(22) economical(23) hotels(24) like(25) Best(26) Western(27) .(28) 
+			<opinion featWords="24" feature="hotel" opWords="23" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) 'd(2) give(3) Adam(4) 's(5) Mark(6) a(7) B(8) -(9) rating(10) ,(11) maybe(12) even(13) a(14) C(15) because(16) of(17) certain(18) things(19) that(20) really(21) annoyed(22) me(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'll(2) list(3) what(4) I(5) see(6) as(7) defficiencies(8) ,(9) in(10) no(11) particular(12) order(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			When(1) I(2) arrived(3) there(4) were(5) no(6) baggage(7) handlers(8) to(9) be(10) seen(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			I(1) had(2) one(3) big(4) ,(5) heavy(6) duffle(7) bag(8) on(9) my(10) shoulder(11) and(12) was(13) annoyed(14) I(15) had(16) to(17) carry(18) it(19) from(20) the(21) outdoor(22) parking(23) lot(24) to(25) the(26) lobby(27) ,(28) and(29) then(30) up(31) to(32) my(33) room(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			Hey(1) ,(2) it(3) would(4) have(5) been(6) a(7) $5(8) tip(9) for(10) someone(11) for(12) just(13) 5(14) minutes(15) work(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			It(1) also(2) annoyed(3) me(4) that(5) the(6) desk(7) clerk(8) did(9) not(10) ring(11) for(12) a(13) baggage(14) handler(15) ,(16) not(17) suggest(18) I(19) put(20) my(21) bag(22) at(23) the(24) desk(25) for(26) a(27) handler(28) to(29) carry(30) up(31) for(32) me(33) as(34) soon(35) as(36) one(37) was(38) available(39) .(40) 
+		</sentence>
+		<sentence id="10">
+			When(1) I(2) asked(3) the(4) desk(5) clerks(6) for(7) directions(8) in-town(9) ,(10) or(11) where(12) I(13) could(14) find(15) items(16) I(17) forgot(18) to(19) pack(20) ,(21) no(22) one(23) had(24) any(25) idea(26) what(27) was(28) in(29) Buffalo(30) .(31) 
+		</sentence>
+		<sentence id="11">
+			They(1) all(2) lived(3) in(4) the(5) suburbs(6) and(7) only(8) came(9) in-town(10) to(11) work(12) ,(13) then(14) scram(15) home(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			You(1) 'd(2) think(3) as(4) hospitality(5) workers(6) they(7) 'd(8) take(9) a(10) few(11) minutes(12) to(13) learn(14) at(15) least(16) the(17) basics(18) about(19) the(20) town(21) they(22) 're(23) supposed(24) to(25) be(26) hospitable(27) in(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			Sadly(1) ,(2) almost(3) everyone(4) I(5) met(6) in(7) the(8) greater(9) Buffalo(10) area(11) had(12) a(13) similar(14) snotty(15) attitude(16) :(17) "(18) NICE(19) people(20) do(21) not(22) live(23) in(24) Buffalo(25) .(26) NICE(27) people(28) live(29) in(30) the(31) suburbs(32) !(33) "(34) Which(35) explains(36) why(37) Buffalo(38) is(39) fast(40) becoming(41) the(42) tarnished(43) buckle(44) of(45) the(46) Rust(47) Belt(48) .(49) 
+		</sentence>
+		<sentence id="14">
+			I(1) decided(2) if(3) the(4) desk(5) staff(6) were(7) of(8) no(9) help(10) ,(11) maybe(12) a(13) concierge(14) would(15) be(16) .(17) 
+		</sentence>
+		<sentence id="15">
+			But(1) I(2) did(3) not(4) see(5) any(6) .(7) 
+		</sentence>
+		<sentence id="16">
+			I(1) asked(2) the(3) desk(4) clerk(5) and(6) she(7) barely(8) glanced(9) up(10) to(11) say(12) ,(13) "(14) They(15) must(16) be(17) busy(18) .(19) "(20) I(21) asked(22) her(23) where(24) the(25) concierge(26) desk(27) was(28) and(29) she(30) pointed(31) across(32) the(33) lobby(34) to(35) an(36) unoccupied(37) desk(38) .(39) 
+		</sentence>
+		<sentence id="17">
+			I(1) told(2) her(3) that(4) I(5) 'd(6) only(7) ever(8) seen(9) baggage(10) carriers(11) there(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			The(1) desk(2) clerk(3) ,(4) again(5) barely(6) lifting(7) her(8) eyes(9) ,(10) answered(11) that(12) the(13) baggage(14) handlers(15) double(16) as(17) concierges(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			Which(1) explains(2) why(3) there(4) never(5) anyone(6) around(7) to(8) carry(9) my(10) bag(11) nor(12) give(13) me(14) directions(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			It(1) was(2) the(3) complete(4) lack(5) of(6) an(7) accomodating(8) attitude(9) that(10) ticked(11) me(12) off(13) .(14) 
+		</sentence>
+		<sentence id="21">
+			Would(1) it(2) have(3) been(4) so(5) hard(6) for(7) desk(8) staff(9) to(10) say(11) something(12) like(13) ,(14) "(15) I(16) 'm(17) sorry(18) ,(19) the(20) concierge(21) is(22) occupied(23) at(24) the(25) moment(26) .(27) Is(28) there(29) something(30) I(31) can(32) help(33) you(34) with(35) ?(36) "(37) Would(38) it(39) have(40) been(41) so(42) hard(43) for(44) management(45) to(46) train(47) them(48) accordingly(49) ?(50) 
+		</sentence>
+		<sentence id="22">
+			There(1) were(2) other(3) pesky(4) things(5) that(6) annoyed(7) me(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			The(1) hotel(2) restaurant(3) never(4) got(5) my(6) meal(7) orders(8) right(9) .(10) 
+		</sentence>
+		<sentence id="24">
+			Well(1) ,(2) the(3) waitress(4) repeated(5) them(6) back(7) to(8) me(9) perfectly(10) ,(11) but(12) the(13) kitchen(14) constantly(15) screwed(16) up(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			And(1) on(2) my(3) last(4) night(5) ,(6) I(7) came(8) home(9) very(10) late(11) to(12) find(13) that(14) housekeeping(15) had(16) done(17) the(18) bedroom(19) and(20) only(21) half-done(22) the(23) bathroom(24) .(25) 
+		</sentence>
+		<sentence id="26">
+			They(1) took(2) the(3) used(4) towels(5) ,(6) soaps(7) ,(8) glasses(9) ,(10) mugs(11) ,(12) etc.(13) but(14) never(15) replenished(16) them(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			Worst(1) of(2) all(3) ,(4) they(5) did(6) not(7) replenish(8) the(9) coffee(10) packs(11) for(12) the(13) coffee(14) maker(15) .(16) 
+		</sentence>
+		<sentence id="28">
+			You(1) can(2) keep(3) your(4) high-speed(5) internet(6) and(7) on-demand(8) movies(9) ,(10) as(11) far(12) as(13) I(14) 'm(15) concerned(16) the(17) in-room(18) coffee(19) service(20) is(21) the(22) single(23) greatest(24) achievement(25) in(26) hotel(27) history(28) .(29) 
+		</sentence>
+		<sentence id="29">
+			If(1) I(2) ever(3) visit(4) Buffalo(5) again(6) ((7) highly(8) unlikely(9) )(10) ,(11) I(12) 'll(13) stay(14) at(15) a(16) an(17) inexpensive(18) motel(19) just(20) outside(21) town(22) .(23) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="552" item="Days Inn- Glen Burnie" rating="2">
+	<title>
+		<sentence id="1">
+			Days(1) Inn(2) in(3) Glen(4) Burnie(5) -(6) a(7) very(8) disappointing(9) experience(10) !(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			We(1) only(2) stayed(3) one(4) night(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			People(1) working(2) there(3) were(4) rude(5) and(6) not(7) helpful(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			Also(1) ,(2) found(3) a(4) cockroach(5) in(6) our(7) room(8) !(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) were(2) very(3) disappointed(4) with(5) our(6) one(7) night(8) at(9) this(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Parking(1) was(2) a(3) problem(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) to(3) change(4) rooms(5) because(6) the(7) first(8) one(9) was(10) not(11) clean(12) or(13) convenient(14) .(15) 
+			<opinion featWords="5" feature="rooms" opWords="11,12" polarity="-"/>
+			<opinion featWords="5" feature="rooms" opWords="11,14" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			In(1) the(2) second(3) room(4) we(5) found(6) a(7) cockroach(8) and(9) reported(10) it(11) to(12) the(13) office(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) told(3) the(4) hotel(5) would(6) give(7) us(8) a(9) $5.00(10) deduction(11) and(12) no(13) apology(14) was(15) given(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Upon(1) checking(2) out(3) no(4) words(5) were(6) spoken(7) to(8) us(9) ,(10) just(11) "(12) here(13) 's(14) the(15) bill(16) "(17) and(18) we(19) had(20) to(21) remind(22) them(23) about(24) the(25) discount(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			No(1) one(2) there(3) was(4) friendly(5) &amp;(6) we(7) will(8) not(9) be(10) back(11) !(12) 
+		</sentence>
+	</text>
+</review>

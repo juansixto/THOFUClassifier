@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="883" item="The Hay Adams Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Rich(1) in(2) History(3) and(4) Elegance(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Elegance(1) ,(2) Fine(3) Service(4) ,(5) Location(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			lack(1) of(2) facilities(3) ,(4) cost(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Hay-Adams(2) would(3) be(4) a(5) wonderful(6) weekend(7) getaway(8) site(9) or(10) fabulous(11) business(12) hotel(13) .(14) 
+			<opinion featWords="13" feature="hotel" opWords="11" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Hay-Adams(2) is(3) a(4) historic(5) property(6) located(7) two(8) blocks(9) from(10) the(11) White(12) House(13) in(14) Washington(15) ,(16) DC(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) Hay-Adams(2) is(3) a(4) small(5) hotel(6) that(7) capitalizes(8) on(9) its(10) strengths(11) ((12) location(13) and(14) class(15) )(16) and(17) tries(18) to(19) minimize(20) its(21) weaknesses(22) ((23) small(24) rooms(25) and(26) lack(27) of(28) amenities(29) )(30) .(31) 
+			<opinion featWords="25" feature="rooms" opWords="24" polarity="-"/>
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			BACKGROUND(1) ...(2) The(3) hotel(4) was(5) originally(6) two(7) properties(8) owned(9) by(10) Henry(11) Adams(12) and(13) John(14) Hay(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Both(1) men(2) were(3) social(4) and(5) political(6) power(7) houses(8) in(9) the(10) 1800s(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			Henry(1) Adams(2) was(3) the(4) great-grandson(5) of(6) President(7) John(8) Adams(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			John(1) Hay(2) was(3) legal(4) secretary(5) to(6) President(7) Lincoln(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) property(2) opened(3) in(4) 1927(5) as(6) the(7) hotel(8) Hay-Adams(9) and(10) such(11) guests(12) as(13) Amelia(14) Earhart(15) and(16) Charles(17) Lindbergh(18) stayed(19) there(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Today(1) ,(2) political(3) powerhouses(4) frequent(5) the(6) hotel(7) for(8) meetings(9) and(10) the(11) restaurant(12) LaFayette(13) for(14) exceptional(15) dining(16) .(17) 
+			<opinion featWords="16" feature="food" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			THE(1) HOTEL(2) ...(3) Upon(4) arrival(5) ,(6) guests(7) are(8) greeted(9) by(10) the(11) doorman(12) ,(13) who(14) escorts(15) you(16) to(17) the(18) front(19) desk(20) in(21) the(22) small(23) ,(24) but(25) extremely(26) elegant(27) lobby(28) .(29) ((30) If(31) you(32) are(33) arrive(34) by(35) taxi(36) or(37) drive(38) ,(39) you(40) find(41) yourself(42) on(43) the(44) short(45) entrance(46) and(47) the(48) front(49) door(50) .(51) A(52) valet(53) gladly(54) takes(55) your(56) car(57) and(58) the(59) bellhop(60) gladly(61) takes(62) your(63) bags(64) )(65) .(66) 
+		</sentence>
+		<sentence id="10">
+			Immediately(1) ,(2) you(3) encounter(4) a(5) professional(6) staff(7) and(8) are(9) given(10) a(11) brief(12) "(13) tour(14) "(15) of(16) the(17) hotel(18) .(19) 
+			<opinion featWords="7" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) bellhop(2) points(3) out(4) the(5) entrance(6) to(7) the(8) Lafayette(9) ,(10) the(11) bar(12) Off(13) The(14) Record(15) and(16) the(17) ,(18) the(19) conference(20) rooms(21) and(22) the(23) elevators(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			Upon(1) arrival(2) on(3) your(4) floor(5) ,(6) the(7) bellhop(8) also(9) points(10) out(11) an(12) alternate(13) escape(14) route(15) in(16) case(17) of(18) fire(19) ((20) a(21) nice(22) touch(23) compared(24) to(25) just(26) the(27) little(28) black(29) and(30) white(31) maps(32) attached(33) to(34) the(35) back(36) of(37) a(38) door(39) )(40) .(41) 
+		</sentence>
+		<sentence id="13">
+			The(1) rooms(2) are(3) small(4) ,(5) but(6) very(7) elegant(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			All(1) the(2) furnishings(3) are(4) first(5) class(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			The(1) beds(2) are(3) dressed(4) with(5) feather(6) mattresses(7) ,(8) down(9) comforters(10) ,(11) an(12) abundance(13) of(14) pillows(15) and(16) high(17) quality(18) sheets(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			The(1) bathrooms(2) are(3) small(4) as(5) well(6) ,(7) but(8) furnished(9) in(10) marble(11) with(12) fantastic(13) fixtures(14) ,(15) hand(16) held(17) showers(18) ,(19) fine(20) bath(21) products(22) and(23) plush(24) towels(25) .(26) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			The(1) room(2) is(3) internet(4) ready(5) ,(6) both(7) on(8) the(9) large(10) screen(11) television(12) and(13) the(14) computer(15) ports(16) built(17) into(18) the(19) desk(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			The(1) rooms(2) are(3) equipped(4) with(5) alarm(6) clocks(7) ,(8) CD(9) stereo(10) and(11) mini-bar(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			Not(1) all(2) rooms(3) face(4) the(5) White(6) House(7) ,(8) just(9) those(10) on(11) the(12) south(13) side(14) of(15) the(16) building(17) ,(18) other(19) rooms(20) have(21) no(22) view(23) ((24) unless(25) you(26) consider(27) the(28) neighboring(29) office(30) building(31) )(32) .(33) 
+		</sentence>
+		<sentence id="20">
+			LOCATION(1) ...(2) The(3) Hay-Adams(4) is(5) located(6) off(7) LaFayette(8) square(9) in(10) a(11) very(12) "(13) nice(14) area(15) "(16) of(17) DC(18) .(19) 
+			<opinion featWords="15" feature="place" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			The(1) Hay-Adams(2) is(3) two(4) blocks(5) from(6) the(7) metro(8) station(9) ,(10) a(11) convenient(12) and(13) clean(14) way(15) of(16) traveling(17) around(18) the(19) city(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			RESTAURANT(1) ...(2) THe(3) LaFayette(4) is(5) a(6) five(7) star(8) gourmet(9) restaurant(10) serving(11) breakfast(12) ,(13) lunch(14) and(15) dinner(16) .(17) 
+		</sentence>
+		<sentence id="23">
+			The(1) prices(2) are(3) extremely(4) high(5) ((6) $6.50(7) for(8) half(9) a(10) grapefruit(11) ,(12) $4.50(13) for(14) coffee(15) ,(16) $30(17) -(18) $40(19) for(20) an(21) entree(22) )(23) The(24) portions(25) are(26) small(27) to(28) medium(29) size(30) and(31) the(32) food(33) is(34) wonderful(35) .(36) 
+		</sentence>
+		<sentence id="24">
+			The(1) service(2) at(3) the(4) restaurant(5) is(6) very(7) good(8) ,(9) but(10) be(11) prepared(12) to(13) be(14) slightly(15) ignored(16) if(17) a(18) VIP(19) is(20) dining(21) in(22) the(23) hotel(24) .(25) 
+			<opinion featWords="2" feature="service" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="25">
+			Washington(1) "(2) regulars(3) "(4) ((5) politicians(6) and(7) celebrities(8) )(9) get(10) priority(11) service(12) .(13) 
+		</sentence>
+		<sentence id="26">
+			THE(1) DRAWBACKS(2) ...(3) The(4) service(5) varied(6) from(7) excellent(8) to(9) very(10) good(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			On(1) my(2) recent(3) stay(4) ,(5) I(6) thought(7) the(8) maids(9) ,(10) waiters(11) and(12) bellhop(13) were(14) exceptional(15) ,(16) friendly(17) and(18) professional(19) .(20) 
+		</sentence>
+		<sentence id="28">
+			The(1) concierge(2) came(3) across(4) as(5) arrogant(6) .(7) for(8) example(9) ,(10) when(11) I(12) asked(13) the(14) concierge(15) about(16) any(17) areas(18) to(19) avoid(20) in(21) DC(22) ,(23) he(24) scoffed(25) and(26) replied(27) ,(28) "(29) Absolutely(30) not(31) !(32) "(33) On(34) other(35) occasions(36) his(37) responses(38) were(39) similar(40) ,(41) not(42) enough(43) of(44) a(45) reason(46) to(47) downgrade(48) the(49) Hay-Adams(50) ,(51) but(52) nothing(53) to(54) rave(55) about(56) .(57) 
+		</sentence>
+		<sentence id="29">
+			The(1) hotel(2) lacks(3) a(4) fitness(5) facility(6) .(7) 
+		</sentence>
+		<sentence id="30">
+			In(1) order(2) to(3) remedy(4) this(5) for(6) guests(7) ,(8) the(9) Hay-Adams(10) offers(11) guest(12) passes(13) for(14) a(15) nearby(16) health(17) club(18) .(19) 
+		</sentence>
+		<sentence id="31">
+			The(1) hotel(2) lacks(3) a(4) salon(5) and(6) spa(7) .(8) 
+		</sentence>
+		<sentence id="32">
+			In(1) order(2) to(3) remedy(4) this(5) ,(6) the(7) hotel(8) offers(9) to(10) make(11) arrangements(12) for(13) in(14) room(15) massages(16) and(17) offers(18) to(19) get(20) almost(21) anything(22) for(23) the(24) guest(25) .(26) 
+		</sentence>
+	</text>
+</review>

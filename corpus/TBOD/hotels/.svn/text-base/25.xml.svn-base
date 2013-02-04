@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="25" item="Fairmont The Queen Elizabeth" rating="2">
+	<title>
+		<sentence id="1">
+			Poor(1) quality(2) ,(3) poor(4) service(5) 
+			<opinion featWords="5" feature="service" opWords="4" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) ,(2) old(3) hotel(4) .(5) 
+			<opinion featWords="4" feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) location(2) .(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Over-priced(1) ,(2) riding(3) on(4) past(5) reputation(6) .(7) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			There(1) are(2) many(3) other(4) better(5) hotels(6) in(7) Montreal(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) visited(3) this(4) hotel(5) annually(6) for(7) many(8) years(9) ,(10) as(11) part(12) of(13) a(14) conference(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) beautiful(4) old(5) hotel(6) ,(7) undergoing(8) renovations(9) -(10) a(11) lovely(12) lobby(13) ,(14) restaurants(15) and(16) the(17) rooms(18) have(19) been(20) upgraded(21) .(22) 
+			<opinion featWords="6" feature="hotel" opWords="4" polarity="+"/>
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="-"/>
+			<opinion featWords="13" feature="lobby" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Unfortunately(1) ,(2) the(3) service(4) is(5) not(6) up(7) to(8) standard(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) prices(2) for(3) anything(4) in(5) this(6) hotel(7) are(8) very(9) premium(10) ,(11) but(12) the(13) quality(14) and(15) service(16) are(17) just(18) ordinary(19) .(20) 
+			<opinion featWords="2" feature="price" opWords="10" polarity="-" potency="9"/>
+			<opinion featWords="16" feature="service" opWords="18,19" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			They(1) have(2) one(3) restaurant(4) open(5) for(6) breakfast(7) and(8) it(9) is(10) always(11) crowded(12) and(13) very(14) expensive(15) -(16) going(17) to(18) the(19) train(20) station(21) below(22) ,(23) you(24) can(25) get(26) the(27) same(28) food(29) for(30) 1/4(31) the(32) price(33) and(34) better(35) service(36) .(37) 
+			<opinion featWords="4" feature="food" opWords="15" polarity="-" potency="14"/>
+		</sentence>
+		<sentence id="6">
+			The(1) attitude(2) at(3) the(4) front(5) desk(6) is(7) ,(8) at(9) best(10) ,(11) stiff(12) .(13) 
+			<opinion featWords="5,6" feature="front desk" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			Usually(1) they(2) are(3) not(4) interested(5) in(6) providing(7) service(8) and(9) I(10) have(11) found(12) most(13) smaller(14) hotels(15) to(16) be(17) friendlier(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			We(1) often(2) have(3) a(4) hospitality(5) room(6) for(7) the(8) conference(9) I(10) attend(11) -(12) a(13) large(14) suite(15) for(16) hosting(17) -(18) and(19) even(20) then(21) we(22) can(23) not(24) get(25) clean(26) towels(27) or(28) glasses(29) .(30) 
+		</sentence>
+		<sentence id="9">
+			The(1) room(2) amenities(3) are(4) not(5) what(6) you(7) expect(8) at(9) a(10) premium(11) hotel(12) -(13) TV(14) 's(15) are(16) small(17) ,(18) bathrooms(19) poorly(20) equipped(21) and(22) the(23) Internet(24) service(25) intermittent(26) .(27) 
+			<opinion featWords="14" feature="tv" opWords="17" polarity="-"/>
+			<opinion featWords="19" feature="bathroom" opWords="20,21" polarity="-"/>
+			<opinion featWords="24" feature="internet" opWords="26" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			Worst(1) is(2) that(3) the(4) temperature(5) control(6) has(7) never(8) worked(9) on(10) any(11) visit(12) I(13) have(14) made(15) to(16) this(17) hotel(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			I(1) always(2) visit(3) in(4) winter(5) ,(6) and(7) rooms(8) are(9) either(10) intolerably(11) hot(12) or(13) cold(14) .(15) 
+			<opinion featWords="8" feature="rooms" opWords="11,12" polarity="-"/>
+			<opinion featWords="8" feature="rooms" opWords="11,14" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			The(1) hotel(2) has(3) never(4) been(5) able(6) to(7) fix(8) the(9) problem(10) .(11) 
+		</sentence>
+	</text>
+</review>

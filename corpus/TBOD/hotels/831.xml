@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="831" item="Halekulani" rating="5">
+	<title>
+		<sentence id="1">
+			For(1) those(2) thirsting(3) for(4) luxury(5) ...(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Outstanding(1) service(2) ,(3) amazing(4) toiletries(5) ,(6) great(7) view(8) ,(9) excellent(10) dining(11) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="toiletries" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="view" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			On(1) the(2) tourism(3) trail(4) of(5) Waikiki(6) Beach(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Come(1) here(2) if(3) you(4) want(5) to(6) stay(7) at(8) the(9) most(10) luxurious(11) ,(12) calming(13) place(14) on(15) Waikiki(16) Beach(17) .(18) 
+			<opinion featWords="14" feature="place" opWords="10,11" polarity="+"/>
+			<opinion featWords="14" feature="place" opWords="10,13" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Halekulani(2) is(3) a(4) tastefully(5) decorated(6) mecca(7) for(8) someone(9) who(10) wants(11) to(12) breath(13) the(14) air(15) of(16) luxury(17) when(18) visiting(19) Waikiki(20) Beach(21) in(22) Honolulu(23) .(24) 
+			<opinion feature="hotel" opWords="5,6" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Luxury(1) hotel(2) managers(3) know(4) that(5) true(6) elegance(7) is(8) in(9) the(10) details(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) restaurant(2) is(3) one(4) of(5) the(6) best(7) I(8) have(9) been(10) to(11) in(12) the(13) U.S.(14) You(15) can(16) eat(17) or(18) have(19) a(20) drink(21) outside(22) in(23) the(24) lovely(25) weather(26) while(27) facing(28) the(29) dormant(30) volcano(31) Diamonhead(32) .(33) 
+			<opinion featWords="2" feature="food" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			From(1) your(2) room(3) ,(4) you(5) can(6) see(7) the(8) most(9) magnificent(10) view(11) ;(12) choose(13) to(14) either(15) walk(16) out(17) to(18) your(19) private(20) balcony(21) or(22) even(23) pull(24) out(25) the(26) sliding(27) door(28) in(29) the(30) large(31) private(32) rest(33) room(34) to(35) take(36) a(37) bath(38) to(39) the(40) sunset(41) of(42) Waikiki(43) Beach(44) .(45) 
+			<opinion featWords="11" feature="view" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) relaxed(2) ,(3) luxurious(4) atmosphere(5) is(6) not(7) all(8) this(9) place(10) has(11) to(12) offer(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			If(1) you(2) are(3) fussy(4) about(5) your(6) toiletries(7) ((8) the(9) way(10) I(11) am(12) )(13) ,(14) you(15) will(16) truly(17) appreciate(18) the(19) countless(20) glycerine(21) bars(22) of(23) soap(24) ,(25) sewing(26) kit(27) ,(28) and(29) even(30) sunscreen(31) !(32) 
+		</sentence>
+		<sentence id="7">
+			Enjoy(1) your(2) stay(3) at(4) the(5) best(6) hotel(7) on(8) Waikiki(9) Beach(10) !(11) 
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+	</text>
+</review>

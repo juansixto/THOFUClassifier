@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="941" item="Shangri-La Bangkok" rating="5">
+	<title>
+		<sentence id="1">
+			Disappointing(1) beds(2) ...(3) 
+			<opinion featWords="2" feature="bed" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Everything(1) a(2) part(3) from(4) beds(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rock(1) hard(2) mattress(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Bangkok(1) is(2) a(3) great(4) place(5) to(6) stop(7) over(8) and(9) explore(10) for(11) at(12) least(13) 5(14) days(15) .(16) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) people(2) ,(3) food(4) ,(5) sightseeing(6) ,(7) sunshine(8) ,(9) cheap(10) and(11) great(12) service(13) in(14) beautiful(15) hotels(16) .(17) 
+			<opinion featWords="16" feature="hotel" opWords="15" polarity="+"/>
+			<opinion featWords="13" feature="service" opWords="12" polarity="+"/>
+			<opinion feature="price" opWords="10" polarity="+"/>
+			<opinion featWords="4" feature="food" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) here(3) last(4) year(5) on(6) the(7) last(8) leg(9) of(10) our(11) journey(12) back(13) from(14) Australia(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			We(1) thoroughly(2) loved(3) everything(4) Bangkok(5) and(6) surroundings(7) had(8) to(9) offer(10) and(11) the(12) Shangri-la(13) no(14) exception(15) !(16) 
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) however(3) expecting(4) the(5) same(6) level(7) of(8) service(9) as(10) we(11) experienced(12) in(13) their(14) sister(15) hotel(16) in(17) Singapore(18) ,(19) however(20) that(21) was(22) not(23) quite(24) the(25) same(26) ,(27) albeit(28) still(29) very(30) good(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			Everything(1) about(2) the(3) hotel(4) ;(5) it(6) 's(7) location(8) on(9) the(10) river(11) ,(12) the(13) room(14) ,(15) bathroom(16) ,(17) wonderful(18) facilities(19) ,(20) great(21) restaurants(22) etc(23) ...(24) were(25) all(26) what(27) you(28) would(29) expect(30) of(31) this(32) titan(33) 5(34) star(35) hotel(36) ,(37) but(38) I(39) must(40) admit(41) the(42) only(43) thing(44) that(45) spoiled(46) the(47) trip(48) a(49) little(50) for(51) me(52) was(53) the(54) very(55) hard(56) mattress(57) .(58) 
+			<opinion featWords="22" feature="food" opWords="21" polarity="+"/>
+			<opinion featWords="19" feature="facilities" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			I(1) suffer(2) from(3) severe(4) back(5) aches(6) and(7) unfortunately(8) the(9) hard(10) mattress(11) did(12) not(13) help(14) ,(15) the(16) hotel(17) tried(18) their(19) best(20) to(21) remedy(22) it(23) by(24) putting(25) 5(26) down(27) duvets(28) on(29) top(30) of(31) it(32) which(33) improved(34) it(35) slightly(36) but(37) made(38) the(39) night(40) very(41) hot(42) indeed(43) !(44) 
+		</sentence>
+		<sentence id="6">
+			I(1) am(2) happy(3) to(4) report(5) however(6) ,(7) that(8) we(9) checked(10) out(11) the(12) nearby(13) Mandarin(14) Oriental(15) and(16) asked(17) to(18) check(19) out(20) some(21) of(22) their(23) bedroom(24) and(25) hence(26) trialled(27) some(28) of(29) their(30) mattresses(31) and(32) they(33) are(34) much(35) softer(36) .(37) 
+		</sentence>
+		<sentence id="7">
+			I(1) hope(2) this(3) tip(4) might(5) help(6) for(7) all(8) you(9) back(10) sufferers(11) !(12) 
+		</sentence>
+		<sentence id="8">
+			On(1) a(2) more(3) positive(4) note(5) we(6) did(7) their(8) Thai(9) cookery(10) class(11) which(12) was(13) fantastic(14) ,(15) a(16) must(17) do(18) if(19) you(20) re(21) a(22) cook(23) fan(24) !(25) 
+		</sentence>
+	</text>
+</review>

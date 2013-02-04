@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="968" item="Shangri-La Hotel Singapore" rating="4">
+	<title>
+		<sentence id="1">
+			CasaMagna(1) Marriott(2) PV(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			reasonable(1) price(2) ,(3) nice(4) private(5) beach(6) 
+			<opinion featWords="6" feature="beach" opWords="5" polarity="+"/>
+			<opinion featWords="6" feature="beach" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bus(1) ride(2) to(3) downtown(4) area(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) CasaMagna(2) in(3) Puerto(4) Vallarta(5) is(6) a(7) great(8) choice(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Good(1) location(2) ,(3) great(4) staff(5) ,(6) reasonably(7) priced(8) rooms(9) .(10) 
+			<opinion feature="price" opWords="7,8" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			In(1) October(2) 2000(3) I(4) visited(5) Puerto(6) Vallarta(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			We(1) chose(2) to(3) stay(4) at(5) the(6) CasaMagna(7) because(8) Marriott(9) hotels(10) tend(11) to(12) be(13) reasonably(14) priced(15) with(16) relatively(17) consistent(18) good(19) service(20) .(21) 
+			<opinion featWords="20" feature="service" opWords="18" polarity="+" potency="17"/>
+			<opinion featWords="20" feature="service" opWords="19" polarity="+" potency="17"/>
+			<opinion feature="price" opWords="14,15" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) hotel(2) is(3) only(4) a(5) short(6) cab(7) ride(8) from(9) the(10) Puerto(11) Vallarta(12) airport(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			We(1) arrived(2) early(3) in(4) the(5) morning(6) on(7) a(8) sunny(9) Friday(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Even(1) though(2) we(3) were(4) so(5) early(6) for(7) check-in(8) the(9) staff(10) there(11) let(12) us(13) into(14) our(15) room(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			This(1) was(2) the(3) first(4) sign(5) that(6) we(7) made(8) the(9) right(10) lodging(11) choice(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			We(1) put(2) our(3) bags(4) in(5) our(6) room(7) ,(8) and(9) headed(10) down(11) to(12) the(13) private(14) beach(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			On(1) our(2) way(3) ,(4) we(5) walked(6) through(7) the(8) pool(9) area(10) and(11) some(12) of(13) the(14) gardens(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			We(1) were(2) impressed(3) by(4) the(5) lush(6) gardening(7) which(8) included(9) pinapples(10) and(11) lots(12) of(13) exotic(14) flowers(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			As(1) we(2) passed(3) through(4) the(5) pool(6) area(7) ,(8) we(9) found(10) a(11) group(12) doing(13) calasthenics(14) --(15) the(16) hotel(17) offers(18) a(19) few(20) daily(21) activities(22) for(23) kids(24) and(25) adults(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			The(1) blue(2) pool(3) seemed(4) inviting(5) with(6) a(7) swim-up(8) bar(9) in(10) the(11) middle(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Even(1) though(2) it(3) was(4) early(5) in(6) the(7) morning(8) ,(9) there(10) were(11) already(12) peddlers(13) gathering(14) on(15) the(16) beach(17) in(18) the(19) area(20) around(21) the(22) pool(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			They(1) were(2) only(3) a(4) little(5) pushy(6) and(7) did(8) take(9) "(10) no(11) "(12) for(13) an(14) answer(15) since(16) we(17) were(18) not(19) interested(20) in(21) anything(22) they(23) were(24) selling(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			After(1) a(2) dip(3) in(4) the(5) ocean(6) we(7) went(8) back(9) to(10) our(11) room(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			It(1) was(2) clean(3) and(4) had(5) a(6) good(7) selection(8) of(9) TV(10) Stations(11) ,(12) including(13) HBO(14) and(15) some(16) American(17) networks(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			Their(1) were(2) a(3) variety(4) of(5) restaurants(6) in(7) the(8) hotel(9) ,(10) and(11) all(12) of(13) them(14) were(15) slightly(16) on(17) the(18) expensive(19) side(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			One(1) of(2) the(3) restaurants(4) is(5) buffett-style(6) and(7) changes(8) its(9) "(10) theme(11) "(12) every(13) night(14) ((15) ie(16) -(17) Seafood(18) ,(19) Mexican(20) ...(21) )(22) This(23) one(24) was(25) the(26) best(27) deal(28) for(29) the(30) money(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			There(1) is(2) also(3) a(4) Japanese(5) restaurant(6) and(7) an(8) American(9) Sports(10) bar(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) want(3) to(4) go(5) to(6) the(7) downtown(8) area(9) ,(10) you(11) can(12) walk(13) down(14) the(15) street(16) ,(17) and(18) find(19) the(20) bus-stop(21) a(22) few(23) blocks(24) away(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			From(1) there(2) a(3) bus(4) will(5) take(6) you(7) past(8) the(9) Marina(10) and(11) right(12) to(13) the(14) downtown(15) area(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			Alternatively(1) ,(2) you(3) can(4) always(5) take(6) a(7) cab(8) right(9) from(10) the(11) hotel(12) ,(13) but(14) its(15) less(16) adventurous(17) and(18) more(19) expensive(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			While(1) you(2) 're(3) in(4) Vallarta(5) ,(6) look(7) out(8) for(9) time-share(10) salesman(11) ...(12) they(13) are(14) all(15) over(16) the(17) place(18) .(19) 
+		</sentence>
+		<sentence id="23">
+			Although(1) you(2) can(3) get(4) discounted(5) tickets(6) for(7) entertainment(8) and(9) free(10) bottles(11) of(12) Tequialla(13) ,(14) it(15) will(16) take(17) up(18) two(19) hours(20) of(21) your(22) time(23) and(24) most(25) probably(26) annoy(27) you(28) ((29) unless(30) you(31) happen(32) to(33) be(34) in(35) the(36) market(37) for(38) a(39) timeshare(40) ,(41) in(42) which(43) case(44) ,(45) this(46) is(47) a(48) great(49) place(50) to(51) buy(52) one(53) ...(54) if(55) you(56) 're(57) in(58) that(59) category(60) ,(61) watch(62) how(63) fast(64) they(65) find(66) you(67) a(68) timeshare(69) that(70) is(71) 1/3(72) of(73) the(74) price(75) of(76) the(77) original(78) deal(79) they(80) were(81) offering(82) you(83) when(84) you(85) say(86) no(87) and(88) stand(89) up(90) to(91) leave(92) .(93) It(94) seems(95) people(96) have(97) their(98) timeshares(99) "(100) repossesed(101) "(102) and(103) they(104) need(105) to(106) resell(107) them(108) for(109) the(110) price(111) of(112) picking(113) up(114) the(115) payments(116) where(117) the(118) old(119) owner(120) left(121) off(122) .(123) )(124) 
+		</sentence>
+	</text>
+</review>

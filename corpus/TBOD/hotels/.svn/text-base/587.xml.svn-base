@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="587" item="Hotel San Remo" rating="3">
+	<title>
+		<sentence id="1">
+			San(1) Remo(2) -(3) good(4) hotel(5) at(6) South(7) End(8) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) price(3) ,(4) service(5) ,(6) smaller(7) ,(8) less(9) crowded(10) casino(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Review(1) Topic(2) :(3) OverviewStayed(4) at(5) the(6) San(7) Remo(8) Hotel(9) &amp;(10) Casino(11) from(12) July(13) 1(14) -(15) July(16) 7(17) ,(18) 2000(19) and(20) had(21) a(22) very(23) enjoyable(24) stay(25) .(26) 
+		</sentence>
+		<sentence id="2">
+			One(1) reason(2) we(3) stayed(4) there(5) was(6) the(7) room(8) rate(9) we(10) got(11) from(12) the(13) newsletter(14) they(15) send(16) us(17) since(18) joining(19) their(20) slot(21) club(22) -(23) $39(24) room(25) rate(26) for(27) Friday(28) /(29) Saturday(30) and(31) a(32) $29(33) room(34) rate(35) Sunday(36) -(37) Thursday(38) .(39) 
+		</sentence>
+		<sentence id="3">
+			For(1) the(2) price(3) and(4) location(5) -(6) by(7) all(8) the(9) bigger(10) casinos(11) -(12) MGM(13) ,(14) NY(15) NY(16) ,(17) Monte(18) Carlo(19) ,(20) Luxor(21) ,(22) Tropicana(23) ,(24) Mandalay(25) Bay(26) ,(27) etc.(28) -(29) it(30) could(31) not(32) be(33) beat(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			The(1) newsletter(2) also(3) listed(4) a(5) promotion(6) for(7) the(8) month(9) of(10) July(11) where(12) you(13) could(14) get(15) a(16) free(17) upgrade(18) to(19) a(20) suit(21) upon(22) check-in(23) if(24) available(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Guess(1) what(2) ?(3) 
+		</sentence>
+		<sentence id="6">
+			We(1) got(2) a(3) suite(4) and(5) it(6) was(7) incredible(8) .(9) 
+			<opinion featWords="4" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Another(1) friend(2) went(3) with(4) us(5) and(6) his(7) standard(8) room(9) was(10) nice(11) also(12) .(13) 
+			<opinion featWords="9" feature="rooms" opWords="8" polarity="+"/>
+			<opinion featWords="9" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Would(1) definitely(2) stay(3) here(4) again(5) .(6) 
+			<opinion feature="hotel" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+		<sentence id="9">
+			Smaller(1) ,(2) more(3) intimate(4) casino(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Never(1) felt(2) crowded(3) or(4) hurried(5) here(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Drink(1) service(2) was(3) excellent(4) .(5) 24(6) hour(7) coffee(8) shop(9) was(10) only(11) place(12) we(13) ate(14) here(15) -(16) one(17) dinner(18) and(19) one(20) breakfast(21) -(22) both(23) meals(24) were(25) very(26) good(27) .(28) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+			<opinion featWords="24" feature="food" opWords="27" polarity="+" potency="26"/>
+		</sentence>
+	</text>
+</review>

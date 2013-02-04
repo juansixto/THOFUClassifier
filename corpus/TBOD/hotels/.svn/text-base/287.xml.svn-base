@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="287" item="Best Western Twin Islands" rating="3">
+	<title>
+		<sentence id="1">
+			Older(1) but(2) great(3) location(4) 
+			<opinion featWords="4" feature="place" opWords="3" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) location(2) ,(3) very(4) clean(5) ,(6) quiet(7) .(8) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="5" polarity="+" potency="4"/>
+			<opinion feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) property(2) ,(3) no(4) frills(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) may(2) be(3) older(4) ,(5) but(6) it(7) has(8) it(9) 's(10) advantages(11) !(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) stayed(3) here(4) several(5) times(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			This(1) is(2) an(3) older(4) hotel(5) in(6) Gatlinburg(7) ,(8) however(9) it(10) is(11) one(12) of(13) the(14) best(15) reputed(16) in(17) town(18) !(19) 
+		</sentence>
+		<sentence id="3">
+			Everytime(1) I(2) have(3) stayed(4) the(5) rooms(6) were(7) very(8) clean(9) .(10) 
+			<opinion featWords="6" feature="rooms" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="4">
+			No(1) thrills(2) really(3) ,(4) but(5) a(6) nice(7) quiet(8) room(9) .(10) 
+			<opinion featWords="9" feature="rooms" opWords="7" polarity="+"/>
+			<opinion featWords="9" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Try(1) staying(2) along(3) the(4) river(5) edge(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			You(1) are(2) right(3) next(4) to(5) the(6) Ripley(7) 's(8) Aquarium(9) ,(10) which(11) by(12) the(13) way(14) is(15) one(16) of(17) the(18) best(19) I(20) have(21) been(22) to(23) in(24) a(25) long(26) time(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			Also(1) ,(2) you(3) are(4) in(5) walking(6) distance(7) to(8) everything(9) in(10) town(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Awesome(1) location(2) .(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			As(1) far(2) as(3) fishing(4) ...(5) YES(6) you(7) have(8) to(9) get(10) a(11) fishing(12) license(13) in(14) the(15) state(16) of(17) Tn(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			You(1) do(2) most(3) anywhere(4) in(5) the(6) south(7) actually(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			This(1) can(2) be(3) obtained(4) in(5) gas(6) stations(7) and(8) other(9) locations(10) all(11) over(12) the(13) place(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			There(1) is(2) a(3) small(4) old(5) play(6) ground(7) for(8) the(9) kids(10) if(11) they(12) get(13) restless(14) as(15) well(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			They(1) do(2) not(3) however(4) offer(5) breakfast(6) ,(7) but(8) a(9) discount(10) at(11) the(12) best(13) breakfast(14) house(15) in(16) the(17) city(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			I(1) recommend(2) the(3) Atrium(4) to(5) anyone(6) visiting(7) for(8) breakfast(9) .(10) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			So(1) ,(2) no(3) it(4) is(5) not(6) a(7) resort(8) ...(9) and(10) it(11) is(12) older(13) .(14) 
+		</sentence>
+		<sentence id="16">
+			But(1) ,(2) the(3) beds(4) are(5) sleepable(6) ,(7) it(8) is(9) clean(10) ,(11) quiet(12) and(13) great(14) location(15) !(16) 
+			<opinion featWords="4" feature="bed" opWords="6" polarity="+"/>
+			<opinion featWords="15" feature="place" opWords="10" polarity="+"/>
+			<opinion featWords="15" feature="place" opWords="12" polarity="+"/>
+			<opinion featWords="15" feature="place" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) search(3) online(4) ,(5) you(6) can(7) find(8) steller(9) deals(10) for(11) this(12) place(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			It(1) is(2) a(3) Best(4) Western(5) and(6) if(7) you(8) travel(9) a(10) lot(11) you(12) can(13) get(14) iscounts(15) for(16) your(17) stay(18) ,(19) even(20) free(21) nights(22) .(23) 
+		</sentence>
+		<sentence id="19">
+			Also(1) ,(2) call(3) the(4) hotel(5) directly(6) or(7) visit(8) their(9) actual(10) web(11) site(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			You(1) can(2) find(3) deals(4) there(5) sometimes(6) that(7) far(8) surpass(9) the(10) travel(11) and(12) hotel(13) sites(14) .(15) 
+		</sentence>
+		<sentence id="21">
+			I(1) recommend(2) this(3) hotel(4) to(5) singles(6) ,(7) couples(8) without(9) children(10) ,(11) older(12) travelers(13) and(14) some(15) families(16) .(17) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			The(1) location(2) is(3) such(4) that(5) if(6) you(7) are(8) on(9) the(10) other(11) side(12) f(13) town(14) ,(15) say(16) at(17) the(18) space(19) needle(20) and(21) it(22) begins(23) to(24) rain(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			You(1) can(2) walk(3) swiftly(4) back(5) down(6) through(7) town(8) to(9) the(10) hotel(11) in(12) only(13) a(14) few(15) minutes(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) love(3) parades(4) .(5) .(6) visit(7) on(8) the(9) first(10) Friday(11) of(12) Decemeber(13) !(14) 
+		</sentence>
+		<sentence id="25">
+			A(1) HUGE(2) parade(3) is(4) held(5) ,(6) but(7) book(8) early(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="26">
+			This(1) hotel(2) is(3) very(4) near(5) the(6) start(7) of(8) the(9) parade(10) ,(11) and(12) you(13) can(14) get(15) a(16) prime(17) spot(18) easily(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			Also(1) ,(2) parking(3) .(4) 
+		</sentence>
+		<sentence id="28">
+			Parking(1) is(2) a(3) huge(4) deal(5) in(6) a(7) small(8) tourist(9) twn(10) like(11) Gatlinburg(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			You(1) have(2) free(3) parking(4) there(5) and(6) you(7) can(8) visit(9) the(10) entire(11) town(12) without(13) moving(14) your(15) car(16) and(17) having(18) to(19) pay(20) parking(21) fee(22) 's(23) elsewhere(24) .(25) 
+			<opinion featWords="4" feature="parking" opWords="3" polarity="+"/>
+		</sentence>
+	</text>
+</review>

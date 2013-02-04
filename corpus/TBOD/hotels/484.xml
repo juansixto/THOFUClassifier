@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="484" item="Ocean Point Apartment Hotel Tobago" rating="3">
+	<title>
+		<sentence id="1">
+			Great(1) little(2) hotel(3) 
+			<opinion featWords="3" feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) beaches(3) ,(4) restaurants(5) ,(6) etc.(7) Very(8) cosy(9) .(10) 
+			<opinion feature="hotel" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Friendly(1) staff(2) .(3) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Not(1) very(2) busy(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) few(2) areas(3) could(4) benefit(5) from(6) a(7) fresh(8) coat(9) of(10) paint(11) &amp;(12) some(13) extra(14) cleaning(15) .(16) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) is(2) about(3) 10-15(4) mins(5) drive(6) from(7) the(8) Airport(9) &amp;(10) about(11) 15-20(12) drive(13) to(14) Scarborough(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Rooms(1) are(2) equipped(3) with(4) a(5) stove(6) ,(7) basic(8) kitchen(9) utensils(10) ,(11) mini(12) fridge(13) ,(14) alarm(15) clock(16) ,(17) iron(18) &amp;(19) ironing(20) board(21) ,(22) a(23) few(24) clothes(25) hangers(26) ,(27) a(28) safe(29) ,(30) cable(31) TV(32) ,(33) hot(34) /(35) cold(36) shower(37) ,(38) towels(39) ,(40) &amp;(41) a(42) quiet(43) air(44) condition(45) unit(46) .(47) 
+		</sentence>
+	</text>
+</review>

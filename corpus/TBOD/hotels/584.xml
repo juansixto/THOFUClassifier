@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="584" item="Hotel San Remo" rating="3">
+	<title>
+		<sentence id="1">
+			Hotel(1) San(2) Remo(3) -(4) "(5) MGM(6) Lite(7) "(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Affordable(1) .(2) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Clean(1) .(2) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) very(2) luxurious(3) .(4) 
+			<opinion feature="hotel" opWords="1,3" polarity="-" potency="2"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Good(1) if(2) you(3) 're(4) looking(5) for(6) affordable(7) lodging(8) on(9) The(10) Strip(11) .(12) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="price" opWords="7" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			So(1) you(2) re(3) going(4) to(5) Las(6) Vegas(7) ,(8) huh(9) ?(10) 
+		</sentence>
+		<sentence id="2">
+			Well(1) ,(2) when(3) it(4) comes(5) to(6) lodging(7) ,(8) my(9) advice(10) is(11) to(12) consider(13) what(14) exactly(15) you(16) are(17) looking(18) for(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			If(1) you(2) re(3) looking(4) for(5) romance(6) and(7) pampering(8) ,(9) then(10) check(11) out(12) the(13) Bellagio(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) re(3) just(4) looking(5) for(6) a(7) place(8) to(9) lay(10) your(11) head(12) at(13) night(14) ,(15) I(16) recommend(17) the(18) Hotel(19) San(20) Remo(21) .(22) 
+			<opinion feature="hotel" opWords="17" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) Hotel(2) San(3) Remo(4) always(5) much(6) more(7) affordably(8) priced(9) than(10) the(11) mega(12) hotels(13) surrounding(14) it(15) .(16) 
+			<opinion feature="price" opWords="8,9" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			My(1) girlfriend(2) and(3) I(4) shared(5) a(6) room(7) for(8) two(9) nights(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) was(3) spacious(4) enough(5) for(6) two(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			We(1) each(2) had(3) a(4) Queen(5) bed(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			And(1) the(2) room(3) was(4) clean(5) and(6) pretty(7) quiet(8) .(9) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="10">
+			We(1) were(2) happy(3) having(4) gotten(5) what(6) we(7) paid(8) for(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			The(1) San(2) Remo(3) also(4) has(5) all(6) the(7) basic(8) hotel(9) services(10) one(11) s(12) used(13) to(14) such(15) as(16) room(17) service(18) ,(19) a(20) pool(21) ,(22) restaurants(23) ,(24) gift(25) shop(26) ,(27) vending(28) machines(29) and(30) small(31) casino(32) on(33) the(34) first(35) floor(36) .(37) 
+			<opinion featWords="10" feature="service" opWords="8" polarity="+"/>
+			<opinion featWords="32" feature="casino" opWords="31" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			Other(1) than(2) a(3) bit(4) of(5) time(6) at(7) the(8) casino(9) ,(10) we(11) did(12) not(13) patron(14) these(15) services(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			The(1) nice(2) thing(3) about(4) the(5) San(6) Remo(7) casino(8) is(9) some(10) low(11) minimum(12) card(13) tables(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			For(1) example(2) ,(3) at(4) some(5) of(6) the(7) bigger(8) hotel(9) casinos(10) ,(11) the(12) lowest(13) minimum(14) bet(15) for(16) Black(17) Jack(18) were(19) a(20) couple(21) $10(22) tables(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			The(1) San(2) Remo(3) had(4) a(5) couple(6) $5(7) tables(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			The(1) other(2) thing(3) I(4) really(5) liked(6) was(7) its(8) location(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			My(1) girlfriend(2) and(3) I(4) thought(5) we(6) might(7) have(8) to(9) lodge(10) off(11) the(12) strip(13) to(14) stay(15) within(16) our(17) trip(18) budget(19) before(20) we(21) came(22) across(23) the(24) San(25) Remo(26) .(27) 
+		</sentence>
+		<sentence id="18">
+			The(1) San(2) Remo(3) met(4) our(5) budget(6) and(7) it(8) s(9) in(10) a(11) nice(12) location(13) .(14) 
+			<opinion featWords="13" feature="place" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			The(1) Hotel(2) San(3) Remo(4) is(5) near(6) beautiful(7) ,(8) mega-resorts(9) New(10) York-New(11) York(12) ,(13) Mandalay(14) Bay(15) ,(16) Luxor(17) and(18) Excalibur(19) ,(20) and(21) is(22) directly(23) across(24) from(25) the(26) MGM(27) .(28) 
+		</sentence>
+		<sentence id="20">
+			In(1) fact(2) ,(3) we(4) spent(5) MORE(6) time(7) at(8) the(9) MGM(10) than(11) in(12) the(13) San(14) Remo(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			But(1) we(2) did(3) 'nt(4) have(5) to(6) pay(7) their(8) prices(9) !(10) 
+		</sentence>
+		<sentence id="22">
+			The(1) San(2) Remo(3) is(4) also(5) close(6) to(7) the(8) airport(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			It(1) takes(2) under(3) 10(4) minutes(5) to(6) get(7) to(8) and(9) from(10) using(11) one(12) of(13) the(14) airport(15) shuttle(16) buses(17) .(18) 
+		</sentence>
+		<sentence id="24">
+			You(1) can(2) book(3) the(4) San(5) Remo(6) online(7) just(8) like(9) many(10) other(11) Vegas(12) hotels(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			This(1) is(2) highly(3) convenient(4) and(5) you(6) can(7) often(8) find(9) great(10) travel(11) packages(12) as(13) well(14) .(15) 
+		</sentence>
+		<sentence id="26">
+			The(1) San(2) Remo(3) does(4) NOT(5) inspire(6) someone(7) to(8) spend(9) the(10) day(11) feeling(12) pampered(13) at(14) the(15) hotel(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			This(1) is(2) more(3) the(4) hotel(5) for(6) folks(7) who(8) will(9) be(10) out(11) and(12) about(13) ,(14) seeing(15) the(16) sights(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			Final(1) Verdict(2) :(3) If(4) I(5) had(6) to(7) do(8) another(9) short(10) trip(11) like(12) this(13) ,(14) I(15) would(16) definitely(17) consider(18) staying(19) at(20) the(21) San(22) Remo(23) again(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			When(1) my(2) husband(3) and(4) I(5) plan(6) a(7) trip(8) to(9) Vegas(10) we(11) ll(12) be(13) looking(14) at(15) one(16) of(17) the(18) mega(19) resorts(20) .(21) 
+			<opinion featWords="20" feature="hotel" opWords="19" polarity="+"/>
+		</sentence>
+	</text>
+</review>

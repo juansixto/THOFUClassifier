@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="986" item="Holiday Inn Sunspree Barharbor" rating="4">
+	<title>
+		<sentence id="1">
+			Nice(1) views(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) staff(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Former(1) Holiday(2) Inn(3) .(4) .(5) rooms(6) a(7) bit(8) noisy(9) ,(10) especially(11) from(12) plumbing(13) noise(14) 
+			<opinion featWords="6" feature="rooms" opWords="9" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Give(1) it(2) a(3) try(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) stayed(5) at(6) the(7) Sunspree(8) in(9) Sep(10) 2001(11) after(12) checking(13) out(14) of(15) the(16) unbearable(17) Bar(18) Harbor(19) Inn(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) a(3) very(4) nice(5) room(6) on(7) the(8) 3rd(9) floor(10) with(11) a(12) beautiful(13) ocean(14) view(15) .(16) 
+			<opinion featWords="6" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="15" feature="view" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Keep(1) in(2) mind(3) this(4) is(5) a(6) former(7) Holiday(8) Inn(9) so(10) the(11) rooms(12) are(13) fairly(14) mundane(15) .(16) 
+			<opinion featWords="12" feature="rooms" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="4">
+			This(1) is(2) overshadowed(3) by(4) the(5) friendly(6) helpful(7) staff(8) and(9) the(10) location(11) .(12) 
+			<opinion featWords="8" feature="staff" opWords="7" polarity="+"/>
+			<opinion featWords="8" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) a(3) 5(4) minute(5) drive(6) to(7) the(8) "(9) downtown(10) "(11) Bar(12) Harbor(13) or(14) you(15) could(16) walk(17) it(18) in(19) 20(20) or(21) 30(22) minutes(23) tops(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Th(1) restaurant(2) is(3) very(4) nice(5) and(6) reasonable(7) although(8) we(9) went(10) to(11) "(12) town(13) "(14) for(15) dinner(16) each(17) night(18) .(19) 
+			<opinion featWords="2" feature="food" opWords="7" polarity="+"/>
+			<opinion featWords="2" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			Bar(1) Harbor(2) is(3) a(4) great(5) place(6) for(7) a(8) relaxing(9) vacation(10) .(11) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+	</text>
+</review>

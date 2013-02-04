@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="483" item="Doubletree Hotel Los Angeles Westwood" rating="2">
+	<title>
+		<sentence id="1">
+			Below(1) Par(2) Doubletree(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			TV(1) was(2) ok(3) .(4) 
+			<opinion featWords="1" feature="tv" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Bathroom(1) not(2) too(3) bad(4) .(5) 
+			<opinion featWords="1" feature="bathroom" opWords="3,4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) room(2) ,(3) the(4) hotel(5) ,(6) the(7) staff(8) .(9) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) stayed(3) at(4) this(5) Doubletree(6) several(7) times(8) because(9) it(10) is(11) convenient(12) for(13) an(14) ongoing(15) work(16) project(17) and(18) reasonably(19) priced(20) for(21) business(22) travel(23) .(24) 
+			<opinion feature="price" opWords="19,20" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Never(1) more(2) than(3) adequate(4) on(5) the(6) first(7) couple(8) of(9) visits(10) ,(11) it(12) took(13) a(14) significant(15) nose(16) dive(17) on(18) my(19) most(20) recent(21) trip(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) are(3) dated(4) and(5) worn(6) ((7) for(8) example(9) ,(10) stains(11) on(12) the(13) wallpaper(14) and(15) an(16) unappealing(17) old(18) couch(19) )(20) .(21) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="-"/>
+			<opinion featWords="19" feature="sofa" opWords="17" polarity="-"/>
+			<opinion featWords="19" feature="sofa" opWords="18" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			After(1) working(2) a(3) full(4) day(5) and(6) being(7) horribly(8) jet-lagged(9) my(10) first(11) day(12) in(13) town(14) ,(15) I(16) returned(17) to(18) my(19) room(20) to(21) discover(22) that(23) housekeeping(24) had(25) not(26) cleaned(27) it(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			My(1) second(2) room(3) had(4) a(5) pile(6) of(7) food(8) crumbs(9) on(10) the(11) carpet(12) next(13) to(14) the(15) bed(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			Despite(1) calling(2) the(3) front(4) desk(5) to(6) ask(7) for(8) it(9) to(10) be(11) vacuumed(12) the(13) next(14) day(15) ,(16) and(17) providing(18) the(19) precise(20) location(21) ,(22) it(23) was(24) not(25) cleaned(26) properly(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			In(1) an(2) apparent(3) cost-saving(4) maneuver(5) ,(6) the(7) room(8) did(9) not(10) have(11) plastic(12) laundry(13) bags(14) ,(15) pens(16) ,(17) or(18) notepad(19) and(20) the(21) gym(22) did(23) not(24) have(25) cups(26) for(27) the(28) water(29) machine(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			The(1) staff(2) was(3) uninterested(4) in(5) my(6) repeated(7) problems(8) .(9) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			I(1) will(2) only(3) stay(4) here(5) as(6) a(7) last(8) resort(9) in(10) the(11) future(12) .(13) 
+		</sentence>
+	</text>
+</review>

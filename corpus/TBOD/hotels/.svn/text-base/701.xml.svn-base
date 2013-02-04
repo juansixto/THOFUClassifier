@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="701" item="Eastland Park Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) loved(2) my(3) wedding(4) at(5) the(6) Eastland(7) !(8) !(9) !(10) !(11) !(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) staff(2) ,(3) great(4) food(5) ,(6) relaxed(7) with(8) kids(9) ,(10) pet(11) friendly(12) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+			<opinion feature="hotel" opWords="11,12" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			I(1) could(2) not(3) stay(4) longer(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) loved(2) how(3) smooth(4) everything(5) went(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) are(3) looking(4) for(5) an(6) "(7) everything(8) in(9) one(10) location(11) "(12) wedding(13) ,(14) The(15) Eastland(16) is(17) PERFECT(18) !(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) a(6) place(7) to(8) have(9) a(10) relaxed(11) and(12) very(13) smooth(14) flowing(15) wedding(16) day(17) ,(18) this(19) place(20) is(21) for(22) you(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			The(1) Eastland(2) Park(3) Hotel(4) hosted(5) my(6) entire(7) wedding(8) on(9) September(10) 1st(11) and(12) I(13) can(14) not(15) say(16) enough(17) about(18) the(19) staff(20) ,(21) surroundings(22) ,(23) atmosphere(24) and(25) the(26) food(27) was(28) wonderful(29) .(30) 
+			<opinion featWords="27" feature="food" opWords="29" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			They(1) have(2) a(3) wedding(4) package(5) that(6) makes(7) this(8) an(9) ideal(10) location(11) to(12) plan(13) your(14) wedding(15) from(16) a(17) distance(18) because(19) the(20) ceremony(21) seating(22) ,(23) reception(24) ,(25) open(26) bar(27) and(28) cocktail(29) hour(30) is(31) all(32) included(33) ,(34) along(35) with(36) some(37) other(38) amenities(39) .(40) 
+			<opinion featWords="11" feature="place" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) even(3) a(4) separate(5) children(6) 's(7) menu(8) for(9) the(10) reception(11) which(12) is(13) significantly(14) less(15) than(16) an(17) adult(18) meal(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			And(1) their(2) flambe(3) presentation(4) at(5) dessert(6) time(7) was(8) fantastic(9) !(10) 
+		</sentence>
+		<sentence id="6">
+			Nothing(1) like(2) a(3) little(4) fire(5) to(6) get(7) a(8) party(9) going(10) !(11) 
+		</sentence>
+		<sentence id="7">
+			I(1) live(2) in(3) Florida(4) and(5) worked(6) with(7) their(8) event(9) planner(10) ,(11) Erica(12) ,(13) via(14) email(15) and(16) phone(17) calls(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			She(1) made(2) what(3) can(4) be(5) a(6) very(7) stressful(8) process(9) absolutely(10) painless(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Even(1) on(2) the(3) wedding(4) day(5) she(6) acted(7) as(8) more(9) of(10) a(11) personal(12) assistant(13) than(14) an(15) event(16) planner(17) without(18) even(19) being(20) asked(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) caters(3) to(4) pets(5) and(6) is(7) not(8) just(9) "(10) pet(11) friendly(12) "(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Our(1) 2(2) dogs(3) were(4) even(5) walked(6) in(7) as(8) part(9) of(10) wedding(11) ceremony(12) by(13) Erica(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			I(1) can(2) not(3) say(4) enough(5) about(6) our(7) experience(8) there(9) and(10) many(11) of(12) our(13) guests(14) have(15) said(16) that(17) it(18) was(19) the(20) most(21) enjoyable(22) wedding(23) they(24) have(25) ever(26) been(27) to(28) .(29) 
+		</sentence>
+		<sentence id="13">
+			I(1) credit(2) The(3) Eastland(4) for(5) that(6) 100(7) %(8) .(9) 
+		</sentence>
+	</text>
+</review>

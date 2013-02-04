@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="522" item="Crowne Plaza Hotel WHITE PLAINS-DOWNTOWN" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) expect(3) customer(4) service(5) here(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			close(1) to(2) the(3) highway(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lousy(1) customer(2) service(3) ,(4) expensive(5) parking(6) ((7) for(8) the(9) area(10) )(11) ,(12) average(13) rooms(14) .(15) 
+			<opinion featWords="3" feature="service" opWords="1" polarity="-"/>
+			<opinion feature="price" opWords="5" polarity="-"/>
+			<opinion featWords="14" feature="rooms" opWords="13" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) may(2) have(3) a(4) completely(5) different(6) experience(7) at(8) this(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) knowing(3) that(4) they(5) generally(6) do(7) not(8) understand(9) customer(10) service(11) ,(12) I(13) would(14) go(15) elsewhere(16) if(17) possible(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) arrived(2) late(3) at(4) night(5) with(6) my(7) wife(8) for(9) a(10) small(11) getaway(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) waited(2) 20(3) minutes(4) while(5) a(6) single(7) reception(8) person(9) tried(10) to(11) check-in(12) 2(13) people(14) that(15) were(16) at(17) the(18) counter(19) already(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Then(1) she(2) offered(3) me(4) a(5) room(6) with(7) 2(8) small(9) beds(10) .(11) 
+			<opinion featWords="10" feature="bed" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			I(1) told(2) her(3) that(4) I(5) was(6) with(7) my(8) wife(9) and(10) would(11) like(12) 1(13) king(14) size(15) bed(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			She(1) said(2) that(3) we(4) were(5) booked(6) for(7) 2(8) doubles(9) ((10) a(11) priceline(12) reservation(13) )(14) and(15) that(16) this(17) would(18) be(19) considered(20) an(21) upgrade(22) and(23) cost(24) $10(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			I(1) explained(2) that(3) priceline(4) allows(5) changes(6) if(7) available(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			She(1) did(2) not(3) care(4) ,(5) she(6) only(7) said(8) it(9) would(10) be(11) $10(12) or(13) I(14) would(15) stay(16) in(17) the(18) room(19) with(20) 2(21) small(22) beds(23) .(24) 
+			<opinion featWords="23" feature="bed" opWords="22" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			She(1) also(2) did(3) not(4) care(5) that(6) if(7) I(8) did(9) not(10) pay(11) the(12) $10(13) I(14) would(15) either(16) sleep(17) alone(18) or(19) have(20) a(21) lousy(22) sleep(23) ((24) did(25) not(26) care(27) )(28) .(29) 
+		</sentence>
+		<sentence id="9">
+			In(1) the(2) morning(3) I(4) told(5) the(6) person(7) at(8) the(9) front(10) counter(11) what(12) had(13) happened(14) ,(15) and(16) that(17) it(18) was(19) a(20) lousy(21) stay(22) .(23) ((24) I(25) waited(26) for(27) her(28) to(29) ask(30) --(31) "(32) How(33) was(34) your(35) stay(36) ?(37) "(38) ---(39) did(40) not(41) happen(42) ,(43) I(44) had(45) to(46) tell(47) her(48) without(49) prompting(50) ,(51) anyway(52) ,(53) she(54) did(55) not(56) care(57) .(58) I(59) asked(60) to(61) speak(62) to(63) the(64) manager(65) .(66) I(67) spoke(68) with(69) Verel(70) Rodney(71) ((72) Front(73) Desk(74) Manager(75) )(76) ...(77) she(78) likewise(79) ...(80) did(81) not(82) care(83) .(84) 
+		</sentence>
+		<sentence id="10">
+			If(1) I(2) was(3) a(4) customer(5) service(6) agent(7) and(8) I(9) saw(10) that(11) a(12) couple(13) was(14) going(15) to(16) a(17) room(18) with(19) two(20) small(21) beds(22) ((23) and(24) they(25) are(26) small(27) )(28) ,(29) and(30) I(31) could(32) do(33) something(34) about(35) it(36) ...(37) I(38) would(39) ((40) this(41) is(42) not(43) talk(44) ,(45) I(46) run(47) a(48) small(49) business(50) and(51) make(52) it(53) a(54) point(55) to(56) make(57) customers(58) happy(59) ...(60) which(61) sometimes(62) means(63) going(64) above(65) and(66) beyond(67) )(68) .(69) 
+			<opinion featWords="22" feature="bed" opWords="21" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			If(1) I(2) saw(3) that(4) someone(5) had(6) an(7) unsatisfactory(8) stay(9) at(10) my(11) hotel(12) ,(13) I(14) would(15) be(16) all(17) over(18) the(19) situation(20) ...(21) not(22) here(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			Then(1) I(2) paid(3) the(4) outrageous(5) $14(6) ((7) in(8) a(9) semi-suburban(10) location(11) !(12) )(13) for(14) parking(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			They(1) said(2) it(3) used(4) to(5) be(6) free(7) but(8) people(9) were(10) taking(11) advantage(12) of(13) it(14) or(15) something(16) ...(17) I(18) do(19) not(20) understand(21) why(22) they(23) could(24) not(25) just(26) make(27) a(28) few(29) controls(30) instead(31) of(32) ripping(33) off(34) their(35) customers(36) ?(37) 
+		</sentence>
+		<sentence id="14">
+			Feeling(1) really(2) ripped(3) off(4) right(5) about(6) now(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			I(1) hate(2) the(3) Holiday(4) Inn(5) ((6) not(7) the(8) first(9) time(10) I(11) have(12) had(13) a(14) lousy(15) stay(16) at(17) one(18) of(19) their(20) locations(21) )(22) and(23) will(24) avoid(25) them(26) whenever(27) possible(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			Not(1) that(2) they(3) would(4) care(5) !(6) 
+		</sentence>
+	</text>
+</review>

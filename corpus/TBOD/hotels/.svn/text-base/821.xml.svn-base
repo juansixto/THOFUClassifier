@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="821" item="Fiesta Americana Grand Coral Beach Cancun" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) hotel(3) i(4) 've(5) ever(6) stayed(7) at(8) 
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) service(2) .(3) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) restaurants(2) .(3) 
+			<opinion featWords="2" feature="food" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Love(1) being(2) pampered(3) .(4) 
+		</sentence>
+		<sentence id="4">
+			Not(1) expensive(2) at(3) all(4) .(5) 
+			<opinion feature="price" opWords="1,2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Vacation(1) too(2) short(3) next(4) time(5) staying(6) longer(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Need(1) i(2) say(3) more(4) ...(5) the(6) best(7) hotel(8) i(9) 've(10) ever(11) stayed(12) at(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) just(2) came(3) back(4) from(5) vacation(6) at(7) the(8) Fiesta(9) Americana(10) Grand(11) Coral(12) Beach(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) there(3) the(4) week(5) of(6) 8/20-8/26(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			In(1) June(2) I(3) was(4) at(5) the(6) Atlantis(7) in(8) Paradise(9) Island(10) and(11) I(12) was(13) planning(14) on(15) going(16) back(17) in(18) December(19) but(20) now(21) that(22) I(23) 've(24) been(25) to(26) the(27) Grand(28) Coral(29) Beach(30) I(31) 'm(32) changing(33) my(34) plans(35) ,(36) I(37) 'm(38) going(39) to(40) Cancun(41) !(42) 
+		</sentence>
+		<sentence id="4">
+			This(1) hotel(2) is(3) truly(4) a(5) five(6) star(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			I(1) tried(2) comparing(3) different(4) hotels(5) but(6) everyone(7) i(8) spoke(9) to(10) said(11) that(12) there(13) was(14) no(15) comparison(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) service(2) was(3) incredible(4) .(5) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Everyone(1) spoke(2) English(3) ,(4) everyone(5) was(6) nice(7) and(8) not(9) just(10) at(11) the(12) hotel(13) all(14) around(15) Cancun(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			I(1) like(2) to(3) be(4) pampered(5) and(6) now(7) i(8) have(9) become(10) spoiled(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Turndown(1) service(2) .(3) robes(4) and(5) slippers(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			The(1) best(2) customer(3) service(4) i(5) have(6) ever(7) received(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			Whoever(1) says(2) this(3) hotel(4) is(5) expensive(6) is(7) nuts(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			A(1) couple(2) of(3) months(4) ago(5) I(6) spent(7) the(8) weekend(9) at(10) the(11) W(12) Hotel(13) in(14) Manhattan(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) over(3) $400(4) a(5) night(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			Believe(1) me(2) it(3) was(4) beautiful(5) and(6) I(7) loved(8) it(9) .(10) 
+			<opinion featRef="hotel" featWords="3" feature="hotel" opWords="5" polarity="+"/>
+			<opinion featRef="hotel" featWords="3" feature="hotel" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			But(1) I(2) spent(3) just(4) under(5) $3000(6) for(7) three(8) adults(9) for(10) 4(11) nights(12) /(13) 5(14) days(15) at(16) this(17) hotel(18) including(19) flights(20) ,(21) transfers(22) ,(23) food(24) ,(25) drinks(26) and(27) snacks(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			We(1) ate(2) a(3) Cinecolo(4) ((5) Italian(6) restuarant(7) )(8) and(9) Cambachulo(10) ((11) Argentine(12) steakhouse(13) --(14) incredible(15) food(16) .(17) .(18) deeelicious(19) )(20) .(21) 
+			<opinion featWords="16" feature="food" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			We(1) had(2) snacks(3) and(4) drinks(5) at(6) the(7) swim(8) up(9) bar(10) everyday(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			I(1) think(2) that(3) under(4) $3000(5) for(6) this(7) vacation(8) is(9) a(10) great(11) price(12) and(13) i(14) 'm(15) ready(16) to(17) do(18) it(19) again(20) !(21) 
+			<opinion featWords="12" feature="price" opWords="11" polarity="+"/>
+		</sentence>
+	</text>
+</review>

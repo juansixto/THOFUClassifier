@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="137" item="Westgate Lakes Resort" rating="1">
+	<title>
+		<sentence id="1">
+			Westgate(1) =(2) Hotel(3) California(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) parking(2) ,(3) poor(4) room(5) maintenance(6) ,(7) roaches(8) under(9) bath(10) sink(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) management(2) never(3) returned(4) call(5) .(6) 
+			<opinion featWords="2" feature="front desk" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) do(2) not(3) know(4) what(5) the(6) suites(7) were(8) like(9) ,(10) do(11) not(12) recommend(13) Westgate(14) .(15) 
+			<opinion feature="hotel" opWords="12,13" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Other(1) guests(2) while(3) there(4) also(5) had(6) bad(7) experience(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) had(2) a(3) condo(4) timeshare(5) ((6) 2(7) bedroom(8) ,(9) living(10) room(11) ,(12) kitchen(13) )(14) in(15) Cancun(16) on(17) the(18) beach(19) and(20) needed(21) something(22) closer(23) for(24) the(25) kids(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			So(1) we(2) opted(3) with(4) Interval(5) International(6) for(7) an(8) Orlando(9) visit(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) no(3) idea(4) what(5) to(6) prepare(7) for(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			On(1) our(2) arrival(3) we(4) were(5) promptly(6) registered(7) in(8) and(9) a(10) host(11) drove(12) us(13) to(14) our(15) room(16) ((17) it(18) was(19) apparent(20) photo(21) of(22) rooms(23) on(24) web(25) not(26) even(27) close(28) to(29) reality(30) )(31) .(32) 
+		</sentence>
+		<sentence id="5">
+			This(1) is(2) one(3) huge(4) complex(5) of(6) buildings(7) and(8) condos(9) so(10) do(11) not(12) be(13) shocked(14) what(15) 's(16) behind(17) the(18) photos(19) of(20) the(21) lake(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			Our(1) host(2) even(3) explained(4) that(5) there(6) were(7) more(8) condos(9) than(10) parking(11) ,(12) it(13) was(14) so(15) bad(16) that(17) we(18) were(19) told(20) to(21) ignore(22) handicapped(23) and(24) fire(25) zones(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			Trust(1) me(2) ,(3) every(4) night(5) we(6) drove(7) 10-20(8) minutes(9) around(10) 6(11) or(12) 4(13) story(14) building(15) complexes(16) to(17) look(18) for(19) parking(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Back(1) to(2) the(3) room(4) :(5) There(6) is(7) no(8) maid(9) service(10) at(11) all(12) and(13) linens(14) or(15) towels(16) are(17) not(18) changed(19) .(20) 
+			<opinion featWords="14" feature="bedding" opWords="18,19" polarity="-"/>
+			<opinion featWords="16" feature="towels" opWords="18,19" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Kitchen(1) in(2) studio(3) barely(4) makes(5) legal(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Sink(1) is(2) about(3) the(4) size(5) of(6) a(7) cereal(8) box(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			First(1) night(2) in(3) room(4) safe(5) was(6) locked(7) and(8) fridge(9) door(10) fell(11) off(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			We(1) spent(2) all(3) evening(4) with(5) maintenance(6) coming(7) in(8) and(9) out(10) .(11) 
+		</sentence>
+		<sentence id="13">
+			Second(1) day(2) ,(3) maintenance(4) fixes(5) fridge(6) by(7) replacing(8) it(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			In(1) house(2) safe(3) still(4) not(5) resolved(6) ,(7) called(8) front(9) desk(10) maybe(11) 5(12) times(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Finally(1) safe(2) was(3) opened(4) but(5) combo(6) lock(7) defective(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			Used(1) iron(2) and(3) it(4) had(5) a(6) crack(7) in(8) it(9) so(10) nearly(11) scolded(12) legs(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Third(1) night(2) ,(3) roaches(4) crawled(5) on(6) our(7) 4(8) year(9) old(10) .(11) 
+		</sentence>
+		<sentence id="18">
+			Forth(1) day(2) ,(3) roaches(4) on(5) ceiling(6) above(7) bed(8) and(9) we(10) were(11) invited(12) earlier(13) in(14) that(15) morning(16) for(17) complimentary(18) breakfast(19) which(20) was(21) a(22) sales(23) pitch(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			All(1) week(2) ,(3) aromas(4) from(5) other(6) kitchen(7) unit(8) filtered(9) in(10) .(11) 
+		</sentence>
+		<sentence id="20">
+			Right(1) ...(2) do(3) not(4) even(5) send(6) a(7) smiling(8) sales(9) pitch(10) our(11) way(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Called(1) concierge(2) for(3) directions(4) to(5) location(6) in(7) Orlando(8) ,(9) told(10) Internet(11) was(12) taken(13) away(14) from(15) staff(16) ,(17) so(18) can(19) not(20) search(21) web(22) .(23) 
+		</sentence>
+		<sentence id="22">
+			Told(1) to(2) find(3) Kinko(4) 's(5) to(6) get(7) web(8) access(9) ,(10) front(11) desk(12) did(13) say(14) there(15) was(16) a(17) PC(18) but(19) only(20) 5(21) minute(22) access(23) time(24) and(25) never(26) elaborated(27) .(28) 
+		</sentence>
+		<sentence id="23">
+			Staff(1) too(2) busy(3) .(4) 
+			<opinion featWords="1" feature="staff" opWords="2,3" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			This(1) was(2) one(3) of(4) the(5) worst(6) ever(7) experiences(8) and(9) poorly(10) maintained(11) properties(12) I(13) 've(14) ever(15) stayed(16) at(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			Period(1) .(2) 
+		</sentence>
+		<sentence id="26">
+			Called(1) management(2) and(3) left(4) phone(5) message(6) with(7) phone(8) numbers(9) .(10) 
+		</sentence>
+		<sentence id="27">
+			Never(1) called(2) back(3) ,(4) never(5) visited(6) .(7) 
+		</sentence>
+		<sentence id="28">
+			This(1) was(2) a(3) real(4) nightmare(5) .(6) 
+		</sentence>
+		<sentence id="29">
+			Oh(1) yes(2) ,(3) as(4) for(5) the(6) in(7) room(8) safe(9) ,(10) security(11) told(12) me(13) that(14) I(15) would(16) have(17) to(18) stay(19) in(20) the(21) room(22) during(23) the(24) day(25) so(26) a(27) locksmith(28) would(29) visit(30) ((31) I(32) think(33) they(34) forgot(35) we(36) were(37) on(38) vacation(39) )(40) .(41) 
+		</sentence>
+		<sentence id="30">
+			PS(1) :(2) Do(3) not(4) listen(5) to(6) host(7) to(8) park(9) anywhere(10) when(11) no(12) parking(13) space(14) .(15) 
+		</sentence>
+		<sentence id="31">
+			We(1) parked(2) in(3) front(4) of(5) a(6) play(7) area(8) at(9) midnight(10) .(11) at(12) 1:30(13) in(14) the(15) morning(16) ,(17) security(18) woke(19) us(20) up(21) to(22) move(23) the(24) car(25) .(26) 1:30(27) in(28) the(29) morning(30) in(31) front(32) of(33) a(34) play(35) area(36) ((37) Not(38) a(39) fire(40) zone(41) or(42) handicapped(43) area(44) that(45) was(46) marked(47) or(48) written(49) as(50) such(51) )(52) .(53) 
+		</sentence>
+		<sentence id="32">
+			All(1) in(2) all(3) ,(4) after(5) paying(6) all(7) Interval(8) Int(9) .(10) fees(11) -(12) Better(13) off(14) staying(15) at(16) Disney(17) Resorts(18) .(19) 
+		</sentence>
+	</text>
+</review>

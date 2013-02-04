@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="469" item="Holiday Inn SunSpree Resort GREAT SMOKIES-ASHEVILLE" rating="3">
+	<title>
+		<sentence id="1">
+			Okay(1) ,(2) but(3) nothing(4) special(5) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Quiet(1) ,(2) with(3) Golf(4) Course(5) onsite(6) ,(7) bar(8) ,(9) restaurant(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bathrooms(1) were(2) extremely(3) disappointing(4) ,(5) room(6) was(7) worn(8) 
+			<opinion featWords="1" feature="bathroom" opWords="4" polarity="-" potency="3"/>
+			<opinion featWords="6" feature="rooms" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			As(1) long(2) as(3) you(4) 're(5) not(6) expecting(7) a(8) "(9) resort(10) "(11) ,(12) this(13) hotel(14) is(15) acceptable(16) .(17) 
+			<opinion featWords="14" feature="hotel" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			I(1) would(2) probably(3) not(4) choose(5) to(6) stay(7) here(8) again(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) shopped(2) around(3) for(4) a(5) getaway(6) weekend(7) ((8) 3(9) nights(10) )(11) for(12) my(13) wife(14) and(15) myself(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Pricewise(1) ,(2) there(3) seemed(4) to(5) be(6) a(7) clear(8) dividing(9) line(10) between(11) the(12) low(13) end(14) chains(15) and(16) the(17) high-end(18) resorts(19) ,(20) with(21) the(22) Sunspree(23) closer(24) to(25) the(26) high-end(27) resorts(28) ,(29) but(30) without(31) all(32) of(33) the(34) amenities(35) .(36) 
+		</sentence>
+		<sentence id="3">
+			The(1) bathrooms(2) were(3) very(4) disappointing(5) ,(6) with(7) inconsistent(8) water(9) pressure(10) and(11) temperature(12) in(13) the(14) shower(15) ,(16) narrow(17) shower(18) width(19) ((20) I(21) could(22) not(23) stand(24) perpendicular(25) to(26) the(27) shower(28) wall(29) without(30) my(31) shoulders(32) touching(33) both(34) the(35) shower(36) curtain(37) and(38) the(39) wall(40) )(41) .(42) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) sink(2) was(3) also(4) old(5) and(6) cracked(7) .(8) 
+			<opinion featWords="2" feature="sinks" opWords="5" polarity="-"/>
+			<opinion featWords="2" feature="sinks" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			There(1) were(2) some(3) other(4) minor(5) disappointments(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) asked(3) for(4) a(5) room(6) with(7) a(8) view(9) ,(10) and(11) was(12) told(13) I(14) would(15) have(16) one(17) of(18) the(19) Asheville(20) skyline(21) with(22) mountains(23) in(24) the(25) background(26) .(27) 
+		</sentence>
+		<sentence id="7">
+			On(1) checking(2) in(3) ,(4) I(5) was(6) told(7) that(8) there(9) really(10) was(11) not(12) much(13) of(14) a(15) view(16) ,(17) unless(18) I(19) wanted(20) to(21) overlook(22) the(23) golf(24) course(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			I(1) selected(2) the(3) golf(4) course(5) ,(6) only(7) to(8) find(9) that(10) my(11) sliding(12) door(13) onto(14) the(15) golf(16) course(17) was(18) too(19) dirty(20) to(21) see(22) through(23) ,(24) and(25) apparently(26) never(27) was(28) cleaned(29) during(30) my(31) visit(32) .(33) 
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) a(3) breakfast(4) buffet(5) provided(6) ,(7) but(8) the(9) food(10) was(11) lukewarm(12) at(13) times(14) ,(15) and(16) had(17) apparently(18) been(19) sitting(20) out(21) for(22) some(23) time(24) .(25) 
+			<opinion featWords="10" feature="food" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			The(1) location(2) was(3) okay(4) ,(5) with(6) fairly(7) quick(8) access(9) to(10) downtown(11) ,(12) although(13) the(14) roads(15) around(16) the(17) hotel(18) were(19) confusing(20) at(21) best(22) ,(23) and(24) not(25) well(26) directed(27) .(28) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			All(1) in(2) all(3) ,(4) I(5) would(6) not(7) choose(8) to(9) stay(10) here(11) again(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			For(1) what(2) we(3) got(4) ,(5) I(6) probably(7) could(8) have(9) stayed(10) at(11) at(12) lower-end(13) hotel(14) and(15) received(16) similar(17) amenities(18) .(19) 
+		</sentence>
+	</text>
+</review>

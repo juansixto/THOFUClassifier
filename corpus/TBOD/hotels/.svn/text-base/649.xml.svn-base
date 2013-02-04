@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="649" item="Belleview Biltmore Resort &amp; Spa" rating="4">
+	<title>
+		<sentence id="1">
+			Full(1) of(2) History(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) interesting(3) ,(4) friendly(5) staff(6) ,(7) decent(8) price(9) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="6" feature="staff" opWords="5" polarity="+"/>
+			<opinion featWords="9" feature="price" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) hotel(2) is(3) about(4) a(5) five(6) minute(7) drive(8) from(9) Clearwater(10) 's(11) beaches(12) .(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) here(6) on(7) our(8) honeymoon(9) in(10) April(11) 2006(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) absolutely(2) loved(3) it(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			We(1) spend(2) hours(3) exploring(4) the(5) grounds(6) and(7) all(8) the(9) unique(10) nooks(11) that(12) exist(13) within(14) the(15) hotel(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			We(1) even(2) paid(3) to(4) take(5) a(6) tour(7) of(8) this(9) wonderful(10) location(11) .(12) 
+			<opinion featWords="11" feature="place" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			I(1) will(2) say(3) that(4) the(5) hotel(6) is(7) not(8) completely(9) up(10) to(11) date(12) ,(13) but(14) that(15) only(16) added(17) to(18) its(19) charm(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) like(3) taking(4) a(5) step(6) back(7) in(8) time(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			We(1) relaxed(2) by(3) the(4) pool(5) ,(6) which(7) was(8) very(9) clean(10) and(11) inviting(12) .(13) 
+			<opinion featWords="5" feature="swimming pool" opWords="10" polarity="+" potency="9"/>
+			<opinion featWords="5" feature="swimming pool" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) hotel(2) does(3) offer(4) modern(5) amenities(6) such(7) as(8) air(9) conditioning(10) and(11) cable(12) TV(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			We(1) ate(2) at(3) the(4) hotel(5) one(6) night(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			The(1) food(2) was(3) delicious(4) and(5) relatively(6) inexpensive(7) .(8) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion feature="price" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="11">
+			I(1) would(2) definately(3) recommend(4) for(5) people(6) to(7) stay(8) here(9) and(10) enjoy(11) the(12) hotel(13) 's(14) charm(15) .(16) 
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</text>
+</review>

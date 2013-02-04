@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="108" item="Andrew Jackson Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			Fabulous(1) location(2) .(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Bad(1) hotel(2) .(3) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Located(1) in(2) the(3) heart(4) of(5) the(6) French(7) Quarter(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) else(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Everything(1) was(2) in(3) walking(4) distance(5) ,(6) avoid(7) this(8) hotel(9) for(10) a(11) "(12) romantic(13) getaway(14) "(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) at(6) the(7) Andrew(8) Jackson(9) in(10) March(11) of(12) 2003(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			We(1) got(2) a(3) terrific(4) rate(5) but(6) I(7) would(8) never(9) stay(10) there(11) again(12) .(13) 
+			<opinion featWords="5" feature="price" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			I(1) realize(2) that(3) properties(4) in(5) the(6) Quarter(7) can(8) be(9) rather(10) old(11) and(12) creaky(13) and(14) musty(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) can(2) deal(3) with(4) that(5) ,(6) believe(7) me(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			But(1) there(2) was(3) no(4) excuse(5) for(6) the(7) shoddy(8) condition(9) of(10) the(11) rooms(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			First(1) of(2) all(3) ,(4) do(5) not(6) allow(7) the(8) pictures(9) on(10) their(11) website(12) to(13) fool(14) you(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) photos(2) show(3) the(4) suite(5) that(6) overlooks(7) Royal(8) Street(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) rest(2) of(3) the(4) hotel(5) is(6) comprised(7) of(8) VERY(9) small(10) rooms(11) .(12) 
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Ours(1) had(2) a(3) king(4) bed(5) ,(6) a(7) night(8) stand(9) ,(10) and(11) a(12) chair(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			That(1) 's(2) all(3) that(4) would(5) fit(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			The(1) closet(2) was(3) a(4) niche(5) in(6) the(7) wall(8) .(9) 
+			<opinion featWords="2" feature="closet" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			The(1) bathroom(2) was(3) so(4) small(5) that(6) you(7) had(8) to(9) step(10) into(11) the(12) room(13) to(14) dry(15) off(16) .(17) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="13">
+			The(1) shower(2) stall(3) ((4) there(5) was(6) no(7) bathtub(8) )(9) was(10) so(11) narrow(12) that(13) it(14) made(15) bending(16) down(17) almost(18) impossible(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			The(1) bathroom(2) door(3) was(4) so(5) warped(6) that(7) it(8) could(9) not(10) shut(11) at(12) all(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			The(1) housekeeping(2) was(3) very(4) casual(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			Our(1) rug(2) did(3) not(4) look(5) vacuumed(6) .(7) 
+		</sentence>
+		<sentence id="17">
+			The(1) sheets(2) were(3) threadbare(4) and(5) had(6) rips(7) .(8) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			Every(1) day(2) we(3) would(4) get(5) fresh(6) bath(7) towels(8) but(9) for(10) some(11) reason(12) we(13) AWAYS(14) had(15) to(16) ask(17) for(18) the(19) washcloths(20) and(21) the(22) face(23) towels(24) .(25) 
+		</sentence>
+		<sentence id="19">
+			The(1) condition(2) of(3) the(4) towels(5) were(6) VERY(7) poor(8) .(9) 
+			<opinion featWords="5" feature="towels" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			Most(1) had(2) holes(3) .(4) 
+		</sentence>
+		<sentence id="21">
+			One(1) was(2) ripped(3) so(4) completely(5) that(6) I(7) dumped(8) it(9) into(10) the(11) garbage(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			None(1) of(2) the(3) windows(4) in(5) the(6) room(7) could(8) open(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			They(1) were(2) painted(3) shut(4) .(5) 
+		</sentence>
+		<sentence id="24">
+			The(1) airconditioner(2) could(3) not(4) be(5) adjusted(6) in(7) your(8) room(9) because(10) there(11) was(12) once(13) central(14) unit(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			Half(1) of(2) one(3) day(4) the(5) a(6) /(7) c(8) was(9) on(10) the(11) fritz(12) and(13) we(14) could(15) not(16) open(17) a(18) window(19) .(20) 
+		</sentence>
+		<sentence id="26">
+			We(1) had(2) to(3) leave(4) the(5) door(6) to(7) the(8) room(9) open(10) just(11) to(12) breathe(13) .(14) 
+		</sentence>
+		<sentence id="27">
+			The(1) people(2) who(3) were(4) staying(5) in(6) the(7) suite(8) had(9) the(10) same(11) problem(12) with(13) no(14) a(15) /(16) c(17) and(18) the(19) painted(20) shut(21) windows(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			They(1) offer(2) a(3) "(4) continental(5) breakfast(6) "(7) .(8) 
+		</sentence>
+		<sentence id="29">
+			do(1) not(2) be(3) fooled(4) .(5) 
+		</sentence>
+		<sentence id="30">
+			Their(1) version(2) of(3) breakfast(4) is(5) a(6) coffee(7) pot(8) and(9) a(10) plate(11) of(12) stale(13) donuts(14) in(15) the(16) lobby(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			Half(1) the(2) time(3) the(4) donuts(5) had(6) not(7) been(8) delivered(9) from(10) the(11) local(12) supplier(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			Save(1) yourselves(2) and(3) head(4) on(5) out(6) to(7) Le(8) Croissant(9) D'or(10) a(11) few(12) blocks(13) away(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			I(1) love(2) New(3) Orleans(4) and(5) have(6) visited(7) many(8) times(9) but(10) I(11) am(12) still(13) on(14) the(15) look-out(16) for(17) a(18) decently(19) priced(20) hotel(21) .(22) 
+		</sentence>
+		<sentence id="34">
+			I(1) do(2) not(3) need(4) frills(5) and(6) chocolates(7) on(8) the(9) pillow(10) ,(11) but(12) basic(13) cleanliness(14) would(15) be(16) nice(17) .(18) 
+		</sentence>
+	</text>
+</review>

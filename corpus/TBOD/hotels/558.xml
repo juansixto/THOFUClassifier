@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="558" item="Four Points by Sheraton Chicago O'Hare Airport" rating="3">
+	<title>
+		<sentence id="1">
+			They(1) think(2) very(3) highly(4) of(5) themselves(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Sheraton(3) property(4) ,(5) nice(6) employees(7) 
+			<opinion featWords="7" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Layout(1) of(2) hotel(3) ,(4) price(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) nice(2) hotel(3) with(4) a(5) lot(6) of(7) nice(8) people(9) but(10) for(11) the(12) price(13) a(14) better(15) deal(16) was(17) found(18) .(19) 
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) would(3) earn(4) a(5) recommend(6) if(7) they(8) did(9) not(10) think(11) so(12) highly(13) of(14) themselves(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			The(1) rate(2) the(3) Four(4) Points(5) was(6) willing(7) to(8) negotiate(9) with(10) me(11) was(12) identical(13) to(14) the(15) rate(16) I(17) negotiated(18) at(19) the(20) Sheraton(21) Gateway(22) Suites(23) up(24) the(25) road(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			Why(1) would(2) I(3) stay(4) at(5) a(6) Four(7) Points(8) when(9) I(10) can(11) stay(12) at(13) a(14) Sheraton(15) Suites(16) for(17) the(18) same(19) price(20) ?(21) 
+		</sentence>
+		<sentence id="4">
+			The(1) people(2) were(3) very(4) nice(5) ,(6) the(7) hotel(8) is(9) old(10) and(11) laid(12) out(13) really(14) weird(15) .(16) 
+			<opinion featWords="8" feature="hotel" opWords="10" polarity="-"/>
+			<opinion featWords="8" feature="hotel" opWords="15" polarity="-" potency="14"/>
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) very(3) long(4) so(5) if(6) you(7) wanted(8) to(9) go(10) to(11) the(12) restaurant(13) or(14) bar(15) and(16) you(17) were(18) unfortunate(19) enough(20) to(21) get(22) the(23) end(24) of(25) the(26) hotel(27) you(28) had(29) a(30) long(31) walk(32) .(33) 
+		</sentence>
+		<sentence id="6">
+			The(1) rooms(2) have(3) been(4) renovated(5) but(6) is(7) still(8) somewhat(9) dated(10) and(11) small(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="10" polarity="-" potency="9"/>
+			<opinion featWords="2" feature="rooms" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			No(1) issues(2) with(3) dialing(4) into(5) a(6) network(7) from(8) this(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			The(1) connection(2) speeds(3) were(4) consistently(5) high(6) .(7) 
+		</sentence>
+	</text>
+</review>

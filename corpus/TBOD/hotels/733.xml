@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="733" item="Renaissance Dallas Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Not(1) Impressed(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) ambiance(2) ,(3) relatively(4) friendly(5) staff(6) 
+			<opinion featWords="6" feature="staff" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			This(1) hotel(2) is(3) showing(4) it(5) 's(6) age(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Service(1) was(2) pathetic(3) .(4) 
+			<opinion featWords="1" feature="service" opWords="3" polarity="+"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) at(6) this(7) hotel(8) the(9) weekend(10) before(11) Valentine(12) 's(13) Day(14) ((15) Feb(16) .(17) 12-13(18) )(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			We(1) booked(2) the(3) romance(4) package(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Although(1) the(2) hotel(3) was(4) nice(5) and(6) the(7) staff(8) were(9) relatively(10) friendly(11) we(12) were(13) not(14) impressed(15) .(16) 
+			<opinion featWords="3" feature="hotel" opWords="5" polarity="+"/>
+			<opinion featWords="8" feature="staff" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="4">
+			Breakfast(1) was(2) included(3) with(4) our(5) package(6) ,(7) yet(8) they(9) ended(10) up(11) charging(12) us(13) for(14) it(15) anyways(16) ((17) we(18) found(19) this(20) out(21) when(22) it(23) appeared(24) on(25) our(26) bank(27) statement(28) after(29) we(30) left(31) )(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) made(3) arrangements(4) that(5) evening(6) for(7) breakfast(8) to(9) be(10) delivered(11) at(12) 8:15(13) am.(14) After(15) calling(16) and(17) calling(18) we(19) did(20) not(21) receive(22) our(23) breakfast(24) until(25) almost(26) 10am(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			We(1) also(2) did(3) not(4) receive(5) our(6) complimentary(7) newspaper(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			We(1) have(2) had(3) much(4) better(5) service(6) at(7) other(8) hotels(9) in(10) the(11) DFW(12) area(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			We(1) will(2) not(3) be(4) returning(5) anytime(6) soon(7) .(8) 
+		</sentence>
+	</text>
+</review>

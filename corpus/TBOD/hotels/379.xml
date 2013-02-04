@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="379" item="Holiday Inn MINNEAPOLIS-METRODOME" rating="2">
+	<title>
+		<sentence id="1">
+			Nice(1) enough(2) chain(3) hotel(4) ,(5) but(6) the(7) service(8) left(9) much(10) to(11) desire(12) .(13) 
+			<opinion featWords="4" feature="hotel" opWords="1,2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reasonable(1) rates(2) ,(3) clean(4) rooms(5) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poorly(1) trained(2) staff(3) =(4) bad(5) customer(6) service(7) 
+			<opinion featWords="7" feature="service" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) service(2) I(3) received(4) at(5) the(6) Holiday(7) Inn-Minneapolis(8) Metrodome(9) does(10) not(11) lend(12) itself(13) to(14) a(15) high(16) recommendation(17) ,(18) especially(19) with(20) all(21) the(22) other(23) comparable(24) hotels(25) in(26) the(27) Twin(28) Cities(29) area(30) .(31) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) stayed(3) at(4) the(5) Holiday(6) Inn-Minneapolis(7) Metrodome(8) with(9) my(10) husband(11) and(12) infant(13) son(14) after(15) attending(16) a(17) friend(18) 's(19) wedding(20) reception(21) in(22) their(23) ballroom(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			Being(1) from(2) the(3) Twin(4) Cities(5) area(6) ,(7) I(8) do(9) not(10) often(11) have(12) the(13) opportunity(14) to(15) frequent(16) its(17) hotels(18) ,(19) since(20) my(21) own(22) bed(23) is(24) nearby(25) ,(26) but(27) we(28) did(29) think(30) that(31) staying(32) at(33) the(34) hotel(35) would(36) be(37) the(38) best(39) bet(40) after(41) a(42) long(43) day(44) full(45) of(46) wedding(47) pictures(48) ,(49) a(50) wedding(51) ,(52) and(53) a(54) late-night(55) reception(56) .(57) 
+		</sentence>
+		<sentence id="3">
+			Rates(1) &amp;(2) making(3) a(4) reservation(5) Reserving(6) a(7) room(8) at(9) the(10) Holiday(11) Inn-Minneapolis(12) Metrodome(13) was(14) easy(15) enough(16) ,(17) because(18) the(19) wedding(20) couple(21) had(22) already(23) blocked(24) a(25) group(26) of(27) rooms(28) for(29) that(30) date(31) .(32) 
+		</sentence>
+		<sentence id="4">
+			One(1) nice(2) thing(3) that(4) I(5) did(6) notice(7) during(8) the(9) reservation(10) process(11) was(12) that(13) the(14) hotel(15) did(16) not(17) require(18) a(19) 2(20) night(21) minimum(22) stay(23) ,(24) even(25) though(26) we(27) were(28) booking(29) for(30) a(31) weekend(32) and(33) lots(34) of(35) hotels(36) do(37) require(38) one(39) .(40) 
+		</sentence>
+		<sentence id="5">
+			I(1) made(2) my(3) reservation(4) over(5) the(6) phone(7) ,(8) and(9) it(10) only(11) took(12) about(13) 2(14) minutes(15) and(16) was(17) smooth(18) enough(19) that(20) I(21) do(22) not(23) recall(24) anything(25) worth(26) mentioning(27) .(28) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) does(3) permit(4) on-line(5) reservations(6) through(7) their(8) website(9) ,(10) as(11) well(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			Our(1) group(2) rate(3) for(4) a(5) Saturday(6) night(7) stay(8) in(9) a(10) standard(11) ,(12) 2(13) double(14) bed(15) ,(16) non-smoking(17) room(18) ,(19) was(20) $99/night(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			This(1) was(2) a(3) special(4) wedding(5) group(6) rate(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Had(1) we(2) not(3) been(4) in(5) the(6) wedding(7) group(8) ,(9) the(10) room(11) rate(12) would(13) have(14) been(15) $109.95/night(16) ,(17) which(18) is(19) still(20) a(21) great(22) price(23) in(24) the(25) Twin(26) Cities(27) area(28) on(29) a(30) weekend(31) .(32) 
+			<opinion featWords="23" feature="price" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Location(1) The(2) Holiday(3) Inn-Minneapolis(4) Metrodome(5) is(6) in(7) a(8) good(9) location(10) for(11) business(12) and(13) leisure(14) travelers(15) alike(16) .(17) 
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) located(3) right(4) on(5) the(6) outskirts(7) of(8) downtown(9) Minneapolis(10) ,(11) just(12) blocks(13) away(14) from(15) the(16) University(17) of(18) Minnesota(19) and(20) the(21) Metrodome(22) ,(23) home(24) to(25) the(26) Vikings(27) and(28) Twins(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			There(1) is(2) easy(3) access(4) from(5) major(6) freeways(7) ,(8) and(9) it(10) only(11) takes(12) about(13) 10(14) minutes(15) to(16) get(17) to(18) and(19) from(20) the(21) airport(22) to(23) the(24) hotel(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			A(1) big(2) plus(3) is(4) that(5) once(6) you(7) exit(8) the(9) freeway(10) to(11) downtown(12) ,(13) you(14) do(15) not(16) have(17) to(18) navigate(19) downtown(20) Minneapolis(21) streets(22) for(23) more(24) than(25) a(26) couple(27) of(28) blocks(29) before(30) getting(31) to(32) the(33) hotel(34) .(35) 
+		</sentence>
+		<sentence id="14">
+			The(1) parking(2) ramp(3) is(4) located(5) right(6) next(7) to(8) the(9) hotel(10) ,(11) and(12) it(13) costs(14) $10.50/night(15) if(16) you(17) add(18) the(19) fee(20) to(21) your(22) room(23) bill(24) .(25) 
+		</sentence>
+		<sentence id="15">
+			The(1) Holiday(2) Inn-Minneapolis(3) Metrodome(4) is(5) located(6) nearby(7) to(8) countless(9) restaurants(10) and(11) bars(12) and(13) within(14) walking(15) distance(16) to(17) the(18) Minneapolis(19) theatre(20) district(21) ,(22) a(23) Wells(24) Fargo(25) bank(26) ,(27) a(28) major(29) hospital(30) ,(31) and(32) many(33) Minneapolis-based(34) corporations(35) ((36) for(37) business(38) travelers(39) )(40) .(41) 
+		</sentence>
+		<sentence id="16">
+			Inside(1) the(2) hotel(3) The(4) Holiday(5) Inn-Minneapolis(6) Metrodome(7) has(8) over(9) 260(10) rooms(11) ,(12) including(13) several(14) suites(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			We(1) heard(2) from(3) the(4) wedding(5) couple(6) that(7) the(8) bridal(9) suite(10) was(11) gorgeous(12) and(13) they(14) loved(15) the(16) in-room(17) Jacuzzi(18) .(19) 
+			<opinion featWords="10" feature="rooms" opWords="12" polarity="+"/>
+			<opinion featWords="18" feature="jacuzzi" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			There(1) is(2) a(3) restaurant(4) and(5) bar(6) on(7) the(8) main(9) floor(10) ,(11) and(12) although(13) we(14) did(15) not(16) get(17) to(18) visit(19) them(20) ,(21) we(22) did(23) try(24) the(25) food(26) at(27) the(28) wedding(29) reception(30) and(31) were(32) most(33) impressed(34) .(35) 
+		</sentence>
+		<sentence id="19">
+			They(1) served(2) delicious(3) chicken(4) kievs(5) with(6) steamed(7) vegetables(8) and(9) sweet(10) potatoes(11) ,(12) and(13) I(14) would(15) love(16) to(17) try(18) the(19) restaurant(20) menu(21) based(22) upon(23) those(24) delicious(25) samples(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			The(1) hotel(2) has(3) a(4) well-equipped(5) exercise(6) room(7) ,(8) and(9) although(10) it(11) 's(12) not(13) huge(14) ,(15) it(16) is(17) adequate(18) and(19) has(20) something(21) for(22) everyone(23) .(24) 
+			<opinion featWords="6,7" feature="gym" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			I(1) saw(2) stair(3) climbers(4) ,(5) ellipticals(6) ,(7) bikes(8) ,(9) treadmills(10) ,(11) and(12) an(13) array(14) of(15) free(16) weights(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			The(1) pool(2) is(3) on(4) an(5) upper(6) floor(7) ,(8) and(9) it(10) is(11) an(12) amazing(13) view(14) .(15) 
+			<opinion featWords="14" feature="view" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			If(1) my(2) son(3) had(4) been(5) old(6) enough(7) to(8) swim(9) ,(10) we(11) would(12) have(13) spent(14) quality(15) time(16) up(17) there(18) ,(19) because(20) it(21) was(22) just(23) such(24) a(25) unique(26) experience(27) to(28) be(29) in(30) a(31) pool(32) area(33) overlooking(34) the(35) city(36) .(37) 
+		</sentence>
+		<sentence id="24">
+			Check-in(1) Checking(2) in(3) at(4) the(5) hotel(6) was(7) fairly(8) smooth(9) .(10) 
+		</sentence>
+		<sentence id="25">
+			There(1) were(2) a(3) couple(4) of(5) service(6) issues(7) ,(8) however(9) .(10) 
+		</sentence>
+		<sentence id="26">
+			I(1) was(2) checking(3) in(4) without(5) my(6) husband(7) ,(8) as(9) he(10) was(11) a(12) part(13) of(14) the(15) wedding(16) party(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			Therefore(1) ,(2) I(3) parked(4) the(5) car(6) and(7) was(8) toting(9) my(10) infant(11) son(12) ,(13) a(14) pack(15) n(16) '(17) play(18) ((19) I(20) do(21) not(22) trust(23) rentals(24) )(25) ,(26) our(27) suitcase(28) ,(29) and(30) my(31) dress(32) clothes(33) all(34) by(35) myself(36) .(37) 
+		</sentence>
+		<sentence id="28">
+			Luckily(1) some(2) other(3) nice(4) guests(5) opened(6) the(7) door(8) for(9) me(10) at(11) the(12) parking(13) ramp(14) ,(15) because(16) there(17) were(18) no(19) employees(20) there(21) .(22) 
+		</sentence>
+		<sentence id="29">
+			When(1) I(2) reached(3) the(4) front(5) desk(6) I(7) was(8) greeted(9) promptly(10) and(11) the(12) staff(13) was(14) friendly(15) enough(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			They(1) located(2) my(3) reservation(4) ,(5) and(6) I(7) inquired(8) as(9) to(10) whether(11) or(12) not(13) I(14) could(15) get(16) a(17) room(18) as(19) close(20) to(21) the(22) elevator(23) as(24) possible(25) being(26) that(27) I(28) had(29) so(30) much(31) to(32) carry(33) down(34) the(35) hall(36) on(37) my(38) own(39) .(40) 
+		</sentence>
+		<sentence id="31">
+			The(1) desk(2) clerk(3) responded(4) positively(5) and(6) I(7) was(8) set(9) up(10) on(11) the(12) 6th(13) floor(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			I(1) took(2) the(3) elevator(4) up(5) ,(6) and(7) ,(8) much(9) to(10) my(11) surprise(12) ,(13) my(14) room(15) was(16) located(17) almost(18) at(19) the(20) end(21) of(22) the(23) hall(24) from(25) the(26) elevator(27) !(28) 
+		</sentence>
+		<sentence id="33">
+			Did(1) he(2) misunderstand(3) me(4) ?(5) 
+		</sentence>
+		<sentence id="34">
+			I(1) did(2) not(3) want(4) to(5) go(6) back(7) down(8) ,(9) so(10) I(11) lugged(12) my(13) son(14) and(15) everything(16) else(17) down(18) the(19) hall(20) to(21) the(22) room(23) .(24) 
+		</sentence>
+		<sentence id="35">
+			Our(1) room(2) I(3) have(4) absolutely(5) no(6) complaints(7) about(8) our(9) room(10) .(11) 
+		</sentence>
+		<sentence id="36">
+			It(1) was(2) a(3) standard(4) ,(5) 2(6) double(7) bed(8) room(9) and(10) it(11) was(12) very(13) pleasant(14) .(15) 
+			<opinion featWords="9" feature="rooms" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="37">
+			It(1) would(2) have(3) been(4) nice(5) if(6) they(7) had(8) turned(9) the(10) thermostat(11) down(12) prior(13) to(14) my(15) arriving(16) ,(17) because(18) it(19) was(20) about(21) 90(22) degrees(23) in(24) the(25) room(26) ,(27) but(28) I(29) can(30) understand(31) electric(32) bills(33) .(34) 
+		</sentence>
+		<sentence id="38">
+			The(1) decor(2) in(3) the(4) room(5) was(6) not(7) anything(8) special(9) ,(10) but(11) the(12) bedding(13) ,(14) chairs(15) ,(16) curtains(17) ,(18) and(19) carpet(20) were(21) in(22) tasteful(23) neutral(24) colors(25) and(26) were(27) clean(28) .(29) 
+			<opinion featWords="2" feature="decoration" opWords="7,9" polarity="-"/>
+			<opinion featWords="20" feature="carpets" opWords="23" polarity="+"/>
+			<opinion featWords="20" feature="carpets" opWords="28" polarity="+"/>
+		</sentence>
+		<sentence id="39">
+			The(1) room(2) was(3) pretty(4) spacious(5) ,(6) and(7) after(8) setting(9) up(10) the(11) pack(12) n(13) '(14) play(15) ,(16) we(17) still(18) had(19) plenty(20) of(21) room(22) for(23) our(24) luggage(25) and(26) to(27) move(28) around(29) .(30) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="40">
+			The(1) room(2) amenities(3) included(4) an(5) iron(6) and(7) ironing(8) board(9) ,(10) free(11) internet(12) access(13) ,(14) an(15) older-looking(16) television(17) with(18) cable(19) ,(20) and(21) a(22) coffeemaker(23) .(24) 
+			<opinion featWords="12" feature="internet" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="41">
+			The(1) bathroom(2) was(3) immediately(4) to(5) the(6) left(7) when(8) I(9) entered(10) the(11) room(12) ,(13) and(14) was(15) very(16) clean(17) as(18) well(19) .(20) 
+			<opinion featWords="2" feature="bathroom" opWords="17" polarity="+" potency="16"/>
+		</sentence>
+		<sentence id="42">
+			It(1) was(2) nice(3) that(4) it(5) was(6) around(7) the(8) corner(9) from(10) the(11) bedroom(12) area(13) ,(14) so(15) when(16) we(17) turned(18) on(19) the(20) light(21) at(22) night(23) ,(24) the(25) bedroom(26) area(27) remained(28) mostly(29) dark(30) .(31) 
+			<opinion featWords="27" feature="place" opWords="30" polarity="-" potency="29"/>
+		</sentence>
+		<sentence id="43">
+			The(1) vanity(2) was(3) large(4) ,(5) and(6) they(7) provided(8) the(9) standard(10) soap(11) and(12) shampoo(13) /(14) conditioner(15) samples(16) .(17) 
+		</sentence>
+		<sentence id="44">
+			There(1) was(2) a(3) sign(4) offering(5) to(6) provide(7) toothpaste(8) ,(9) toothbrush(10) ,(11) razors(12) ,(13) and(14) other(15) basic(16) toiletries(17) if(18) you(19) had(20) forgotten(21) anything(22) .(23) 
+		</sentence>
+		<sentence id="45">
+			I(1) never(2) did(3) get(4) to(5) try(6) the(7) shower(8) ,(9) so(10) I(11) can(12) not(13) comment(14) on(15) the(16) water(17) pressure(18) ,(19) but(20) did(21) hear(22) from(23) other(24) wedding(25) guests(26) that(27) it(28) was(29) adequate(30) .(31) 
+		</sentence>
+		<sentence id="46">
+			Service(1) -(2) where(3) it(4) all(5) went(6) wrong(7) Although(8) the(9) placement(10) of(11) my(12) room(13) after(14) specifically(15) requesting(16) one(17) near(18) an(19) elevator(20) was(21) an(22) annoyance(23) ,(24) it(25) was(26) nothing(27) compared(28) to(29) what(30) occurred(31) later(32) on(33) in(34) the(35) night(36) .(37) 
+		</sentence>
+		<sentence id="47">
+			We(1) retired(2) to(3) our(4) room(5) around(6) 1:00(7) am(8) ((9) our(10) son(11) had(12) long(13) been(14) sleeping(15) )(16) .(17) 
+		</sentence>
+		<sentence id="48">
+			Around(1) 2:30(2) am(3) ,(4) I(5) heard(6) this(7) awful(8) siren(9) sound(10) and(11) assumed(12) that(13) it(14) was(15) coming(16) from(17) the(18) city(19) streets(20) ,(21) but(22) it(23) never(24) became(25) fainter(26) .(27) 
+		</sentence>
+		<sentence id="49">
+			I(1) groggily(2) got(3) out(4) of(5) bed(6) ,(7) went(8) to(9) the(10) door(11) ,(12) and(13) realized(14) it(15) was(16) the(17) fire(18) alarm(19) .(20) 
+		</sentence>
+		<sentence id="50">
+			Panicked(1) because(2) we(3) had(4) the(5) baby(6) in(7) the(8) room(9) ,(10) I(11) woke(12) my(13) husband(14) and(15) I(16) dialed(17) the(18) front(19) desk(20) .(21) 
+		</sentence>
+		<sentence id="51">
+			The(1) phone(2) was(3) answered(4) with(5) :(6) "(7) are(8) you(9) calling(10) because(11) of(12) an(13) alarm(14) going(15) off(16) that(17) we(18) can(19) not(20) get(21) to(22) because(23) the(24) phone(25) keeps(26) ringing(27) "(28) Rude(29) !(30) 
+		</sentence>
+		<sentence id="52">
+			Not(1) wanting(2) to(3) take(4) chances(5) ,(6) we(7) put(8) our(9) son(10) in(11) his(12) carseat(13) and(14) started(15) down(16) the(17) stairs(18) with(19) a(20) few(21) other(22) guests(23) .(24) 
+		</sentence>
+		<sentence id="53">
+			We(1) stood(2) outside(3) for(4) about(5) 20(6) minutes(7) and(8) watched(9) as(10) the(11) hotel(12) staff(13) madly(14) ran(15) around(16) the(17) lobby(18) .(19) 
+		</sentence>
+		<sentence id="54">
+			From(1) other(2) guests(3) ,(4) we(5) learned(6) that(7) the(8) alarm(9) was(10) only(11) going(12) off(13) on(14) the(15) 7th(16) floor(17) and(18) on(19) down(20) ,(21) which(22) explains(23) why(24) we(25) did(26) not(27) see(28) many(29) other(30) wedding(31) guests(32) outside(33) .(34) 
+		</sentence>
+		<sentence id="55">
+			After(1) about(2) half(3) an(4) hour(5) ,(6) the(7) alarm(8) shut(9) off(10) and(11) a(12) security(13) guard(14) let(15) us(16) back(17) up(18) the(19) stairwell(20) .(21) 
+		</sentence>
+		<sentence id="56">
+			On(1) the(2) 3rd(3) floor(4) ,(5) we(6) heard(7) it(8) start(9) back(10) up(11) again(12) .(13) 
+		</sentence>
+		<sentence id="57">
+			Fed(1) up(2) ,(3) my(4) husband(5) ran(6) back(7) up(8) to(9) our(10) room(11) ,(12) packed(13) up(14) our(15) belongings(16) ,(17) and(18) we(19) drove(20) home(21) at(22) a(23) little(24) after(25) 3:00(26) am.(27) Not(28) once(29) did(30) any(31) hotel(32) staff(33) come(34) outside(35) to(36) tell(37) us(38) what(39) was(40) going(41) on(42) ,(43) to(44) apologize(45) ,(46) or(47) anything(48) !(49) 
+		</sentence>
+		<sentence id="58">
+			The(1) fire(2) department(3) never(4) showed(5) up(6) ,(7) either(8) ,(9) which(10) is(11) not(12) the(13) hotel(14) staff(15) 's(16) fault(17) ,(18) but(19) should(20) not(21) they(22) be(23) called(24) if(25) the(26) alarm(27) does(28) not(29) trigger(30) their(31) system(32) ?(33) 
+		</sentence>
+		<sentence id="59">
+			In(1) addition(2) ,(3) we(4) were(5) charged(6) for(7) a(8) full(9) night(10) 's(11) stay(12) .(13) 
+		</sentence>
+		<sentence id="60">
+			I(1) 've(2) spoken(3) with(4) management(5) and(6) was(7) forwarded(8) to(9) file(10) a(11) complaint(12) with(13) the(14) Holiday(15) Inn(16) corporate(17) office(18) ,(19) upon(20) which(21) I(22) 'm(23) still(24) awaiting(25) a(26) resolution(27) and(28) it(29) does(30) not(31) look(32) promising(33) .(34) 
+		</sentence>
+		<sentence id="61">
+			I(1) 'll(2) update(3) if(4) I(5) ever(6) hear(7) back(8) again(9) .(10) 
+		</sentence>
+		<sentence id="62">
+			I(1) have(2) worked(3) in(4) the(5) hotel(6) industry(7) and(8) have(9) never(10) seen(11) such(12) poor(13) training(14) .(15) 
+		</sentence>
+		<sentence id="63">
+			The(1) hotel(2) staff(3) seemed(4) to(5) not(6) have(7) a(8) clue(9) how(10) to(11) turn(12) off(13) the(14) alarm(15) ,(16) who(17) to(18) call(19) ,(20) or(21) how(22) to(23) keep(24) guests(25) informed(26) .(27) 
+		</sentence>
+	</text>
+</review>

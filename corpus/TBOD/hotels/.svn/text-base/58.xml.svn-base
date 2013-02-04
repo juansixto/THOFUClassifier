@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="58" item="Kawada Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			single(1) girls(2) do(3) not(4) stay(5) there(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			relatively(1) a(2) little(3) ((4) just(5) a(6) little(7) )(8) cheaper(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			unsafe(1) area(2) .(3) small(4) rooms(5) ,(6) stuffy(7) .(8) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			it(1) is(2) a(3) reasonably(4) priced(5) hotel(6) in(7) downtown(8) LA(9) but(10) any(11) single(12) girls(13) should(14) NOT(15) stay(16) there(17) !(18) not(19) to(20) say(21) the(22) rooms(23) are(24) exceptionally(25) small(26) with(27) only(28) twin(29) size(30) beds(31) .(32) you(33) can(34) hardly(35) walk(36) in(37) the(38) room(39) .(40) there(41) are(42) no(43) shops(44) or(45) decent(46) restaurants(47) in(48) the(49) next(50) 5(51) blocks(52) .(53) it(54) is(55) not(56) a(57) safe(58) area(59) and(60) you(61) will(62) not(63) want(64) to(65) leave(66) the(67) hotel(68) after(69) 7(70) pm.(71) there(72) 're(73) only(74) drug(75) dealers(76) ,(77) beggars(78) around(79) !(80) stay(81) there(82) only(83) if(84) you(85) intend(86) take(87) taxi(88) to(89) commute(90) .(91) the(92) only(93) restaurant(94) downstair(95) closed(96) at(97) 9pm(98) and(99) do(100) not(101) expect(102) to(103) get(104) food(105) around(106) the(107) area(108) .(109) 
+			<opinion feature="price" opWords="4,5" polarity="+"/>
+			<opinion featWords="23" feature="rooms" opWords="26" polarity="-" potency="25"/>
+			<opinion featWords="59" feature="place" opWords="56,58" polarity="-"/>
+		</sentence>
+	</text>
+</review>

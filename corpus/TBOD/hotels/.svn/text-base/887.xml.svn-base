@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="887" item="The Hay Adams Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) but(2) check-in(3) was(4) a(5) bit(6) off(7) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) and(2) beautiful(3) rooms(4) plus(5) free(6) wifi(7) 
+			<opinion featWords="4" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) gym(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) checked(2) in(3) at(4) 2:45(5) pm(6) and(7) were(8) told(9) by(10) the(11) reception(12) that(13) our(14) room(15) was(16) ready(17) but(18) needed(19) to(20) be(21) "(22) inspected(23) "(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			We(1) are(2) asked(3) if(4) we(5) wanted(6) tea(7) while(8) we(9) wait(10) .(11) 30(12) minutes(13) later(14) there(15) was(16) no(17) tea(18) and(19) no(20) room(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			Exasperated(1) ,(2) I(3) told(4) them(5) to(6) give(7) us(8) whatever(9) room(10) was(11) inspected(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			Waiting(1) in(2) the(3) lobby(4) was(5) ok(6) but(7) we(8) were(9) tired(10) and(11) wanted(12) to(13) be(14) in(15) our(16) room(17) .(18) 
+			<opinion featWords="4" feature="lobby" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Well(1) ,(2) we(3) finally(4) checked(5) into(6) our(7) beautiful(8) if(9) a(10) bit(11) small(12) room(13) facing(14) St(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			John(1) 's(2) church(3) .(4) 
+		</sentence>
+		<sentence id="7">
+			The(1) king(2) bed(3) was(4) fabulous(5) with(6) a(7) big(8) down(9) comforter(10) and(11) down(12) pillows(13) .(14) 
+			<opinion featWords="3" feature="bed" opWords="5" polarity="+"/>
+			<opinion featWords="10" feature="bedding" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) bathroom(2) was(3) small(4) but(5) luxurious(6) .(7) 
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="+"/>
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			The(1) room(2) was(3) elegantly(4) furnished(5) with(6) antique(7) reproductions(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) TV(2) was(3) not(4) plasma(5) .(6) 
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) no(3) health(4) club(5) .(6) 
+		</sentence>
+		<sentence id="12">
+			You(1) are(2) allowed(3) to(4) use(5) a(6) nearby(7) gym(8) but(9) I(10) did(11) not(12) bother(13) to(14) use(15) it(16) ,(17) The(18) downstairs(19) restaurant(20) serves(21) a(22) great(23) breakfast(24) and(25) lunch(26) overlooking(27) Lafayette(28) Park(29) .(30) 
+			<opinion featWords="24" feature="food" opWords="23" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) Amex(2) Platinum(3) gives(4) you(5) a(6) free(7) continental(8) breakfast(9) for(10) two(11) ,(12) a(13) two(14) course(15) lunch(16) on(17) one(18) day(19) and(20) guaranteed(21) 4(22) :(23) pm(24) check-out(25) .(26) 
+			<opinion featWords="9" feature="food" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			Also(1) a(2) room(3) upgrade(4) if(5) available(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			There(1) was(2) free(3) wifi(4) everywhere(5) including(6) in(7) the(8) rooms(9) .(10) 
+		</sentence>
+	</text>
+</review>

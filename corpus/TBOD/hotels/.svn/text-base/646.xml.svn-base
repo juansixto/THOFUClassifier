@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="646" item="Siena Hotel Spa And Casino" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Resort(2) at(3) Split(4) Rock(5) -(6) great(7) place(8) to(9) bring(10) the(11) family(12) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lots(1) of(2) recreation(3) to(4) enjoy(5) ,(6) bowling(7) ,(8) movies(9) ,(10) golf(11) and(12) more(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Our(1) visit(2) was(3) to(4) short(5) to(6) enjoy(7) all(8) the(9) resort(10) had(11) to(12) offer(13) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Recently(1) stayed(2) at(3) the(4) Resort(5) for(6) a(7) company(8) meeting(9) in(10) October(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			My(1) room(2) was(3) wonderful(4) slope(5) side(6) suite(7) with(8) a(9) queen(10) bed(11) and(12) separate(13) living(14) room(15) area(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			Nice(1) but(2) small(3) kitchen(4) area(5) .(6) 
+			<opinion featWords="4" feature="kitchen" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="kitchen" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Great(1) if(2) you(3) like(4) to(5) travel(6) with(7) water(8) ,(9) juice(10) or(11) snacks(12) for(13) kids(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) staff(2) was(3) wonderful(4) and(5) friendly(6) .(7) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			We(1) had(2) a(3) team(4) building(5) event(6) one(7) of(8) the(9) days(10) and(11) the(12) staff(13) helped(14) with(15) the(16) set(17) up(18) and(19) keeping(20) it(21) a(22) secret(23) from(24) all(25) of(26) us(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			The(1) resort(2) even(3) did(4) a(5) private(6) pig(7) roast(8) by(9) the(10) lake(11) for(12) us(13) one(14) night(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			They(1) had(2) an(3) entire(4) theme(5) dinner(6) for(7) us(8) and(9) the(10) food(11) was(12) terrific(13) .(14) 
+		</sentence>
+	</text>
+</review>

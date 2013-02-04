@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="957" item="Grand Lido Negril Resort &amp; Spa, by SuperClubs" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Fall(2) of(3) Grand(4) Lido(5) Negril(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Service(1) ,(2) Drinks(3) ,(4) Water(5) Sports(6) ,(7) Breakfast(8) ,(9) Beach(10) ,(11) Location(12) ,(13) Lobby(14) ,(15) Landscape(16) ,(17) Pot(18) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Management(1) ,(2) rooms(3) need(4) to(5) be(6) updated(7) ,(8) lunch(9) ,(10) dinner(11) is(12) repetitive(13) ,(14) entertainment(15) ,(16) swimming(17) pool(18) ,(19) expense(20) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) was(2) once(3) a(4) palace(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			I(1) would(2) like(3) to(4) see(5) changes(6) to(7) restore(8) it(9) to(10) what(11) it(12) once(13) was(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) 's(2) still(3) o(4) .(5) k(6) but(7) it(8) could(9) be(10) the(11) bomb(12) diggy(13) !(14) !(15) !(16) !(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) place(2) has(3) changed(4) from(5) what(6) it(7) once(8) was(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) feel(2) sorry(3) for(4) Superclubs(5) flagship(6) property(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			The(1) swimming(2) pool(3) is(4) a(5) disgrace(6) .(7) 
+			<opinion featWords="2,3" feature="swimming pool" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) food(2) which(3) was(4) once(5) magnificent(6) has(7) become(8) at(9) best(10) mediocre(11) ,(12) and(13) the(14) management(15) seems(16) to(17) believe(18) that(19) there(20) lunch(21) should(22) come(23) before(24) the(25) guests(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			They(1) would(2) benefit(3) from(4) taking(5) a(6) customer(7) service(8) 101(9) course(10) at(11) a(12) low-ranked(13) junior(14) college(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) feel(2) bad(3) for(4) the(5) employees(6) because(7) they(8) truly(9) salvaged(10) the(11) past(12) trip(13) for(14) my(15) wife(16) and(17) I(18) yet(19) they(20) seem(21) to(22) be(23) mistreated(24) by(25) the(26) management(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			The(1) management(2) needs(3) to(4) re-focus(5) there(6) attention(7) on(8) the(9) guests(10) and(11) on(12) updating(13) the(14) rooms(15) and(16) swimming(17) pool(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Management(1) needs(2) to(3) stop(4) micro-managing(5) their(6) employees(7) whom(8) are(9) doing(10) a(11) fantastic(12) job(13) .(14) 
+		</sentence>
+	</text>
+</review>

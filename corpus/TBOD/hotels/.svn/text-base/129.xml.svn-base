@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="129" item="Westgate Lakes Resort" rating="2">
+	<title>
+		<sentence id="1">
+			Just(1) not(2) up(3) to(4) par(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Large(1) ,(2) well-located(3) all-inclusive(4) resort(5) 
+			<opinion featWords="5" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			High-pressure(1) sales(2) ,(3) NO(4) INTERNET(5) ACCESS(6) !(7) 
+		</sentence>
+		<sentence id="2">
+			Poor(1) property(2) maintenance(3) !(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) not(3) go(4) there(5) again(6) .(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) family(2) has(3) a(4) timeshare(5) through(6) Interval(7) and(8) we(9) occasionally(10) trade(11) in(12) our(13) weeks(14) to(15) travel(16) around(17) the(18) country(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			This(1) time(2) we(3) chose(4) Westgate(5) Lakes(6) Resort(7) in(8) Orlando(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) located(3) right(4) off(5) I(6) -(7) 4(8) close(9) to(10) all(11) the(12) major(13) attractions(14) and(15) International(16) Drive(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			That(1) great(2) location(3) has(4) a(5) downside(6) ;(7) for(8) all(9) rooms(10) /(11) suites(12) on(13) the(14) road(15) side(16) of(17) the(18) resort(19) ,(20) traffic(21) noise(22) is(23) quite(24) considerable(25) .(26) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			On(1) the(2) side(3) by(4) the(5) pools(6) ,(7) noise(8) from(9) children(10) and(11) unruly(12) teenagers(13) is(14) also(15) a(16) problem(17) ,(18) even(19) very(20) late(21) into(22) the(23) night(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			Because(1) this(2) resort(3) is(4) part(5) of(6) a(7) timeshare(8) system(9) ,(10) guests(11) are(12) often(13) subjected(14) to(15) a(16) hard(17) sell(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			Guests(1) who(2) think(3) they(4) are(5) staying(6) at(7) a(8) regular(9) hotel(10) are(11) in(12) for(13) a(14) rude(15) awakening(16) as(17) the(18) timeshare(19) pitch(20) is(21) strong(22) and(23) there(24) seems(25) to(26) be(27) a(28) bait-and-switch(29) thing(30) going(31) on(32) .(33) 
+		</sentence>
+		<sentence id="8">
+			As(1) timeshare(2) owners(3) ,(4) we(5) were(6) spared(7) that(8) ,(9) but(10) witnessed(11) some(12) pretty(13) intense(14) and(15) borderline(16) unethical(17) selling(18) going(19) on(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) quite(3) off-putting(4) ,(5) especially(6) on(7) vacation(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			See(1) this(2) epinion(3) review(4) for(5) a(6) fuller(7) sense(8) of(9) the(10) horrors(11) that(12) we(13) saw(14) parts(15) of(16) -(17) http://www.epinions.com/content(18) 102852234884(19) The(20) resort(21) itself(22) is(23) huge(24) with(25) lots(26) of(27) amenities(28) ,(29) including(30) a(31) small(32) market(33) ,(34) restaurants(35) ,(36) even(37) its(38) own(39) Pizza(40) Hut(41) with(42) delivery(43) service(44) .(45) 
+		</sentence>
+		<sentence id="11">
+			All(1) of(2) these(3) are(4) overpriced(5) .(6) 
+			<opinion feature="price" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			The(1) staff(2) is(3) only(4) minimally(5) courteous(6) ,(7) and(8) helpful(9) only(10) when(11) a(12) tip(13) seems(14) forthcoming(15) .(16) 
+			<opinion featWords="2" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) golf(2) carts(3) that(4) are(5) everywhere(6) in(7) this(8) resort(9) are(10) a(11) major(12) safety(13) hazard(14) and(15) the(16) parking(17) lot(18) is(19) like(20) a(21) demolition(22) derby(23) with(24) cars(25) and(26) carts(27) zooming(28) by(29) .(30) 
+		</sentence>
+		<sentence id="14">
+			The(1) accommodations(2) are(3) mostly(4) one(5) and(6) two(7) bedrooms(8) suites(9) with(10) a(11) living(12) room(13) ,(14) dining(15) area(16) ,(17) balcony(18) and(19) full(20) kitchen(21) with(22) dinnerware(23) ,(24) flatware(25) and(26) kitchenware(27) for(28) six(29) included(30) .(31) 
+		</sentence>
+		<sentence id="15">
+			We(1) were(2) lucky(3) no(4) one(5) was(6) in(7) the(8) suite(9) next(10) door(11) because(12) the(13) walls(14) are(15) paper(16) thin(17) and(18) you(19) can(20) hear(21) everything(22) next(23) door(24) ,(25) down(26) the(27) hall(28) ,(29) in(30) the(31) hall(32) ,(33) etc.(34) .(35) 
+		</sentence>
+		<sentence id="16">
+			In(1) our(2) suite(3) ,(4) we(5) had(6) a(7) reasonably(8) sized(9) bedroom(10) off(11) the(12) kitchen(13) area(14) with(15) two(16) double(17) beds(18) and(19) its(20) own(21) rather(22) ordinary(23) bathroom(24) ,(25) The(26) master(27) bedroom(28) was(29) off(30) the(31) living(32) room(33) with(34) a(35) king(36) bed(37) and(38) a(39) bathroom(40) that(41) was(42) not(43) really(44) its(45) own(46) room(47) but(48) was(49) an(50) area(51) off(52) the(53) main(54) bedroom(55) area(56) .(57) 
+		</sentence>
+		<sentence id="17">
+			The(1) jacuzzi(2) bathtub(3) ,(4) surrounded(5) by(6) Roman(7) columns(8) ((9) !(10) )(11) ,(12) was(13) about(14) five(15) feet(16) from(17) the(18) bed(19) and(20) the(21) glassed-in(22) shower(23) behind(24) it(25) .(26) 
+		</sentence>
+		<sentence id="18">
+			It(1) made(2) for(3) a(4) very(5) exposed(6) feeling(7) with(8) bathing(9) !(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) toilet(2) was(3) in(4) a(5) small(6) closet-sized(7) room(8) opposite(9) the(10) shower(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			The(1) rooms(2) are(3) okay(4) ,(5) but(6) the(7) style(8) seems(9) a(10) throwback(11) to(12) the(13) 1980(14) 's(15) .(16) with(17) bachelor(18) pad(19) style(20) leather(21) sectionals(22) ,(23) 80(24) 's(25) pastel(26) florals(27) and(28) tons(29) of(30) laminate(31) in(32) the(33) kitchen(34) and(35) bath(36) .(37) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			The(1) beds(2) are(3) wall(4) mounted(5) platform(6) beds(7) with(8) attached(9) nightstands(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			These(1) rooms(2) were(3) probably(4) the(5) height(6) of(7) sophisticated(8) cool(9) 25(10) years(11) ago(12) ,(13) but(14) do(15) not(16) cut(17) it(18) anymore(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			The(1) rooms(2) are(3) basically(4) nice(5) but(6) also(7) show(8) serious(9) wear(10) and(11) tear(12) and(13) deferred(14) maintenance(15) -(16) the(17) carpeting(18) was(19) especially(20) shabby(21) and(22) worn(23) .(24) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="18" feature="carpets" opWords="21" polarity="-" potency="20"/>
+			<opinion featWords="18" feature="carpets" opWords="23" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			The(1) fixtures(2) and(3) electronics(4) seem(5) sadly(6) dated(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			And(1) it(2) all(3) seemed(4) a(5) little(6) bit(7) dirty(8) .(9) 
+			<opinion feature="hotel" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			The(1) condition(2) of(3) the(4) property(5) is(6) probably(7) the(8) biggest(9) deterrent(10) to(11) making(12) a(13) timeshare(14) investment(15) here(16) -(17) it(18) seems(19) like(20) a(21) place(22) that(23) can(24) not(25) maintain(26) its(27) property(28) properly(29) .(30) 
+		</sentence>
+		<sentence id="27">
+			While(1) Westgate(2) is(3) not(4) expensive(5) ,(6) it(7) does(8) not(9) compare(10) with(11) the(12) newer(13) resorts(14) in(15) and(16) around(17) Orlando(18) .(19) 
+			<opinion feature="price" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			For(1) me(2) ,(3) the(4) biggest(5) downside(6) is(7) the(8) lack(9) of(10) Internet(11) access(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			There(1) is(2) none(3) in(4) the(5) rooms(6) .(7) 
+		</sentence>
+		<sentence id="30">
+			They(1) say(2) they(3) have(4) dial-up(5) access(6) ,(7) but(8) since(9) you(10) have(11) to(12) go(13) through(14) a(15) switchboard(16) to(17) dial(18) out(19) ,(20) that(21) is(22) not(23) easily(24) done(25) and(26) there(27) is(28) a(29) charge(30) -(31) and(32) who(33) uses(34) dial-up(35) anymore(36) anyways(37) ?(38) !(39) 
+		</sentence>
+		<sentence id="31">
+			There(1) is(2) Internet(3) access(4) in(5) the(6) Business(7) Center(8) -(9) a(10) cramped(11) space(12) with(13) four(14) over-the-hill(15) Dells(16) and(17) one(18) laser(19) printer(20) .(21) 
+		</sentence>
+		<sentence id="32">
+			It(1) was(2) often(3) filled(4) with(5) a(6) combination(7) of(8) teenagers(9) checking(10) out(11) their(12) email(13) and(14) playing(15) games(16) and(17) serious(18) business(19) people(20) trying(21) to(22) get(23) work(24) done(25) .(26) 
+		</sentence>
+		<sentence id="33">
+			At(1) 20(2) cents(3) a(4) minute(5) and(6) 60(7) cents(8) for(9) each(10) printed(11) page(12) ,(13) it(14) is(15) an(16) inconvenient(17) ,(18) uncomfortable(19) rip-off(20) .(21) 
+		</sentence>
+		<sentence id="34">
+			I(1) can(2) scarcely(3) think(4) of(5) a(6) resort(7) or(8) hotel(9) I(10) 've(11) stayed(12) in(13) the(14) past(15) few(16) years(17) that(18) does(19) not(20) have(21) Internet(22) access(23) in(24) the(25) room(26) ,(27) often(28) free(29) .(30) 
+		</sentence>
+		<sentence id="35">
+			The(1) somewhat(2) run-down(3) quality(4) of(5) the(6) resort(7) is(8) somewhat(9) depressing(10) .(11) 
+		</sentence>
+		<sentence id="36">
+			The(1) size(2) and(3) condition(4) of(5) the(6) property(7) has(8) a(9) feel(10) reminiscent(11) of(12) a(13) public(14) housing(15) project(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			Add(1) the(2) lack(3) of(4) Internet(5) access(6) an(7) it(8) means(9) I(10) will(11) not(12) be(13) back(14) to(15) Westgate(16) Lakes(17) as(18) a(19) timeshare(20) trade(21) ,(22) and(23) given(24) the(25) high-pressure(26) sales(27) pitch(28) ,(29) I(30) would(31) never(32) come(33) here(34) as(35) a(36) guest(37) !(38) 
+		</sentence>
+	</text>
+</review>

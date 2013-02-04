@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+	<Item name="room">
+			<feature name="rooms" featWords="condo,condos,hotel,master-suite,room,rooms,suite,suites"/>
+			<feature name="air conditioning units" featWords="ac,air,air conditioner,air conditioner unit,air conditioners,air conditioning,air conditioning unit,air conditioning units,air-conditioning,air-conditioning unit,climate control,climate control unit,unit"/>
+			<feature name="appliances" featWords="appliances"/>
+			<feature name="bathroom" featWords="bath room,bathroom,bathrooms,toilet,toilets,washroom"/>
+			<feature name="bathrobes" featWords="bathrobes"/>
+			<feature name="jacuzzi" featWords="jacuzzi"/>
+			<feature name="sinks" featWords="sink,sinks"/>
+			<feature name="stoppers" featWords="stopper"/>
+			<feature name="toiletries" featWords="toiletries,toiletry products"/>
+			<feature name="towels" featWords="bathtowels,towel,towels"/>
+			<feature name="tub" featWords="bath,baths,bathtub,tub,tubs"/>
+			<feature name="bed" featWords="bed,beds,mattress"/>
+			<feature name="bedding" featWords="bed cover,bed coverings,bed linens,bed spread,bed spreads,bedding,bedsheets,bedspread,bedspreads,blanket,blankets,comforter,comforters,cover,duvet,duvets,linen,linens,pillow,pillowcases,pillows,sheets,spreads"/>
+			<feature name="bedroom" featWords="bedroom,bedrooms"/>
+			<feature name="carpets" featWords="carpet,carpeting,carpets,rugs"/>
+			<feature name="chairs" featWords="chair,chairs"/>
+			<feature name="cleanliness" featWords="cleanliness"/>
+			<feature name="closet" featWords="closet,closets"/>
+			<feature name="cushions" featWords="cushions"/>
+			<feature name="drawers" featWords="drawer,drawers"/>
+			<feature name="furnishings" featWords="furnishings,furniture"/>
+			<feature name="heaters" featWords="heat,heater,heating,heating system,radiator"/>
+			<feature name="kitchen" featWords="kitchen"/>
+			<feature name="phone calls" featWords="telephone"/>
+			<feature name="sofa" featWords="couch,couches,sofa,sofa bed"/>
+			<feature name="tables" featWords="table,tables"/>
+			<feature name="tv" featWords="television,tv"/>
+			<feature name="walls" featWords="wall,wallpaper,walls"/>
+	</Item>
+	<Item name="service">
+			<feature name="service" featWords="service,services"/>
+			<feature name="amenities" featWords="amenities"/>
+			<feature name="drinks" featWords="beverages,booze,drink,drinks"/>
+			<feature name="food" featWords="bar,bars,breakfast,breakfasts,brunch,buffet,buffets,cuisine,dining,dinner,dinners,food,foods,lunch,meal,meals,restaurant,restaurants"/>
+			<feature name="internet" featWords="internet,wi-fi"/>
+			<feature name="room service" featWords="housekeeping,maid,maids,room service"/>
+	</Item>
+	<Item name="staff">
+			<feature name="staff" featWords="employee,employees,personnel,staff"/>
+			<feature name="cleaning staff" featWords="cleaning,maintenance"/>
+			<feature name="front desk" featWords="clerk,clerks,desk,desk manager,front desk,management,manager,reception,receptionist"/>
+	</Item>
+	<Item name="facilities">
+			<feature name="facilities" featWords="facilities,facility"/>
+			<feature name="beach" featWords="beach,beaches,sand"/>
+			<feature name="casino" featWords="casino,casinos"/>
+			<feature name="elevator" featWords="elevator,elevators,lifts"/>
+			<feature name="gardens" featWords="garden,gardens"/>
+			<feature name="gym" featWords="athletic club,exercise area,exercise facility,exercise room,exersize room,fitness area,fitness center,fitness facility,fitness room,gym,health club,health facilities,hotel,weight room,workout area,workout center,workout facility,workout room"/>
+			<feature name="meeting room" featWords="meeting rooms"/>
+			<feature name="ocean" featWords="ocean"/>
+			<feature name="parking" featWords="parking,parking lot,parking lots"/>
+			<feature name="sauna" featWords="sauna"/>
+			<feature name="spa" featWords="spa,spas"/>
+			<feature name="swimming pool" featWords="pool,pool area,pools,poolside area,swimming pool,swimming pools,whirlpool"/>
+	</Item>
+</taxonomy>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="542" item="Richmond - Days Inn W Broad" rating="2">
+	<title>
+		<sentence id="1">
+			Okay(1) ....(2) but(3) no(4) cigar(5) .(6) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) .(2) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Smells(1) old(2) and(3) tired(4) .(5) 
+			<opinion feature="hotel" opWords="2" polarity="-"/>
+			<opinion feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) did(2) not(3) get(4) our(5) non-smoking(6) room(7) as(8) reserved(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Not(1) just(2) our(3) room(4) but(5) the(6) whole(7) floor(8) smelled(9) like(10) a(11) wet(12) dog(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			Had(1) to(2) change(3) rooms(4) immediately(5) because(6) the(7) faucet(8) in(9) the(10) sink(11) was(12) broken(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) desperately(2) needs(3) an(4) update(5) and(6) remodel(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			Serves(1) a(2) hot(3) breakfast(4) :(5) precooked(6) microwave(7) omelet(8) ,(9) sausage(10) patties(11) ,(12) toast(13) ,(14) muffins(15) ,(16) cereals(17) ,(18) fruit(19) -(20) not(21) just(22) Fruit(23) Loops(24) and(25) a(26) prepackaged(27) danish(28) .(29) 
+		</sentence>
+		<sentence id="6">
+			The(1) Internet(2) center(3) was(4) down(5) the(6) whole(7) week(8) we(9) were(10) there(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			The(1) excuse(2) was(3) "(4) a(5) virus(6) .(7) "(8) Very(9) friendly(10) staff(11) .(12) 
+			<opinion featWords="11" feature="staff" opWords="10" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="8">
+			Convenient(1) to(2) I-64(3) ;(4) going(5) away(6) from(7) Richmond(8) ,(9) there(10) are(11) a(12) number(13) of(14) the(15) usual(16) chain(17) restaurants(18) like(19) Outback(20) ,(21) Famous(22) Dave(23) 's(24) ,(25) Olive(26) Garden(27) ,(28) etc.(29) 
+		</sentence>
+	</text>
+</review>

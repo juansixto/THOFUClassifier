@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="294" item="Owyhee Plaza Hotel" rating="2">
+	<title>
+		<sentence id="1">
+			owyhee(1) plaza(2) experience(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			NICE(1) disabled(2) access(3) room(4) !(5) 
+			<opinion featWords="4" feature="rooms" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			AWESOME(1) dinner(2) catering(3) service(4) !(5) 
+			<opinion featWords="4" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Check(1) out(2) not(3) until(4) noon(5) !(6) group(7) discount(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			elevators(1) ,(2) no(3) gym(4) ,(5) reservation(6) problems(7) ,(8) no(9) coffemaker(10) /(11) microwave(12) in(13) hospitality(14) suite(15) ,(16) key(17) problems(18) ,(19) parking(20) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			below(1) average(2) because(3) :(4) no(5) gym(6) ,(7) inadequate(8) parking(9) ,(10) reservation(11) problems(12) ,(13) elevators(14) ,(15) no(16) map(17) of(18) hotel(19) provided(20) ,(21) key(22) problems(23) ,(24) little(25) selection(26) at(27) continental(28) breakfast(29) .(30) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+			<opinion featWords="9" feature="parking" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Excellent(1) Catering(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			GREAT(1) wheelchair(2) accessible(3) room(4) !(5) 
+			<opinion featWords="4" feature="rooms" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) hubby(2) and(3) I(4) stayed(5) there(6) this(7) weekend(8) for(9) a(10) Convention(11) of(12) the(13) National(14) Federation(15) of(16) the(17) Blind(18) of(19) Idaho(20) ((21) NFBI(22) )(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			First(1) of(2) all(3) ,(4) we(5) had(6) problems(7) when(8) we(9) called(10) to(11) reserve(12) our(13) room(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			My(1) hubby(2) is(3) physically(4) disabled(5) ,(6) so(7) we(8) needed(9) a(10) disabled(11) access(12) room(13) ,(14) which(15) the(16) NFBI(17) president(18) had(19) reserved(20) for(21) us(22) as(23) part(24) of(25) the(26) block(27) of(28) rooms(29) .(30) well(31) ,(32) we(33) called(34) to(35) reserve(36) it(37) ,(38) and(39) they(40) showed(41) that(42) all(43) the(44) disabled(45) rooms(46) were(47) booked(48) ,(49) and(50) not(51) under(52) any(53) of(54) the(55) names(56) that(57) we(58) told(59) them(60) they(61) might(62) be(63) under(64) .(65) 
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) to(3) call(4) the(5) NFBI(6) president(7) and(8) have(9) her(10) call(11) them(12) to(13) get(14) it(15) straightened(16) out(17) -(18) and(19) she(20) had(21) reserved(22) it(23) under(24) our(25) name(26) !(27) !(28) 
+		</sentence>
+		<sentence id="5">
+			I(1) heard(2) that(3) several(4) others(5) from(6) our(7) group(8) also(9) had(10) problems(11) making(12) reservations(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) keys(3) are(4) those(5) electronic(6) swipe(7) ones(8) ---(9) several(10) of(11) our(12) group(13) had(14) problems(15) with(16) theirs(17) working(18) and(19) had(20) to(21) get(22) them(23) reformatted(24) .(25) also(26) ,(27) they(28) spent(29) 10(30) minutes(31) trying(32) to(33) find(34) which(35) key(36) went(37) to(38) the(39) hospitality(40) suite(41) ((42) which(43) was(44) a(45) '(46) regular(47) '(48) key(49) )(50) .(51) 
+		</sentence>
+		<sentence id="7">
+			The(1) hotel(2) set(3) -(4) up(5) is(6) rather(7) confusing(8) --(9) they(10) really(11) need(12) to(13) provide(14) a(15) map(16) of(17) the(18) hotel(19) ,(20) and(21) differentiate(22) between(23) the(24) two(25) elevators(26) ((27) they(28) go(29) to(30) different(31) parts(32) of(33) the(34) hotel(35) )(36) ,(37) and(38) make(39) this(40) differentation(41) accessible(42) to(43) blind(44) people(45) -(46) like(47) have(48) a(49) sign(50) by(51) the(52) elevator(53) ((54) and(55) one(56) in(57) braille(58) ,(59) of(60) course(61) !(62) !(63) )(64) saying(65) which(66) floor(67) each(68) elevator(69) goes(70) to(71) .(72) 
+		</sentence>
+		<sentence id="8">
+			One(1) of(2) the(3) blind(4) people(5) we(6) share(7) a(8) room(9) with(10) ((11) and(12) our(13) room(14) was(15) on(16) the(17) 3rd(18) floor(19) ,(20) right(21) by(22) the(23) elevator(24) !(25) !(26) !(27) )(28) got(29) lost(30) in(31) the(32) hotel(33) because(34) one(35) of(36) the(37) times(38) he(39) tried(40) to(41) get(42) up(43) to(44) our(45) room(46) ,(47) he(48) got(49) on(50) the(51) wrong(52) elevator(53) ((54) not(55) knowing(56) there(57) are(58) two(59) )(60) !(61) !(62) !(63) !(64) !(65) 
+			<opinion featWords="53" feature="elevator" opWords="52" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			The(1) elevators(2) acted(3) crazy(4) ((5) went(6) to(7) the(8) wrong(9) floor(10) ,(11) bounced(12) ,(13) ect(14) )(15) ,(16) were(17) SLOW(18) ((19) for(20) those(21) that(22) could(23) walk(24) ,(25) it(26) was(27) faster(28) to(29) walk(30) up(31) a(32) flight(33) of(34) the(35) stairs(36) !(37) !(38) !(39) )(40) ,(41) and(42) seemed(43) really(44) old(45) .(46) 
+			<opinion featWords="2" feature="elevator" opWords="3,4" polarity="-"/>
+			<opinion featWords="2" feature="elevator" opWords="18" polarity="-"/>
+			<opinion featWords="2" feature="elevator" opWords="45" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			I(1) heard(2) that(3) there(4) was(5) a(6) swimming(7) pool(8) ,(9) but(10) it(11) was(12) closed(13) .(14) 
+			<opinion featWords="7,8" feature="swimming pool" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			I(1) never(2) did(3) figure(4) out(5) WHERE(6) it(7) was(8) !(9) !(10) 
+		</sentence>
+		<sentence id="12">
+			As(1) far(2) as(3) I(4) know(5) ,(6) there(7) was(8) no(9) gym(10) --(11) if(12) there(13) was(14) ,(15) I(16) never(17) saw(18) it(19) or(20) heard(21) anyone(22) talking(23) about(24) one(25) .(26) there(27) again(28) ,(29) they(30) need(31) a(32) map(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			The(1) parking(2) lot(3) was(4) way(5) too(6) small(7) ,(8) and(9) the(10) only(11) other(12) parking(13) is(14) across(15) a(16) busy(17) street(18) ((19) where(20) there(21) 's(22) no(23) light(24) at(25) the(26) intersection(27) )(28) .(29) 
+			<opinion featWords="2,3" feature="parking" opWords="6,7" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="14">
+			Try(1) making(2) that(3) walk(4) with(5) luggage(6) ,(7) kids(8) ,(9) and(10) /(11) or(12) blind(13) people(14) or(15) people(16) in(17) wheelchairs(18) ((19) there(20) 's(21) only(22) 2(23) disabled(24) parking(25) spots(26) in(27) the(28) hotel(29) parking(30) lot(31) ,(32) and(33) believe(34) you(35) me(36) ,(37) they(38) get(39) full(40) fast(41) !(42) !(43) )(44) !(45) !(46) 
+		</sentence>
+		<sentence id="15">
+			They(1) needed(2) more(3) luggage(4) carts(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			If(1) I(2) ever(3) saw(4) any(5) in(6) the(7) lobby(8) ,(9) there(10) was(11) only(12) one(13) there(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			The(1) first(2) night(3) ,(4) we(5) asked(6) for(7) a(8) roll-away(9) when(10) we(11) checked(12) in(13) .(14) 
+		</sentence>
+		<sentence id="18">
+			Someone(1) took(2) it(3) up(4) to(5) our(6) room(7) ,(8) and(9) left(10) it(11) outside(12) ((13) we(14) were(15) not(16) in(17) the(18) room(19) )(20) .(21) well(22) ,(23) right(24) as(25) my(26) hubby(27) was(28) getting(29) off(30) the(31) elevator(32) to(33) go(34) to(35) our(36) room(37) ,(38) someone(39) came(40) and(41) took(42) it(43) ((44) and(45) I(46) think(47) he(48) said(49) he(50) thought(51) it(52) was(53) an(54) employee(55) )(56) .(57) lets(58) just(59) say(60) ,(61) when(62) i(63) called(64) and(65) asked(66) for(67) one(68) later(69) ,(70) I(71) made(72) sure(73) i(74) was(75) in(76) the(77) room(78) to(79) recieve(80) it(81) --(82) the(83) two(84) housekeepers(85) who(86) brought(87) it(88) up(89) were(90) very(91) nice(92) .(93) 
+		</sentence>
+		<sentence id="19">
+			Whoever(1) did(2) the(3) cleaning(4) did(5) not(6) clean(7) the(8) hospitality(9) suite(10) the(11) first(12) full(13) day(14) we(15) were(16) there(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			Also(1) ,(2) our(3) group(4) paid(5) extra(6) to(7) have(8) the(9) continental(10) breakfast(11) provided(12) before(13) our(14) meetings(15) sunday(16) morning(17) --(18) all(19) there(20) was(21) was(22) a(23) tray(24) of(25) dougnuts(26) and(27) croissants(28) ,(29) a(30) tray(31) of(32) mini(33) -(34) muffins(35) ,(36) a(37) coffee(38) jug(39) full(40) of(41) hot(42) water(43) ((44) to(45) mix(46) your(47) own(48) hot(49) chocolate(50) or(51) cider(52) )(53) ,(54) milk(55) ,(56) and(57) some(58) juice(59) .(60) 
+		</sentence>
+		<sentence id="21">
+			Coffee(1) cups(2) were(3) one(4) each(5) of(6) the(7) tables(8) ,(9) and(10) coffee(11) was(12) provided(13) for(14) those(15) who(16) drink(17) it(18) ,(19) but(20) ,(21) if(22) I(23) remember(24) right(25) ,(26) it(27) was(28) not(29) brought(30) out(31) until(32) everyone(33) had(34) sat(35) down(36) and(37) started(38) eating(39) ((40) but(41) I(42) may(43) be(44) wrong(45) on(46) that(47) --(48) I(49) was(50) kept(51) pretty(52) busy(53) getting(54) things(55) for(56) people(57) that(58) morning(59) )(60) I(61) din't(62) notice(63) wether(64) it(65) was(66) a(67) fridge(68) or(69) a(70) mini(71) -(72) bar(73) in(74) our(75) room(76) ,(77) but(78) I(79) would(80) have(81) been(82) VERY(83) disappointed(84) if(85) it(86) was(87) a(88) mini(89) -(90) bar(91) .(92) 
+		</sentence>
+		<sentence id="22">
+			My(1) hubby(2) and(3) I(4) do(5) not(6) drink(7) ,(8) but(9) we(10) do(11) eat(12) stuff(13) that(14) needs(15) to(16) be(17) refrigerated(18) ,(19) and(20) when(21) we(22) travel(23) and(24) need(25) to(26) stay(27) at(28) a(29) hotel(30) ,(31) ESPECIALLY(32) a(33) pricey(34) one(35) ,(36) we(37) would(38) expect(39) that(40) a(41) refrigerator(42) would(43) be(44) provided(45) !(46) !(47) !(48) 
+			<opinion feature="price" opWords="34" polarity="-"/>
+		</sentence>
+	</text>
+</review>

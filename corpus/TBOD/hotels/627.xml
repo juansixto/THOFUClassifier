@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="627" item="The Wyndham Orlando Resort On Int'l Driv" rating="3">
+	<title>
+		<sentence id="1">
+			Good(1) Hotel(2) ,(3) Excellent(4) Location(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Value(3) ,(4) Parking(5) ,(6) Nice(7) Pools(8) ,(9) Tropical(10) Setting(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noisy(1) AC(2) ,(3) No(4) Free(5) Wi-Fi(6) ,(7) No(8) Fridge(9) ,(10) No(11) Bathroom(12) Vent(13) /(14) Fan(15) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) booked(2) through(3) Priceline(4) and(5) paid(6) $49/nt(7) for(8) this(9) hotel(10) during(11) my(12) recent(13) visit(14) during(15) the(16) Labor(17) Day(18) weekend(19) 2005(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) arrived(2) early(3) morning(4) from(5) Seattle(6) to(7) Orlando(8) and(9) was(10) pretty(11) tired(12) from(13) the(14) Red(15) Eye(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			I(1) called(2) the(3) hotel(4) and(5) asked(6) if(7) I(8) could(9) check(10) in(11) early(12) and(13) they(14) accomodated(15) my(16) request(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			When(1) I(2) arrived(3) ,(4) the(5) check-in(6) was(7) fast(8) and(9) easy(10) and(11) the(12) staff(13) friendly(14) .(15) 
+			<opinion featWords="13" feature="staff" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) are(3) typical(4) ,(5) 2(6) full(7) beds(8) ,(9) Armoire(10) ,(11) desk(12) ,(13) etc.(14) Nothing(15) to(16) write(17) home(18) about(19) .(20) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			I(1) read(2) many(3) reviews(4) before(5) arriving(6) and(7) a(8) lot(9) of(10) people(11) complained(12) about(13) bugs(14) ,(15) odor(16) ,(17) stains(18) ,(19) and(20) mildew(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			So(1) I(2) was(3) expecting(4) the(5) worse(6) ,(7) but(8) to(9) my(10) surprise(11) ,(12) my(13) room(14) was(15) clean(16) ,(17) bugless(18) ,(19) and(20) odorless(21) .(22) 
+			<opinion featWords="14" feature="rooms" opWords="16" polarity="+"/>
+			<opinion featWords="14" feature="rooms" opWords="18" polarity="+"/>
+			<opinion featWords="14" feature="rooms" opWords="21" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Maybe(1) I(2) was(3) one(4) of(5) the(6) lucky(7) ones(8) ,(9) but(10) hey(11) ,(12) no(13) complaints(14) for(15) $49(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) 
+		</sentence>
+	</text>
+</review>

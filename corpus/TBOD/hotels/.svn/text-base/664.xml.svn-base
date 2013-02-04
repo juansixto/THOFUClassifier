@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="664" item="Shoreham Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) experience(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) location(2) ,(3) clean(4) comfortable(5) room(6) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="6" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="6" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) table(2) to(3) sit(4) with(5) computer(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Hotel(1) has(2) perfect(3) location(4) .(5) 
+			<opinion featWords="4" feature="place" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Priceline(1) is(2) the(3) way(4) to(5) go(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			I(1) paid(2) probably(3) 40(4) %(5) less(6) then(7) regular(8) price(9) ,(10) so(11) that(12) was(13) a(14) great(15) value(16) for(17) the(18) money(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Room(1) was(2) small(3) ,(4) but(5) clean(6) and(7) comfortable(8) with(9) modern(10) design(11) ,(12) flat(13) plasma(14) TV(15) ((16) but(17) only(18) regular(19) channels(20) and(21) one(22) HBO(23) channel(24) )(25) ,(26) and(27) Bose(28) radio(29) .(30) 
+			<opinion featWords="1" feature="rooms" opWords="3" polarity="-"/>
+			<opinion featWords="1" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="1" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			They(1) did(2) great(3) renovation(4) in(5) 2005(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Everything(1) looks(2) new(3) and(4) contemporary(5) .(6) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Bed(1) was(2) very(3) comfortable(4) ((5) not(6) too(7) soft(8) ,(9) not(10) too(11) hard(12) )(13) .(14) 
+			<opinion featWords="1" feature="bed" opWords="4" polarity="+" potency="3"/>
+			<opinion featWords="1" feature="bed" opWords="6,7,8" polarity="+"/>
+			<opinion featWords="1" feature="bed" opWords="10,11,12" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Staff(1) was(2) friendly(3) .(4) 
+			<opinion featWords="1" feature="staff" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			The(1) whole(2) building(3) has(4) wireless(5) connection(6) to(7) internet(8) ,(9) so(10) I(11) could(12) do(13) even(14) some(15) work(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Also(1) they(2) have(3) complementary(4) cappuccino(5) and(6) espresso(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) as(3) good(4) as(5) in(6) Italy(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			We(1) did(2) 'nt(3) eat(4) in(5) the(6) hotel(7) ,(8) but(9) found(10) many(11) good(12) places(13) within(14) one(15) block(16) from(17) it(18) .(19) 
+			<opinion featWords="13" feature="place" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) only(2) issue(3) we(4) had(5) was(6) with(7) blinds(8) fallen(9) down(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			It(1) took(2) two(3) calls(4) to(5) have(6) it(7) fixed(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			Other(1) then(2) that(3) we(4) had(5) very(6) positive(7) experience(8) .(9) 
+		</sentence>
+	</text>
+</review>

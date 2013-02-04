@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="301" item="Best Western Greenbrier Inn" rating="1">
+	<title>
+		<sentence id="1">
+			Old(1) Motel(2) and(3) Rude(4) Employees(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) poorly(2) managed(3) property(4) .(5) 
+			<opinion feature="front desk" opWords="2,3" polarity="-" potency="1"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) is(2) one(3) of(4) the(5) oldest(6) motels(7) in(8) the(9) area(10) .(11) 
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			All(1) rooms(2) open(3) to(4) the(5) outside(6) ,(7) and(8) because(9) it(10) is(11) close(12) to(13) the(14) main(15) parkway(16) ,(17) the(18) noise(19) level(20) in(21) rooms(22) is(23) very(24) high(25) ,(26) all(27) night(28) long(29) .(30) 
+		</sentence>
+		<sentence id="3">
+			Housekeeping(1) begins(2) banging(3) on(4) room(5) doors(6) at(7) 7(8) a.m.(9) ,(10) even(11) when(12) a(13) Do(14) Not(15) Disturb(16) sign(17) is(18) posted(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Desk(1) clerks(2) are(3) very(4) rude(5) and(6) uncaring(7) .(8) 
+			<opinion featWords="2" feature="front desk" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="front desk" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			Large(1) tour(2) bus(3) groups(4) crowd(5) the(6) breakfast(7) room(8) and(9) use(10) it(11) as(12) a(13) lounge(14) ,(15) making(16) it(17) impossible(18) for(19) families(20) or(21) anyone(22) else(23) to(24) eat(25) breakfast(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			Parking(1) lot(2) is(3) full(4) of(5) tour(6) buses(7) ,(8) forcing(9) people(10) with(11) cars(12) to(13) park(14) in(15) a(16) nearby(17) shopping(18) center(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			They(1) advertise(2) WiFi(3) internet(4) service(5) ,(6) but(7) that(8) is(9) not(10) true(11) ,(12) as(13) there(14) is(15) no(16) wireless(17) hi-speed(18) internet(19) service(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Air(1) conditioning(2) units(3) are(4) old(5) and(6) very(7) noisy(8) .(9) 
+			<opinion featWords="1,2,3" feature="air conditioning units" opWords="5" polarity="-"/>
+			<opinion featWords="1,2,3" feature="air conditioning units" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+	</text>
+</review>

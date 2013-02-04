@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="385" item="Chesterfield Hotel - South Beach" rating="4">
+	<title>
+		<sentence id="1">
+			The(1) Chesterfield(2) Hotel(3) ,(4) South(5) Beach(6) ,(7) Miami(8) .....(9) Congo(10) on(11) Collins(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun(1) ,(2) hip(3) ambience(4) ,(5) free(6) drinks(7) in(8) the(9) lobby(10) ,(11) terrific(12) beds(13) and(14) rain(15) bath(16) shower(17) 
+			<opinion featWords="7" feature="drinks" opWords="6" polarity="+"/>
+			<opinion featWords="13" feature="bed" opWords="12" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) rooms(2) ,(3) thin(4) walls(5) ,(6) breakfast(7) is(8) not(9) what(10) it(11) could(12) be(13) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="walls" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Chesterfield(2) Hotel(3) is(4) not(5) for(6) everyone(7) ,(8) but(9) for(10) the(11) young(12) and(13) trendy(14) instead(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			It(1) manages(2) to(3) pack(4) a(5) lot(6) of(7) value(8) in(9) for(10) the(11) money(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			South(1) Beach(2) is(3) full(4) of(5) surprises(6) ,(7) and(8) sometimes(9) they(10) are(11) not(12) always(13) good(14) ones(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) happy(3) to(4) report(5) that(6) the(7) Chesterfield(8) Hotel(9) was(10) an(11) agreeable(12) exception(13) to(14) the(15) somewhat(16) arrogant(17) norm(18) here(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Visiting(1) the(2) hotel(3) in(4) October(5) helped(6) as(7) well(8) ,(9) with(10) rates(11) and(12) crowding(13) considerably(14) less(15) than(16) the(17) usual(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			The(1) Building(2) Smack(3) in(4) the(5) middle(6) of(7) the(8) Art(9) Deco(10) district(11) ,(12) the(13) vintage(14) Deco(15) ((16) 1938(17) )(18) Chesterfield(19) plays(20) its(21) part(22) well(23) ,(24) with(25) a(26) crisp(27) white(28) facade(29) and(30) lavender(31) accents(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			The(1) three(2) storied(3) building(4) is(5) typical(6) for(7) the(8) area(9) ,(10) having(11) degenerated(12) to(13) the(14) level(15) of(16) a(17) flophouse(18) before(19) its(20) revival(21) a(22) few(23) years(24) ago(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			Like(1) most(2) places(3) in(4) the(5) Deco(6) District(7) ,(8) it(9) has(10) its(11) share(12) of(13) quirks(14) ,(15) but(16) unlike(17) most(18) of(19) them(20) ,(21) it(22) manages(23) to(24) deliver(25) on(26) several(27) ((28) if(29) not(30) all(31) )(32) fronts(33) .(34) 
+		</sentence>
+		<sentence id="7">
+			There(1) are(2) only(3) fifty(4) rooms(5) here(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Lobby(1) If(2) the(3) lobby(4) has(5) the(6) ambience(7) of(8) a(9) nightspot(10) ,(11) that(12) 's(13) because(14) it(15) is(16) one(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) Safari(2) Bar(3) takes(4) precedence(5) over(6) the(7) usual(8) accoutrements(9) of(10) a(11) hotel(12) lobby(13) ,(14) with(15) an(16) eclectic(17) collection(18) of(19) African(20) masks(21) and(22) statuary(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			The(1) rampant(2) African(3) figure(4) in(5) one(6) corner(7) could(8) be(9) said(10) ((11) to(12) borrow(13) from(14) Mae(15) West(16) )(17) to(18) be(19) very(20) happy(21) to(22) see(23) the(24) guests(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			Modish(1) white(2) leather(3) couches(4) and(5) Lucite(6) chairs(7) complete(8) the(9) picture(10) ,(11) and(12) the(13) plasma(14) screen(15) television(16) is(17) permanently(18) affixed(19) to(20) the(21) Fashion(22) Channel(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			This(1) is(2) Modeling(3) Central(4) ,(5) so(6) do(7) not(8) be(9) surprised(10) to(11) find(12) haughty(13) ,(14) beautiful(15) people(16) glaring(17) at(18) you(19) from(20) behind(21) their(22) $700.00(23) shades(24) .(25) 
+		</sentence>
+		<sentence id="13">
+			Alex(1) at(2) the(3) front(4) desk(5) had(6) tried(7) to(8) assign(9) a(10) nice(11) room(12) for(13) us(14) ,(15) but(16) the(17) guests(18) there(19) did(20) not(21) want(22) to(23) leave(24) ((25) I(26) can(27) not(28) really(29) blame(30) them(31) )(32) .(33) 
+			<opinion featWords="12" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			He(1) did(2) the(3) best(4) he(5) could(6) with(7) a(8) room(9) assignment(10) and(11) we(12) were(13) not(14) unhappy(15) with(16) his(17) selection(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			Room(1) The(2) elevator(3) was(4) padded(5) in(6) gray(7) upholstery(8) ,(9) making(10) it(11) look(12) as(13) though(14) the(15) whole(16) thing(17) had(18) been(19) transported(20) from(21) a(22) mental(23) institution(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			It(1) was(2) also(3) so(4) sluggish(5) that(6) the(7) elevator(8) itself(9) just(10) might(11) have(12) been(13) on(14) Thorazine(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			Landing(1) at(2) the(3) second(4) floor(5) ,(6) we(7) noted(8) the(9) deep(10) orange(11) hallways(12) with(13) moody(14) lighting(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			Yes(1) ,(2) the(3) hallways(4) are(5) dark(6) ,(7) but(8) try(9) to(10) think(11) of(12) the(13) lighting(14) as(15) atmospheric(16) and(17) you(18) 'll(19) be(20) getting(21) into(22) the(23) proper(24) vibe(25) here(26) .(27) 
+			<opinion featWords="4" feature="lobby" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			The(1) room(2) ((3) 204(4) )(5) was(6) as(7) small(8) a(9) hotel(10) room(11) as(12) I(13) 've(14) ever(15) had(16) ,(17) possibly(18) smaller(19) .(20) 
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			Still(1) ,(2) for(3) all(4) of(5) its(6) diminutive(7) size(8) ,(9) the(10) room(11) was(12) outfitted(13) with(14) a(15) clever(16) eye(17) for(18) whimsy(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			While(1) the(2) king(3) sized(4) bed(5) might(6) not(7) quite(8) be(9) "(10) the(11) best(12) bed(13) in(14) Miami(15) "(16) ,(17) as(18) the(19) hotel(20) claims(21) ,(22) it(23) was(24) incredibly(25) comfortable(26) .(27) 
+			<opinion featWords="13" feature="bed" opWords="12" polarity="+"/>
+			<opinion featWords="13" feature="bed" opWords="26" polarity="+" potency="25"/>
+		</sentence>
+		<sentence id="22">
+			The(1) Frette(2) linens(3) were(4) a(5) welcome(6) surprise(7) as(8) well(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			Smothering(1) ,(2) fluffy(3) pillows(4) and(5) a(6) good(7) looking(8) head(9) board(10) of(11) mahogany(12) blocks(13) completed(14) the(15) picture(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			Speaking(1) of(2) pictures(3) ,(4) there(5) were(6) none(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			The(1) decor(2) was(3) mostly(4) achieved(5) through(6) the(7) clever(8) deployment(9) of(10) lighting(11) tricks(12) and(13) interesting(14) touches(15) like(16) the(17) aluminum(18) trestle(19) table(20) topped(21) with(22) glass(23) which(24) was(25) the(26) closest(27) thing(28) to(29) a(30) desk(31) in(32) the(33) room(34) .(35) 
+		</sentence>
+		<sentence id="26">
+			The(1) light(2) over(3) the(4) bed(5) was(6) draped(7) in(8) white(9) fabric(10) ,(11) a(12) la(13) Philippe(14) Starck(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			The(1) mini-bar(2) was(3) out(4) for(5) all(6) to(7) see(8) ,(9) complete(10) with(11) an(12) "(13) intimacy(14) kit(15) "(16) containing(17) condoms(18) ,(19) KY(20) jelly(21) and(22) breath(23) mints(24) .(25) 
+		</sentence>
+		<sentence id="28">
+			Ahem(1) ....(2) Closet(3) space(4) ?(5) 
+		</sentence>
+		<sentence id="29">
+			Not(1) too(2) much(3) ,(4) and(5) only(6) three(7) hangers(8) .(9) 
+		</sentence>
+		<sentence id="30">
+			For(1) a(2) place(3) which(4) caters(5) to(6) the(7) fashion(8) trade(9) ,(10) I(11) thought(12) this(13) a(14) bit(15) strange(16) .(17) 
+		</sentence>
+		<sentence id="31">
+			There(1) was(2) also(3) no(4) view(5) to(6) speak(7) of(8) ,(9) but(10) that(11) did(12) not(13) matter(14) too(15) much(16) to(17) us(18) anyway(19) .(20) 
+		</sentence>
+		<sentence id="32">
+			In(1) response(2) to(3) those(4) who(5) have(6) cried(7) out(8) about(9) the(10) thin(11) walls(12) here(13) ,(14) let(15) 's(16) just(17) say(18) that(19) this(20) feature(21) has(22) great(23) entertainment(24) value(25) .(26) 
+		</sentence>
+		<sentence id="33">
+			After(1) I(2) drifted(3) off(4) to(5) sleep(6) ,(7) the(8) Doc(9) was(10) endlessly(11) amused(12) by(13) the(14) antics(15) of(16) our(17) neighbors(18) .(19) 
+		</sentence>
+		<sentence id="34">
+			Apparently(1) ,(2) they(3) could(4) not(5) quite(6) persuade(7) the(8) poor(9) room(10) service(11) waiter(12) to(13) join(14) them(15) .(16) 
+			<opinion featWords="10,11" feature="room service" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="35">
+			...(1) "(2) I(3) 'll(4) just(5) place(6) this(7) tray(8) here(9) .(10) OUTSIDE(11) your(12) door(13) .(14) "(15) The(16) rooms(17) service(18) menu(19) ,(20) by(21) the(22) way(23) ,(24) appeared(25) to(26) be(27) entirely(28) alcoholic(29) ,(30) with(31) no(32) food(33) in(34) evidence(35) .(36) 
+		</sentence>
+		<sentence id="36">
+			Bath(1) One(2) of(3) the(4) best(5) features(6) of(7) this(8) room(9) was(10) the(11) concrete(12) bathroom(13) with(14) white(15) veined(16) marble(17) and(18) mirrors(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			The(1) rain(2) bath(3) shower(4) flowed(5) from(6) the(7) ceiling(8) like(9) Hurricane(10) Frances(11) .(12) 
+		</sentence>
+		<sentence id="38">
+			Just(1) be(2) sure(3) to(4) remove(5) all(6) of(7) the(8) towels(9) and(10) anything(11) else(12) you(13) do(14) not(15) want(16) to(17) get(18) drenched(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			A(1) shelf(2) held(3) a(4) surprising(5) array(6) of(7) Gilchrist(8) and(9) Soames(10) bath(11) amenities(12) .(13) 
+		</sentence>
+		<sentence id="40">
+			The(1) Doc(2) approved(3) of(4) the(5) separate(6) conditioner(7) and(8) shampoo(9) bottles(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			Even(1) the(2) soap(3) was(4) good(5) .(6) 
+		</sentence>
+		<sentence id="42">
+			As(1) for(2) towels(3) ,(4) they(5) were(6) large(7) ,(8) if(9) not(10) especially(11) thick(12) .(13) 
+			<opinion featWords="3" feature="towels" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="43">
+			The(1) surprise(2) amenity(3) of(4) the(5) day(6) ?(7) 
+		</sentence>
+		<sentence id="44">
+			Tiny(1) bottles(2) ((3) yes(4) ,(5) bottles(6) )(7) of(8) Crest(9) toothpaste(10) .(11) 
+		</sentence>
+		<sentence id="45">
+			Dining(1) Well(2) ,(3) forget(4) about(5) it(6) .(7) 
+		</sentence>
+		<sentence id="46">
+			The(1) hotel(2) proudly(3) advertises(4) a(5) free(6) full(7) breakfast(8) ,(9) but(10) this(11) turned(12) out(13) to(14) be(15) next(16) door(17) at(18) the(19) Lily(20) Leon(21) Hotel(22) ((23) also(24) owned(25) by(26) the(27) South(28) Beach(29) Hotel(30) Group(31) )(32) .(33) 
+		</sentence>
+		<sentence id="47">
+			The(1) coffee(2) and(3) cornflakes(4) were(5) free(6) ,(7) though(8) ,(9) so(10) we(11) managed(12) to(13) enjoy(14) a(15) cup(16) or(17) two(18) on(19) the(20) outdoor(21) terrace(22) overlooking(23) busy(24) Collins(25) Avenue(26) .(27) 
+		</sentence>
+		<sentence id="48">
+			Only(1) members(2) of(3) their(4) frequent(5) guest(6) program(7) are(8) treated(9) to(10) a(11) complete(12) breakfast(13) ,(14) something(15) of(16) an(17) oversight(18) ,(19) I(20) 'd(21) say(22) .(23) 
+		</sentence>
+		<sentence id="49">
+			Bar(1) The(2) Safari(3) Bar(4) was(5) presided(6) over(7) by(8) a(9) black-shirted(10) hipster(11) bartender(12) .(13) 
+		</sentence>
+		<sentence id="50">
+			There(1) 's(2) a(3) list(4) of(5) the(6) free(7) drinks(8) ((9) including(10) grasshoppers(11) ,(12) greyhounds(13) and(14) so(15) forth(16) )(17) ,(18) but(19) anything(20) not(21) on(22) the(23) list(24) will(25) cost(26) you(27) dearly(28) .(29) 
+		</sentence>
+		<sentence id="51">
+			If(1) you(2) want(3) a(4) decent(5) drink(6) ,(7) be(8) sure(9) to(10) tell(11) the(12) bartender(13) and(14) make(15) a(16) point(17) that(18) he(19) sees(20) you(21) filling(22) the(23) ((24) prominently(25) displayed(26) )(27) tip(28) jar(29) .(30) 
+		</sentence>
+		<sentence id="52">
+			The(1) free(2) drinks(3) alone(4) were(5) worth(6) more(7) than(8) what(9) we(10) paid(11) for(12) the(13) room(14) !(15) 
+		</sentence>
+		<sentence id="53">
+			Sun(1) Deck(2) The(3) Doc(4) and(5) I(6) sneaked(7) upstairs(8) for(9) a(10) late(11) night(12) peek(13) at(14) the(15) sun(16) deck(17) .(18) 
+		</sentence>
+		<sentence id="54">
+			A(1) large(2) whirlpool(3) was(4) in(5) one(6) corner(7) ,(8) but(9) we(10) had(11) no(12) idea(13) how(14) to(15) get(16) the(17) thing(18) to(19) work(20) .(21) 
+		</sentence>
+		<sentence id="55">
+			It(1) must(2) have(3) been(4) shut(5) for(6) the(7) season(8) .(9) 
+		</sentence>
+		<sentence id="56">
+			We(1) were(2) soon(3) chased(4) off(5) the(6) deck(7) by(8) the(9) friendly(10) security(11) officer(12) ...(13) is(14) there(15) a(16) disturbing(17) pattern(18) here(19) ?(20) 
+		</sentence>
+		<sentence id="57">
+			Supposedly(1) ,(2) there(3) was(4) a(5) fitness(6) room(7) somewhere(8) ,(9) but(10) we(11) never(12) found(13) it(14) .(15) 
+		</sentence>
+		<sentence id="58">
+			There(1) is(2) no(3) pool(4) ,(5) but(6) just(7) remember(8) that(9) this(10) is(11) a(12) boutique(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="59">
+			Most(1) guests(2) staying(3) here(4) could(5) not(6) care(7) less(8) about(9) a(10) pool(11) .(12) 
+		</sentence>
+		<sentence id="60">
+			Service(1) The(2) service(3) here(4) was(5) minimal(6) ,(7) but(8) friendly(9) enough(10) .(11) 
+			<opinion featWords="3" feature="service" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="61">
+			When(1) the(2) complimentary(3) computer(4) in(5) the(6) lobby(7) did(8) not(9) work(10) ,(11) we(12) were(13) directed(14) to(15) the(16) Whitelaw(17) Hotel(18) across(19) the(20) street(21) .(22) 
+		</sentence>
+		<sentence id="62">
+			The(1) atmosphere(2) is(3) like(4) a(5) party(6) in(7) most(8) respects(9) .(10) 
+		</sentence>
+		<sentence id="63">
+			The(1) front(2) terrace(3) has(4) big(5) black(6) couches(7) for(8) lounging(9) .(10) 
+			<opinion featWords="7" feature="sofa" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="64">
+			In(1) fact(2) ,(3) they(4) are(5) a(6) great(7) place(8) to(9) lounge(10) while(11) you(12) wait(13) half(14) an(15) hour(16) for(17) them(18) to(19) find(20) your(21) car(22) ((23) $18.00(24) per(25) day(26) ,(27) thank(28) you(29) )(30) .(31) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="65">
+			Cost(1) During(2) the(3) high(4) season(5) ,(6) most(7) of(8) the(9) rooms(10) begin(11) at(12) about(13) $165.00(14) .(15) 
+		</sentence>
+		<sentence id="66">
+			Ours(1) was(2) posted(3) at(4) $249.00(5) ,(6) but(7) we(8) got(9) the(10) room(11) through(12) Hotwire(13) for(14) an(15) astonishing(16) $39.00(17) .(18) 
+		</sentence>
+		<sentence id="67">
+			Yup(1) ,(2) you(3) read(4) that(5) correctly(6) .(7) 
+		</sentence>
+		<sentence id="68">
+			Once(1) the(2) "(3) season(4) "(5) begins(6) next(7) month(8) ,(9) you(10) will(11) not(12) see(13) these(14) bargains(15) again(16) until(17) May(18) .(19) 
+		</sentence>
+		<sentence id="69">
+			On(1) the(2) whole(3) ,(4) the(5) Chesterfield(6) offers(7) quirky(8) individuality(9) and(10) fairly(11) good(12) service(13) for(14) reasonable(15) rates(16) ((17) most(18) rooms(19) are(20) currently(21) going(22) for(23) about(24) $99.00(25) or(26) so(27) )(28) .(29) 
+			<opinion featWords="13" feature="service" opWords="12" polarity="+" potency="11"/>
+			<opinion featWords="16" feature="price" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="70">
+			The(1) one(2) suite(3) was(4) booked(5) ((6) only(7) $205.00(8) !(9) )(10) ,(11) so(12) I(13) never(14) got(15) to(16) have(17) a(18) look(19) at(20) it(21) .(22) 
+		</sentence>
+		<sentence id="71">
+			The(1) Chesterfield(2) is(3) probably(4) not(5) the(6) kind(7) of(8) place(9) you(10) 'd(11) want(12) to(13) take(14) your(15) kids(16) .(17) 
+		</sentence>
+		<sentence id="72">
+			The(1) lobby(2) statuary(3) alone(4) would(5) scare(6) off(7) most(8) sensible(9) parents(10) .(11) 
+		</sentence>
+		<sentence id="73">
+			If(1) you(2) do(3) not(4) mind(5) a(6) place(7) where(8) they(9) play(10) the(11) theme(12) to(13) the(14) "(15) Dating(16) Game(17) "(18) in(19) the(20) lobby(21) ,(22) you(23) might(24) just(25) fit(26) into(27) the(28) groove(29) here(30) .(31) 
+		</sentence>
+		<sentence id="74">
+			The(1) Chesterfield(2) Hotel(3) 855(4) Collins(5) Avenue(6) Miami(7) Beach(8) ,(9) FL(10) 33319(11) Tel.(12) 305-531-5831(13) FAX(14) 305-535-9665(15) Toll(16) free(17) 877-762-3477(18) South(19) Beach(20) Hotel(21) Group(22) 
+		</sentence>
+	</text>
+</review>

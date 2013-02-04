@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="949" item="Disneys Villas At Wilderness Lodge" rating="5">
+	<title>
+		<sentence id="1">
+			Wilderness(1) Lodge(2) Villa(3) --(4) A(5) Magical(6) Place(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) elegant(3) rooms(4) .(5) 
+			<opinion featWords="4" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) food(2) .(3) 
+			<opinion featWords="2" feature="food" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			All(1) the(2) amenities(3) of(4) home(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			A(1) bit(2) expensive(3) .(4) 
+			<opinion feature="price" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) fantastic(2) place(3) to(4) stay(5) when(6) visiting(7) Disney(8) World(9) .(10) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			You(1) truly(2) feel(3) as(4) if(5) you(6) are(7) in(8) the(9) Magical(10) Kingdom(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) past(2) June(3) I(4) and(5) my(6) family(7) spent(8) a(9) week(10) at(11) Disney(12) World(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			This(1) would(2) be(3) my(4) first(5) g(6) vacation(7) in(8) over(9) five(10) years(11) since(12) the(13) death(14) of(15) my(16) husband(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			I(1) flew(2) down(3) on(4) Southwestern(5) Airlines(6) direct(7) with(8) my(9) son(10) ,(11) his(12) wife(13) ,(14) my(15) two(16) grandkids(17) ,(18) and(19) my(20) daughter-in-law(21) s(22) aunt(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			We(1) landed(2) directly(3) in(4) Orlando(5) ,(6) then(7) were(8) loaded(9) onto(10) the(11) Disney(12) Bus(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			We(1) would(2) not(3) see(4) our(5) luggage(6) again(7) until(8) we(9) got(10) into(11) our(12) rooms(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			My(1) younger(2) son(3) ,(4) wife(5) and(6) children(7) met(8) us(9) there(10) as(11) they(12) flew(13) in(14) from(15) Arizona(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			A(1) friend(2) of(3) my(4) daughter-in-law(5) ,(6) her(7) husband(8) and(9) daughter(10) joined(11) us(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			That(1) made(2) a(3) total(4) of(5) thirteen(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			Disney(1) offers(2) its(3) visitors(4) a(5) variety(6) of(7) places(8) to(9) stay(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			We(1) stayed(2) at(3) the(4) Wilderness(5) Lodge(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			As(1) soon(2) as(3) we(4) walked(5) into(6) the(7) lobby(8) I(9) could(10) tell(11) we(12) were(13) going(14) first(15) class(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) lobby(2) itself(3) is(4) decorated(5) in(6) a(7) Northwestern(8) theme(9) ,(10) rugged(11) ,(12) yet(13) tasteful(14) ,(15) and(16) certainly(17) comfortable(18) .(19) 
+			<opinion featWords="2" feature="lobby" opWords="18" polarity="+" potency="17"/>
+			<opinion featWords="2" feature="lobby" opWords="14" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			All(1) thirteen(2) of(3) us(4) enjoyed(5) dinner(6) in(7) the(8) sit(9) down(10) restaurant(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Be(1) prepared(2) when(3) you(4) try(5) this(6) place(7) as(8) it(9) can(10) get(11) pretty(12) noisy(13) .(14) 
+			<opinion featWords="7" feature="place" opWords="13" polarity="-" potency="12"/>
+		</sentence>
+		<sentence id="15">
+			First(1) of(2) all(3) the(4) waiters(5) and(6) waitresses(7) will(8) make(9) you(10) feel(11) right(12) at(13) home(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			They(1) will(2) also(3) make(4) you(5) get(6) up(7) and(8) sing(9) or(10) dance(11) or(12) whatever(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			And(1) there(2) is(3) one(4) person(5) seemingly(6) assigned(7) the(8) task(9) of(10) calling(11) out(12) in(13) an(14) ear-splitting(15) high(16) pitch(17) voice(18) that(19) dinner(20) is(21) ready(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			This(1) thankfully(2) does(3) 'nt(4) happen(5) all(6) the(7) time(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			Although(1) if(2) you(3) are(4) sitting(5) in(6) the(7) lobby(8) you(9) will(10) hear(11) that(12) voice(13) resonate(14) throughout(15) the(16) entire(17) area(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			Our(1) rooms(2) we(3) learned(4) had(5) been(6) recently(7) renovated(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="21">
+			My(1) friend(2) and(3) I(4) enjoyed(5) two(6) sinks(7) ,(8) a(9) fridge(10) ,(11) a(12) plasma(13) TV(14) ,(15) hair(16) dryer(17) and(18) toiletries(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			Not(1) to(2) mention(3) we(4) each(5) had(6) a(7) king(8) size(9) bed(10) ,(11) which(12) we(13) gladly(14) fell(15) into(16) every(17) night(18) after(19) our(20) visits(21) to(22) the(23) various(24) parks(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			Also(1) we(2) shared(3) a(4) fairly(5) good(6) size(7) bureau(8) and(9) closet(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			They(1) did(2) provide(3) us(4) hangers(5) as(6) well(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			We(1) also(2) enjoyed(3) eating(4) at(5) a(6) fast(7) food(8) restaurant(9) also(10) inside(11) the(12) Lodge(13) ,(14) although(15) besides(16) McDonald(17) type(18) cuisine(19) we(20) could(21) also(22) find(23) very(24) healthy(25) dishes(26) such(27) as(28) an(29) apple(30) ,(31) raisin(32) ,(33) walnut(34) salad(35) that(36) became(37) one(38) of(39) our(40) favorites(41) .(42) 
+			<opinion featWords="8" feature="food" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			That(1) plus(2) spending(3) $11(4) and(5) some(6) change(7) for(8) a(9) Wilderness(10) mug(11) got(12) you(13) bottomless(14) refills(15) of(16) coffee(17) ,(18) tea(19) ,(20) and(21) cold(22) drinks(23) .(24) 
+		</sentence>
+		<sentence id="27">
+			My(1) friend(2) inadvertently(3) left(4) hers(5) on(6) one(7) of(8) the(9) busses(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			Luckily(1) my(2) daughter-in-law(3) s(4) friend(5) ((6) an(7) employee(8) of(9) Disney(10) )(11) was(12) able(13) to(14) get(15) her(16) a(17) new(18) mug(19) at(20) no(21) charge(22) .(23) 
+		</sentence>
+		<sentence id="29">
+			Our(1) room(2) also(3) over(4) looked(5) the(6) pools(7) ,(8) as(9) well(10) as(11) a(12) lake(13) .(14) 
+		</sentence>
+		<sentence id="30">
+			Every(1) night(2) there(3) was(4) a(5) light(6) parade(7) ;(8) a(9) dragon(10) that(11) seemingly(12) marched(13) across(14) the(15) lake(16) playing(17) Disney(18) music(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			At(1) first(2) we(3) did(4) 'nt(5) know(6) where(7) the(8) music(9) was(10) coming(11) from(12) until(13) we(14) looked(15) out(16) from(17) our(18) balcony(19) on(20) that(21) first(22) night(23) .(24) 
+		</sentence>
+		<sentence id="32">
+			It(1) really(2) made(3) you(4) feel(5) as(6) if(7) you(8) had(9) been(10) transported(11) into(12) some(13) magical(14) world(15) .(16) 
+		</sentence>
+		<sentence id="33">
+			It(1) is(2) easy(3) to(4) get(5) to(6) any(7) location(8) from(9) the(10) Wilderness(11) Lodge(12) by(13) using(14) either(15) the(16) various(17) busses(18) or(19) boats(20) ,(21) and(22) the(23) monorail(24) .(25) 
+		</sentence>
+		<sentence id="34">
+			We(1) did(2) a(3) lot(4) of(5) walking(6) but(7) enjoyed(8) the(9) fact(10) that(11) no(12) matter(13) where(14) we(15) were(16) we(17) could(18) easily(19) get(20) back(21) to(22) our(23) rooms(24) .(25) 
+		</sentence>
+		<sentence id="35">
+			Except(1) one(2) night(3) after(4) spending(5) time(6) in(7) Downtown(8) Disney(9) ,(10) my(11) friend(12) and(13) I(14) decided(15) to(16) return(17) to(18) our(19) room(20) ahead(21) of(22) the(23) others(24) .(25) 
+		</sentence>
+		<sentence id="36">
+			When(1) we(2) saw(3) our(4) bus(5) we(6) immediately(7) got(8) on(9) .(10) 
+		</sentence>
+		<sentence id="37">
+			The(1) others(2) would(3) take(4) the(5) next(6) bus(7) .(8) 
+		</sentence>
+		<sentence id="38">
+			Some(1) time(2) later(3) we(4) realized(5) that(6) we(7) had(8) mistakenly(9) taken(10) the(11) Fort(12) Wilderness(13) bus(14) as(15) oppose(16) to(17) Wilderness(18) Lodge(19) bus(20) and(21) ended(22) up(23) somewhere(24) inside(25) a(26) camp(27) ground(28) .(29) 
+		</sentence>
+		<sentence id="39">
+			This(1) was(2) at(3) night(4) and(5) beside(6) the(7) driver(8) we(9) were(10) the(11) only(12) ones(13) on(14) the(15) bus(16) .(17) 
+		</sentence>
+		<sentence id="40">
+			When(1) we(2) got(3) off(4) and(5) noticed(6) that(7) things(8) did(9) not(10) look(11) all(12) that(13) familiar(14) we(15) immediately(16) got(17) back(18) onto(19) the(20) bus(21) and(22) asked(23) the(24) driver(25) how(26) to(27) get(28) back(29) to(30) the(31) Wilderness(32) Lodge(33) .(34) 
+		</sentence>
+		<sentence id="41">
+			Of(1) course(2) we(3) would(4) get(5) a(6) new(7) driver(8) first(9) night(10) driving(11) the(12) route(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			She(1) told(2) us(3) to(4) take(5) the(6) Orange(7) label(8) bus(9) .(10) 
+		</sentence>
+		<sentence id="43">
+			We(1) almost(2) did(3) until(4) I(5) spotted(6) the(7) bus(8) behind(9) that(10) bus(11) marked(12) Wilderness(13) Lodge(14) .(15) 
+		</sentence>
+		<sentence id="44">
+			We(1) finally(2) made(3) it(4) back(5) to(6) our(7) room(8) and(9) after(10) a(11) glass(12) of(13) wine(14) fell(15) gladly(16) into(17) our(18) beds(19) .(20) 
+		</sentence>
+		<sentence id="45">
+			It(1) was(2) truly(3) a(4) magical(5) vacation(6) for(7) me(8) and(9) my(10) whole(11) family(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			Of(1) course(2) during(3) our(4) time(5) there(6) I(7) would(8) feel(9) bouts(10) of(11) sadness(12) knowing(13) how(14) much(15) my(16) late(17) husband(18) would(19) have(20) enjoyed(21) this(22) vacation(23) especially(24) with(25) his(26) family(27) together(28) .(29) 
+		</sentence>
+		<sentence id="47">
+			The(1) two(2) grandsons(3) were(4) born(5) after(6) his(7) death(8) so(9) he(10) never(11) knew(12) them(13) .(14) 
+		</sentence>
+		<sentence id="48">
+			And(1) they(2) would(3) never(4) know(5) him(6) .(7) 
+		</sentence>
+		<sentence id="49">
+			One(1) grandchild(2) who(3) was(4) three(5) still(6) remembers(7) her(8) Grampy(9) .(10) 
+		</sentence>
+		<sentence id="50">
+			And(1) through(2) me(3) she(4) will(5) not(6) forget(7) .(8) 
+		</sentence>
+		<sentence id="51">
+			For(1) nine(2) summers(3) my(4) late(5) husband(6) and(7) I(8) took(9) our(10) two(11) boys(12) to(13) Disney(14) World(15) starting(16) in(17) 1976(18) soon(19) after(20) it(21) opened(22) .(23) 
+		</sentence>
+		<sentence id="52">
+			And(1) they(2) have(3) wonderful(4) memories(5) of(6) those(7) vacations(8) .(9) 
+		</sentence>
+		<sentence id="53">
+			I(1) am(2) thankful(3) now(4) with(5) the(6) help(7) of(8) Disney(9) that(10) I(11) can(12) again(13) provide(14) such(15) wonderful(16) memories(17) for(18) my(19) grandkids(20) .(21) 
+		</sentence>
+	</text>
+</review>

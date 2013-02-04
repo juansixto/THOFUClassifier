@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="939" item="Shangri-La Bangkok" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) hotel(2) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Relaxing(1) haven(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Can(1) not(2) think(3) of(4) any(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			It(1) 's(2) a(3) great(4) place(5) to(6) stay(7) .(8) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Loved(1) being(2) back(3) there(4) after(5) a(6) long(7) ,(8) hot(9) day(10) of(11) sightseeing(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Stayed(1) at(2) the(3) Shangri-la(4) Bangkok(5) immediately(6) upon(7) my(8) arrival(9) in(10) Thailand(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			The(1) service(2) at(3) this(4) hotel(5) was(6) excellent(7) .(8) 
+			<opinion featWords="2" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Most(1) of(2) the(3) service(4) personnel(5) in(6) Thailand(7) were(8) extremely(9) polite(10) and(11) helpful(12) ,(13) and(14) the(15) Shangri-La(16) was(17) no(18) exception(19) .(20) 
+			<opinion featWords="4" feature="service" opWords="10" polarity="+" potency="9"/>
+			<opinion featWords="4" feature="service" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Check(1) in(2) was(3) a(4) breeze(5) ,(6) after(7) which(8) we(9) were(10) escorted(11) up(12) to(13) our(14) room(15) by(16) a(17) member(18) of(19) the(20) staff(21) from(22) the(23) front(24) desk(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			I(1) felt(2) a(3) bit(4) guilty(5) because(6) she(7) insisted(8) on(9) carrying(10) a(11) heavy(12) travelpack(13) up(14) for(15) me(16) ,(17) even(18) though(19) i(20) 'm(21) 5(22) '(23) 7(24) "(25) and(26) she(27) was(28) about(29) six(30) inches(31) shorter(32) and(33) many(34) pounds(35) lighter(36) .(37) We(38) arrived(39) in(40) the(41) afternoon(42) and(43) decided(44) to(45) take(46) the(47) Horizon(48) dinner(49) cruise(50) offered(51) by(52) the(53) hotel(54) .(55) You(56) had(57) the(58) choice(59) of(60) sitting(61) on(62) the(63) deck(64) or(65) down(66) below(67) in(68) an(69) air(70) conditioned(71) area(72) .(73) We(74) chose(75) to(76) sit(77) below(78) ,(79) however(80) ,(81) found(82) that(83) it(84) was(85) a(86) bit(87) chilly(88) .(89) The(90) food(91) I(92) would(93) say(94) was(95) average(96) .(97) It(98) was(99) termed(100) "(101) international(102) buffet(103) "(104) which(105) meant(106) american(107) style(108) dishes(109) and(110) thai(111) dishes(112) .(113) The(114) buffet(115) was(116) not(117) extensive(118) ,(119) nor(120) was(121) it(122) particularly(123) remarkable(124) .(125) However(126) ,(127) it(128) was(129) the(130) night(131) cruise(132) that(133) we(134) were(135) interested(136) in(137) .(138) It(139) really(140) was(141) beautiful(142) ,(143) and(144) gave(145) us(146) a(147) good(148) overview(149) of(150) Bangkok(151) on(152) our(153) first(154) night(155) before(156) we(157) dove(158) into(159) the(160) sightseeing(161) .(162) It(163) seemed(164) that(165) many(166) hotels(167) and(168) restaurants(169) along(170) the(171) river(172) offered(173) dinner(174) cruises(175) ,(176) and(177) I(178) would(179) have(180) actually(181) preferred(182) to(183) take(184) one(185) which(186) served(187) only(188) thai(189) dishes(190) .(191) However(192) ,(193) this(194) one(195) was(196) extremely(197) convenient(198) .(199) We(200) also(201) ate(202) at(203) the(204) Coffee(205) Garden(206) for(207) breakfast(208) and(209) Salathip(210) for(211) dinner(212) ,(213) both(214) of(215) which(216) served(217) excellent(218) food(219) .(220) I(221) was(222) especially(223) impressed(224) with(225) the(226) buffet(227) at(228) the(229) Coffee(230) Garden(231) .(232) It(233) served(234) perfectly(235) prepared(236) Japanese(237) ,(238) Thai(239) ,(240) and(241) American(242) style(243) breakfasts(244) foods(245) and(246) was(247) very(248) extensive(249) ,(250) all(251) for(252) $15(253) US(254) .(255) They(256) even(257) had(258) bagels(259) and(260) lox(261) with(262) the(263) fixings(264) ((265) red(266) onion(267) ,(268) capers(269) )(270) .(271) Salathip(272) served(273) thai(274) cuisine(275) and(276) was(277) only(278) open(279) for(280) dinner(281) .(282) They(283) had(284) a(285) couple(286) prix(287) fixe(288) menus(289) which(290) we(291) tried(292) .(293) Very(294) good(295) .(296) We(297) actually(298) liked(299) the(300) hotel(301) and(302) the(303) price(304) so(305) much(306) that(307) we(308) ended(309) up(310) booking(311) a(312) stay(313) there(314) for(315) the(316) end(317) of(318) our(319) trip(320) ,(321) before(322) our(323) flight(324) back(325) to(326) the(327) states(328) .(329) Both(330) of(331) our(332) rooms(333) were(334) well(335) appointed(336) with(337) the(338) beds(339) ,(340) a(341) love(342) seat(343) ,(344) coffee(345) table(346) ,(347) dresser(348) ,(349) dressing(350) table(351) and(352) desk(353) .(354) The(355) furnishings(356) ,(357) linens(358) and(359) carpet(360) were(361) fairly(362) new(363) ,(364) as(365) were(366) all(367) the(368) towels(369) .(370) There(371) was(372) an(373) in(374) room(375) safe(376) ,(377) wet(378) bar(379) and(380) coffee(381) with(382) coffee(383) maker(384) .(385) Both(386) rooms(387) had(388) a(389) beautiful(390) view(391) of(392) the(393) pool(394) ,(395) river(396) beyond(397) ,(398) and(399) city(400) beyond(401) that(402) .(403) We(404) especially(405) liked(406) the(407) lot(408) across(409) from(410) the(411) hotel(412) on(413) the(414) other(415) side(416) of(417) the(418) river(419) where(420) we(421) could(422) watch(423) three(424) elephants(425) graze(426) for(427) food(428) all(429) day(430) long(431) .(432) The(433) hotel(434) provided(435) nightly(436) turn(437) down(438) and(439) a(440) myriad(441) of(442) other(443) services(444) .(445) The(446) common(447) areas(448) of(449) the(450) hotel(451) were(452) beautifully(453) decorated(454) .(455) Upon(456) suggestion(457) by(458) the(459) front(460) desk(461) clerk(462) during(463) our(464) first(465) stay(466) ,(467) I(468) signed(469) up(470) for(471) the(472) frequent(473) guest(474) program(475) for(476) free(477) .(478) Upon(479) our(480) return(481) ,(482) we(483) were(484) treated(485) to(486) in(487) room(488) check(489) in(490) ((491) an(492) assistant(493) led(494) us(495) immediately(496) up(497) to(498) our(499) rooms(500) and(501) checked(502) us(503) in(504) there(505) )(506) ,(507) free(508) breakfast(509) buffet(510) every(511) morning(512) ,(513) and(514) a(515) free(516) thai(517) massage(518) in(519) their(520) spa(521) .(522) Overall(523) ,(524) I(525) would(526) stay(527) here(528) again(529) .(530) Many(531) people(532) prefer(533) newer(534) hotels(535) like(536) the(537) Oriental(538) or(539) the(540) Peninsula(541) ,(542) but(543) the(544) Shangri-La(545) is(546) great(547) and(548) the(549) price(550) is(551) extremely(552) good(553) .(554) A(555) hotel(556) like(557) this(558) where(559) I(560) live(561) in(562) the(563) US(564) would(565) cost(566) probably(567) $350(568) to(569) $500(570) per(571) night(572) .(573) I(574) loved(575) this(576) place(577) !(578) 
+			<opinion featWords="577" feature="place" opWords="575" polarity="+"/>
+			<opinion featWords="550" feature="price" opWords="553" polarity="+" potency="552"/>
+			<opinion feature="hotel" opWords="547" polarity="+"/>
+			<opinion feature="hotel" opWords="527" polarity="+"/>
+			<opinion featWords="448" feature="place" opWords="453,454" polarity="+"/>
+			<opinion featWords="391" feature="view" opWords="390" polarity="+"/>
+			<opinion featWords="360" feature="carpets" opWords="363" polarity="+" potency="362"/>
+			<opinion featWords="358" feature="bedding" opWords="363" polarity="+" potency="362"/>
+			<opinion featWords="356" feature="furnishings" opWords="363" polarity="+" potency="362"/>
+			<opinion feature="hotel" opWords="295" polarity="+"/>
+			<opinion featWords="245" feature="food" opWords="249" polarity="+" potency="248"/>
+			<opinion featWords="219" feature="food" opWords="218" polarity="+"/>
+			<opinion feature="hotel" opWords="198" polarity="+" potency="197"/>
+			<opinion featWords="115" feature="food" opWords="117,118" polarity="-"/>
+			<opinion featWords="91" feature="food" opWords="96" polarity="-"/>
+		</sentence>
+	</text>
+</review>

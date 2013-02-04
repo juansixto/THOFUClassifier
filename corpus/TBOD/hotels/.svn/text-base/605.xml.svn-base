@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="605" item="New Yorker Ramada" rating="3">
+	<title>
+		<sentence id="1">
+			Great(1) Location(2) &amp;(3) Affordable(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) .(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Easy(1) access(2) to(3) subway(4) ,(5) the(6) Garden(7) and(8) Time(9) Square(10) .(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) are(2) a(3) little(4) small(5) ,(6) halls(7) a(8) little(9) dirty(10) ,(11) but(12) ok(13) 
+			<opinion featWords="1" feature="rooms" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="7" feature="lobby" opWords="10" polarity="-" potency="9"/>
+			<opinion featWords="7" feature="lobby" opWords="13" polarity="+"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) for(5) affordable(6) accommodations(7) ,(8) and(9) can(10) give(11) up(12) a(13) little(14) elegance(15) ,(16) this(17) is(18) the(19) place(20) to(21) consider(22) .(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			It(1) took(2) me(3) quite(4) a(5) bit(6) of(7) time(8) to(9) decide(10) to(11) stay(12) in(13) downtown(14) Manhattan(15) and(16) a(17) while(18) to(19) find(20) a(21) hotel(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) that(3) staying(4) in(5) Manhattan(6) would(7) cost(8) quite(9) a(10) bit(11) of(12) money(13) but(14) when(15) I(16) compared(17) it(18) to(19) staying(20) across(21) the(22) river(23) in(24) Jersey(25) and(26) what(27) it(28) would(29) cost(30) to(31) park(32) or(33) ride(34) the(35) train(36) into(37) town(38) ,(39) or(40) even(41) a(42) taxi(43) ride(44) ,(45) it(46) was(47) a(48) lot(49) more(50) affordable(51) to(52) stay(53) in(54) town(55) .(56) 
+		</sentence>
+		<sentence id="3">
+			I(1) found(2) the(3) New(4) Yorker(5) hotel(6) to(7) be(8) a(9) quaint(10) hotel(11) that(12) had(13) small(14) rooms(15) but(16) think(17) about(18) it(19) ,(20) when(21) you(22) 're(23) in(24) New(25) York(26) ,(27) how(28) much(29) time(30) do(31) you(32) really(33) spend(34) in(35) your(36) room(37) .(38) 
+			<opinion featWords="11" feature="hotel" opWords="10" polarity="+"/>
+			<opinion featWords="15" feature="rooms" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			We(1) stayed(2) in(3) the(4) city(5) for(6) 4(7) nights(8) and(9) 3(10) days(11) and(12) found(13) the(14) hotel(15) to(16) be(17) ok(18) .(19) 
+			<opinion featWords="15" feature="hotel" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Not(1) great(2) by(3) any(4) means(5) but(6) for(7) what(8) we(9) spent(10) on(11) it(12) ,(13) not(14) bad(15) .(16) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+			<opinion feature="hotel" opWords="14,15" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			I(1) paid(2) $109.00(3) per(4) night(5) to(6) stay(7) there(8) which(9) was(10) affordable(11) and(12) $30.00/night(13) parking(14) .(15) 
+			<opinion feature="price" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			But(1) where(2) they(3) got(4) me(5) was(6) on(7) local(8) calls(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			Of(1) course(2) we(3) had(4) our(5) laptop(6) and(7) got(8) online(9) to(10) help(11) plan(12) our(13) stay(14) ,(15) and(16) every(17) call(18) ((19) getting(20) bumped(21) offline(22) and(23) all(24) )(25) cost(26) us(27) .75(28) cents(29) each(30) ...(31) I(32) figured(33) we(34) spent(35) over(36) $30.00(37) in(38) calls(39) .(40) .(41) 
+		</sentence>
+		<sentence id="9">
+			WOW(1) !(2) !(3) !(4) 
+		</sentence>
+		<sentence id="10">
+			I(1) think(2) that(3) if(4) I(5) would(6) have(7) been(8) able(9) to(10) ,(11) I(12) would(13) have(14) spent(15) about(16) $40-$50.00(17) per(18) night(19) more(20) to(21) stay(22) in(23) a(24) little(25) nicer(26) hotel(27) but(28) for(29) our(30) budget(31) ,(32) the(33) New(34) Yorker(35) was(36) just(37) fine(38) .(39) 
+		</sentence>
+		<sentence id="11">
+			The(1) guy(2) that(3) says(4) the(5) sheets(6) were(7) bad(8) ,(9) WRONG(10) .(11) 
+			<opinion featWords="6" feature="bedding" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			That(1) was(2) the(3) first(4) thing(5) I(6) checked(7) and(8) they(9) were(10) fine(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Although(1) the(2) housekeeping(3) crew(4) did(5) not(6) make(7) the(8) beds(9) up(10) right(11) by(12) tucking(13) in(14) the(15) sheets(16) or(17) using(18) fitted(19) sheets(20) ,(21) but(22) I(23) was(24) comfortable(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			So(1) ,(2) if(3) you(4) looking(5) for(6) a(7) hotel(8) to(9) stay(10) at(11) and(12) you(13) are(14) on(15) a(16) budget(17) ,(18) consider(19) this(20) hotel(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			If(1) you(2) have(3) a(4) few(5) bucks(6) more(7) ,(8) consider(9) something(10) different(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			But(1) ,(2) remember(3) one(4) thing(5) ,(6) How(7) much(8) time(9) will(10) you(11) really(12) spend(13) inside(14) the(15) hotel(16) ,(17) NOT(18) MUCH(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			And(1) what(2) time(3) you(4) do(5) spend(6) inside(7) is(8) usually(9) to(10) sleep(11) ((12) since(13) you(14) get(15) so(16) tired(17) )(18) and(19) get(20) ready(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			So(1) have(2) fun(3) in(4) the(5) city(6) .(7) 
+		</sentence>
+		<sentence id="19">
+			Sincerely(1) ,(2) Rick(3) from(4) Seattle(5) ,(6) WA(7) .(8) 
+		</sentence>
+	</text>
+</review>

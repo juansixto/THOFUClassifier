@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="532" item="Courtyard by Marriott Lake Buena Vista at Vista Center" rating="2">
+	<title>
+		<sentence id="1">
+			Charged(1) me(2) twice(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) :(2) there(3) are(4) a(5) lot(6) of(7) good(8) restaurants(9) nearby(10) the(11) Hotel(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Rooms(1) are(2) clean(3) .(4) 
+			<opinion featWords="1" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Internal(1) procedures(2) seems(3) to(4) not(5) work(6) well(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			They(1) charged(2) me(3) twice(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) in(3) this(4) hotel(5) for(6) 1(7) night(8) on(9) December(10) ,(11) 30th(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Was(1) the(2) best(3) deal(4) from(5) Expedia(6) that(7) charged(8) US(9) $125(10) from(11) my(12) credit(13) card(14) at(15) the(16) time(17) of(18) the(19) booking(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			After(1) returning(2) from(3) the(4) vacations(5) I(6) found(7) an(8) additional(9) charge(10) of(11) US(12) $99(13) on(14) my(15) credit(16) card(17) statement(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Calling(1) the(2) hotel(3) I(4) was(5) told(6) that(7) this(8) was(9) a(10) mistake(11) and(12) they(13) will(14) do(15) the(16) refund(17) .(18) 3(19) days(20) later(21) and(22) I(23) 'm(24) still(25) waiting(26) for(27) the(28) credit(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			Hotel(1) is(2) ok(3) ,(4) rooms(5) are(6) clean(7) and(8) the(9) staff(10) is(11) very(12) friendly(13) .(14) 
+			<opinion featWords="1" feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="7" polarity="+"/>
+			<opinion featWords="10" feature="staff" opWords="13" polarity="+" potency="12"/>
+		</sentence>
+		<sentence id="6">
+			But(1) they(2) are(3) not(4) efficient(5) so(6) I(7) 'm(8) a(9) bit(10) disappointed(11) .(12) 
+			<opinion featRef="staff" featWords="2" feature="staff" opWords="4,5" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="631" item="Wolcott Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Wolcott(1) Hotel(2) -(3) budget(4) hotel(5) plus(6) great(7) location(8) !(9) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fantastic(1) location(2) close(3) to(4) attractions(5) in(6) NYC(7) -(8) Times(9) Square(10) ,(11) Empire(12) State(13) Building(14) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Slow(1) elevator(2) 
+			<opinion featWords="2" feature="elevator" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) to(5) people(6) who(7) want(8) to(9) visit(10) NYC(11) but(12) do(13) not(14) want(15) to(16) spend(17) an(18) "(19) arm(20) and(21) a(22) leg(23) "(24) on(25) places(26) to(27) stay(28) .(29) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) at(6) Wolcott(7) hotel(8) in(9) June(10) 2005(11) for(12) three(13) nights(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			We(1) booked(2) it(3) because(4) it(5) was(6) a(7) budget(8) hotel(9) ,(10) but(11) after(12) reading(13) some(14) reviews(15) about(16) it(17) here(18) and(19) on(20) another(21) site(22) ,(23) I(24) was(25) a(26) bit(27) leery(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			We(1) did(2) not(3) have(4) any(5) problems(6) with(7) staff(8) ,(9) water(10) pressure(11) ,(12) or(13) things(14) like(15) that(16) which(17) have(18) been(19) mentioned(20) in(21) other(22) reviews(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			Perhaps(1) we(2) had(3) one(4) of(5) those(6) rare(7) almost(8) perfect(9) stays(10) or(11) something(12) !(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) only(2) thing(3) I(4) have(5) to(6) agree(7) with(8) is(9) the(10) complaints(11) about(12) the(13) slow(14) elevator(15) .(16) 
+			<opinion featWords="15" feature="elevator" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			SLOW(1) does(2) not(3) even(4) begin(5) to(6) describe(7) it(8) !(9) 
+		</sentence>
+		<sentence id="7">
+			Our(1) hotel(2) room(3) was(4) decent(5) sized(6) ,(7) no(8) bugs(9) ,(10) clean(11) ,(12) and(13) had(14) a(15) great(16) view(17) of(18) the(19) Empire(20) State(21) Building(22) out(23) of(24) our(25) window(26) .(27) 
+			<opinion featWords="3" feature="rooms" opWords="5,6" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="11" polarity="+"/>
+			<opinion featWords="17" feature="view" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			That(1) was(2) great(3) !(4) 
+		</sentence>
+		<sentence id="9">
+			In(1) the(2) summer(3) ,(4) they(5) do(6) not(7) like(8) that(9) you(10) run(11) the(12) AC(13) while(14) you(15) are(16) not(17) in(18) the(19) room(20) ((21) the(22) maids(23) will(24) turn(25) it(26) off(27) when(28) they(29) clean(30) your(31) room(32) if(33) you(34) have(35) left(36) it(37) on(38) )(39) -(40) something(41) about(42) it(43) possibly(44) freezing(45) up(46) .(47) 
+		</sentence>
+		<sentence id="10">
+			They(1) have(2) big(3) heavy(4) drapes(5) that(6) we(7) closed(8) when(9) we(10) left(11) for(12) the(13) day(14) and(15) the(16) room(17) did(18) not(19) get(20) too(21) hot(22) even(23) though(24) it(25) was(26) sizzling(27) outside(28) .(29) 
+		</sentence>
+		<sentence id="11">
+			The(1) AC(2) worked(3) well(4) and(5) cooled(6) the(7) room(8) down(9) with(10) no(11) problem(12) .(13) 
+			<opinion featWords="2" feature="air conditioning units" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) bathrooms(2) are(3) small(4) ,(5) but(6) I(7) did(8) not(9) go(10) to(11) NYC(12) to(13) spend(14) most(15) of(16) my(17) time(18) in(19) the(20) bathroom(21) .(22) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			We(1) had(2) good(3) water(4) pressure(5) and(6) did(7) not(8) have(9) any(10) problem(11) with(12) it(13) going(14) form(15) hot(16) to(17) cold(18) back(19) to(20) hot(21) like(22) some(23) people(24) have(25) stated(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			Overall(1) ,(2) we(3) had(4) a(5) pleasant(6) stay(7) and(8) had(9) no(10) problems(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			The(1) hotel(2) is(3) one(4) to(5) fit(6) a(7) person(8) 's(9) low(10) budget(11) but(12) yet(13) offer(14) comfort(15) .(16) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="152" item="Quality Hotel Fort Wayne" rating="1">
+	<title>
+		<sentence id="1">
+			DO(1) NOT(2) STAY(3) HERE(4) !(5) !(6) !(7) !(8) !(9) !(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			NONE(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			EVERYTHING(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) was(3) absolutely(4) disgusting(5) ,(6) from(7) dirty(8) rooms(9) to(10) scum(11) floating(12) on(13) the(14) pool(15) .(16) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="9" feature="rooms" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			When(1) I(2) got(3) home(4) and(5) called(6) the(7) manager(8) to(9) complain(10) about(11) my(12) room(13) ((14) as(15) there(16) was(17) no(18) manager(19) on(20) duty(21) at(22) the(23) time(24) of(25) my(26) stay(27) )(28) ,(29) he(30) laughed(31) at(32) me(33) ,(34) and(35) was(36) so(37) rude(38) ,(39) and(40) made(41) no(42) effort(43) whatsoever(44) to(45) take(46) the(47) time(48) to(49) listen(50) to(51) what(52) I(53) had(54) to(55) say(56) .(57) 
+			<opinion featWords="8" feature="front desk" opWords="38" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) never(3) recommend(4) this(5) hotel(6) to(7) anyone(8) .(9) 
+		</sentence>
+	</text>
+</review>

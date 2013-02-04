@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="107" item="Lees Inn and Suites Lafayette" rating="2">
+	<title>
+		<sentence id="1">
+			Hope(1) you(2) get(3) a(4) better(5) nights(6) sleep(7) than(8) I(9) did(10) !(11) !(12) !(13) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Decent(1) rates(2) ,(3) indoor(4) pool(5) ,(6) king(7) bed(8) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			small(1) pool(2) ,(3) doors(4) did(5) not(6) latch(7) or(8) stay(9) shut(10) ,(11) constant(12) noise(13) ,(14) hard(15) beds(16) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="-"/>
+			<opinion featWords="16" feature="bed" opWords="15" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) hotel(2) is(3) a(4) decent(5) price(6) for(7) what(8) you(9) get(10) but(11) hard(12) on(13) the(14) back(15) and(16) ears(17) .(18) 
+			<opinion featWords="6" feature="price" opWords="5" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) were(5) in(6) Lafayette(7) for(8) a(9) bowling(10) tournament(11) with(12) several(13) of(14) our(15) friends(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			We(1) each(2) had(3) a(4) room(5) in(6) the(7) Lees(8) Inn(9) and(10) we(11) all(12) had(13) the(14) same(15) complaints(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			The(1) noise(2) and(3) the(4) beds(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			If(1) the(2) room(3) next(4) to(5) you(6) decided(7) they(8) wanted(9) to(10) take(11) a(12) shower(13) at(14) 3am(15) you(16) would(17) be(18) woken(19) up(20) to(21) the(22) noise(23) of(24) the(25) water(26) coming(27) through(28) the(29) pipes(30) in(31) the(32) walls(33) .(34) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) states(3) if(4) you(5) close(6) your(7) bathroom(8) door(9) the(10) noise(11) is(12) not(13) as(14) bad(15) since(16) most(17) of(18) the(19) noise(20) comes(21) through(22) the(23) pipes(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			That(1) is(2) not(3) true(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			I(1) closed(2) the(3) door(4) the(5) second(6) night(7) we(8) were(9) there(10) and(11) it(12) did(13) not(14) help(15) at(16) all(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) beds(2) were(3) rock(4) hard(5) .(6) 
+			<opinion featWords="2" feature="bed" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			If(1) you(2) are(3) used(4) to(5) sleeping(6) on(7) a(8) nice(9) soft(10) ,(11) cushy(12) bed(13) then(14) you(15) will(16) need(17) to(18) be(19) put(20) into(21) traction(22) after(23) staying(24) in(25) the(26) beds(27) at(28) this(29) hotel(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			Some(1) of(2) our(3) friends(4) were(5) switched(6) rooms(7) because(8) the(9) jacuzzi(10) tub(11) knobs(12) fell(13) off(14) while(15) they(16) were(17) trying(18) to(19) turn(20) the(21) jacuzzi(22) on(23) ,(24) and(25) the(26) doors(27) to(28) the(29) bathroom(30) and(31) bedroom(32) would(33) not(34) shut(35) .(36) 
+		</sentence>
+		<sentence id="11">
+			And(1) if(2) you(3) want(4) to(5) watch(6) tv(7) while(8) in(9) your(10) room(11) ,(12) make(13) sure(14) you(15) bring(16) your(17) own(18) remote(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			The(1) remotes(2) the(3) rooms(4) have(5) are(6) a(7) cheap(8) few(9) button(10) one(11) that(12) barely(13) works(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			I(1) had(2) to(3) stand(4) right(5) in(6) front(7) of(8) the(9) tv(10) and(11) press(12) the(13) buttons(14) hard(15) to(16) turn(17) the(18) channels(19) .(20) 
+		</sentence>
+	</text>
+</review>

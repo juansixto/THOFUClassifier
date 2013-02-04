@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="673" item="Sheraton at Our Lucaya Beach &amp; Golf Resort, GBI" rating="3">
+	<title>
+		<sentence id="1">
+			A(1) very(2) good(3) average(4) hotel(5) !(6) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+" potency="2"/>
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) beach(2) ,(3) nice(4) pools(5) ,(6) good(7) enetertainement(8) facilities(9) ,(10) friendly(11) staff(12) ,(13) convienent(14) location(15) 
+			<opinion featWords="2" feature="beach" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="swimming pool" opWords="4" polarity="+"/>
+			<opinion featWords="12" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cold(1) pools(2) ,(3) dated-small(4) rooms(5) ,(6) poor(7) check-in(8) ,(9) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) place(2) grows(3) on(4) you(5) !(6) 
+		</sentence>
+		<sentence id="2">
+			First(1) looks(2) can(3) be(4) deceiving(5) ,(6) a(7) great(8) resort(9) for(10) families(11) .(12) 
+			<opinion featWords="9" feature="hotel" opWords="8" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Here(1) is(2) the(3) low-down(4) on(5) this(6) resort(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			First(1) ,(2) the(3) Westin(4) is(5) much(6) nicer(7) than(8) the(9) Sheraton(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) the(3) resounding(4) question(5) through-out(6) the(7) stay(8) !(9) 
+		</sentence>
+		<sentence id="4">
+			Pay(1) the(2) extra(3) 30(4) %(5) and(6) you(7) will(8) 'nt(9) need(10) to(11) figure(12) this(13) out(14) while(15) you(16) are(17) there(18) !(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) Sheraton(2) is(3) dated(4) ;(5) service(6) at(7) the(8) front(9) desk(10) is(11) slow(12) and(13) confusing(14) .(15) 
+			<opinion feature="hotel" opWords="4" polarity="-"/>
+			<opinion featWords="9,10" feature="front desk" opWords="12" polarity="-"/>
+			<opinion featWords="9,10" feature="front desk" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			They(1) overbooked(2) our(3) reservations(4) and(5) we(6) did(7) not(8) get(9) the(10) room(11) we(12) paid(13) for(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Our(1) room(2) was(3) small(4) and(5) dated(6) ,(7) clean(8) but(9) shown(10) numerous(11) signs(12) of(13) wear(14) and(15) stains(16) on(17) the(18) floor(19) and(20) furniture(21) .(22) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) room(2) did(3) have(4) a(5) musty(6) smell(7) as(8) did(9) the(10) hallways(11) in(12) the(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			We(1) immediately(2) aired(3) our(4) room(5) out(6) when(7) we(8) got(9) there(10) and(11) basically(12) kept(13) the(14) sliding(15) door(16) open(17) the(18) whole(19) time(20) while(21) we(22) were(23) there(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			The(1) bathroom(2) was(3) small(4) and(5) dated(6) also(7) ,(8) but(9) relatively(10) clean(11) .(12) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="bathroom" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) beds(2) were(3) very(4) good(5) and(6) offered(7) that(8) Westin(9) "(10) Heavenly(11) "(12) type(13) of(14) sleep(15) .(16) 
+			<opinion featWords="2" feature="bed" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) allot(3) of(4) noise(5) from(6) doors(7) and(8) neighbors(9) coming(10) through(11) the(12) walls(13) during(14) the(15) days(16) and(17) nights(18) also(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			The(1) hotel(2) lobby(3) was(4) decent(5) and(6) most(7) of(8) the(9) doormen-attendants(10) and(11) staff(12) were(13) nice(14) .(15) 
+			<opinion featWords="3" feature="lobby" opWords="5" polarity="+"/>
+			<opinion featWords="12" feature="staff" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) pool(2) area(3) was(4) very(5) noisy(6) with(7) music(8) all(9) day(10) and(11) the(12) staff(13) was(14) always(15) offering(16) activities(17) for(18) children(19) to(20) adults(21) in(22) the(23) center(24) green(25) of(26) the(27) pool(28) area(29) .(30) 
+			<opinion featWords="2,3" feature="swimming pool" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="15">
+			The(1) music(2) was(3) loud(4) and(5) the(6) DJ(7) was(8) always(9) interacting(10) with(11) the(12) staff(13) and(14) guests(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			The(1) food(2) around(3) poolside(4) was(5) very(6) good(7) as(8) were(9) the(10) drinks(11) and(12) the(13) staff(14) was(15) attentive(16) for(17) the(18) food(19) purchases(20) and(21) orders(22) .(23) 
+			<opinion featWords="2" feature="food" opWords="7" polarity="+" potency="6"/>
+			<opinion featWords="14" feature="staff" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			The(1) pools(2) were(3) not(4) very(5) warm(6) but(7) were(8) tolerable(9) as(10) was(11) the(12) ocean(13) .(14) 
+			<opinion featWords="2" feature="swimming pool" opWords="4,6" polarity="-" potency="5"/>
+			<opinion featWords="2" feature="swimming pool" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			The(1) beach(2) was(3) nice(4) but(5) needed(6) to(7) be(8) cleaned(9) to(10) be(11) cleaned(12) daily(13) ,(14) which(15) it(16) was(17) not(18) .(19) 
+			<opinion featWords="2" feature="beach" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			There(1) were(2) always(3) staff(4) cleaning(5) and(6) trying(7) to(8) keep(9) the(10) pool(11) area(12) tidy(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			The(1) grounds(2) of(3) the(4) hotel(5) were(6) very(7) nice(8) with(9) beautiful(10) flowering(11) plants(12) and(13) we(14) manicured(15) lawns(16) .(17) 
+			<opinion featWords="2" feature="grounds" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="21">
+			A(1) plus(2) side(3) to(4) the(5) location(6) of(7) the(8) hotel(9) as(10) you(11) will(12) read(13) in(14) every(15) review(16) is(17) the(18) Marketplace(19) directly(20) across(21) the(22) street(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			There(1) are(2) plenty(3) of(4) average(5) restaurants(6) for(7) breakfast(8) ,(9) lunch(10) ,(11) and(12) dinner(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			We(1) ate(2) Dailey(3) breakfast(4) at(5) Zorbas(6) for(7) around(8) 15$(9) and(10) Pieces(11) offered(12) great(13) Pizza(14) !(15) 
+		</sentence>
+		<sentence id="24">
+			CAPUCCINOS(1) was(2) a(3) good(4) pick(5) for(6) Italian(7) food(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			The(1) marketplace(2) pub(3) was(4) also(5) good(6) .(7) 
+		</sentence>
+		<sentence id="26">
+			The(1) food(2) in(3) the(4) Market(5) square(6) was(7) good(8) but(9) not(10) great(11) in(12) any(13) of(14) the(15) places(16) we(17) ate(18) .(19) 
+			<opinion featWords="2" feature="food" opWords="8" polarity="+"/>
+			<opinion featWords="2" feature="food" opWords="10,11" polarity="-"/>
+		</sentence>
+		<sentence id="27">
+			The(1) nightly(2) entertainment(3) was(4) good(5) in(6) the(7) marketplace(8) with(9) singing(10) and(11) dancing(12) and(13) an(14) incredible(15) Limbo(16) dancer(17) !(18) 
+		</sentence>
+		<sentence id="28">
+			However(1) ,(2) the(3) shows(4) were(5) somewhat(6) repetitious(7) as(8) it(9) was(10) the(11) same(12) performers(13) every(14) night(15) .(16) 
+		</sentence>
+		<sentence id="29">
+			But(1) it(2) was(3) a(4) great(5) place(6) to(7) people(8) watch(9) and(10) to(11) drink(12) in(13) the(14) bars(15) there(16) .(17) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="30">
+			Drinking(1) and(2) partying(3) is(4) the(5) big(6) thing(7) to(8) do(9) here(10) ,(11) it(12) was(13) a(14) madrigals(15) type(16) of(17) atmosphere(18) in(19) the(20) center(21) of(22) the(23) marketplace(24) .(25) 
+		</sentence>
+		<sentence id="31">
+			The(1) weekend(2) gets(3) very(4) busy(5) in(6) the(7) center(8) ....(9) it(10) was(11) quite(12) fun(13) !(14) 
+		</sentence>
+		<sentence id="32">
+			Underage(1) drinking(2) was(3) rampant(4) with(5) many(6) high(7) schoolers(8) getting(9) drunk(10) at(11) every(12) bar(13) possible(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			Parents(1) should(2) know(3) this(4) !(5) 
+		</sentence>
+		<sentence id="34">
+			However(1) ,(2) there(3) seemed(4) to(5) be(6) a(7) good(8) amount(9) of(10) security(11) in(12) the(13) populated(14) areas(15) and(16) we(17) did(18) not(19) see(20) any(21) fights(22) or(23) bad(24) behavior(25) .(26) 
+		</sentence>
+		<sentence id="35">
+			The(1) good(2) part(3) about(4) the(5) kids(6) drinking(7) at(8) the(9) marketplace(10) ((11) if(12) there(13) is(14) a(15) good(16) part(17) !(18) )(19) was(20) it(21) was(22) so(23) close(24) to(25) the(26) hotel(27) ,(28) you(29) do(30) 'nt(31) have(32) to(33) worry(34) about(35) the(36) kids(37) traveling(38) far(39) or(40) driving(41) .(42) 
+		</sentence>
+		<sentence id="36">
+			So(1) ,(2) in(3) conclusion(4) ,(5) this(6) is(7) not(8) a(9) 4(10) star(11) hotel(12) .......(13) it(14) s(15) a(16) three(17) or(18) 3.5(19) star(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			However(1) ,(2) there(3) is(4) a(5) certain(6) amount(7) of(8) charm(9) which(10) overcomes(11) you(12) while(13) you(14) stay(15) here(16) .(17) 
+		</sentence>
+		<sentence id="38">
+			On(1) the(2) first(3) day(4) of(5) our(6) stay(7) we(8) hated(9) it(10) there(11) ,(12) but(13) slowly(14) everything(15) began(16) to(17) grow(18) on(19) me(20) !(21) 
+		</sentence>
+		<sentence id="39">
+			I(1) was(2) truly(3) surprised(4) by(5) this(6) transformation(7) .(8) 
+		</sentence>
+		<sentence id="40">
+			Nothing(1) was(2) great(3) here(4) but(5) I(6) see(7) myself(8) going(9) back(10) !(11) 
+		</sentence>
+		<sentence id="41">
+			It(1) s(2) really(3) weird(4) !(5) 
+		</sentence>
+		<sentence id="42">
+			At(1) the(2) end(3) of(4) the(5) trip(6) ,(7) the(8) room(9) did(10) 'nt(11) bother(12) me(13) ,(14) the(15) loud(16) music(17) at(18) the(19) pools(20) did(21) 'nt(22) bother(23) me(24) ,(25) and(26) the(27) average(28) food(29) did(30) 'nt(31) bother(32) me(33) .(34) 
+		</sentence>
+		<sentence id="43">
+			I(1) believe(2) it(3) was(4) the(5) warmth(6) of(7) the(8) local(9) people(10) and(11) the(12) many(13) nice(14) families(15) we(16) met(17) there(18) .........(19) and(20) the(21) staff(22) doing(23) the(24) best(25) they(26) could(27) with(28) what(29) they(30) had(31) at(32) the(33) hotel(34) .(35) 
+		</sentence>
+		<sentence id="44">
+			I(1) can(2) say(3) we(4) had(5) a(6) great(7) stay(8) and(9) I(10) would(11) recommend(12) people(13) who(14) are(15) willing(16) to(17) take(18) a(19) chance(20) with(21) imperfection(22) to(23) give(24) this(25) resort(26) a(27) stay(28) .(29) 
+			<opinion feature="hotel" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="45">
+			I(1) think(2) families(3) with(4) children(5) from(6) ages(7) 5(8) to(9) 15(10) would(11) really(12) like(13) this(14) resort(15) .(16) 
+		</sentence>
+		<sentence id="46">
+			There(1) is(2) allot(3) for(4) kids(5) to(6) do(7) here(8) and(9) parents(10) can(11) relax(12) while(13) the(14) children(15) are(16) having(17) fun(18) .(19) 
+		</sentence>
+		<sentence id="47">
+			Another(1) note(2) .....(3) Service(4) is(5) not(6) as(7) it(8) is(9) in(10) the(11) states(12) .(13) 
+		</sentence>
+		<sentence id="48">
+			We(1) met(2) many(3) people(4) who(5) complained(6) about(7) the(8) slow(9) service(10) everywhere(11) .(12) 
+			<opinion featWords="10" feature="service" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="49">
+			You(1) are(2) on(3) Bahamas(4) time(5) so(6) just(7) embrace(8) it(9) !(10) 
+		</sentence>
+		<sentence id="50">
+			Everything(1) takes(2) longer(3) here(4) !(5) 
+		</sentence>
+		<sentence id="51">
+			If(1) you(2) go(3) with(4) an(5) open(6) mind(7) to(8) this(9) hotel(10) ,(11) I(12) believe(13) you(14) and(15) your(16) family(17) will(18) enjoy(19) your(20) stay(21) .(22) 
+		</sentence>
+	</text>
+</review>

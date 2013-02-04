@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="17" item="Congress Plaza Hotel &amp; Convention Center" rating="1">
+	<title>
+		<sentence id="1">
+			Avoid(1) this(2) hotel(3) at(4) all(5) cost(6) !(7) 
+			<opinion featWords="3" feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) room(2) was(3) large(4) and(5) the(6) lobby(7) was(8) pretty(9) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="lobby" opWords="9" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) staff(2) were(3) extremely(4) rude(5) and(6) the(7) plumbing(8) will(9) frighten(10) you(11) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) this(2) is(3) your(4) last(5) choice(6) ....(7) stay(8) home(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) read(2) the(3) reviews(4) of(5) this(6) hotel(7) and(8) was(9) a(10) little(11) hesitant(12) to(13) stay(14) here(15) ,(16) but(17) we(18) had(19) no(20) choice(21) because(22) everything(23) else(24) was(25) booked(26) because(27) we(28) decided(29) to(30) stay(31) an(32) extra(33) day(34) at(35) the(36) last(37) minute(38) .(39) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) workers(3) were(4) still(5) on(6) strike(7) and(8) would(9) ask(10) you(11) "(12) did(13) you(14) have(15) a(16) nice(17) sleep(18) ?(19) do(20) not(21) you(22) feel(23) dirty(24) ?(25) "(26) when(27) you(28) walked(29) out(30) of(31) the(32) hotel(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			Well(1) ,(2) I(3) did(4) feel(5) dirty(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			The(1) employees(2) at(3) this(4) hotel(5) were(6) the(7) rudest(8) bunch(9) of(10) people(11) I(12) have(13) ran(14) into(15) in(16) a(17) while(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			Maybe(1) because(2) they(3) were(4) scabs(5) and(6) crossed(7) the(8) picket(9) line(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			Our(1) room(2) was(3) extremely(4) hot(5) ,(6) even(7) though(8) it(9) was(10) about(11) 68(12) degrees(13) outside(14) .(15) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			The(1) "(2) air(3) conditioner(4) "(5) ,(6) and(7) I(8) use(9) that(10) term(11) loosely(12) ,(13) was(14) the(15) equivalent(16) of(17) me(18) blowing(19) out(20) while(21) sucking(22) on(23) an(24) ice(25) cube(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			I(1) called(2) housekeeping(3) and(4) they(5) were(6) very(7) rude(8) and(9) said(10) "(11) why(12) do(13) not(14) you(15) open(16) a(17) window(18) ?(19) "(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			Wow(1) ,(2) how(3) helpful(4) !(5) 
+		</sentence>
+		<sentence id="10">
+			Then(1) when(2) I(3) had(4) called(5) room(6) service(7) for(8) the(9) fourth(10) time(11) and(12) kept(13) being(14) switched(15) over(16) to(17) the(18) front(19) desk(20) ,(21) he(22) said(23) "(24) Well(25) ,(26) call(27) back(28) later(29) ,(30) maybe(31) they(32) 're(33) busy(34) .(35) "(36) I(37) 'm(38) surprised(39) at(40) the(41) lack(42) of(43) concern(44) for(45) their(46) guests(47) .(48) 
+		</sentence>
+		<sentence id="11">
+			You(1) can(2) not(3) call(4) down(5) to(6) get(7) your(8) car(9) from(10) the(11) valet(12) ,(13) you(14) have(15) to(16) actually(17) come(18) down(19) and(20) hand(21) them(22) the(23) ticket(24) beforehand(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			When(1) we(2) did(3) finally(4) reach(5) room(6) service(7) ,(8) we(9) order(10) Lobster(11) Bisque(12) ,(13) or(14) rather(15) a(16) soup(17) that(18) they(19) hung(20) a(21) lobster(22) over(23) the(24) boiling(25) water(26) so(27) it(28) kind(29) of(30) smelled(31) like(32) fish(33) ...(34) and(35) Iced(36) Tea(37) .(38) 
+		</sentence>
+		<sentence id="13">
+			They(1) did(2) not(3) bring(4) us(5) sugar(6) or(7) sweetener(8) ,(9) salt(10) ,(11) pepper(12) or(13) even(14) a(15) tiny(16) cracker(17) to(18) go(19) with(20) the(21) soup(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			I(1) wonder(2) if(3) everyone(4) was(5) on(6) strike(7) ?(8) 
+		</sentence>
+		<sentence id="15">
+			Even(1) the(2) cooks(3) .(4) 
+		</sentence>
+		<sentence id="16">
+			The(1) room(2) was(3) pretty(4) clean(5) ,(6) if(7) not(8) really(9) old(10) and(11) the(12) bedspreads(13) were(14) from(15) the(16) 70(17) 's(18) .(19) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="17">
+			The(1) small(2) bathroom(3) had(4) a(5) cracked(6) sink(7) that(8) was(9) barely(10) holding(11) on(12) to(13) the(14) wall(15) and(16) we(17) had(18) the(19) "(20) fun(21) house(22) "(23) shower(24) .(25) 
+			<opinion featWords="3" feature="bathroom" opWords="2" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			In(1) the(2) middle(3) of(4) a(5) warm(6) stream(7) ,(8) the(9) water(10) would(11) turn(12) scalding(13) hot(14) and(15) burn(16) you(17) ,(18) then(19) when(20) you(21) finally(22) got(23) it(24) back(25) to(26) warm(27) ,(28) it(29) was(30) shut(31) off(32) the(33) hot(34) all(35) together(36) and(37) be(38) ice(39) cold(40) .(41) 
+		</sentence>
+		<sentence id="19">
+			You(1) had(2) to(3) shower(4) in(5) a(6) hurry(7) and(8) if(9) you(10) have(11) children(12) ,(13) DO(14) NOT(15) put(16) them(17) in(18) there(19) alone(20) !(21) 
+		</sentence>
+		<sentence id="20">
+			They(1) could(2) get(3) seriously(4) burned(5) .(6) 
+		</sentence>
+		<sentence id="21">
+			Do(1) not(2) stay(3) here(4) .(5) 
+		</sentence>
+		<sentence id="22">
+			It(1) 's(2) frightening(3) and(4) you(5) can(6) tell(7) the(8) workers(9) who(10) have(11) crossed(12) the(13) picket(14) line(15) ,(16) hate(17) you(18) .(19) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="764" item="The Westin Galleria Dallas" rating="4">
+	<title>
+		<sentence id="1">
+			Convenience(1) ,(2) a(3) modern(4) feel(5) ,(6) and(7) a(8) reliable(9) brand(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Connected(1) to(2) the(3) Galleria(4) Dallas(5) mall(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Modern(1) ,(2) renovated(3) design(4) .(5) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Get(1) Starwood(2) points(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pool(1) closed(2) through(3) February(4) 2009(5) ((6) according(7) to(8) the(9) Web(10) site(11) )(12) .(13) 
+			<opinion featWords="1" feature="swimming pool" opWords="2" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) place(2) to(3) stay(4) for(5) business(6) OR(7) leisure(8) .(9) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Comfortable(1) bed(2) ,(3) spacious(4) room(5) ,(6) easy(7) access(8) to(9) leisure(10) activities(11) and(12) eating(13) establishments(14) .(15) 
+			<opinion featWords="2" feature="bed" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Convenient(1) and(2) comfortable(3) .(4) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Westin(2) Galleria(3) Dallas(4) has(5) spacious(6) ,(7) renovated(8) ,(9) modern(10) rooms(11) .(12) 
+			<opinion featWords="11" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="11" feature="rooms" opWords="8" polarity="+"/>
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Like(1) every(2) Westin(3) hotel(4) ,(5) one(6) of(7) the(8) room(9) highlights(10) is(11) its(12) trademark(13) --(14) the(15) comfortable(16) ,(17) excessively(18) cushioned(19) Heavenly(20) Bed(21) ,(22) which(23) practically(24) guarantees(25) a(26) restful(27) night(28) 's(29) sleep(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			My(1) visit(2) was(3) for(4) one(5) night(6) only(7) and(8) took(9) place(10) in(11) September(12) 2008(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			While(1) my(2) purposes(3) were(4) business-related(5) ,(6) I(7) had(8) some(9) time(10) to(11) explore(12) the(13) hotel(14) 's(15) immediate(16) surroundings(17) --(18) namely(19) the(20) Galleria(21) Dallas(22) ,(23) a(24) mall(25) connected(26) to(27) the(28) Westin(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			It(1) has(2) over(3) 200(4) stores(5) to(6) help(7) you(8) while(9) away(10) the(11) time(12) ,(13) if(14) not(15) also(16) relieve(17) you(18) of(19) some(20) of(21) your(22) cash(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) room(3) at(4) the(5) Westin(6) Galleria(7) Dallas(8) was(9) sizable(10) ,(11) with(12) an(13) open(14) feel(15) and(16) a(17) cushioned(18) and(19) lighted(20) window(21) sill(22) ,(23) where(24) you(25) can(26) sit(27) in(28) the(29) window(30) and(31) read(32) ,(33) rest(34) ,(35) or(36) look(37) out(38) over(39) the(40) North(41) Dallas(42) view(43) .(44) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) design(3) had(4) a(5) modern(6) ,(7) spare(8) design(9) with(10) touches(11) of(12) Japanese(13) influence(14) ,(15) such(16) as(17) the(18) upholstery(19) pattern(20) and(21) the(22) clean(23) ,(24) straight(25) lines(26) of(27) the(28) desk(29) ,(30) which(31) extends(32) along(33) the(34) length(35) of(36) a(37) wall(38) .(39) 
+		</sentence>
+		<sentence id="8">
+			The(1) room(2) was(3) equipped(4) with(5) a(6) flat-screen(7) television(8) ,(9) a(10) well-stocked(11) mini-bar(12) and(13) refrigerator(14) ,(15) and(16) an(17) in-room(18) safe(19) for(20) valuables(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			The(1) bathroom(2) also(3) had(4) a(5) clean(6) ,(7) minimal(8) appearance(9) ,(10) consistent(11) with(12) the(13) overall(14) modern(15) decor(16) .(17) 
+			<opinion featWords="16" feature="decoration" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="10">
+			Its(1) entrance(2) was(3) through(4) a(5) sliding(6) glass(7) door(8) ,(9) leading(10) to(11) a(12) bathtub(13) and(14) shower(15) with(16) a(17) double(18) shower(19) head(20) and(21) sliding(22) glass(23) doors(24) there(25) as(26) well(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			The(1) bathroom(2) had(3) wall-to-wall(4) counter(5) space(6) on(7) one(8) side(9) ,(10) and(11) a(12) plentiful(13) provision(14) of(15) toiletries(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			Along(1) with(2) its(3) Heavenly(4) Bed(5) ,(6) the(7) Westin(8) room(9) included(10) a(11) plush(12) white(13) bathrobe(14) ,(15) and(16) other(17) anticipated(18) offerings(19) ,(20) such(21) as(22) a(23) USA(24) Today(25) delivered(26) to(27) the(28) door(29) ,(30) high-speed(31) in-room(32) Internet(33) access(34) for(35) your(36) laptop(37) ,(38) and(39) in-room(40) coffee(41) maker(42) .(43) 
+		</sentence>
+		<sentence id="13">
+			Because(1) of(2) the(3) brevity(4) of(5) my(6) stay(7) ,(8) I(9) was(10) not(11) able(12) to(13) take(14) advantage(15) of(16) the(17) fitness(18) center(19) ((20) known(21) as(22) the(23) WestinWORKOUT(24) Gym(25) ,(26) also(27) a(28) trademarked(29) feature(30) )(31) ,(32) or(33) the(34) parking(35) ((36) which(37) includes(38) both(39) valet(40) and(41) self-parking(42) ,(43) but(44) I(45) did(46) not(47) have(48) a(49) rental(50) car(51) this(52) time(53) )(54) .(55) 
+		</sentence>
+		<sentence id="14">
+			All(1) of(2) my(3) encounters(4) with(5) the(6) hotel(7) staff(8) were(9) pleasant(10) and(11) positive(12) .(13) 
+			<opinion featWords="8" feature="staff" opWords="10" polarity="+"/>
+			<opinion featWords="8" feature="staff" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			When(1) I(2) misplaced(3) ((4) that(5) is(6) ,(7) lost(8) )(9) my(10) hotel(11) card(12) key(13) ,(14) the(15) attendant(16) at(17) the(18) front(19) desk(20) promptly(21) provided(22) a(23) replacement(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			When(1) I(2) pointed(3) out(4) an(5) error(6) in(7) the(8) final(9) bill(10) ((11) included(12) a(13) mini-bar(14) purchase(15) that(16) was(17) not(18) mine(19) )(20) ,(21) they(22) corrected(23) the(24) error(25) without(26) question(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			I(1) would(2) definitely(3) stay(4) at(5) the(6) Westin(7) Galleria(8) Dallas(9) again(10) the(11) next(12) time(13) I(14) am(15) in(16) that(17) area(18) ,(19) and(20) I(21) certainly(22) recommend(23) the(24) hotel(25) to(26) business(27) travelers(28) ((29) especially(30) )(31) ,(32) but(33) leisure(34) travelers(35) as(36) well(37) .(38) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+			<opinion feature="hotel" opWords="23" polarity="+" potency="22"/>
+		</sentence>
+		<sentence id="18">
+			It(1) is(2) an(3) especially(4) good(5) spot(6) for(7) anyone(8) looking(9) for(10) ((11) or(12) traveling(13) with(14) someone(15) who(16) needs(17) )(18) a(19) dose(20) of(21) retail(22) therapy(23) .(24) 
+		</sentence>
+	</text>
+</review>

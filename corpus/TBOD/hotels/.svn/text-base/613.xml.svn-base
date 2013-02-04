@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="613" item="Boston Park Plaza Hotel &amp; Towers" rating="4">
+	<title>
+		<sentence id="1">
+			Get(1) a(2) good(3) deal(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) Looking(2) Lobby(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Large(1) Room(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Good(1) Location(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Too(1) pricy(2) for(3) its(4) level(5) .(6) 
+			<opinion feature="price" opWords="1,2" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) do(3) not(4) pay(5) a(6) ticket(7) price(8) and(9) get(10) a(11) good(12) deal(13) ,(14) a(15) room(16) in(17) Boston(18) Park(19) Plaza(20) will(21) be(22) a(23) steal(24) .(25) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Certainly(1) paying(2) over(3) $100(4) per(5) night(6) is(7) not(8) worth(9) it(10) ;(11) however(12) if(13) you(14) do(15) get(16) a(17) good(18) deal(19) ((20) I(21) got(22) a(23) $40/night(24) using(25) priceline(26) )(27) then(28) its(29) great(30) .(31) 
+		</sentence>
+		<sentence id="2">
+			The(1) lobby(2) is(3) beautiful(4) :(5) it(6) has(7) very(8) large(9) ceilings(10) ,(11) beautiful(12) hanging(13) chandeliers(14) and(15) the(16) overall(17) design(18) is(19) a(20) la(21) regal(22) .(23) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) location(2) is(3) also(4) a(5) steal(6) -(7) it(8) is(9) right(10) in(11) the(12) middle(13) of(14) everything(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			Depending(1) on(2) when(3) you(4) go(5) ((6) if(7) you(8) 're(9) business(10) traveling(11) -(12) then(13) you(14) will(15) need(16) a(17) taxi(18) to(19) get(20) around(21) )(22) ;(23) if(24) on(25) leisure(26) on(27) weekends(28) -(29) there(30) is(31) more(32) than(33) plenty(34) of(35) parking(36) around(37) ((38) you(39) drove(40) ,(41) or(42) you(43) can(44) rent(45) )(46) .(47) 
+		</sentence>
+		<sentence id="5">
+			The(1) area(2) is(3) nice(4) -(5) there(6) are(7) many(8) great(9) restaurants(10) and(11) the(12) price(13) variety(14) is(15) there(16) ((17) there(18) is(19) the(20) most(21) expensive(22) and(23) the(24) cheapest(25) restaurants(26) in(27) Boston(28) within(29) a(30) walking(31) distance(32) ,(33) or(34) at(35) least(36) $5.00(37) cab(38) distance(39) )(40) .(41) 
+			<opinion featWords="10" feature="food" opWords="9" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+			<opinion feature="price" opWords="21,22" polarity="-"/>
+			<opinion feature="price" opWords="25" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			There(1) is(2) also(3) several(4) clubs(5) around(6) if(7) anyone(8) is(9) into(10) the(11) night-life(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			What(1) is(2) most(3) important(4) is(5) the(6) size(7) of(8) the(9) room(10) .(11) 
+		</sentence>
+		<sentence id="8">
+			Now(1) ,(2) I(3) 've(4) been(5) to(6) many(7) hotels(8) and(9) the(10) standard(11) rooms(12) ((13) I(14) am(15) not(16) talking(17) presidential(18) suites(19) here(20) )(21) are(22) all(23) about(24) the(25) same(26) size(27) .(28) 
+			<opinion featWords="12" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Boston(1) Park(2) Plaza(3) is(4) different(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			First(1) off(2) ,(3) it(4) has(5) high(6) ceilings(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			Second(1) ,(2) the(3) room(4) is(5) around(6) 50(7) %(8) larger(9) than(10) your(11) average(12) room(13) in(14) comparable(15) hotels(16) .(17) 
+			<opinion featWords="13" feature="rooms" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			The(1) service(2) was(3) average(4) -(5) it(6) took(7) a(8) while(9) at(10) the(11) desk(12) ,(13) and(14) there(15) were(16) no(17) Extra(18) smiles(19) -(20) which(21) neither(22) a(23) con(24) or(25) a(26) pro(27) .(28) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			Sometimes(1) it(2) is(3) very(4) annoying(5) to(6) have(7) EVERYONE(8) smiling(9) at(10) you(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			There(1) is(2) also(3) a(4) pretty(5) good(6) steakhouse(7) within(8) the(9) restaurant(10) and(11) with(12) the(13) hotel(14) ,(15) you(16) get(17) a(18) discount(19) ,(20) so(21) if(22) you(23) like(24) a(25) good(26) steak(27) -(28) this(29) will(30) be(31) plus(32) .(33) 
+		</sentence>
+		<sentence id="15">
+			The(1) elevators(2) are(3) modern(4) -(5) they(6) were(7) probably(8) remodeled(9) recently(10) :(11) so(12) you(13) are(14) not(15) traveling(16) in(17) a(18) death(19) box(20) that(21) squeals(22) .(23) 
+			<opinion featWords="2" feature="elevator" opWords="4" polarity="+"/>
+		</sentence>
+	</text>
+</review>

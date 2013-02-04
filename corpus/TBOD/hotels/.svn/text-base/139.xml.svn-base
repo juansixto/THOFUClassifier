@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="139" item="Westgate Lakes Resort" rating="5">
+	<title>
+		<sentence id="1">
+			Westgate(1) in(2) Myrtle(3) Beach(4) was(5) WONDERFUL(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ((2) right(3) on(4) the(5) beach(6) )(7) Support(8) staff(9) ,(10) tour(11) guide(12) ,(13) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parking(1) was(2) a(3) minor(4) inconvenience(5) 
+			<opinion featWords="1" feature="parking" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) this(4) resort(5) to(6) my(7) family(8) and(9) friends(10) .(11) i(12) will(13) definately(14) return(15) .(16) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Let(1) me(2) start(3) by(4) saying(5) that(6) this(7) was(8) our(9) 2nd(10) stay(11) with(12) Westgate(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			The(1) first(2) one(3) was(4) last(5) year(6) in(7) Gatlinburg(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			First(1) of(2) all(3) ,(4) I(5) knew(6) going(7) in(8) that(9) this(10) was(11) a(12) TIME(13) SHARE(14) PROMO(15) !(16) !(17) !(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) not(3) a(4) review(5) writer(6) by(7) nature(8) ,(9) so(10) i(11) will(12) just(13) lay(14) it(15) out(16) this(17) way(18) ...(19) 1(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Check(1) in(2) :(3) The(4) front(5) desk(6) staff(7) were(8) not(9) the(10) most(11) friendly(12) but(13) they(14) were(15) not(16) rude(17) .(18) 2(19) .(20) 
+			<opinion featWords="7" feature="staff" opWords="9,11,12" polarity="-"/>
+			<opinion featWords="7" feature="staff" opWords="16,17" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			The(1) support(2) staff(3) ((4) housekeeping(5) ,(6) bell(7) hops(8) ,(9) parking(10) lot(11) attendants(12) etc(13) ,(14) )(15) were(16) very(17) very(18) friendly(19) .(20) 3(21) .(22) 
+			<opinion featWords="5" feature="room service" opWords="19" polarity="+" potency="18"/>
+		</sentence>
+		<sentence id="7">
+			Our(1) room(2) was(3) not(4) exactly(5) what(6) we(7) expected(8) so(9) when(10) i(11) told(12) the(13) manager(14) about(15) the(16) problem(17) ,(18) they(19) immediately(20) moved(21) me(22) to(23) an(24) even(25) nicer(26) room(27) ,(28) at(29) no(30) additional(31) cost(32) .(33) 4(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			The(1) View(2) was(3) absolutely(4) awesome(5) ,(6) you(7) walk(8) out(9) of(10) the(11) hotel(12) and(13) you(14) are(15) on(16) the(17) beach(18) ,(19) they(20) have(21) a(22) lazy(23) river(24) ,(25) small(26) kids(27) water(28) park(29) and(30) a(31) very(32) nice(33) clean(34) pool(35) .(36) 5(37) .(38) 
+			<opinion featWords="2" feature="view" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="35" feature="swimming pool" opWords="33" polarity="+" potency="32"/>
+			<opinion featWords="35" feature="swimming pool" opWords="34" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Tour(1) was(2) 95(3) minutes(4) and(5) was(6) a(7) low(8) pressure(9) sales(10) pitch(11) ,(12) they(13) DID(14) try(15) to(16) sell(17) us(18) a(19) timeshare(20) like(21) they(22) said(23) they(24) would(25) and(26) we(27) turned(28) them(29) down(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			But(1) I(2) know(3) that(4) I(5) will(6) buy(7) one(8) in(9) the(10) future(11) .(12) 5(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Our(1) tour(2) guide(3) was(4) the(5) most(6) friendly(7) and(8) polite(9) gentleman(10) that(11) someone(12) could(13) ask(14) for(15) .(16) 6(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			WE(1) WILL(2) DEFINATELY(3) VISIT(4) WESTGATE(5) AGAIN(6) !(7) !(8) !(9) !(10) !(11) 
+		</sentence>
+	</text>
+</review>

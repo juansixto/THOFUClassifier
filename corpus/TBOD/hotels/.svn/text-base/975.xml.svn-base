@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="975" item="Ritz-Carlton New Orleans" rating="4">
+	<title>
+		<sentence id="1">
+			Great(1) Hotel(2) ,(3) Great(4) Location(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) location(2) ,(3) nice(4) room(5) ,(6) great(7) spa(8) services(9) 
+			<opinion featWords="8" feature="spa" opWords="7" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Mouse(1) in(2) the(3) locker(4) room(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) spent(5) new(6) years(7) in(8) Nawlins(9) and(10) stayed(11) at(12) the(13) Ritz(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) key(2) to(3) this(4) hotel(5) is(6) to(7) make(8) your(9) reservations(10) early(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			We(1) went(2) on(3) Orbitz(4) and(5) found(6) this(7) place(8) for(9) $165(10) a(11) night(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			When(1) we(2) arrived(3) ,(4) things(5) were(6) chaotic(7) around(8) the(9) place(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			Our(1) room(2) was(3) not(4) ready(5) for(6) a(7) few(8) hours(9) so(10) we(11) went(12) and(13) had(14) a(15) drink(16) in(17) the(18) area(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			Once(1) we(2) got(3) our(4) room(5) ,(6) we(7) were(8) impressed(9) with(10) the(11) amenities(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) best(2) part(3) of(4) our(5) day(6) was(7) going(8) to(9) the(10) spa(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) I(2) found(3) a(4) mouse(5) in(6) the(7) locker(8) room(9) which(10) I(11) 've(12) read(13) in(14) other(15) reviews(16) commonly(17) occurs(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			We(1) ate(2) at(3) Victor(4) 's(5) for(6) dinner(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			It(1) was(2) a(3) good(4) meal(5) but(6) not(7) worth(8) the(9) $75(10) per(11) person(12) .(13) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			Definitely(1) worth(2) the(3) trip(4) 
+		</sentence>
+	</text>
+</review>

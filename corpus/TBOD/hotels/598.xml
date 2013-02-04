@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="598" item="Milford Plaza" rating="4">
+	<title>
+		<sentence id="1">
+			We(1) had(2) a(3) great(4) stay(5) at(6) Milford(7) Plaza(8) Hotel(9) in(10) NYC(11) !(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Reasonably(1) priced(2) ;(3) clean(4) ;(5) helpful(6) staff(7) ;(8) comfortable(9) beds(10) ;(11) good(12) closet(13) /(14) dresser(15) space(16) ;(17) nice(18) continental(19) breakfast(20) .(21) 
+			<opinion feature="price" opWords="1,2" polarity="+"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="staff" opWords="6" polarity="+"/>
+			<opinion featWords="10" feature="bed" opWords="9" polarity="+"/>
+			<opinion featWords="13" feature="closet" opWords="12" polarity="+"/>
+			<opinion featWords="20" feature="food" opWords="18" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) a(2) bit(3) on(4) the(5) small(6) side(7) ;(8) no(9) room(10) for(11) lounge(12) chairs(13) in(14) rooms(15) .(16) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) booked(2) ((3) 2(4) rooms(5) )(6) through(7) Expedia(8) and(9) overall(10) were(11) very(12) pleased(13) with(14) Milford(15) Plaza(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			At(1) the(2) time(3) of(4) booking(5) ,(6) we(7) upgraded(8) to(9) a(10) Club(11) Room(12) ,(13) and(14) were(15) very(16) happy(17) that(18) we(19) did(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			When(1) we(2) checked(3) in(4) ,(5) they(6) gave(7) us(8) two(9) standard(10) rooms(11) ,(12) which(13) were(14) on(15) the(16) higher(17) floors(18) .(19) 
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			We(1) went(2) back(3) to(4) the(5) front(6) desk(7) and(8) explained(9) that(10) we(11) had(12) upgraded(13) to(14) Club(15) Rooms(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) staff(2) was(3) very(4) courteous(5) and(6) immediately(7) changed(8) the(9) rooms(10) .(11) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			The(1) Club(2) rooms(3) were(4) actually(5) on(6) a(7) lower(8) floor(9) ,(10) but(11) they(12) were(13) more(14) spacious(15) ,(16) light(17) and(18) airy(19) ,(20) with(21) apparently(22) new(23) and(24) very(25) attractive(26) carpeting(27) and(28) bedding(29) .(30) 
+			<opinion featWords="27" feature="carpets" opWords="23" polarity="+" potency="22"/>
+			<opinion featWords="27" feature="carpets" opWords="26" polarity="+" potency="25"/>
+			<opinion featWords="29" feature="bedding" opWords="23" polarity="+" potency="22"/>
+			<opinion featWords="29" feature="bedding" opWords="26" polarity="+" potency="25"/>
+		</sentence>
+		<sentence id="7">
+			The(1) rooms(2) were(3) very(4) clean(5) ,(6) and(7) staff(8) was(9) friendly(10) and(11) helpful(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="8" feature="staff" opWords="10" polarity="+"/>
+			<opinion featWords="8" feature="staff" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			And(1) the(2) Club(3) rooms(4) included(5) a(6) very(7) nice(8) continental(9) breakfast(10) .(11) 
+			<opinion featWords="10" feature="food" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="9">
+			We(1) spent(2) three(3) nights(4) there(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Overall(1) ,(2) we(3) ((4) two(5) couples(6) )(7) were(8) very(9) happy(10) with(11) our(12) accommodations(13) .(14) 
+		</sentence>
+		<sentence id="11">
+			Our(1) queen(2) beds(3) were(4) extremely(5) comfortable(6) .(7) 
+			<opinion featWords="3" feature="bed" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="12">
+			The(1) rooms(2) were(3) quiet(4) and(5) inviting(6) .(7) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			Although(1) it(2) 's(3) not(4) as(5) grand(6) as(7) other(8) places(9) we(10) 've(11) stayed(12) ,(13) we(14) were(15) very(16) happy(17) and(18) comfortable(19) there(20) .(21) 
+		</sentence>
+		<sentence id="14">
+			We(1) loved(2) being(3) within(4) walking(5) distance(6) of(7) so(8) many(9) of(10) NYC(11) 's(12) great(13) attractions(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			We(1) all(2) agree(3) that(4) we(5) would(6) definitely(7) choose(8) Milford(9) Plaza(10) again(11) .(12) 
+			<opinion feature="hotel" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+	</text>
+</review>

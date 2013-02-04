@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="98" item="Quality Inn And Suites Conference C" rating="1">
+	<title>
+		<sentence id="1">
+			Awful(1) ,(2) dirty(3) ,(4) inept(5) management(6) ...(7) do(8) not(9) go(10) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion featWords="6" feature="front desk" opWords="5" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			proximity(1) to(2) Dutch(3) Wonderland(4) and(5) outlets(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			everything(1) ...(2) inept(3) ,(4) dirty(5) ,(6) unprofessional(7) ,(8) terrible(9) management(10) 
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion feature="hotel" opWords="5" polarity="-"/>
+			<opinion feature="hotel" opWords="7" polarity="-"/>
+			<opinion featWords="10" feature="front desk" opWords="9" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			awful(1) .(2) .(3) go(4) next(5) door(6) to(7) the(8) country(9) inn(10) and(11) suites(12) which(13) is(14) LOVELY(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Qualilty(1) inn(2) is(3) dirty(4) ,(5) awful(6) service(7) ,(8) inept(9) ,(10) etc(11) .(12) 
+			<opinion feature="hotel" opWords="4" polarity="-"/>
+			<opinion featWords="7" feature="service" opWords="6" polarity="-"/>
+			<opinion feature="hotel" opWords="9" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) sister(2) and(3) I(4) took(5) my(6) two(7) young(8) sons(9) to(10) Lancaster(11) for(12) 2(13) days(14) and(15) took(16) them(17) to(18) Dutch(19) Wonderland(20) for(21) the(22) day(23) .(24) 
+		</sentence>
+		<sentence id="2">
+			First(1) ,(2) we(3) stopped(4) in(5) at(6) the(7) Quality(8) Inn(9) just(10) to(11) see(12) if(13) our(14) room(15) was(16) ready(17) yet(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) made(3) our(4) reservation(5) weeks(6) in(7) advance(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) figured(2) the(3) room(4) was(5) not(6) ready(7) ,(8) but(9) it(10) was(11) worth(12) a(13) shot(14) and(15) we(16) also(17) wanted(18) to(19) be(20) sure(21) we(22) could(23) park(24) our(25) car(26) in(27) the(28) lot(29) while(30) we(31) were(32) at(33) the(34) park(35) .(36) 
+			<opinion featWords="4" feature="rooms" opWords="6,7" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			We(1) were(2) told(3) the(4) rooms(5) were(6) guaranteed(7) by(8) 3pm(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			We(1) came(2) back(3) after(4) a(5) long(6) day(7) at(8) the(9) park(10) and(11) arrived(12) in(13) the(14) lobby(15) about(16) 3:30(17) with(18) two(19) tired(20) little(21) boys(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			In(1) front(2) of(3) us(4) was(5) one(6) family(7) in(8) line(9) trying(10) to(11) check(12) in(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			There(1) was(2) ONE(3) girl(4) behind(5) the(6) desk(7) who(8) seemed(9) responsible(10) for(11) checking(12) people(13) in(14) ,(15) making(16) reservations(17) ,(18) answering(19) the(20) phones(21) ,(22) answering(23) guests(24) calls(25) ,(26) etc.(27) One(28) person(29) was(30) not(31) nearly(32) enough(33) for(34) check-in(35) time(36) during(37) the(38) week(39) of(40) 4th(41) of(42) July(43) .(44) 
+		</sentence>
+		<sentence id="9">
+			She(1) kept(2) making(3) guests(4) who(5) were(6) trying(7) to(8) check(9) in(10) wait(11) while(12) she(13) answered(14) phones(15) ,(16) gave(17) directions(18) ,(19) checked(20) availability(21) etc.(22) It(23) took(24) 40(25) minutes(26) for(27) her(28) to(29) check(30) in(31) the(32) family(33) ahead(34) of(35) us(36) .(37) 
+		</sentence>
+		<sentence id="10">
+			After(1) waiting(2) 40(3) minutes(4) in(5) line(6) ((7) after(8) only(9) ONE(10) customer(11) )(12) ,(13) we(14) were(15) glad(16) it(17) was(18) our(19) turn(20) to(21) check(22) in(23) and(24) go(25) relax(26) in(27) the(28) room(29) for(30) a(31) bit(32) .(33) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) now(3) 4:15(4) ((5) room(6) guaranteed(7) by(8) 3pm(9) )(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Then(1) it(2) turns(3) out(4) she(5) does(6) not(7) have(8) record(9) of(10) our(11) suite(12) being(13) cleaned(14) .(15) 
+		</sentence>
+		<sentence id="13">
+			She(1) now(2) has(3) to(4) try(5) to(6) physically(7) radio(8) the(9) maids(10) to(11) see(12) if(13) it(14) has(15) been(16) cleaned(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			After(1) about(2) 10(3) minutes(4) of(5) trying(6) to(7) reach(8) someone(9) ,(10) the(11) maintenance(12) worker(13) has(14) to(15) go(16) up(17) to(18) the(19) floor(20) to(21) check(22) if(23) the(24) rooms(25) had(26) been(27) cleaned(28) .(29) 
+		</sentence>
+		<sentence id="15">
+			He(1) radios(2) down(3) and(4) quite(5) clearly(6) says(7) "(8) the(9) rooms(10) are(11) dirty(12) ,(13) they(14) 'll(15) have(16) to(17) wait(18) "(19) .(20) 
+			<opinion featWords="10" feature="rooms" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			Well(1) ,(2) after(3) waiting(4) for(5) an(6) hour(7) already(8) ,(9) this(10) was(11) completely(12) unacceptable(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			Why(1) would(2) you(3) guarantee(4) rooms(5) be(6) available(7) by(8) 3pm(9) and(10) then(11) expect(12) guests(13) to(14) wait(15) ?(16) 
+		</sentence>
+		<sentence id="18">
+			While(1) all(2) this(3) was(4) going(5) on(6) ,(7) at(8) least(9) 6(10) other(11) families(12) had(13) lined(14) up(15) in(16) this(17) horrendous(18) line(19) to(20) wait(21) for(22) their(23) turn(24) to(25) be(26) told(27) their(28) rooms(29) were(30) not(31) ready(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			I(1) asked(2) for(3) a(4) manager(5) ,(6) and(7) of(8) course(9) no(10) one(11) was(12) on(13) duty(14) on(15) a(16) very(17) busy(18) holiday(19) week(20) during(21) the(22) summer(23) .(24) 
+		</sentence>
+		<sentence id="20">
+			Then(1) the(2) maintenance(3) man(4) came(5) back(6) down(7) and(8) started(9) chit-chatting(10) with(11) the(12) girl(13) at(14) the(15) front(16) desk(17) ((18) for(19) everyone(20) to(21) hear(22) )(23) and(24) joking(25) with(26) her(27) about(28) what(29) guests(30) were(31) doing(32) in(33) their(34) rooms(35) earlier(36) in(37) the(38) day(39) .(40) 
+		</sentence>
+		<sentence id="21">
+			He(1) joked(2) about(3) how(4) much(5) alcohol(6) they(7) had(8) brought(9) with(10) them(11) ,(12) how(13) drunk(14) they(15) were(16) etc.(17) He(18) should(19) not(20) have(21) ,(22) by(23) any(24) means(25) ,(26) been(27) looking(28) for(29) a(30) laugh(31) by(32) telling(33) everyone(34) in(35) the(36) lobby(37) guests(38) '(39) business(40) .(41) 
+		</sentence>
+		<sentence id="22">
+			It(1) was(2) completely(3) unprofessional(4) of(5) him(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			That(1) was(2) the(3) last(4) straw(5) .(6) 
+		</sentence>
+		<sentence id="24">
+			It(1) was(2) clear(3) we(4) were(5) not(6) going(7) to(8) get(9) a(10) clean(11) room(12) anytime(13) soon(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			I(1) got(2) out(3) my(4) cell-phone(5) and(6) called(7) the(8) Country(9) Inn(10) and(11) Suites(12) next(13) door(14) ,(15) made(16) a(17) reservation(18) ,(19) walked(20) over(21) there(22) and(23) checked(24) in(25) all(26) within(27) maybe(28) 8(29) minutes(30) .(31) 
+		</sentence>
+		<sentence id="26">
+			They(1) were(2) polite(3) ,(4) courteous(5) ,(6) efficient(7) ,(8) and(9) professional(10) in(11) everything(12) they(13) did(14) ...(15) as(16) it(17) should(18) be(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			I(1) will(2) never(3) stay(4) at(5) another(6) Quality(7) Inn(8) again(9) because(10) of(11) this(12) horrid(13) experience(14) .(15) 
+		</sentence>
+		<sentence id="28">
+			I(1) also(2) will(3) not(4) recommend(5) it(6) to(7) others(8) .(9) 
+		</sentence>
+		<sentence id="29">
+			I(1) will(2) tell(3) them(4) to(5) pay(6) the(7) extra(8) $20(9) and(10) walk(11) next(12) door(13) .(14) 
+		</sentence>
+	</text>
+</review>

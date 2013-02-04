@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="696" item="Quality Inn International" rating="3">
+	<title>
+		<sentence id="1">
+			Quality(1) Inn(2) International(3) :(4) A(5) Mixed(6) Bag(7) in(8) a(9) Great(10) Location(11) on(12) Orlando(13) 's(14) International(15) Drive(16) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) location(2) ,(3) large(4) tub(5) ,(6) fridge(7) and(8) microwave(9) in(10) room(11) ,(12) comfortable(13) beds(14) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="tub" opWords="4" polarity="+"/>
+			<opinion featWords="14" feature="bed" opWords="13" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			ineffective(1) air(2) conditioning(3) ,(4) maze-like(5) grounds(6) ,(7) very(8) dark(9) ,(10) inept(11) desk(12) staff(13) 
+			<opinion featWords="2,3" feature="air conditioning units" opWords="1" polarity="-"/>
+			<opinion featWords="6" feature="grounds" opWords="5" polarity="-"/>
+			<opinion feature="hotel" opWords="9" polarity="-"/>
+			<opinion featWords="12" feature="front desk" opWords="11" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) only(2) spent(3) one(4) night(5) in(6) this(7) hotel(8) and(9) I(10) was(11) very(12) glad(13) I(14) did(15) not(16) book(17) my(18) entire(19) vacation(20) here(21) .(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Located(1) right(2) in(3) the(4) heart(5) of(6) International(7) Drive(8) right(9) by(10) the(11) main(12) turnoff(13) to(14) Universal(15) ,(16) the(17) Quality(18) Inn(19) International(20) is(21) a(22) large(23) strip(24) motel(25) with(26) several(27) buildings(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) a(3) huge(4) property(5) ,(6) frankly(7) ,(8) and(9) not(10) particularly(11) well(12) designed(13) .(14) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="10,12,13" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			The(1) walkways(2) are(3) maze-like(4) with(5) lots(6) of(7) dead(8) ends(9) and(10) rarely(11) any(12) clear(13) way(14) to(15) get(16) from(17) point(18) A(19) to(20) point(21) B.(22) It(23) took(24) me(25) over(26) ten(27) minutes(28) just(29) to(30) walk(31) from(32) my(33) room(34) to(35) the(36) street(37) ,(38) in(39) large(40) part(41) because(42) I(43) had(44) to(45) backtrack(46) twice(47) .(48) 
+		</sentence>
+		<sentence id="4">
+			The(1) lobby(2) is(3) in(4) the(5) rear(6) and(7) not(8) attached(9) to(10) the(11) parking(12) lot(13) so(14) it(15) 's(16) really(17) hard(18) to(19) find(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) also(3) very(4) badly(5) marked(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			I(1) had(2) to(3) ask(4) folks(5) wandering(6) around(7) how(8) to(9) get(10) there(11) when(12) I(13) first(14) arrived(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			The(1) grounds(2) are(3) also(4) rather(5) poorly(6) lit(7) ,(8) making(9) the(10) process(11) of(12) walking(13) anywhere(14) on(15) property(16) after(17) dark(18) unpleasant(19) and(20) dangerous(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			The(1) desk(2) staff(3) is(4) a(5) bit(6) clueless(7) .(8) 
+			<opinion featWords="2" feature="front desk" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			None(1) of(2) them(3) had(4) ever(5) heard(6) of(7) the(8) frequent(9) traveler(10) program(11) Quality(12) Inn(13) participates(14) in(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			My(1) clerk(2) was(3) constantly(4) asking(5) other(6) clerks(7) for(8) help(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			In(1) the(2) end(3) ,(4) after(5) a(6) long(7) period(8) with(9) multiple(10) consultations(11) with(12) other(13) staff(14) members(15) ,(16) she(17) was(18) able(19) to(20) find(21) me(22) a1st(23) floor(24) non-smoking(25) room(26) available(27) at(28) noon(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			The(1) official(2) check-in(3) time(4) is(5) 3pm(6) and(7) I(8) indicated(9) a(10) willingness(11) to(12) wait(13) as(14) long(15) as(16) I(17) could(18) leave(19) my(20) bags(21) at(22) the(23) desk(24) ,(25) but(26) she(27) did(28) not(29) seem(30) to(31) comprehend(32) .(33) 
+		</sentence>
+		<sentence id="13">
+			In(1) the(2) end(3) I(4) was(5) glad(6) to(7) get(8) the(9) room(10) just(11) so(12) I(13) did(14) not(15) have(16) to(17) deal(18) with(19) the(20) desk(21) staff(22) again(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			Some(1) rooms(2) have(3) drive(4) up(5) access(6) but(7) others(8) do(9) not(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			Mine(1) did(2) not(3) ,(4) but(5) since(6) I(7) was(8) on(9) foot(10) I(11) did(12) not(13) care(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			The(1) room(2) itself(3) was(4) not(5) huge(6) but(7) perfectly(8) adequate(9) for(10) one(11) or(12) two(13) people(14) .(15) 
+			<opinion featWords="2" feature="rooms" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="17">
+			I(1) would(2) not(3) stay(4) here(5) with(6) four(7) people(8) unless(9) you(10) 're(11) all(12) very(13) friendly(14) .(15) 
+			<opinion feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			The(1) room(2) had(3) a(4) very(5) large(6) window(7) and(8) light(9) always(10) filtered(11) in(12) around(13) the(14) curtains(15) no(16) matter(17) how(18) they(19) were(20) arranged(21) .(22) 
+		</sentence>
+		<sentence id="19">
+			If(1) you(2) need(3) total(4) darkness(5) to(6) sleep(7) and(8) do(9) not(10) want(11) to(12) wake(13) with(14) the(15) dawn(16) ,(17) bring(18) a(19) sleep(20) mask(21) .(22) 
+		</sentence>
+		<sentence id="20">
+			The(1) room(2) features(3) two(4) double(5) beds(6) with(7) a(8) single(9) nightstand(10) between(11) them(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			A(1) long(2) ,(3) low(4) bureau(5) is(6) across(7) from(8) both(9) beds(10) with(11) a(12) small(13) television(14) with(15) very(16) limited(17) channel(18) selection(19) ((20) it(21) did(22) not(23) even(24) have(25) ESPN(26) )(27) .(28) 
+			<opinion featWords="14" feature="tv" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="22">
+			A(1) round(2) table(3) with(4) two(5) chairs(6) sits(7) near(8) the(9) window(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			There(1) is(2) not(3) a(4) lot(5) of(6) room(7) between(8) the(9) bed(10) and(11) dresser(12) or(13) the(14) bed(15) and(16) table(17) but(18) there(19) 's(20) plenty(21) of(22) space(23) between(24) beds(25) .(26) 
+		</sentence>
+		<sentence id="24">
+			The(1) size(2) limitations(3) of(4) the(5) room(6) are(7) more(8) from(9) the(10) furniture(11) layout(12) than(13) the(14) space(15) itself(16) .(17) 
+		</sentence>
+		<sentence id="25">
+			The(1) room(2) had(3) an(4) open(5) closet(6) ,(7) sink(8) area(9) ,(10) and(11) a(12) small(13) bathroom(14) in(15) rear(16) .(17) 
+			<opinion featWords="14" feature="bathroom" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			I(1) thought(2) this(3) an(4) odd(5) closet(6) placement(7) since(8) you(9) have(10) to(11) walk(12) all(13) the(14) way(15) through(16) the(17) room(18) to(19) hang(20) up(21) your(22) coat(23) or(24) sweater(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			The(1) bathroom(2) is(3) small(4) but(5) the(6) tub(7) is(8) large(9) and(10) deep(11) .(12) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+			<opinion featWords="7" feature="tub" opWords="9" polarity="+"/>
+			<opinion featWords="7" feature="tub" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			If(1) you(2) want(3) to(4) relax(5) in(6) the(7) tub(8) after(9) a(10) long(11) day(12) of(13) walking(14) about(15) ,(16) this(17) is(18) a(19) good(20) room(21) to(22) do(23) it(24) in(25) .(26) 
+			<opinion featWords="21" feature="rooms" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			Another(1) nice(2) touch(3) is(4) the(5) inclusion(6) of(7) an(8) extra(9) roll(10) of(11) toilet(12) paper(13) behind(14) roll(15) in(16) use(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			I(1) 've(2) found(3) some(4) hotel(5) rooms(6) pay(7) little(8) attention(9) to(10) the(11) amount(12) of(13) paper(14) left(15) on(16) the(17) roll(18) ;(19) this(20) extra(21) roll(22) makes(23) that(24) less(25) necessary(26) .(27) 
+		</sentence>
+		<sentence id="31">
+			On(1) the(2) down(3) side(4) ,(5) it(6) makes(7) it(8) hard(9) to(10) turn(11) the(12) roll(13) that(14) 's(15) currently(16) open(17) .(18) 
+		</sentence>
+		<sentence id="32">
+			As(1) far(2) as(3) other(4) amenities(5) go(6) ,(7) surprisingly(8) the(9) room(10) did(11) have(12) a(13) small(14) refrigerator(15) next(16) to(17) the(18) dresser(19) and(20) a(21) tiny(22) microwave(23) next(24) to(25) the(26) sink(27) .(28) 
+		</sentence>
+		<sentence id="33">
+			I(1) did(2) not(3) use(4) the(5) microwave(6) ,(7) but(8) being(9) able(10) to(11) toss(12) a(13) bottle(14) of(15) water(16) in(17) the(18) fridge(19) to(20) keep(21) it(22) cold(23) was(24) nice(25) .(26) 
+		</sentence>
+		<sentence id="34">
+			One(1) of(2) the(3) beds(4) in(5) my(6) room(7) only(8) had(9) single(10) pillow(11) ,(12) but(13) the(14) beds(15) themselves(16) were(17) quite(18) comfortable(19) .(20) 
+			<opinion featWords="15" feature="bed" opWords="19" polarity="+" potency="18"/>
+		</sentence>
+		<sentence id="35">
+			There(1) were(2) plenty(3) of(4) electrical(5) outlets(6) scattered(7) about(8) the(9) room(10) and(11) ,(12) for(13) once(14) ,(15) towels(16) were(17) plentiful(18) .(19) 
+			<opinion featWords="16" feature="towels" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="36">
+			I(1) would(2) have(3) been(4) fairly(5) happy(6) with(7) the(8) room(9) as(10) a(11) solo(12) traveler(13) but(14) for(15) one(16) thing(17) :(18) the(19) air(20) conditioning(21) was(22) ineffective(23) .(24) 
+			<opinion featWords="20,21" feature="air conditioning units" opWords="23" polarity="-"/>
+		</sentence>
+		<sentence id="37">
+			I(1) put(2) it(3) on(4) high(5) cool(6) ,(7) coldest(8) after(9) I(10) checked(11) in(12) but(13) the(14) room(15) was(16) warm(17) when(18) I(19) arrived(20) back(21) 10(22) hours(23) later(24) .(25) 
+		</sentence>
+		<sentence id="38">
+			It(1) cooled(2) off(3) 60-90(4) min(5) later(6) and(7) actually(8) was(9) slightly(10) chilly(11) when(12) I(13) woke(14) up(15) around(16) 4am(17) but(18) horribly(19) hot(20) again(21) by(22) 6:30(23) .(24) 
+		</sentence>
+		<sentence id="39">
+			All(1) of(2) this(3) happened(4) without(5) further(6) adjustment(7) to(8) the(9) controls(10) .(11) 
+		</sentence>
+		<sentence id="40">
+			The(1) Quality(2) Inn(3) International(4) offers(5) free(6) shuttle(7) service(8) to(9) Universal(10) and(11) to(12) Sea(13) World(14) .(15) 
+		</sentence>
+		<sentence id="41">
+			I(1) did(2) not(3) use(4) it(5) ,(6) but(7) in(8) one(9) of(10) those(11) odd(12) coincidences(13) ,(14) it(15) uses(16) the(17) same(18) shuttles(19) as(20) the(21) motel(22) I(23) stayed(24) at(25) the(26) following(27) week(28) when(29) I(30) did(31) visit(32) the(33) parks(34) .(35) 
+		</sentence>
+		<sentence id="42">
+			The(1) Quality(2) Inn(3) is(4) the(5) last(6) of(7) four(8) stops(9) on(10) the(11) shuttle(12) in(13) both(14) directions(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			It(1) 's(2) sort(3) of(4) the(5) worst(6) of(7) both(8) worlds(9) ,(10) for(11) there(12) are(13) no(14) seats(15) left(16) by(17) the(18) time(19) the(20) shuttles(21) arrive(22) at(23) the(24) hotel(25) in(26) the(27) morning(28) and(29) it(30) takes(31) almost(32) 20(33) minutes(34) to(35) return(36) to(37) the(38) hotel(39) with(40) all(41) of(42) the(43) other(44) stops(45) .(46) 
+		</sentence>
+		<sentence id="44">
+			The(1) shuttle(2) makes(3) two(4) runs(5) to(6) Universal(7) in(8) the(9) morning(10) -(11) one(12) around(13) 8:15(14) and(15) one(16) around(17) 10:30(18) .(19) 
+		</sentence>
+		<sentence id="45">
+			The(1) shuttle(2) was(3) on(4) or(5) close(6) to(7) on(8) time(9) each(10) day(11) I(12) took(13) it(14) ,(15) but(16) I(17) really(18) disliked(19) the(20) times(21) they(22) offered(23) .(24) 
+		</sentence>
+		<sentence id="46">
+			There(1) is(2) not(3) enough(4) time(5) to(6) eat(7) breakfast(8) before(9) catching(10) the(11) early(12) shuttle(13) -(14) the(15) restaurants(16) on(17) I-Drive(18) all(19) seem(20) to(21) open(22) at(23) 7am(24) -(25) but(26) if(27) you(28) wait(29) until(30) the(31) later(32) shuttle(33) you(34) 've(35) missed(36) half(37) of(38) the(39) day(40) .(41) 
+		</sentence>
+		<sentence id="47">
+			Similarly(1) ,(2) return(3) trips(4) begin(5) at(6) 4pm(7) .(8) 
+		</sentence>
+		<sentence id="48">
+			There(1) 's(2) a(3) second(4) trip(5) at(6) 5:40(7) and(8) ,(9) only(10) when(11) the(12) parks(13) close(14) at(15) 6(16) ,(17) another(18) at(19) 6:40(20) .(21) 
+		</sentence>
+		<sentence id="49">
+			If(1) you(2) want(3) to(4) eat(5) at(6) CityWalk(7) ,(8) you(9) need(10) to(11) leave(12) the(13) parks(14) an(15) hour(16) or(17) more(18) before(19) they(20) close(21) .(22) 
+		</sentence>
+		<sentence id="50">
+			If(1) you(2) want(3) to(4) take(5) a(6) break(7) during(8) the(9) day(10) or(11) return(12) later(13) than(14) 40(15) minutes(16) after(17) park(18) close(19) ,(20) you(21) 'll(22) need(23) to(24) take(25) a(26) cab(27) ((28) between(29) $8-12(30) according(31) to(32) the(33) dispatcher(34) at(35) the(36) park(37) taxi(38) stand(39) )(40) .(41) 
+		</sentence>
+		<sentence id="51">
+			There(1) are(2) also(3) evening(4) shuttles(5) to(6) and(7) from(8) CityWalk(9) ,(10) but(11) they(12) only(13) run(14) on(15) Thursday(16) ,(17) Friday(18) ,(19) and(20) Saturday(21) nights(22) and(23) they(24) ,(25) too(26) ,(27) require(28) staying(29) at(30) the(31) park(32) for(33) many(34) hours(35) or(36) taking(37) a(38) cab(39) back(40) to(41) the(42) hotel(43) ((44) I(45) believe(46) the(47) first(48) return(49) trip(50) was(51) around(52) midnight(53) with(54) a(55) second(56) at(57) 1am(58) ,(59) but(60) I(61) did(62) not(63) take(64) these(65) shuttles(66) so(67) I(68) 'm(69) not(70) positive(71) )(72) .(73) 
+		</sentence>
+		<sentence id="52">
+			I(1) only(2) spent(3) one(4) night(5) in(6) this(7) hotel(8) and(9) I(10) was(11) very(12) glad(13) I(14) did(15) not(16) book(17) my(18) entire(19) vacation(20) here(21) .(22) 
+		</sentence>
+		<sentence id="53">
+			While(1) in(2) a(3) great(4) location(5) ,(6) inexpensive(7) ((8) $35/night(9) online(10) in(11) December(12) )(13) ,(14) and(15) offering(16) decent(17) rooms(18) for(19) one(20) or(21) two(22) occupants(23) ,(24) the(25) crazy(26) design(27) of(28) the(29) grounds(30) ,(31) the(32) lack(33) of(34) light(35) ,(36) the(37) inept(38) desk(39) staff(40) ,(41) and(42) most(43) especially(44) the(45) ineffective(46) air(47) conditioning(48) made(49) for(50) a(51) less(52) than(53) pleasant(54) stay(55) .(56) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+			<opinion feature="price" opWords="7" polarity="+"/>
+			<opinion featWords="18" feature="rooms" opWords="17" polarity="+"/>
+			<opinion featWords="40" feature="staff" opWords="38" polarity="-"/>
+			<opinion featWords="47,48" feature="air conditioning units" opWords="46" polarity="-"/>
+		</sentence>
+	</text>
+</review>

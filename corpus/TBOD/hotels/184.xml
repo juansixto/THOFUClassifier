@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="184" item="Delta Toronto Airport West" rating="1">
+	<title>
+		<sentence id="1">
+			Misleading(1) ,(2) understaffed(3) ,(4) and(5) nickels(6) and(7) dimes(8) 
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Patio(1) ,(2) decent(3) fitness(4) center(5) 
+			<opinion featWords="4,5" feature="gym" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			charges(1) for(2) everything(3) ,(4) unfriendly(5) staff(6) ,(7) understaffed(8) 
+			<opinion featWords="6" feature="staff" opWords="5" polarity="-"/>
+			<opinion feature="hotel" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			find(1) another(2) hotel(3) in(4) the(5) area(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) plenty(3) of(4) better(5) ones(6) !(7) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) we(2) arrived(3) at(4) the(5) hotel(6) ,(7) we(8) noticed(9) the(10) open(11) parking(12) lot(13) we(14) pulled(15) into(16) had(17) signs(18) stating(19) that(20) the(21) lot(22) was(23) managed(24) by(25) Impark(26) ,(27) but(28) hotel(29) guests(30) should(31) proceed(32) to(33) check-in(34) and(35) not(36) pay(37) at(38) the(39) meter(40) .(41) 
+		</sentence>
+		<sentence id="2">
+			For(1) some(2) background(3) ,(4) this(5) hotel(6) ,(7) although(8) close(9) to(10) the(11) airport(12) ,(13) is(14) not(15) located(16) in(17) a(18) high(19) density(20) urban(21) area(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			The(1) setting(2) is(3) suburban(4) with(5) every(6) restaurant(7) ,(8) retail(9) store(10) and(11) car(12) dealership(13) offering(14) plenty(15) of(16) free(17) parking(18) for(19) their(20) customers(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Impark(1) ,(2) Delta(3) 's(4) parking(5) lot(6) operator(7) ,(8) wanted(9) lot(10) users(11) ((12) other(13) than(14) hotel(15) guests(16) )(17) to(18) pay(19) $1(20) CAN(21) /(22) hour(23) to(24) a(25) max(26) of(27) $5(28) CAN(29) /(30) day(31) to(32) park(33) while(34) staying(35) at(36) the(37) Delta(38) .(39) 
+		</sentence>
+		<sentence id="5">
+			Anyway(1) ,(2) when(3) I(4) checked(5) in(6) ((7) around(8) 8:30(9) PM(10) )(11) ,(12) the(13) desk(14) attendant(15) was(16) not(17) helping(18) anyone(19) else(20) but(21) was(22) very(23) slow(24) to(25) come(26) over(27) to(28) help(29) us(30) .(31) 
+		</sentence>
+		<sentence id="6">
+			Check-in(1) then(2) went(3) normal(4) but(5) she(6) asked(7) if(8) we(9) had(10) a(11) car(12) we(13) would(14) be(15) parking(16) in(17) the(18) lot(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			We(1) told(2) her(3) we(4) did(5) and(6) she(7) said(8) they(9) required(10) our(11) license(12) plate(13) number(14) so(15) we(16) would(17) not(18) get(19) a(20) ticket(21) or(22) towed(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			So(1) it(2) sounded(3) like(4) parking(5) was(6) included(7) ,(8) or(9) at(10) the(11) very(12) worst(13) ,(14) Delta(15) would(16) add(17) Impark(18) 's(19) $5/day(20) charge(21) to(22) my(23) room(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			The(1) morning(2) I(3) checked(4) out(5) I(6) received(7) a(8) $27(9) bill(10) from(11) Delta(12) for(13) parking(14) 3(15) days(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			Not(1) only(2) had(3) they(4) charged(5) me(6) which(7) was(8) never(9) clearly(10) stated(11) by(12) the(13) front(14) desk(15) or(16) on(17) the(18) signs(19) in(20) the(21) lot(22) ,(23) but(24) they(25) had(26) charged(27) me(28) nearly(29) 80(30) %(31) more(32) than(33) if(34) I(35) had(36) paid(37) Impark(38) 's(39) meter(40) myself(41) .(42) 
+		</sentence>
+		<sentence id="11">
+			I(1) explained(2) as(3) I(4) checked(5) out(6) how(7) unhappy(8) I(9) was(10) about(11) my(12) charges(13) and(14) that(15) I(16) felt(17) very(18) misled(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			The(1) lady(2) explained(3) she(4) had(5) no(6) control(7) over(8) the(9) parking(10) costs(11) because(12) the(13) lot(14) was(15) managed(16) by(17) Impark(18) ,(19) not(20) the(21) Delta(22) ,(23) and(24) she(25) could(26) not(27) do(28) anything(29) to(30) adjust(31) the(32) charges(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			I(1) asked(2) her(3) why(4) I(5) was(6) not(7) charged(8) the(9) maximum(10) $5(11) per(12) day(13) and(14) she(15) explained(16) if(17) I(18) wanted(19) that(20) rate(21) ,(22) I(23) had(24) to(25) feed(26) the(27) meter(28) every(29) night(30) at(31) 3(32) AM.(33) Guests(34) did(35) not(36) have(37) that(38) inconvenience(39) but(40) their(41) rate(42) was(43) $9.17/day(44) and(45) this(46) was(47) all(48) explained(49) clearly(50) when(51) I(52) checked-in(53) .(54) 
+		</sentence>
+		<sentence id="14">
+			I(1) continued(2) to(3) press(4) firmly(5) explaining(6) I(7) would(8) post(9) my(10) review(11) of(12) the(13) hotel(14) on(15) Yahoo(16) and(17) other(18) review(19) boards(20) and(21) I(22) would(23) not(24) be(25) happy(26) if(27) I(28) was(29) charged(30) more(31) than(32) $5/day(33) .(34) 
+		</sentence>
+		<sentence id="15">
+			She(1) then(2) suddenly(3) had(4) the(5) power(6) ,(7) she(8) previously(9) claimed(10) she(11) did(12) not(13) have(14) ,(15) to(16) waive(17) one(18) day(19) of(20) parking(21) ((22) $18(23) and(24) change(25) balance(26) )(27) ,(28) but(29) she(30) could(31) not(32) do(33) anymore(34) .(35) 
+		</sentence>
+		<sentence id="16">
+			I(1) ended(2) up(3) accepting(4) her(5) offer(6) ,(7) but(8) I(9) am(10) NOT(11) happy(12) and(13) will(14) not(15) stay(16) at(17) this(18) Delta(19) again(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) plenty(3) of(4) great(5) hotels(6) of(7) this(8) or(9) better(10) quality(11) located(12) around(13) the(14) airport(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			Find(1) a(2) place(3) that(4) is(5) honest(6) and(7) is(8) not(9) willing(10) to(11) let(12) a(13) guest(14) leave(15) unhappy(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			Lastly(1) ,(2) I(3) mentioned(4) in(5) the(6) title(7) the(8) hotel(9) was(10) understaffed(11) .(12) 
+			<opinion featWords="9" feature="hotel" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			I(1) noticed(2) the(3) same(4) lady(5) that(6) checked(7) us(8) twelve(9) hours(10) earlier(11) still(12) working(13) the(14) front(15) desk(16) the(17) next(18) day(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			When(1) their(2) was(3) a(4) line(5) at(6) the(7) front(8) desk(9) ,(10) no(11) one(12) else(13) was(14) able(15) to(16) help(17) out(18) to(19) reduce(20) the(21) waiting(22) time(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			Other(1) notes(2) :(3) Fitness(4) Room(5) :(6) 2(7) modern(8) treadmills(9) and(10) 2(11) older(12) treadmills(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			One(1) of(2) the(3) older(4) treadmill(5) 's(6) incline(7) feature(8) was(9) broken(10) .(11) 
+		</sentence>
+		<sentence id="24">
+			On(1) a(2) positive(3) note(4) ,(5) fresh(6) apples(7) and(8) oranges(9) are(10) provided(11) with(12) cold(13) dry(14) towels(15) ((16) towels(17) reside(18) in(19) a(20) refrigerator(21) )(22) for(23) your(24) workout(25) .(26) 
+		</sentence>
+		<sentence id="25">
+			Breakfast(1) :(2) Continental(3) breakfast(4) is(5) amazingly(6) expensive(7) -(8) $12(9) CAN(10) !(11) 
+			<opinion feature="price" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			Omelets(1) and(2) most(3) other(4) items(5) were(6) also(7) $12-$14(8) .(9) 
+		</sentence>
+		<sentence id="27">
+			Patio(1) :(2) Very(3) ,(4) very(5) nice(6) .(7) 
+			<opinion featWords="1" feature="patio" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="28">
+			Beautifully(1) landscaped(2) ,(3) green(4) and(5) open(6) .(7) 
+			<opinion feature="hotel" opWords="1,2" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			After(1) our(2) 10(3) mile(4) run(5) we(6) sat(7) outside(8) at(9) a(10) table(11) with(12) an(13) umbrella(14) and(15) soaked(16) up(17) the(18) cool(19) breeze(20) and(21) fresh(22) air(23) .(24) 
+		</sentence>
+		<sentence id="30">
+			I(1) have(2) not(3) been(4) to(5) many(6) hotels(7) with(8) this(9) nice(10) of(11) a(12) courtyard(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			Internet(1) and(2) Local(3) Calls(4) :(5) In(6) room(7) wired(8) Internet(9) is(10) $10.95/day(11) .(12) 
+		</sentence>
+		<sentence id="32">
+			Free(1) wireless(2) in(3) the(4) lobby(5) .(6) 
+		</sentence>
+		<sentence id="33">
+			Local(1) and(2) 800(3) calls(4) were(5) charged(6) at(7) $1.50/call(8) at(9) a(10) max(11) of(12) 99(13) min(14) if(15) I(16) recall(17) correctly(18) .(19) 
+		</sentence>
+		<sentence id="34">
+			Charges(1) like(2) these(3) really(4) made(5) me(6) feel(7) nickel(8) and(9) dimed(10) .(11) 
+		</sentence>
+	</text>
+</review>

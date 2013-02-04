@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="601" item="New Yorker Ramada" rating="3">
+	<title>
+		<sentence id="1">
+			Location(1) Location(2) Location(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) and(2) helpful(3) staff(4) 
+			<opinion featWords="4" feature="staff" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			My(1) tiny(2) room(3) with(4) blood(5) stains(6) 
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Sketchy(1) ,(2) but(3) awesome(4) location(5) .(6) 
+			<opinion featWords="5" feature="place" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) for(2) folks(3) who(4) do(5) not(6) want(7) to(8) stay(9) in(10) the(11) ghetto(12) but(13) can(14) not(15) spend(16) the(17) cheddar(18) to(19) stay(20) off(21) Times(22) Square(23) .(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) seriously(3) never(4) seen(5) a(6) room(7) this(8) small(9) before(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Seriously(1) .(2) 
+		</sentence>
+		<sentence id="3">
+			And(1) there(2) were(3) two(4) beds(5) in(6) it(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			Wow(1) .(2) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) an(3) amazing(4) accomplishment(5) of(6) human(7) engineering(8) ,(9) really(10) that(11) they(12) got(13) me(14) ,(15) my(16) best(17) friend(18) ,(19) and(20) all(21) of(22) our(23) stuff(24) into(25) this(26) tiny(27) ,(28) tiny(29) room(30) .(31) 
+			<opinion featWords="30" feature="rooms" opWords="29" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			Good(1) things(2) :(3) -(4) Location(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			Right(1) off(2) 34th(3) street(4) .(5) 
+		</sentence>
+		<sentence id="8">
+			Penn(1) Station(2) is(3) right(4) next(5) to(6) it(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			There(1) 's(2) a(3) good(4) little(5) restaurant(6) connected(7) to(8) the(9) lobby(10) .(11) 
+			<opinion featWords="6" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="6" feature="food" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			Macy(1) 's(2) is(3) like(4) only(5) a(6) block(7) away(8) and(9) Times(10) Square(11) is(12) within(13) easy(14) walking(15) distance(16) .(17) -(18) Staff(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			They(1) were(2) polite(3) and(4) helpful(5) when(6) asked(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			No(1) hassle(2) .(3) 
+		</sentence>
+		<sentence id="13">
+			Not(1) much(2) attitude(3) .(4) 
+		</sentence>
+		<sentence id="14">
+			They(1) did(2) their(3) jobs(4) well(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			Except(1) the(2) night(3) manager(4) .(5) 
+		</sentence>
+		<sentence id="16">
+			He(1) seemed(2) really(3) tired(4) .(5) 
+		</sentence>
+		<sentence id="17">
+			But(1) it(2) was(3) 2am(4) and(5) I(6) did(7) not(8) blame(9) him(10) at(11) all(12) -(13) View(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			Ok(1) I(2) lied(3) .(4) 
+		</sentence>
+		<sentence id="19">
+			The(1) view(2) from(3) our(4) room(5) was(6) not(7) very(8) good(9) .(10) 
+			<opinion featWords="2" feature="view" opWords="7,9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="20">
+			I(1) could(2) see(3) the(4) East(5) River(6) or(7) maybe(8) it(9) was(10) the(11) Hudson(12) ,(13) I(14) do(15) not(16) know(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			That(1) 's(2) pretty(3) gross(4) ,(5) but(6) I(7) had(8) never(9) been(10) the(11) NYC(12) so(13) it(14) was(15) new(16) to(17) me(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			I(1) imagine(2) from(3) higher(4) up(5) and(6) with(7) a(8) more(9) expensive(10) room(11) that(12) the(13) views(14) are(15) awesome(16) ,(17) though(18) .(19) 
+			<opinion featWords="14" feature="view" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			So(1) ,(2) if(3) you(4) can(5) pay(6) some(7) money(8) ,(9) go(10) for(11) it(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			Bad(1) things(2) :(3) -(4) Small(5) room(6) .(7) 
+			<opinion featWords="6" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="25">
+			I(1) can(2) not(3) believe(4) I(5) spent(6) 4(7) days(8) in(9) a(10) shoebox(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			I(1) am(2) not(3) Thumbalina(4) here(5) .(6) 
+		</sentence>
+		<sentence id="27">
+			I(1) 'm(2) a(3) 6(4) '(5) 3(6) "(7) American(8) Male(9) .(10) I(11) do(12) not(13) really(14) come(15) in(16) small(17) sizes(18) and(19) yet(20) I(21) was(22) able(23) to(24) sleep(25) comfortably(26) in(27) there(28) .(29) -(30) I(31) swear(32) to(33) my(34) muthuh(35) there(36) were(37) blood(38) stains(39) on(40) the(41) sheets(42) .(43) Just(44) little(45) spots(46) of(47) blood(48) ,(49) not(50) huge(51) puddles(52) .(53) It(54) was(55) like(56) someone(57) shaved(58) their(59) entire(60) body(61) and(62) got(63) nicked(64) a(65) lot(66) and(67) then(68) rolled(69) on(70) the(71) sheets(72) .(73) Still(74) very(75) gross(76) .(77) -(78) Are(79) there(80) bugs(81) ?(82) My(83) best(84) friend(85) claimed(86) every(87) morning(88) upon(89) waking(90) up(91) that(92) there(93) were(94) bugs(95) biting(96) him(97) in(98) the(99) night(100) .(101) And(102) he(103) also(104) said(105) that(106) if(107) you(108) crush(109) them(110) they(111) smell(112) like(113) rancid(114) almonds(115) .(116) I(117) do(118) not(119) know(120) .(121) I(122) told(123) him(124) not(125) to(126) talk(127) to(128) me(129) for(130) a(131) while(132) .(133) I(134) suspect(135) that(136) these(137) bugs(138) might(139) have(140) really(141) been(142) bed(143) bugs(144) and(145) that(146) the(147) blood(148) stains(149) were(150) from(151) people(152) sustaining(153) bites(154) .(155) We(156) do(157) not(158) really(159) have(160) bed(161) bugs(162) in(163) the(164) south(165) ,(166) so(167) I(168) can(169) not(170) be(171) sure(172) ,(173) but(174) I(175) did(176) read(177) that(178) they(179) are(180) real(181) and(182) they(183) do(184) suck(185) blood(186) .(187) -(188) And(189) you(190) know(191) what(192) ?(193) I(194) 'm(195) thinking(196) back(197) on(198) it(199) now(200) ,(201) and(202) I(203) do(204) not(205) think(206) the(207) maids(208) changed(209) the(210) sheets(211) every(212) morning(213) ,(214) but(215) I(216) could(217) be(218) wrong(219) .(220) I(221) just(222) realized(223) upon(224) re-reading(225) what(226) I(227) just(228) wrote(229) ,(230) that(231) this(232) place(233) sounds(234) very(235) nasty(236) .(237) It(238) 's(239) not(240) really(241) .(242) But(243) it(244) is(245) an(246) older(247) hotel(248) and(249) it(250) shows(251) .(252) It(253) seems(254) a(255) little(256) sketchy(257) but(258) I(259) gotta(260) say(261) that(262) it(263) 's(264) a(265) good(266) deal(267) for(268) people(269) who(270) do(271) not(272) have(273) a(274) lot(275) of(276) cash(277) to(278) spend(279) .(280) And(281) if(282) you(283) are(284) going(285) to(286) NYC(287) to(288) spend(289) your(290) whole(291) trip(292) in(293) the(294) hotel(295) room(296) ,(297) this(298) is(299) not(300) for(301) you(302) .(303) Who(304) are(305) you(306) people(307) and(308) why(309) do(310) you(311) insist(312) upon(313) going(314) there(315) ?(316) There(317) are(318) cheaper(319) cities(320) with(321) at(322) least(323) as(324) nice(325) hotel(326) rooms(327) .(328) Go(329) away(330) now(331) .(332) 
+			<opinion featWords="233" feature="place" opWords="236" polarity="-"/>
+		</sentence>
+	</text>
+</review>

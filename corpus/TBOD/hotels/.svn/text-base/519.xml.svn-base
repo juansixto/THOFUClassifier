@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="519" item="Crowne Plaza Hotel GREENVILLE-I-385-ROPER MTN RD" rating="2">
+	<title>
+		<sentence id="1">
+			Few(1) Jewels(2) in(3) This(4) "(5) Crowne(6) "(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			location(1) ,(2) rate(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			service(1) ,(2) cleanliness(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) hotel(2) does(3) not(4) meet(5) its(6) own(7) standard(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			It(1) could(2) be(3) a(4) fine(5) hotel(6) ,(7) but(8) misses(9) the(10) mark(11) .(12) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			As(1) a(2) Priority(3) Club(4) member(5) ,(6) it(7) pains(8) me(9) to(10) write(11) this(12) review(13) ,(14) but(15) I(16) have(17) to(18) be(19) honest(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) count(2) on(3) fellow(4) Epinionators(5) to(6) give(7) correct(8) info(9) for(10) my(11) decision-making(12) -(13) and(14) I(15) want(16) to(17) do(18) the(19) same(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			After(1) finding(2) a(3) $59.00(4) internet(5) rate(6) at(7) this(8) hotel(9) ,(10) and(11) after(12) looking(13) over(14) their(15) impressive(16) website(17) ,(18) I(19) booked(20) a(21) room(22) expecting(23) a(24) great(25) weekend(26) at(27) a(28) fine(29) hotel(30) .(31) 
+			<opinion featWords="30" feature="hotel" opWords="29" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) location(2) is(3) excellent(4) -(5) right(6) on(7) I-385(8) .(9) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) easily(4) visible(5) -(6) just(7) off(8) the(9) Roper(10) Mountain(11) Rd(12) .(13) exit(14) .(15) 
+			<opinion featWords="2" feature="hotel" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Nearby(1) are(2) two(3) malls(4) ,(5) numerous(6) restaurants(7) ,(8) area(9) attractions(10) ,(11) and(12) just(13) minutes(14) from(15) downtown(16) Greenville(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			The(1) structure(2) is(3) impressive(4) .(5) 
+		</sentence>
+		<sentence id="8">
+			Standing(1) beside(2) the(3) interstate(4) ,(5) the(6) chocolate(7) colored(8) brick(9) building(10) looks(11) quite(12) business-like(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) portico(2) is(3) adorned(4) with(5) nice(6) flowers(7) and(8) the(9) large(10) lobby(11) quickly(12) reveals(13) an(14) architectural(15) style(16) popular(17) some(18) years(19) ago(20) -(21) put(22) everything(23) in(24) one(25) large(26) room(27) !(28) 
+			<opinion featWords="11" feature="lobby" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) reception(2) desk(3) leads(4) down(5) a(6) set(7) of(8) steps(9) to(10) sitting(11) areas(12) which(13) are(14) flanked(15) by(16) the(17) restaurant(18) on(19) one(20) side(21) ,(22) and(23) an(24) indoor(25) pool(26) on(27) the(28) other(29) .(30) 
+		</sentence>
+		<sentence id="11">
+			The(1) mixture(2) creates(3) a(4) carnival-like(5) noise(6) ,(7) particularly(8) when(9) the(10) pool(11) is(12) full(13) of(14) screaming(15) kids(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) hotel(2) website(3) gives(4) the(5) impression(6) the(7) indoor(8) pool(9) is(10) part(11) of(12) a(13) "(14) fitness(15) center(16) "(17) and(18) appeared(19) to(20) be(21) somewhat(22) secluded(23) .(24) 
+		</sentence>
+		<sentence id="13">
+			Alas(1) -(2) the(3) pool(4) is(5) small(6) ,(7) there(8) 's(9) an(10) open(11) shower(12) that(13) makes(14) you(15) feel(16) you(17) are(18) showering(19) in(20) the(21) middle(22) of(23) the(24) lobby(25) !(26) 
+			<opinion featWords="4" feature="swimming pool" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			There(1) is(2) one(3) unisex(4) restroom(5) at(6) the(7) pool(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			A(1) glass(2) door(3) leads(4) out(5) to(6) a(7) "(8) sun(9) deck(10) "(11) which(12) is(13) really(14) a(15) sidewalk(16) with(17) iron(18) bars(19) around(20) it(21) -(22) and(23) three(24) lounge(25) chairs(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			The(1) "(2) fitness(3) center(4) "(5) is(6) one(7) level(8) down(9) -(10) a(11) small(12) room(13) with(14) about(15) four(16) machines(17) and(18) a(19) TV(20) .(21) 
+			<opinion featWords="13" feature="rooms" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			Oh(1) yes(2) ,(3) there(4) is(5) a(6) "(7) guest(8) laundry(9) "(10) near(11) the(12) "(13) fitness(14) center(15) "(16) -(17) one(18) washer(19) and(20) one(21) dryer(22) .(23) 
+		</sentence>
+		<sentence id="18">
+			This(1) hotel(2) appears(3) to(4) me(5) a(6) meeting(7) venue(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			There(1) are(2) more(3) meeting(4) rooms(5) than(6) all(7) the(8) other(9) square(10) footage(11) for(12) amenities(13) combined(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			It(1) definitely(2) caters(3) to(4) business(5) people(6) .(7) 
+		</sentence>
+		<sentence id="21">
+			Check(1) in(2) was(3) pleasant(4) but(5) uneventful(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			We(1) were(2) booked(3) on(4) the(5) "(6) club(7) floor(8) "(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			This(1) meant(2) we(3) used(4) our(5) key(6) card(7) to(8) get(9) the(10) elevator(11) to(12) take(13) us(14) there(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			That(1) was(2) the(3) only(4) difference(5) I(6) saw(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			Once(1) on(2) the(3) floor(4) ,(5) we(6) did(7) see(8) a(9) skirted(10) folding(11) table(12) with(13) nothing(14) on(15) it(16) beside(17) a(18) TV(19) crammed(20) into(21) the(22) corner(23) .(24) 
+		</sentence>
+		<sentence id="26">
+			Some(1) upholstered(2) chairs(3) had(4) been(5) awkwardly(6) jammed(7) into(8) this(9) small(10) space(11) to(12) give(13) the(14) illusion(15) that(16) this(17) was(18) a(19) "(20) special(21) floor(22) "(23) .(24) 
+		</sentence>
+		<sentence id="27">
+			We(1) never(2) saw(3) anyone(4) on(5) this(6) floor(7) except(8) a(9) housekeeping(10) lady(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			There(1) was(2) never(3) anything(4) on(5) that(6) table(7) .(8) 
+		</sentence>
+		<sentence id="29">
+			No(1) newpaper(2) delivered(3) .(4) 
+		</sentence>
+		<sentence id="30">
+			We(1) did(2) receive(3) a(4) "(5) complimentary(6) drink(7) "(8) card(9) for(10) the(11) lounge(12) -(13) one(14) card(15) ((16) there(17) were(18) two(19) of(20) us(21) )(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			I(1) did(2) not(3) use(4) it(5) .(6) 
+		</sentence>
+		<sentence id="32">
+			The(1) Room(2) This(3) was(4) a(5) standard(6) hotel(7) room(8) .(9) 
+			<opinion featWords="8" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="33">
+			Decor(1) was(2) typical(3) with(4) dark(5) wood(6) furniture(7) ,(8) a(9) rather(10) large(11) writing(12) desk(13) with(14) portals(15) ,(16) phone(17) ,(18) and(19) lamp(20) ,(21) an(22) upholstered(23) easy(24) chair(25) with(26) ottoman(27) ,(28) a(29) cheap(30) looking(31) TV(32) cabinet(33) ,(34) a(35) king(36) bed(37) ,(38) and(39) two(40) night(41) stands(42) .(43) 
+			<opinion featWords="1" feature="decoration" opWords="3" polarity="+"/>
+			<opinion featWords="32" feature="tv" opWords="30" polarity="-"/>
+		</sentence>
+		<sentence id="34">
+			TV(1) selections(2) were(3) minimal(4) -(5) around(6) a(7) dozen(8) channels(9) -(10) not(11) even(12) all(13) the(14) local(15) stations(16) ((17) whatever(18) happened(19) to(20) the(21) "(22) must(23) carry(24) "(25) law(26) ?(27) )(28) .(29) 
+		</sentence>
+		<sentence id="35">
+			There(1) was(2) no(3) remote(4) to(5) be(6) found(7) -(8) we(9) had(10) to(11) call(12) to(13) have(14) it(15) replaced(16) ((17) uncanny(18) since(19) this(20) happened(21) to(22) us(23) twice(24) at(25) two(26) hotels(27) the(28) same(29) weekend(30) !(31) 
+		</sentence>
+		<sentence id="36">
+			)(1) .(2) 
+		</sentence>
+		<sentence id="37">
+			The(1) mattress(2) was(3) quite(4) hard(5) .(6) 
+			<opinion featWords="2" feature="bed" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="38">
+			We(1) did(2) not(3) sleep(4) well(5) .(6) 
+		</sentence>
+		<sentence id="39">
+			The(1) pillows(2) were(3) flat(4) foam(5) and(6) very(7) hard(8) .(9) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="bedding" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="40">
+			They(1) did(2) not(3) smell(4) clean(5) .(6) 
+		</sentence>
+		<sentence id="41">
+			The(1) room(2) had(3) somewhat(4) of(5) a(6) "(7) dank(8) "(9) smell(10) ,(11) although(12) it(13) appeared(14) clean(15) .(16) 
+			<opinion featWords="2" feature="rooms" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="42">
+			The(1) hotel(2) itself(3) had(4) a(5) nice(6) appearance(7) ,(8) but(9) the(10) underlying(11) problems(12) made(13) this(14) a(15) facade(16) .(17) 
+		</sentence>
+		<sentence id="43">
+			The(1) A(2) /(3) C(4) worked(5) quite(6) well(7) -(8) quiet(9) operation(10) and(11) good(12) cooling(13) .(14) 
+		</sentence>
+		<sentence id="44">
+			Lighting(1) was(2) strange(3) .(4) 
+		</sentence>
+		<sentence id="45">
+			The(1) lamps(2) had(3) some(4) type(5) of(6) halogen(7) bulb(8) that(9) glowed(10) a(11) mysterious(12) green(13) hue(14) .(15) 
+		</sentence>
+		<sentence id="46">
+			It(1) was(2) not(3) pleasant(4) .(5) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="47">
+			The(1) Bath(2) The(3) "(4) Lord(5) &amp;(6) Mayfair(7) "(8) toiletries(9) seemed(10) to(11) indicate(12) a(13) sense(14) of(15) finery(16) when(17) you(18) walked(19) into(20) the(21) bathroom(22) .(23) 
+		</sentence>
+		<sentence id="48">
+			They(1) were(2) good(3) .(4) 
+		</sentence>
+		<sentence id="49">
+			The(1) tub(2) was(3) clean(4) and(5) the(6) shower(7) pressure(8) and(9) temperature(10) were(11) adequate(12) .(13) 
+			<opinion featWords="2" feature="tub" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="50">
+			There(1) was(2) a(3) problem(4) with(5) the(6) toilet(7) tank(8) -(9) it(10) would(11) run(12) off(13) and(14) on(15) .(16) 
+		</sentence>
+		<sentence id="51">
+			It(1) was(2) probably(3) a(4) tank(5) flap(6) problem(7) .(8) 
+		</sentence>
+		<sentence id="52">
+			The(1) hotel(2) seemed(3) short(4) staffed(5) so(6) I(7) just(8) closed(9) the(10) door(11) to(12) block(13) out(14) the(15) sound(16) and(17) reported(18) it(19) when(20) I(21) left(22) .(23) 
+			<opinion feature="staff" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="53">
+			The(1) sink(2) was(3) cracked(4) and(5) did(6) not(7) appear(8) to(9) be(10) very(11) clean(12) .(13) 
+		</sentence>
+		<sentence id="54">
+			There(1) was(2) a(3) coffee(4) pot(5) ((6) the(7) smallest(8) I(9) have(10) ever(11) seen(12) )(13) and(14) one(15) cup(16) .(17) 
+		</sentence>
+		<sentence id="55">
+			Again(1) ,(2) there(3) were(4) two(5) of(6) us(7) -(8) this(9) room(10) was(11) set(12) up(13) for(14) a(15) single(16) business(17) traveler(18) .(19) 
+		</sentence>
+		<sentence id="56">
+			The(1) hair(2) dryer(3) worked(4) well(5) ,(6) and(7) the(8) tile(9) floor(10) seemed(11) clean(12) enough(13) .(14) 
+		</sentence>
+		<sentence id="57">
+			We(1) prepared(2) for(3) an(4) evening(5) meeting(6) and(7) discussed(8) our(9) options(10) .(11) 
+		</sentence>
+		<sentence id="58">
+			We(1) just(2) were(3) not(4) satisfied(5) with(6) this(7) hotel(8) .(9) 
+		</sentence>
+		<sentence id="59">
+			It(1) did(2) not(3) smell(4) clean(5) and(6) we(7) wondered(8) if(9) we(10) should(11) stay(12) the(13) entire(14) weekend(15) .(16) 
+		</sentence>
+		<sentence id="60">
+			We(1) continued(2) to(3) talk(4) about(5) it(6) as(7) we(8) left(9) for(10) an(11) evening(12) meeting(13) .(14) 
+		</sentence>
+		<sentence id="61">
+			A(1) Guest(2) Greets(3) Us(4) On(5) Our(6) Return(7) When(8) we(9) returned(10) later(11) that(12) evening(13) ,(14) we(15) entered(16) our(17) room(18) and(19) flipped(20) on(21) the(22) light(23) .(24) 
+		</sentence>
+		<sentence id="62">
+			My(1) wife(2) screamed(3) .(4) 
+		</sentence>
+		<sentence id="63">
+			A(1) Mexico-sized(2) cockroach(3) was(4) dancing(5) along(6) the(7) wall(8) above(9) the(10) TV(11) .(12) ((13) I(14) say(15) Mexico-sized(16) because(17) I(18) once(19) encountered(20) the(21) largest(22) bug(23) I(24) 've(25) ever(26) seen(27) at(28) the(29) Oasis(30) Motel(31) in(32) Matehuala(33) ,(34) Mexico(35) )(36) .(37) 
+		</sentence>
+		<sentence id="64">
+			That(1) was(2) it(3) .(4) 
+		</sentence>
+		<sentence id="65">
+			How(1) did(2) a(3) 2-3(4) inch(5) roach(6) get(7) on(8) the(9) sixth(10) floor(11) .(12) 
+		</sentence>
+		<sentence id="66">
+			How(1) many(2) more(3) were(4) with(5) him(6) ?(7) 
+		</sentence>
+		<sentence id="67">
+			Had(1) they(2) crawled(3) into(4) our(5) bedding(6) ?(7) 
+		</sentence>
+		<sentence id="68">
+			Were(1) they(2) in(3) our(4) bags(5) ?(6) 
+		</sentence>
+		<sentence id="69">
+			We(1) killed(2) and(3) removed(4) the(5) bug(6) and(7) sat(8) down(9) to(10) process(11) the(12) situation(13) .(14) 
+		</sentence>
+		<sentence id="70">
+			I(1) had(2) traveled(3) in(4) many(5) third(6) world(7) countries(8) so(9) I(10) 've(11) slept(12) in(13) a(14) variety(15) of(16) settings(17) .(18) 
+		</sentence>
+		<sentence id="71">
+			However(1) -(2) we(3) were(4) in(5) the(6) USA(7) .(8) 
+		</sentence>
+		<sentence id="72">
+			I(1) decided(2) to(3) make(4) a(5) few(6) calls(7) and(8) see(9) what(10) was(11) available(12) in(13) the(14) area(15) -(16) we(17) decided(18) we(19) 'd(20) move(21) to(22) the(23) Hyatt(24) the(25) next(26) day(27) ((28) see(29) my(30) review(31) of(32) the(33) Greenville(34) Hyatt(35) )(36) .(37) 
+		</sentence>
+		<sentence id="73">
+			We(1) looked(2) carefully(3) through(4) the(5) bedding(6) ,(7) under(8) the(9) bed(10) ,(11) opened(12) all(13) the(14) drawers(15) ,(16) committed(17) the(18) situation(19) to(20) God(21) ,(22) and(23) went(24) to(25) sleep(26) .(27) 
+		</sentence>
+		<sentence id="74">
+			Adios(1) !(2) 
+		</sentence>
+		<sentence id="75">
+			Next(1) morning(2) we(3) checked(4) out(5) ,(6) shared(7) our(8) experiences(9) with(10) the(11) front(12) desk(13) ,(14) and(15) headed(16) for(17) the(18) Hyatt(19) .(20) 
+		</sentence>
+		<sentence id="76">
+			It(1) was(2) my(3) observation(4) that(5) this(6) property(7) is(8) probably(9) hurting(10) for(11) business(12) .(13) 
+		</sentence>
+		<sentence id="77">
+			There(1) was(2) a(3) small(4) family(5) reunion(6) booked(7) while(8) we(9) were(10) there(11) -(12) otherwise(13) it(14) seemed(15) deserted(16) .(17) 
+		</sentence>
+		<sentence id="78">
+			The(1) choices(2) in(3) the(4) area(5) are(6) numerous(7) .(8) 
+		</sentence>
+		<sentence id="79">
+			I(1) 'd(2) avoid(3) this(4) hotel(5) until(6) they(7) raise(8) the(9) standard(10) .(11) 
+		</sentence>
+		<sentence id="80">
+			The(1) quality(2) portrayed(3) on(4) their(5) website(6) does(7) not(8) match(9) the(10) hotel(11) itself(12) .(13) 
+		</sentence>
+	</text>
+</review>

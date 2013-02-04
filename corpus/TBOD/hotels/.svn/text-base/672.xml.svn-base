@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="672" item="Sheraton at Our Lucaya Beach &amp; Golf Resort, GBI" rating="4">
+	<title>
+		<sentence id="1">
+			Sheraton(1) Our(2) Lucaya(3) with(4) an(5) Infant(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pools(1) ,(2) beach(3) ,(4) beds(5) ,(6) family-friendly(7) ,(8) proximity(9) to(10) lots(11) of(12) restaurants(13) 
+			<opinion feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			service(1) is(2) just(3) okay(4) ,(5) food(6) is(7) expensive(8) 
+			<opinion featWords="1" feature="service" opWords="3,4" polarity="-"/>
+			<opinion featWords="6" feature="food" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) Our(4) Lucaya(5) to(6) families(7) with(8) children(9) who(10) want(11) a(12) traditional(13) beach(14) vacation(15) .(16) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) mother(2) ,(3) 1-year(4) old(5) daughter(6) ,(7) and(8) I(9) traveled(10) to(11) Our(12) Lucaya(13) for(14) 3(15) nights(16) in(17) June(18) ,(19) 2004(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) stayed(2) at(3) the(4) Sheraton(5) and(6) had(7) a(8) lovely(9) time(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			The(1) beach(2) and(3) pools(4) at(5) the(6) resort(7) were(8) the(9) major(10) selling(11) point(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) looking(3) for(4) a(5) relaxing(6) ,(7) quiet(8) vacation(9) to(10) enjoy(11) some(12) sunshine(13) and(14) Our(15) Lucaya(16) fit(17) that(18) idea(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			There(1) are(2) a(3) lot(4) of(5) kids(6) at(7) the(8) Sheraton(9) .(10) 
+		</sentence>
+		<sentence id="6">
+			For(1) us(2) ,(3) that(4) was(5) fine(6) since(7) we(8) were(9) toting(10) one(11) ,(12) too(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			We(1) found(2) that(3) pretty(4) much(5) all(6) the(7) pools(8) from(9) the(10) Sheraton(11) out(12) to(13) Lighthouse(14) Point(15) at(16) the(17) Westin(18) had(19) at(20) least(21) a(22) handful(23) of(24) kids(25) in(26) them(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			While(1) some(2) would(3) find(4) this(5) annoying(6) ,(7) it(8) was(9) great(10) for(11) us(12) !(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) resort(2) is(3) medium-sized(4) and(5) very(6) self-contained(7) .(8) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Getting(1) around(2) with(3) a(4) stroller(5) is(6) easy(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			The(1) beds(2) at(3) the(4) Sheraton(5) are(6) really(7) comfortable(8) .(9) 
+			<opinion featWords="2" feature="bed" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) lots(3) of(4) pillows(5) and(6) duvets(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			The(1) crib(2) they(3) gave(4) us(5) was(6) also(7) better(8) than(9) your(10) average(11) hotel(12) crib(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			It(1) had(2) nice(3) bumpers(4) and(5) nice(6) high(7) sides(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			It(1) was(2) sturdy(3) and(4) worked(5) well(6) for(7) my(8) daughter(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			The(1) rooms(2) were(3) of(4) average(5) size(6) but(7) had(8) a(9) good(10) layout(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			We(1) had(2) two(3) full(4) beds(5) ,(6) a(7) comfy(8) overstuffed(9) chair(10) ,(11) a(12) small(13) dining(14) table(15) with(16) one(17) chair(18) ,(19) a(20) mini(21) fridge(22) ,(23) ample(24) closet(25) and(26) drawer(27) space(28) for(29) clothes(30) and(31) toys(32) ,(33) and(34) a(35) nightstand(36) .(37) 
+			<opinion featWords="10" feature="chairs" opWords="8" polarity="+"/>
+			<opinion featWords="10" feature="chairs" opWords="9" polarity="+"/>
+			<opinion featWords="15" feature="tables" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			There(1) was(2) a(3) little(4) coffee(5) maker(6) with(7) supplies(8) on(9) the(10) table(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			The(1) rooms(2) were(3) clean(4) and(5) the(6) decor(7) seemed(8) fairly(9) fresh(10) and(11) well-maintained(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="decoration" opWords="10" polarity="+" potency="9"/>
+			<opinion featWords="7" feature="decoration" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			The(1) highlight(2) of(3) the(4) room(5) was(6) the(7) comfy(8) bed(9) .(10) 
+			<opinion featWords="9" feature="bed" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			do(1) not(2) bother(3) eating(4) at(5) the(6) resort(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			Across(1) the(2) street(3) is(4) the(5) Port(6) Lucaya(7) Marketplace(8) and(9) the(10) value(11) is(12) much(13) better(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			From(1) the(2) front(3) entrance(4) of(5) the(6) Sheraton(7) We(8) ate(9) at(10) The(11) Pub(12) ,(13) Giovanni(14) 's(15) ,(16) Subway(17) ,(18) Caribbean(19) Cafe(20) ,(21) and(22) had(23) good(24) meals(25) at(26) reasonable(27) prices(28) .(29) 
+			<opinion featWords="25" feature="food" opWords="24" polarity="+"/>
+			<opinion featWords="28" feature="price" opWords="27" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			Every(1) place(2) we(3) went(4) had(5) a(6) high(7) chair(8) and(9) most(10) have(11) kid(12) 's(13) menus(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			The(1) resort(2) food(3) was(4) way(5) overpriced(6) and(7) mediocre(8) .(9) 
+			<opinion feature="price" opWords="6" polarity="-"/>
+			<opinion featWords="3" feature="food" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="26">
+			The(1) service(2) at(3) the(4) hotel(5) was(6) okay(7) .(8) 
+			<opinion featWords="2" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			The(1) towel(2) hut(3) usually(4) opened(5) late(6) ,(7) the(8) front(9) desk(10) was(11) slow(12) and(13) disinterested(14) ,(15) housekeeping(16) rarely(17) made(18) it(19) to(20) our(21) room(22) before(23) 5pm(24) or(25) so(26) .(27) 
+			<opinion featWords="9,10" feature="front desk" opWords="12" polarity="-"/>
+			<opinion featWords="9,10" feature="front desk" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			But(1) the(2) plus(3) side(4) was(5) the(6) beautiful(7) beach(8) and(9) the(10) many(11) pools(12) .(13) 
+			<opinion featWords="8" feature="beach" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			The(1) layout(2) of(3) the(4) pools(5) really(6) impressed(7) me(8) .(9) 
+		</sentence>
+		<sentence id="30">
+			They(1) are(2) narrower(3) than(4) most(5) resort(6) pools(7) ,(8) but(9) longer(10) .(11) 
+		</sentence>
+		<sentence id="31">
+			So(1) everyone(2) can(3) hang(4) out(5) close(6) to(7) their(8) lounge(9) chairs(10) .(11) 
+		</sentence>
+		<sentence id="32">
+			There(1) was(2) shade(3) just(4) about(5) everywhere(6) if(7) you(8) were(9) flexible(10) about(11) moving(12) as(13) the(14) sun(15) moved(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			You(1) have(2) the(3) run(4) of(5) the(6) resort(7) no(8) matter(9) which(10) hotel(11) you(12) stay(13) in(14) .(15) 
+		</sentence>
+		<sentence id="34">
+			Compared(1) with(2) the(3) trip(4) my(5) husband(6) ,(7) daughter(8) ,(9) and(10) I(11) took(12) to(13) Atlantis(14) in(15) early(16) May(17) ,(18) this(19) was(20) a(21) lot(22) more(23) kid-friendly(24) and(25) stroller-friendly(26) .(27) 
+		</sentence>
+		<sentence id="35">
+			Our(1) Lucaya(2) is(3) a(4) lot(5) closer(6) to(7) the(8) Freeport(9) airport(10) than(11) Atlantis(12) is(13) to(14) the(15) Nassau(16) airport(17) .(18) 
+		</sentence>
+		<sentence id="36">
+			If(1) you(2) want(3) a(4) romantic(5) weekend(6) for(7) adults(8) or(9) a(10) cruise(11) ship(12) kind(13) of(14) atmosphere(15) ,(16) opt(17) for(18) Atlantis(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			If(1) you(2) want(3) a(4) family-friendly(5) ,(6) laid(7) back(8) beach(9) and(10) pool(11) resort(12) ,(13) go(14) for(15) Our(16) Lucaya(17) .(18) 
+		</sentence>
+	</text>
+</review>

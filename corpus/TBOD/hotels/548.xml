@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="548" item="Wisconsin Dells-Days Inn" rating="2">
+	<title>
+		<sentence id="1">
+			Very(1) noisy(2) 
+			<opinion feature="hotel" opWords="2" polarity="-" potency="1"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) staff(2) ,(3) good(4) breakfast(5) ,(6) pet(7) friendly(8) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+			<opinion feature="hotel" opWords="7,8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noisy(1) and(2) dirty(3) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) chose(2) to(3) stay(4) at(5) this(6) motel(7) because(8) we(9) had(10) a(11) dog(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) the(3) only(4) motel(5) we(6) could(7) find(8) in(9) the(10) Dells(11) that(12) did(13) not(14) make(15) us(16) stay(17) in(18) a(19) smoking(20) room(21) just(22) because(23) we(24) have(25) a(26) pet(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			The(1) place(2) was(3) very(4) noisy(5) .(6) 
+			<opinion featWords="2" feature="place" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			The(1) walls(2) were(3) paper-thin(4) and(5) we(6) heard(7) noises(8) from(9) the(10) rooms(11) next(12) door(13) that(14) normally(15) are(16) not(17) heard(18) .(19) 
+			<opinion featWords="2" feature="walls" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			The(1) doors(2) have(3) hinges(4) on(5) them(6) that(7) allow(8) them(9) to(10) slam(11) shut(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			We(1) heard(2) slamming(3) doors(4) all(5) night(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			The(1) bathtub(2) fixtures(3) had(4) blackish(5) gunk(6) all(7) around(8) them(9) that(10) would(11) fall(12) into(13) the(14) tub(15) when(16) I(17) took(18) a(19) bath(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			I(1) cleaned(2) the(3) tub(4) myself(5) .(6) 
+		</sentence>
+		<sentence id="9">
+			The(1) bedspreads(2) had(3) holes(4) in(5) them(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			Next(1) time(2) I(3) go(4) to(5) the(6) Dells(7) I(8) 'm(9) going(10) to(11) put(12) my(13) dog(14) in(15) a(16) nice(17) kennel(18) and(19) stay(20) at(21) a(22) nice(23) hotel(24) .(25) 
+			<opinion featWords="24" feature="hotel" opWords="23" polarity="+"/>
+		</sentence>
+	</text>
+</review>

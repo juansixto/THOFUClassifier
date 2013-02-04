@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="769" item="Comfort Suites Allentown" rating="5">
+	<title>
+		<sentence id="1">
+			Comfort(1) Suites(2) Allentown(3) -(4) See(5) Dorney(6) Park(7) from(8) Your(9) Window(10) !(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) clean(4) room(5) .(6) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Breakfast(1) runs(2) out(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Allentown(1) Comfort(2) Suites(3) is(4) the(5) perfect(6) place(7) to(8) stay(9) if(10) your(11) family(12) will(13) be(14) visiting(15) Dorney(16) Park(17) and(18) Wildwater(19) Kingdom(20) .(21) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) recently(2) took(3) a(4) short(5) vacation(6) to(7) Pennsylvania(8) ,(9) first(10) to(11) Hersheypark(12) ,(13) then(14) to(15) Williamsport(16) to(17) see(18) the(19) Little(20) League(21) Museum(22) and(23) ended(24) with(25) a(26) visit(27) to(28) Dorney(29) Park(30) &amp;(31) Wildwater(32) Kingdom(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			When(1) making(2) our(3) hotel(4) reservations(5) ,(6) we(7) first(8) found(9) the(10) Econo(11) Lodge(12) Hershey(13) and(14) then(15) decided(16) to(17) stay(18) with(19) the(20) Choice(21) Hotels(22) company(23) and(24) booked(25) this(26) Comfort(27) Suites(28) Allentown(29) for(30) our(31) Dorney(32) Park(33) portion(34) of(35) the(36) trip(37) .(38) 
+		</sentence>
+		<sentence id="3">
+			Finding(1) this(2) hotel(3) was(4) not(5) a(6) problem(7) since(8) it(9) is(10) directly(11) across(12) the(13) street(14) from(15) Dorney(16) Park(17) &amp;(18) Wildwater(19) Kingdom(20) on(21) Hamilton(22) Boulevard(23) and(24) not(25) far(26) off(27) of(28) Interstate(29) 78(30) .(31) 
+		</sentence>
+		<sentence id="4">
+			We(1) booked(2) the(3) room(4) at(5) www.choicehotels.com(6) with(7) a(8) credit(9) card(10) for(11) our(12) two(13) night(14) stay(15) and(16) the(17) confirmation(18) receipt(19) we(20) printed(21) indicated(22) that(23) our(24) room(25) would(26) be(27) held(28) until(29) 7:00(30) a.m.(31) the(32) morning(33) following(34) our(35) scheduled(36) arrival(37) .(38) 
+		</sentence>
+		<sentence id="5">
+			The(1) official(2) check(3) in(4) time(5) is(6) 3:00(7) p(8) .(9) m(10) and(11) when(12) we(13) arrived(14) at(15) about(16) 6:30(17) p.m.(18) we(19) had(20) no(21) trouble(22) getting(23) into(24) our(25) room(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			All(1) of(2) the(3) rooms(4) at(5) the(6) Comfort(7) Suites(8) Allentown(9) are(10) mini-suites(11) ,(12) and(13) our(14) non-smoking(15) room(16) had(17) two(18) double(19) beds(20) ,(21) a(22) table(23) with(24) two(25) chairs(26) ,(27) and(28) a(29) sleeper-sofa(30) .(31) 
+		</sentence>
+		<sentence id="7">
+			In(1) addition(2) ,(3) there(4) was(5) a(6) long(7) dresser(8) with(9) the(10) television(11) on(12) top(13) of(14) it(15) ,(16) one(17) nightstand(18) between(19) the(20) two(21) beds(22) ,(23) one(24) nightstand(25) next(26) to(27) the(28) couch(29) and(30) two(31) small(32) coffee(33) tables(34) in(35) front(36) of(37) the(38) couch(39) ,(40) which(41) we(42) needed(43) to(44) move(45) in(46) order(47) to(48) use(49) it(50) as(51) a(52) bed(53) .(54) 
+			<opinion featWords="34" feature="tables" opWords="32" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Other(1) amenities(2) were(3) a(4) microwave(5) ,(6) refrigerator(7) ,(8) hair(9) dryer(10) ,(11) coffee(12) maker(13) ,(14) iron(15) and(16) ironing(17) board(18) in(19) the(20) room(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Although(1) clean(2) ,(3) and(4) stocked(5) with(6) plenty(7) of(8) towels(9) ,(10) the(11) bathroom(12) was(13) just(14) large(15) enough(16) for(17) me(18) to(19) assist(20) my(21) children(22) with(23) showers(24) ,(25) as(26) long(27) as(28) they(29) were(30) only(31) in(32) the(33) bathroom(34) one(35) at(36) a(37) time(38) .(39) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+			<opinion featWords="12" feature="bathroom" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			It(1) was(2) by(3) no(4) means(5) spacious(6) ,(7) but(8) there(9) was(10) enough(11) room(12) for(13) a(14) child(15) and(16) an(17) adult(18) to(19) maneuver(20) inside(21) with(22) the(23) door(24) closed(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) sink(3) was(4) outside(5) the(6) bathroom(7) ,(8) and(9) the(10) vanity(11) top(12) was(13) a(14) bit(15) on(16) the(17) small(18) side(19) ,(20) but(21) the(22) positioning(23) of(24) the(25) waist-high(26) refrigerator(27) across(28) from(29) the(30) sink(31) make(32) it(33) easy(34) to(35) store(36) things(37) atop(38) that(39) appliance(40) instead(41) .(42) 
+		</sentence>
+		<sentence id="12">
+			Unlike(1) many(2) hotels(3) which(4) place(5) the(6) microwave(7) on(8) top(9) of(10) the(11) refrigerator(12) ,(13) this(14) room(15) had(16) a(17) shelf(18) installed(19) above(20) it(21) to(22) hold(23) the(24) microwave(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			This(1) four(2) story(3) hotel(4) has(5) a(6) total(7) of(8) 122(9) rooms(10) and(11) there(12) are(13) a(14) limited(15) number(16) of(17) handicap(18) accessible(19) rooms(20) ,(21) some(22) of(23) which(24) are(25) located(26) directly(27) off(28) of(29) the(30) lobby(31) on(32) the(33) ground(34) floor(35) .(36) 
+		</sentence>
+		<sentence id="14">
+			This(1) hotel(2) also(3) offers(4) three(5) meeting(6) rooms(7) and(8) a(9) very(10) small(11) store(12) in(13) the(14) lobby(15) in(16) which(17) you(18) can(19) purchase(20) snacks(21) ,(22) sodas(23) ,(24) ice(25) cream(26) bars(27) and(28) a(29) limited(30) choice(31) of(32) microwavable(33) TV(34) dinners(35) .(36) 
+		</sentence>
+		<sentence id="15">
+			Ice(1) and(2) soda(3) machines(4) are(5) located(6) near(7) the(8) elevators(9) on(10) each(11) floor(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			There(1) is(2) no(3) pool(4) ,(5) but(6) there(7) is(8) a(9) small(10) exercise(11) room(12) ,(13) though(14) I(15) never(16) saw(17) anybody(18) using(19) the(20) equipment(21) when(22) I(23) passed(24) by(25) .(26) 
+			<opinion featWords="11,12" feature="gym" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			Since(1) we(2) were(3) tired(4) from(5) a(6) long(7) day(8) when(9) we(10) arrived(11) ,(12) and(13) we(14) received(15) a(16) ten(17) percent(18) off(19) coupon(20) at(21) check(22) in(23) ,(24) we(25) decided(26) to(27) eat(28) dinner(29) in(30) O'Hara(31) 's(32) Restaurant(33) and(34) Pub(35) which(36) is(37) right(38) off(39) of(40) the(41) lobby(42) on(43) the(44) main(45) level(46) of(47) this(48) hotel(49) .(50) 
+		</sentence>
+		<sentence id="18">
+			They(1) offered(2) a(3) variety(4) of(5) foods(6) such(7) as(8) mozzarella(9) sticks(10) ((11) $4.95(12) )(13) and(14) homemade(15) chips(16) ((17) $2.25(18) )(19) for(20) appetizers(21) and(22) basic(23) entrees(24) such(25) as(26) chicken(27) Caesar(28) salad(29) ((30) $7.95(31) )(32) ,(33) fajitas(34) ((35) $9.95(36) )(37) ,(38) burgers(39) with(40) your(41) choice(42) of(43) two(44) toppings(45) ((46) $7.95(47) )(48) and(49) more(50) exotic(51) and(52) expensive(53) items(54) such(55) as(56) the(57) Chicken(58) Chesapeake(59) ((60) chicken(61) topped(62) with(63) crab(64) meat(65) ,(66) Swiss(67) cheese(68) and(69) Hollandaise(70) sauce(71) for(72) $16(73) .(74) 
+		</sentence>
+		<sentence id="19">
+			95(1) )(2) which(3) my(4) husband(5) had(6) and(7) Chicken(8) Florentine(9) ((10) chicken(11) stuffed(12) with(13) spinach(14) ,(15) mozzarella(16) cheese(17) and(18) sundried(19) tomatoes(20) for(21) $14.95(22) )(23) which(24) I(25) had(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			For(1) $3.95(2) ,(3) children(4) can(5) choose(6) from(7) the(8) standard(9) chicken(10) fingers(11) ,(12) grilled(13) cheese(14) ,(15) cheeseburger(16) ,(17) hot(18) dog(19) or(20) linguine(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			Despite(1) the(2) waitstaff(3) indicating(4) that(5) they(6) were(7) extremely(8) busy(9) for(10) a(11) Tuesday(12) night(13) ,(14) our(15) food(16) came(17) out(18) reasonably(19) quickly(20) and(21) everything(22) tasted(23) great(24) .(25) 
+			<opinion featWords="16" feature="food" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			O'Hara(1) 's(2) serves(3) lunch(4) and(5) dinner(6) ,(7) or(8) you(9) can(10) have(11) a(12) drink(13) at(14) the(15) bar(16) ,(17) and(18) is(19) open(20) from(21) 4:00(22) pm(23) to(24) midnight(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			After(1) returning(2) to(3) our(4) room(5) after(6) eating(7) dinner(8) on(9) our(10) first(11) night(12) ,(13) we(14) realized(15) that(16) the(17) remote(18) control(19) for(20) the(21) television(22) was(23) not(24) working(25) properly(26) .(27) 
+		</sentence>
+		<sentence id="24">
+			Being(1) too(2) tired(3) to(4) worry(5) about(6) it(7) too(8) much(9) at(10) that(11) point(12) ,(13) we(14) mentioned(15) it(16) to(17) the(18) front(19) desk(20) in(21) the(22) morning(23) and(24) when(25) we(26) returned(27) that(28) evening(29) ,(30) it(31) was(32) working(33) just(34) fine(35) .(36) 
+		</sentence>
+		<sentence id="25">
+			We(1) did(2) have(3) a(4) slight(5) problem(6) when(7) we(8) returned(9) at(10) about(11) 9:00(12) pm(13) that(14) evening(15) in(16) that(17) neither(18) of(19) our(20) key-cards(21) would(22) open(23) the(24) door(25) ,(26) so(27) my(28) husband(29) returned(30) to(31) the(32) lobby(33) and(34) was(35) back(36) in(37) less(38) than(39) five(40) minutes(41) with(42) re-activated(43) cards(44) .(45) 
+		</sentence>
+		<sentence id="26">
+			The(1) Comfort(2) Suites(3) Allentown(4) provides(5) a(6) very(7) nice(8) Continental(9) breakfast(10) for(11) its(12) guests(13) .(14) 
+			<opinion featWords="10" feature="food" opWords="8" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="27">
+			There(1) is(2) a(3) small(4) alcove(5) off(6) of(7) the(8) lobby(9) with(10) about(11) ten(12) small(13) tables(14) in(15) it(16) where(17) you(18) can(19) enjoy(20) your(21) breakfast(22) .(23) 
+			<opinion featWords="14" feature="tables" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="28">
+			The(1) offerings(2) include(3) coffee(4) ,(5) tea(6) ,(7) milk(8) ,(9) juices(10) ,(11) yogurt(12) ,(13) hot(14) and(15) cold(16) cereal(17) ,(18) muffins(19) ,(20) bagels(21) ,(22) and(23) a(24) variety(25) of(26) breads(27) which(28) can(29) be(30) toasted(31) .(32) 
+		</sentence>
+		<sentence id="29">
+			The(1) breakfast(2) area(3) is(4) open(5) until(6) 9:30(7) a.m.(8) ,(9) and(10) we(11) arrived(12) there(13) at(14) about(15) 8:45(16) and(17) noticed(18) that(19) though(20) there(21) was(22) still(23) a(24) variety(25) of(26) items(27) left(28) ,(29) food(30) was(31) disappearing(32) fast(33) .(34) 
+		</sentence>
+		<sentence id="30">
+			As(1) we(2) ate(3) ,(4) more(5) and(6) more(7) guests(8) came(9) in(10) and(11) by(12) about(13) 9:10(14) there(15) were(16) no(17) more(18) bagels(19) or(20) muffins(21) to(22) be(23) had(24) .(25) 
+		</sentence>
+		<sentence id="31">
+			The(1) one(2) employee(3) whose(4) job(5) it(6) was(7) to(8) restock(9) the(10) food(11) told(12) us(13) that(14) she(15) had(16) no(17) more(18) to(19) put(20) out(21) and(22) that(23) quite(24) often(25) the(26) food(27) runs(28) out(29) while(30) people(31) are(32) still(33) coming(34) in(35) .(36) 
+		</sentence>
+		<sentence id="32">
+			Since(1) our(2) reason(3) for(4) staying(5) at(6) this(7) hotel(8) was(9) that(10) we(11) were(12) planning(13) on(14) visiting(15) Dorney(16) Park(17) &amp;(18) Wildwater(19) Kingdom(20) ,(21) we(22) took(23) advantage(24) of(25) their(26) offer(27) for(28) discount(29) tickets(30) .(31) 
+		</sentence>
+		<sentence id="33">
+			Tickets(1) at(2) the(3) front(4) gate(5) to(6) the(7) park(8) would(9) have(10) cost(11) $35.75(12) each(13) ,(14) but(15) since(16) we(17) purchased(18) them(19) through(20) the(21) front(22) desk(23) of(24) the(25) hotel(26) ,(27) each(28) cost(29) $24.50(30) ,(31) saving(32) us(33) a(34) total(35) of(36) $45(37) .(38) 
+		</sentence>
+		<sentence id="34">
+			This(1) Comfort(2) Suites(3) Allentown(4) is(5) directly(6) across(7) the(8) street(9) from(10) the(11) park(12) and(13) when(14) we(15) first(16) arrived(17) ,(18) we(19) could(20) see(21) some(22) of(23) the(24) roller(25) coasters(26) before(27) we(28) saw(29) the(30) hotel(31) .(32) 
+		</sentence>
+		<sentence id="35">
+			Just(1) a(2) note(3) that(4) the(5) hotel(6) does(7) not(8) offer(9) a(10) shuttle(11) bus(12) to(13) the(14) park(15) and(16) it(17) does(18) cost(19) seven(20) dollars(21) to(22) park(23) your(24) car(25) at(26) Dorney(27) Park(28) &amp;(29) Wildwater(30) Kingdom(31) ,(32) and(33) many(34) of(35) the(36) other(37) hotel(38) guests(39) chose(40) to(41) walk(42) across(43) the(44) busy(45) highway(46) to(47) get(48) there(49) instead(50) .(51) 
+		</sentence>
+		<sentence id="36">
+			Overall(1) we(2) were(3) pleased(4) with(5) our(6) stay(7) at(8) the(9) Comfort(10) Suites(11) Allentown(12) and(13) before(14) we(15) checked(16) out(17) we(18) discussed(19) that(20) should(21) we(22) return(23) to(24) Dorney(25) Park(26) &amp;(27) Wildwater(28) Kingdom(29) ,(30) we(31) would(32) definitely(33) book(34) a(35) room(36) at(37) this(38) hotel(39) again(40) .(41) 
+		</sentence>
+		<sentence id="37">
+			This(1) review(2) is(3) part(4) of(5) the(6) Great(7) Hotel(8) Writeoff(9) 2004(10) .(11) 
+		</sentence>
+		<sentence id="38">
+			For(1) more(2) information(3) ,(4) please(5) go(6) to(7) http://www.angelfire.com/trek/greathotel2004(8) 
+		</sentence>
+	</text>
+</review>

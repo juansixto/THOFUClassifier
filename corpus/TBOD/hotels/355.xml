@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="355" item="Radisson Lexington Hotel New York" rating="2">
+	<title>
+		<sentence id="1">
+			Pricelined(1) at(2) the(3) Radisson(4) ...(5) not(6) entirely(7) unpleasant(8) 
+			<opinion feature="hotel" opWords="6,8" polarity="+" potency="7"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lists(1) w(2) /(3) Priceline(4) so(5) a(6) low(7) rate(8) is(9) possible(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Near(1) all(2) public(3) transportation(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Giant(1) hotel(2) and(3) neighborhood(4) lacks(5) charm(6) .(7) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Unrenovated(1) rooms(2) should(3) be(4) avoided(5) .(6) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			One(1) can(2) do(3) much(4) better(5) for(6) the(7) rate(8) The(9) Radisson(10) is(11) asking(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			A(1) charmless(2) giant(3) in(4) the(5) business(6) district(7) that(8) offers(9) mediocrity(10) for(11) the(12) masses(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) gambled(2) with(3) Priceline(4) and(5) got(6) a(7) room(8) at(9) the(10) Radisson(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			I(1) needed(2) a(3) room(4) for(5) only(6) one(7) night(8) and(9) as(10) I(11) have(12) lived(13) in(14) Manhattan(15) for(16) 30(17) years(18) I(19) knew(20) this(21) behemoth(22) would(23) suffice(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			This(1) full(2) city(3) block(4) hotel(5) has(6) been(7) around(8) for(9) decades(10) ,(11) changing(12) ownership(13) ,(14) touting(15) its(16) history(17) and(18) the(19) fact(20) that(21) Joe(22) DiMaggio(23) slept(24) there(25) for(26) his(27) 18(28) seasons(29) as(30) a(31) Yankee(32) .(33) 
+		</sentence>
+		<sentence id="4">
+			Recent(1) renovations(2) are(3) advertised(4) but(5) my(6) room(7) was(8) quite(9) historical(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			While(1) clean(2) and(3) odor(4) free(5) this(6) double(7) was(8) one(9) step(10) above(11) college(12) dorm(13) in(14) luxury(15) and(16) style(17) .(18) 
+		</sentence>
+		<sentence id="6">
+			The(1) website(2) images(3) show(4) colorful(5) bedspreads(6) and(7) quality(8) linens(9) .(10) 
+			<opinion featWords="6" feature="bedding" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			My(1) room(2) had(3) scratchy(4) ,(5) brown(6) polyester(7) spreads(8) and(9) plain(10) white(11) commercial(12) grade(13) sheets(14) .(15) 
+			<opinion featWords="8" feature="bedding" opWords="4" polarity="-"/>
+			<opinion featWords="8" feature="bedding" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			The(1) curtains(2) did(3) not(4) fully(5) close(6) allowing(7) sunlight(8) to(9) intrude(10) way(11) too(12) early(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) furniture(2) was(3) minimal(4) however(5) there(6) were(7) 2(8) alarm(9) clocks(10) on(11) the(12) table(13) between(14) the(15) beds(16) .(17) 
+			<opinion featWords="2" feature="furnishings" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			I(1) might(2) also(3) mention(4) that(5) the(6) dripping(7) I(8) heard(9) during(10) the(11) night(12) was(13) from(14) the(15) bathroom(16) ceiling(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) made(3) of(4) a(5) vinyl(6) material(7) that(8) had(9) ballooned(10) downward(11) by(12) more(13) than(14) a(15) foot(16) as(17) it(18) continuously(19) filled(20) with(21) water(22) from(23) above(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			I(1) finished(2) up(3) in(4) there(5) quickly(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			Did(1) I(2) get(3) a(4) room(5) like(6) this(7) because(8) I(9) became(10) a(11) Priceline(12) victim(13) ?(14) 
+		</sentence>
+		<sentence id="14">
+			Lovely(1) ,(2) large(3) lobby(4) with(5) too(6) long(7) a(8) wait(9) at(10) check-in(11) in(12) the(13) late(14) afternoon(15) .(16) 
+			<opinion featWords="4" feature="lobby" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="lobby" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) lone(2) doorman(3) was(4) no(5) where(6) in(7) sight(8) to(9) help(10) w(11) /(12) our(13) bags(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			Check-out(1) was(2) faster(3) ,(4) more(5) staff(6) in(7) attendance(8) in(9) the(10) late(11) morning(12) .(13) 
+		</sentence>
+		<sentence id="17">
+			The(1) front(2) desk(3) employee(4) seemed(5) shocked(6) and(7) sorry(8) when(9) I(10) told(11) her(12) about(13) the(14) ceiling(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			She(1) was(2) on(3) the(4) phone(5) immediately(6) with(7) maintenance(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			The(1) elevators(2) arrived(3) promptly(4) .(5) 
+		</sentence>
+		<sentence id="20">
+			The(1) hotels(2) restaurants(3) are(4) mediocre(5) and(6) over(7) priced(8) .(9) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="-"/>
+			<opinion feature="price" opWords="7,8" polarity="-"/>
+		</sentence>
+		<sentence id="21">
+			Raffles(1) Coffee(2) Shop(3) is(4) strictly(5) for(6) out(7) of(8) towners(9) .(10) 
+		</sentence>
+		<sentence id="22">
+			Walk(1) a(2) few(3) blocks(4) east(5) for(6) neighborhood(7) restaurants(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Starbucks(1) in(2) the(3) lobby(4) never(5) disappoints(6) .(7) 
+		</sentence>
+		<sentence id="24">
+			There(1) are(2) other(3) better(4) choices(5) in(6) Manhattan(7) than(8) this(9) Radisson(10) if(11) you(12) 're(13) going(14) to(15) pay(16) rack(17) rate(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			If(1) you(2) can(3) get(4) a(5) room(6) for(7) under(8) $100(9) as(10) I(11) did(12) ...(13) it(14) 's(15) worth(16) it(17) .(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="747" item="Goldspike Hotel And Casino" rating="3">
+	<title>
+		<sentence id="1">
+			would(1) not(2) stay(3) there(4) but(5) gambling(6) 
+			<opinion feature="hotel" opWords="2,3" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			great(1) gambling(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			scary(1) looking(2) place(3) 
+			<opinion featWords="3" feature="place" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) went(5) to(6) Vegas(7) for(8) out(9) 10(10) year(11) anniversary(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			He(1) would(2) hang(3) in(4) the(5) Gold(6) Spike(7) 11(8) years(9) previously(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			I(1) would(2) not(3) stay(4) there(5) but(6) the(7) gambling(8) was(9) wonderful(10) .(11) 
+			<opinion feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			I(1) won(2) more(3) money(4) there(5) then(6) in(7) any(8) other(9) casino(10) in(11) all(12) of(13) Vegas(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) a(3) little(4) scared(5) there(6) but(7) as(8) soon(9) as(10) I(11) sat(12) down(13) I(14) played(15) for(16) about(17) 10(18) minutes(19) and(20) won(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) also(3) played(4) black(5) jack(6) and(7) craps(8) and(9) won(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			We(1) enjoyed(2) ourselves(3) there(4) .(5) it(6) was(7) different(8) and(9) not(10) as(11) uptight(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			It(1) was(2) just(3) proof(4) that(5) every(6) place(7) in(8) Vegas(9) can(10) be(11) a(12) total(13) surprise(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			Also(1) the(2) staff(3) was(4) wonderfully(5) friendly(6) .(7) 
+			<opinion featWords="3" feature="staff" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+	</text>
+</review>

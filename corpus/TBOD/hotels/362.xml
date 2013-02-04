@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="362" item="Doubletree Hotel Nashville" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) nice(2) place(3) to(4) stay(5) ,(6) BUT(7) ----(8) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) clean(2) rooms(3) ,(4) Great(5) access(6) to(7) downtown(8) ,(9) within(10) walking(11) distance(12) to(13) restaurants(14) and(15) clubs(16) .(17) 
+			<opinion featWords="3" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Amenities(1) usually(2) standard(3) in(4) "(5) cheaper(6) "(7) hotels(8) ,(9) are(10) absent(11) here(12) --(13) unless(14) you(15) pay(16) extra(17) for(18) it(19) .(20) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) given(3) a(4) room(5) here(6) when(7) my(8) job(9) required(10) me(11) to(12) take(13) a(14) three(15) day(16) government(17) sponsored(18) class(19) on(20) Wetlands(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			The(1) place(2) ,(3) while(4) nice(5) enough(6) ,(7) with(8) clean(9) ,(10) comfortable(11) rooms(12) ,(13) is(14) a(15) big(16) rip-off(17) .(18) 
+			<opinion featWords="2" feature="place" opWords="5,6" polarity="+"/>
+			<opinion featWords="12" feature="rooms" opWords="9" polarity="+"/>
+			<opinion featWords="12" feature="rooms" opWords="11" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="17" polarity="-" potency="16"/>
+		</sentence>
+		<sentence id="3">
+			No(1) free(2) Internet(3) ,(4) no(5) free(6) continental(7) breakfast(8) ((9) They(10) DO(11) have(12) an(13) overpriced(14) restaurant(15) and(16) a(17) $tarbucks(18) )(19) No(20) mini(21) fridge(22) or(23) Microwave(24) in(25) the(26) room(27) and(28) only(29) about(30) HALF(31) the(32) usual(33) numbers(34) of(35) cable(36) /(37) satellite(38) channels(39) on(40) TV(41) ---(42) (43) Of(44) course(45) you(46) can(47) have(48) MORE(49) TV(50) channels(51) if(52) you(53) PAY(54) for(55) it(56) )(57) You(58) have(59) to(60) pay(61) for(62) a(63) LOT(64) of(65) things(66) you(67) expect(68) to(69) get(70) for(71) free(72) .(73) 
+			<opinion feature="price" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			To(1) top(2) things(3) off(4) ,(5) there(6) was(7) no(8) free(9) or(10) self(11) parking(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			The(1) valet(2) guy(3) has(4) to(5) park(6) or(7) retrieve(8) your(9) car(10) anytime(11) you(12) want(13) to(14) use(15) it(16) ,(17) and(18) it(19) cost(20) 18(21) bucks(22) a(23) day(24) just(25) to(26) keep(27) it(28) parked(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			They(1) will(2) dollar(3) and(4) dime(5) you(6) to(7) death(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			All(1) and(2) all(3) ,(4) I(5) would(6) have(7) preferred(8) a(9) good(10) Holiday(11) Inn(12) Express(13) or(14) HoJo(15) ,(16) with(17) a(18) parking(19) lot(20) ,(21) good(22) cable(23) TV(24) and(25) all(26) of(27) the(28) other(29) amenities(30) lacking(31) in(32) This(33) "(34) high(35) falutin(36) '(37) "(38) rip(39) off(40) place(41) .(42) 
+			<opinion featWords="24" feature="tv" opWords="23" polarity="+"/>
+			<opinion featWords="41" feature="place" opWords="39,40" polarity="-"/>
+		</sentence>
+	</text>
+</review>

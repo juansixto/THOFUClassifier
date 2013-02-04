@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="333" item="Wild Wild West Gambling Hall" rating="2">
+	<title>
+		<sentence id="1">
+			You(1) Get(2) What(3) You(4) Pay(5) For(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) Good(3) Small(4) Casino(5) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) ,(2) Annoying(3) ,(4) Bad(5) Neighberhood(6) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) worst(2) part(3) about(4) going(5) here(6) is(7) the(8) service(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Luckily(1) I(2) got(3) here(4) on(5) a(6) day(7) where(8) I(9) did(10) not(11) have(12) to(13) wait(14) in(15) line(16) ,(17) but(18) it(19) can(20) easily(21) take(22) you(23) 2(24) hours(25) to(26) check(27) in(28) or(29) out(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) are(3) a(4) disaster(5) .(6) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			They(1) arent(2) dirty(3) ,(4) but(5) they(6) arent(7) clean(8) either(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			It(1) 's(2) surrounded(3) by(4) homeless(5) people(6) ,(7) drug(8) addicts(9) ,(10) and(11) hookers(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) right(3) accross(4) from(5) cheap(6) places(7) to(8) eat(9) though(10) ...(11) maybe(12) that(13) 's(14) a(15) plus(16) .(17) 
+			<opinion feature="price" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) also(3) a(4) 10-15(5) minute(6) walk(7) from(8) the(9) strip(10) ,(11) right(12) where(13) little(14) NYC(15) is(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			The(1) casino(2) is(3) not(4) bad(5) ,(6) though(7) .(8) 
+			<opinion featWords="2" feature="casino" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			The(1) workers(2) are(3) respectable(4) ,(5) and(6) the(7) waitresses(8) are(9) very(10) cute(11) !(12) 
+		</sentence>
+		<sentence id="10">
+			I(1) won(2) 500(3) at(4) the(5) roulette(6) table(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			They(1) have(2) every(3) game(4) a(5) large(6) casino(7) has(8) ,(9) and(10) I(11) did(12) not(13) have(14) a(15) single(16) problem(17) getting(18) the(19) money(20) I(21) won(22) ,(23) so(24) that(25) was(26) convenient(27) .(28) 
+			<opinion featWords="7" feature="casino" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			Overall(1) ,(2) I(3) would(4) not(5) want(6) to(7) stay(8) here(9) again(10) ,(11) but(12) if(13) this(14) place(15) was(16) as(17) cheap(18) as(19) it(20) was(21) 2-3(22) years(23) ago(24) when(25) I(26) went(27) ,(28) I(29) 'd(30) probably(31) do(32) it(33) again(34) .(35) 
+		</sentence>
+		<sentence id="13">
+			But(1) I(2) went(3) alone(4) for(5) the(6) WSOP(7) ,(8) so(9) I(10) would(11) not(12) recommend(13) it(14) to(15) someone(16) who(17) wants(18) a(19) nice(20) stay(21) at(22) LV(23) ,(24) especially(25) a(26) family(27) .(28) 
+			<opinion featRef="hotel" featWords="14" feature="hotel" opWords="12,13" polarity="-"/>
+		</sentence>
+	</text>
+</review>

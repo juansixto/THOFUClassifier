@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="138" item="Westgate Lakes Resort" rating="1">
+	<title>
+		<sentence id="1">
+			We(1) were(2) suckered(3) !(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) comfy(2) rooms(3) 
+			<opinion featWords="3" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) are(2) con(3) artist(4) !(5) !(6) !(7) !(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) need(3) a(4) nice(5) place(6) to(7) stay(8) for(9) cheap(10) and(11) know(12) you(13) will(14) not(15) purchase(16) go(17) for(18) it(19) .(20) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+			<opinion feature="price" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			However(1) ,(2) do(3) not(4) make(5) the(6) same(7) mistake(8) our(9) family(10) did(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) were(5) looking(6) for(7) a(8) nice(9) place(10) to(11) stay(12) for(13) 2(14) days(15) near(16) Orlando(17) .(18) 
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Friend(1) mentioned(2) this(3) place(4) and(5) we(6) took(7) a(8) chance(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			We(1) now(2) owe(3) them(4) over(5) $9,000(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) not(3) a(4) hotel(5) /(6) motel(7) .(8) 
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) a(3) timeshare(4) .(5) 
+		</sentence>
+		<sentence id="6">
+			My(1) husband(2) is(3) totally(4) a(5) Mr(6) Magoo(7) when(8) it(9) comes(10) to(11) sales(12) people(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			We(1) saw(2) the(3) presentation(4) .(5) 
+		</sentence>
+		<sentence id="8">
+			I(1) refused(2) ,(3) my(4) husband(5) fell(6) for(7) it(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			It(1) came(2) to(3) a(4) point(5) when(6) I(7) ripped(8) up(9) the(10) proposal(11) in(12) the(13) mans(14) face(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			I(1) was(2) in(3) tears(4) because(5) they(6) were(7) playing(8) my(9) husband(10) against(11) me(12) .(13) 
+		</sentence>
+		<sentence id="11">
+			The(1) seller(2) told(3) my(4) husband(5) "(6) Who(7) cares(8) ,(9) she(10) will(11) get(12) over(13) it(14) .(15) Just(16) sign(17) and(18) if(19) she(20) no(21) likes(22) ,(23) she(24) can(25) find(26) someone(27) else(28) .(29) "(30) My(31) husband(32) then(33) saw(34) that(35) this(36) man(37) was(38) no(39) good(40) .(41) 
+		</sentence>
+		<sentence id="12">
+			They(1) offered(2) us(3) a(4) free(5) breakfast(6) for(7) all(8) the(9) drama(10) .(11) 
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			ANd(1) thats(2) when(3) they(4) sent(5) the(6) top(7) sales(8) person(9) in(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			HE(1) came(2) over(3) and(4) offered(5) us(6) the(7) deal(8) for(9) 1/2(10) price(11) .(12) 
+		</sentence>
+		<sentence id="15">
+			At(1) least(2) what(3) we(4) thought(5) was(6) the(7) original(8) deal(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			He(1) said(2) that(3) he(4) supported(5) the(6) military(7) and(8) just(9) wants(10) to(11) help(12) out(13) our(14) family(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			We(1) later(2) found(3) out(4) that(5) our(6) new(7) deal(8) was(9) not(10) for(11) every(12) yr(13) and(14) could(15) not(16) be(17) used(18) for(19) 2(20) yrs(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			Worse(1) mistake(2) of(3) our(4) lives(5) .(6) 
+		</sentence>
+	</text>
+</review>

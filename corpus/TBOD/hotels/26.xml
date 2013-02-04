@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="26" item="Burlington-Days Inn  Shelburne" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) do(3) it(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pool(1) ,(2) continental(3) breakfast(4) ,(5) location(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			rooms(1) ,(2) heating(3) /(4) air(5) conditioning(6) unit(7) /(8) friendliness(9) of(10) staff(11) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Nice(1) pool(2) and(3) breakfast(4) but(5) would(6) not(7) recommend(8) based(9) on(10) the(11) rooms(12) .(13) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="food" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Stayed(1) here(2) while(3) traveling(4) from(5) NY(6) to(7) visit(8) the(9) Burlington(10) area(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Stayed(1) at(2) the(3) Days(4) Inn(5) because(6) it(7) looked(8) nice(9) from(10) the(11) outside(12) and(13) the(14) lobby(15) looked(16) nice(17) too(18) so(19) I(20) would(21) have(22) thought(23) everything(24) would(25) be(26) the(27) same(28) way(29) .(30) 
+			<opinion featWords="15" feature="lobby" opWords="17" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			I(1) guess(2) like(3) the(4) saying(5) goes(6) "(7) do(8) not(9) judge(10) a(11) book(12) by(13) its(14) cover(15) "(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) person(2) at(3) the(4) front(5) desk(6) was(7) very(8) rude(9) and(10) needs(11) to(12) take(13) a(14) course(15) on(16) customer(17) service(18) skills(19) .(20) 
+			<opinion featWords="5,6" feature="front desk" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="5">
+			The(1) room(2) was(3) awful(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			We(1) kept(2) thinking(3) about(4) leaving(5) .(6) 
+		</sentence>
+		<sentence id="7">
+			The(1) bathroom(2) needs(3) to(4) be(5) renovated(6) because(7) the(8) wallpaper(9) was(10) coming(11) down(12) and(13) the(14) room(15) spelled(16) horrible(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			We(1) cranked(2) up(3) the(4) a(5) /(6) c(7) ,(8) which(9) was(10) very(11) loud(12) ,(13) and(14) opened(15) the(16) door(17) on(18) the(19) other(20) side(21) of(22) the(23) room(24) to(25) air(26) it(27) out(28) -(29) but(30) it(31) was(32) no(33) use(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			The(1) pool(2) was(3) nice(4) and(5) the(6) price(7) was(8) good(9) ...(10) but(11) ultimately(12) there(13) are(14) so(15) many(16) other(17) places(18) in(19) the(20) area(21) we(22) should(23) have(24) stayed(25) at(26) even(27) if(28) it(29) did(30) cost(31) alittle(32) more(33) .(34) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="price" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) continental(2) breakfast(3) was(4) good(5) and(6) definitely(7) worth(8) it(9) .(10) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			But(1) the(2) smell(3) of(4) the(5) room(6) I(7) still(8) can(9) not(10) get(11) out(12) of(13) my(14) head(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) ultimately(3) felt(4) very(5) dirty(6) and(7) I(8) noticed(9) my(10) allergies(11) started(12) to(13) kick(14) in(15) -(16) probably(17) from(18) the(19) mold(20) .(21) 
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="13">
+			Again(1) ...(2) what(3) has(4) happened(5) to(6) Days(7) Inn(8) ?(9) 
+		</sentence>
+		<sentence id="14">
+			They(1) have(2) really(3) gone(4) down(5) hill(6) .(7) 
+		</sentence>
+	</text>
+</review>

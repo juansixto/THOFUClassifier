@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="442" item="Americinn Of Marshalltown" rating="3">
+	<title>
+		<sentence id="1">
+			Great(1) night(2) and(3) Good(4) Breakfast(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) beds(2) ,(3) good(4) food(5) for(6) breakfast(7) 
+			<opinion featWords="2" feature="bed" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			11(1) am(2) checkout(3) time(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) good(2) value(3) for(4) the(5) budget(6) minded(7) traveler(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) the(3) recent(4) opportunity(5) to(6) spend(7) a(8) night(9) at(10) the(11) Americinn(12) at(13) Marshalltown(14) Iowa(15) ,(16) and(17) I(18) must(19) say(20) that(21) I(22) was(23) impressed(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) has(3) plenty(4) of(5) parking(6) in(7) a(8) well(9) lit(10) and(11) spacious(12) lot(13) .(14) 
+			<opinion featWords="6" feature="parking" opWords="9,10" polarity="+"/>
+			<opinion featWords="6" feature="parking" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Walking(1) in(2) the(3) front(4) entrance(5) ,(6) the(7) appearance(8) is(9) welcoming(10) and(11) homey(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			The(1) staff(2) was(3) very(4) friendly(5) and(6) had(7) me(8) in(9) my(10) room(11) inside(12) of(13) 5(14) minutes(15) .(16) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) were(3) about(4) average(5) size(6) for(7) a(8) hotel(9) the(10) price(11) of(12) the(13) Americinn(14) ,(15) and(16) had(17) a(18) bathroom(19) bby(20) that(21) was(22) separated(23) from(24) the(25) sleeping(26) area(27) .(28) 2(29) Double(30) beds(31) were(32) well(33) appointed(34) with(35) comfy(36) pillows(37) and(38) plenty(39) of(40) blankets(41) ,(42) allowing(43) one(44) to(45) cast(46) off(47) what(48) was(49) not(50) needed(51) to(52) stay(53) warm(54) during(55) the(56) night(57) .(58) 
+			<opinion featWords="37" feature="bedding" opWords="36" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Continental(1) breakfast(2) the(3) next(4) morning(5) was(6) also(7) a(8) nice(9) surprise(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			In(1) addition(2) to(3) the(4) usual(5) fare(6) of(7) toast(8) ,(9) bagels(10) ,(11) cold(12) cereal(13) ,(14) milk(15) ,(16) juice(17) ,(18) and(19) coffee(20) was(21) a(22) make(23) your(24) own(25) waffle(26) station(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			The(1) waffle(2) iron(3) even(4) came(5) with(6) a(7) cute(8) Americinn(9) logo(10) ,(11) perfect(12) for(13) holding(14) syrup(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			The(1) pool(2) and(3) hot(4) tub(5) were(6) relaxing(7) .(8) 
+			<opinion featWords="2" feature="swimming pool" opWords="7" polarity="+"/>
+			<opinion featWords="5" feature="tub" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) pool(2) was(3) probably(4) 50(5) ft(6) by(7) 20(8) ft(9) ,(10) and(11) one(12) could(13) comfortably(14) swim(15) laps(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			The(1) hot(2) tub(3) was(4) approximately(5) 10(6) ft(7) by(8) 10(9) ft(10) ,(11) and(12) provided(13) a(14) relaxing(15) current(16) of(17) bubbles(18) for(19) relief(20) after(21) swimming(22) laps(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			There(1) was(2) also(3) a(4) pool(5) table(6) and(7) a(8) couple(9) general(10) audience(11) video(12) games(13) in(14) the(15) pool(16) area(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			The(1) complimentary(2) internet(3) service(4) was(5) quick(6) and(7) responsive(8) ,(9) and(10) the(11) hotel(12) staff(13) was(14) knowledgeable(15) about(16) a(17) few(18) quirks(19) I(20) might(21) encounter(22) during(23) use(24) .(25) 
+			<opinion featWords="3" feature="internet" opWords="6" polarity="+"/>
+			<opinion featWords="3" feature="internet" opWords="8" polarity="+"/>
+			<opinion featWords="13" feature="staff" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			I(1) also(2) managed(3) to(4) be(5) a(6) little(7) absent(8) minded(9) when(10) leaving(11) ,(12) and(13) left(14) a(15) pair(16) of(17) slippers(18) behind(19) in(20) my(21) room(22) .(23) 
+		</sentence>
+		<sentence id="15">
+			I(1) called(2) the(3) front(4) desk(5) and(6) they(7) returned(8) my(9) call(10) in(11) less(12) than(13) an(14) hour(15) stating(16) they(17) had(18) found(19) my(20) slippers(21) and(22) would(23) ship(24) them(25) back(26) to(27) me(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			Very(1) impressed(2) .(3) 
+		</sentence>
+		<sentence id="17">
+			Overall(1) ,(2) AmericInn(3) is(4) a(5) great(6) value(7) for(8) the(9) budget-minded(10) traveler(11) .(12) 
+		</sentence>
+	</text>
+</review>

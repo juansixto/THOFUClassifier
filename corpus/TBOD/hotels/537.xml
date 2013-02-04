@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="537" item="Days Inn Minot" rating="2">
+	<title>
+		<sentence id="1">
+			Basic(1) hotel(2) accommodations(3) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Basic(1) ,(2) fairly(3) clean(4) accommodations(5) for(6) the(7) price(8) !(9) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Fine(1) for(2) a(3) quick(4) overnight(5) stay(6) ,(7) but(8) would(9) not(10) go(11) there(12) for(13) a(14) longer(15) stay(16) .(17) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) here(3) a(4) few(5) weeks(6) ago(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Customer(1) service(2) was(3) very(4) friendly(5) and(6) courteous(7) .(8) 
+			<opinion featWords="2" feature="service" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Check(1) in(2) time(3) was(4) very(5) fast(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			Common(1) areas(2) were(3) clean(4) and(5) very(6) basic(7) .(8) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="5">
+			Nothing(1) overly(2) nice(3) .(4) 
+		</sentence>
+		<sentence id="6">
+			Rooms(1) were(2) fairly(3) clean(4) .(5) ((6) Cheerios(7) under(8) the(9) bed(10) )(11) .(12) 
+			<opinion featWords="1" feature="rooms" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="7">
+			Could(1) have(2) used(3) new(4) comforters(5) and(6) the(7) pillows(8) were(9) very(10) flat(11) .(12) 
+			<opinion featWords="8" feature="bedding" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+		<sentence id="8">
+			Towels(1) were(2) nice(3) and(4) white(5) ,(6) but(7) worn(8) .(9) 
+			<opinion featWords="1" feature="towels" opWords="3" polarity="+"/>
+			<opinion featWords="1" feature="towels" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Pool(1) area(2) was(3) clean(4) and(5) in(6) good(7) working(8) order(9) ,(10) but(11) very(12) small(13) and(14) not(15) very(16) welcoming(17) .(18) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="place" opWords="13" polarity="-" potency="12"/>
+			<opinion featWords="2" feature="place" opWords="15,17" polarity="-" potency="16"/>
+		</sentence>
+		<sentence id="10">
+			Parking(1) was(2) excellent(3) ,(4) plenty(5) of(6) close(7) parking(8) spaces(9) .(10) 
+			<opinion featWords="1" feature="parking" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			Location(1) was(2) fine(3) .(4) 
+			<opinion featWords="1" feature="place" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			It(1) is(2) on(3) 2(4) major(5) roads(6) and(7) not(8) too(9) far(10) from(11) the(12) mall(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Also(1) ,(2) has(3) a(4) Perkins(5) nearby(6) !(7) 
+		</sentence>
+	</text>
+</review>

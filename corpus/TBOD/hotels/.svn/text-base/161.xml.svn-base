@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="161" item="Oasis Cancun - All Inclusive" rating="5">
+	<title>
+		<sentence id="1">
+			Oasis(1) Cancun(2) !(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) View(2) !(3) 
+		</sentence>
+		<sentence id="2">
+			Great(1) Service(2) !(3) 
+		</sentence>
+		<sentence id="3">
+			Great(1) Fun(2) !(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nothing(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Excellent(1) location(2) ,(3) great(4) night(5) life(6) and(7) great(8) service(9) !(10) !(11) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="9" feature="service" opWords="8" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) did(2) some(3) shopping(4) for(5) nice(6) hotels(7) with(8) reasonable(9) prices(10) and(11) fell(12) onto(13) the(14) Oasis(15) Cancun(16) .(17) 
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="+"/>
+			<opinion featWords="10" feature="price" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Just(1) from(2) the(3) pictures(4) alone(5) ,(6) i(7) was(8) sold(9) .(10) 
+		</sentence>
+		<sentence id="3">
+			What(1) a(2) great(3) view(4) .(5) 
+			<opinion featWords="4" feature="view" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) asked(2) for(3) a(4) room(5) with(6) a(7) view(8) of(9) the(10) ocean(11) instead(12) of(13) the(14) lagoon(15) ,(16) which(17) i(18) am(19) very(20) happy(21) that(22) i(23) did(24) .(25) 
+		</sentence>
+		<sentence id="5">
+			Located(1) fairly(2) close(3) to(4) downtown(5) Cancun(6) where(7) all(8) of(9) the(10) fun(11) nightlife(12) is(13) located(14) ,(15) the(16) Oasis(17) hotel(18) provided(19) many(20) opportunities(21) to(22) have(23) fun(24) while(25) spending(26) my(27) 18th(28) birthday(29) down(30) there(31) .(32) 
+		</sentence>
+		<sentence id="6">
+			Right(1) when(2) we(3) checked(4) in(5) ,(6) we(7) received(8) a(9) complimentary(10) drink(11) ,(12) and(13) then(14) was(15) led(16) to(17) a(18) tour(19) guide(20) who(21) was(22) very(23) informative(24) about(25) different(26) excursions(27) that(28) we(29) could(30) venture(31) on(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			They(1) offered(2) great(3) prices(4) and(5) tons(6) of(7) fun(8) .(9) 
+			<opinion featWords="4" feature="price" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			During(1) the(2) days(3) ,(4) you(5) could(6) call(7) for(8) a(9) wake(10) up(11) and(12) go(13) down(14) and(15) enjoy(16) the(17) whole(18) day(19) of(20) sun(21) on(22) the(23) beautiful(24) beach(25) .(26) 
+			<opinion featWords="25" feature="beach" opWords="24" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			The(1) many(2) pools(3) also(4) added(5) entertainment(6) with(7) a(8) full(9) time(10) Disc(11) Jockey(12) always(13) having(14) contests(15) and(16) games(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			I(1) can(2) not(3) say(4) much(5) more(6) about(7) this(8) hotel(9) except(10) ,(11) do(12) not(13) hesitate(14) to(15) make(16) your(17) reservation(18) there(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			You(1) 'll(2) never(3) regret(4) it(5) .(6) 
+		</sentence>
+	</text>
+</review>

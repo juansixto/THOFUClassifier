@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="557" item="Manassas, VA Days Inn" rating="2">
+	<title>
+		<sentence id="1">
+			do(1) not(2) use(3) Priceline(4) for(5) this(6) hotel(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			We(1) cancelled(2) our(3) reservation(4) ,(5) so(6) I(7) can(8) not(9) give(10) any(11) pros(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Discount(1) customers(2) may(3) get(4) poor(5) service(6) 
+			<opinion featWords="6" feature="service" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) booked(2) a(3) room(4) for(5) 3(6) days(7) through(8) Priceline(9) ,(10) not(11) knowing(12) that(13) Priceline(14) will(15) not(16) guarantee(17) a(18) non-smoking(19) room(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) booked(3) well(4) in(5) advance(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			The(1) manager(2) of(3) this(4) hotel(5) first(6) said(7) he(8) did(9) not(10) have(11) non-smoking(12) for(13) all(14) 3(15) days(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			When(1) we(2) asked(3) what(4) he(5) did(6) have(7) ,(8) he(9) changed(10) his(11) story(12) and(13) said(14) he(15) did(16) not(17) have(18) any(19) non-smoking(20) rooms(21) for(22) the(23) entire(24) duration(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			When(1) we(2) asked(3) to(4) inspect(5) the(6) room(7) ,(8) we(9) were(10) directed(11) to(12) the(13) handicapped-accessible(14) room(15) -(16) yet(17) other(18) individuals(19) entering(20) the(21) hotel(22) seemed(23) to(24) find(25) rooms(26) without(27) difficulty(28) .(29) 
+			<opinion featWords="15" feature="rooms" opWords="14" polarity="+"/>
+		</sentence>
+	</text>
+</review>

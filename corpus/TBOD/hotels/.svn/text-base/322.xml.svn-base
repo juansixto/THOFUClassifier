@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="322" item="Radisson Bch Resort Ft Walton" rating="3">
+	<title>
+		<sentence id="1">
+			Comfortable(1) ...(2) unless(3) you(4) 're(5) used(6) to(7) the(8) Ritz(9) Carlton(10) ...(11) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) atmosphere(2) and(3) beautiful(4) beach(5) .(6) 
+			<opinion featWords="5" feature="beach" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Nice(1) amenities(2) .(3) 
+			<opinion featWords="2" feature="amenities" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Housekeepers(1) are(2) not(3) thorough(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Hotel(1) is(2) not(3) as(4) RENOVATED(5) as(6) I(7) 'd(8) hoped(9) ((10) brand(11) new(12) everything(13) )(14) .(15) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) recommend(3) it(4) for(5) those(6) on(7) a(8) budget(9) that(10) want(11) full(12) amenities(13) and(14) SUPERB(15) LOCATION(16) for(17) a(18) budget(19) price(20) .(21) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="20" feature="price" opWords="19" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) the(2) Ritz-Carlton(3) is(4) your(5) usual(6) stomping(7) ground(8) ,(9) then(10) I(11) can(12) understand(13) why(14) the(15) Radisson(16) just(17) does(18) not(19) fit(20) the(21) bill(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			For(1) the(2) rest(3) of(4) us(5) ,(6) the(7) Radisson(8) is(9) a(10) comfortable(11) ,(12) nice(13) hotel(14) .(15) 
+			<opinion featWords="14" feature="hotel" opWords="11" polarity="+"/>
+			<opinion featWords="14" feature="hotel" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			I(1) booked(2) a(3) 2(4) night(5) stay(6) ((7) business(8) )(9) before(10) I(11) read(12) these(13) reviews(14) and(15) was(16) definitely(17) apprehensive(18) and(19) nervous(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			I(1) expected(2) roaches(3) and(4) rats(5) to(6) come(7) flying(8) out(9) of(10) the(11) walls(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Well(1) ,(2) I(3) had(4) a(5) late(6) check-in(7) ((8) 9pm(9) )(10) ,(11) and(12) the(13) luggage(14) attendent(15) immediately(16) asked(17) us(18) if(19) we(20) needed(21) assistance(22) ((23) 1(24) point(25) )(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			We(1) did(2) not(3) ,(4) and(5) we(6) proceeded(7) to(8) the(9) front(10) desk(11) .(12) 
+		</sentence>
+		<sentence id="7">
+			Because(1) we(2) checked-in(3) so(4) late(5) I(6) can(7) not(8) really(9) rate(10) the(11) front(12) desk(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			There(1) were(2) only(3) 3(4) of(5) us(6) and(7) she(8) checked(9) us(10) in(11) quickly(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) lobby(2) was(3) "(4) resorty(5) "(6) ,(7) clean(8) and(9) nice(10) ((11) 2(12) points(13) )(14) but(15) the(16) furniture(17) was(18) a(19) bit(20) faded(21) .(22) 
+			<opinion featWords="2" feature="lobby" opWords="5" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="8" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="10" polarity="+"/>
+			<opinion featWords="17" feature="furnishings" opWords="21" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			I(1) did(2) like(3) the(4) atmosphere(5) though(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Well(1) ,(2) so(3) far(4) so(5) good(6) ,(7) I(8) thought(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			We(1) rode(2) the(3) shaky(4) elevator(5) ((6) with(7) patched(8) glass(9) )(10) up(11) to(12) our(13) floor(14) ((15) minus(16) 1(17) point(18) )(19) .(20) 
+			<opinion featWords="5" feature="elevator" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			On(1) our(2) walk(3) down(4) to(5) our(6) room(7) I(8) checked(9) out(10) the(11) cleanliness(12) of(13) the(14) halls(15) ((16) 1(17) point(18) )(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			I(1) entered(2) the(3) room(4) and(5) ...(6) exhaled(7) gratefully(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			It(1) was(2) definitely(3) not(4) a(5) renovated(6) room(7) as(8) I(9) had(10) hoped(11) ,(12) but(13) it(14) was(15) nice(16) .(17) 
+			<opinion featWords="7" feature="rooms" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			Fridge(1) ,(2) microwave(3) ,(4) and(5) coffee(6) pot(7) ((8) 1(9) point(10) )(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Everything(1) was(2) neat(3) and(4) clean(5) .(6) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			Bathroom(1) was(2) a(3) little(4) dark(5) and(6) water(7) pressure(8) could(9) 've(10) been(11) a(12) little(13) better(14) but(15) it(16) was(17) decent(18) .(19) 
+			<opinion featWords="1" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) view(2) of(3) the(4) pool(5) and(6) gulf(7) were(8) great(9) ((10) 3(11) points(12) )(13) .(14) 
+			<opinion featWords="2" feature="view" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			I(1) did(2) eat(3) a(4) snack(5) at(6) the(7) Island(8) Delites(9) snack(10) bar(11) which(12) was(13) delicious(14) ((15) grilled(16) ham(17) &amp;(18) cheese(19) )(20) but(21) how(22) can(23) you(24) mess(25) that(26) up(27) ,(28) right(29) ?(30) ;(31) D(32) I(33) did(34) eat(35) breakfast(36) at(37) Crabby(38) Restaurant(39) .(40) 
+		</sentence>
+		<sentence id="21">
+			It(1) was(2) okay(3) .(4) 
+		</sentence>
+		<sentence id="22">
+			Of(1) course(2) ,(3) there(4) was(5) one(6) big(7) problem(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			The(1) first(2) night(3) I(4) checked(5) in(6) late(7) so(8) I(9) did(10) a(11) quick(12) inspection(13) ,(14) quick(15) shower(16) &amp;(17) teeth(18) brushing(19) and(20) went(21) to(22) bed(23) .(24) 
+		</sentence>
+		<sentence id="24">
+			The(1) next(2) morning(3) while(4) brushing(5) my(6) teeth(7) ,(8) I(9) notice(10) that(11) SOMEONE(12) ELSE(13) '(14) S(15) HAIR(16) CLIPPINGS(17) are(18) sprinkled(19) behind(20) the(21) faucet(22) !(23) 
+		</sentence>
+		<sentence id="25">
+			I(1) am(2) grossed(3) out(4) and(5) hope(6) room(7) service(8) cleans(9) it(10) properly(11) while(12) I(13) 'm(14) out(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			I(1) was(2) wrong(3) .(4) 
+		</sentence>
+		<sentence id="27">
+			The(1) room(2) service(3) did(4) not(5) do(6) a(7) thorough(8) job(9) cleaning(10) the(11) bathroom(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			I(1) then(2) looked(3) around(4) in(5) horror(6) at(7) the(8) other(9) "(10) grossities(11) "(12) I(13) might(14) 've(15) missed(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			Since(1) I(2) was(3) checking(4) out(5) the(6) next(7) morning(8) I(9) did(10) not(11) complain(12) like(13) I(14) should(15) 've(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			I(1) did(2) not(3) find(4) any(5) other(6) things(7) ,(8) but(9) that(10) was(11) a(12) MINUS(13) 5(14) PTS.(15) Bottom(16) line(17) .(18) 
+		</sentence>
+		<sentence id="31">
+			It(1) 's(2) not(3) the(4) Ritz-Carlton(5) .(6) 
+		</sentence>
+		<sentence id="32">
+			It(1) 's(2) comfortable(3) ,(4) had(5) nice(6) amenities(7) ((8) fitness(9) room(10) ,(11) pool(12) ,(13) lazy(14) river(15) -(16) which(17) I(18) did(19) not(20) try(21) because(22) I(23) was(24) sick(25) )(26) and(27) the(28) overall(29) hotel(30) is(31) fairly(32) clean(33) .(34) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="7" feature="amenities" opWords="6" polarity="+"/>
+			<opinion featWords="30" feature="hotel" opWords="33" polarity="+" potency="32"/>
+		</sentence>
+		<sentence id="33">
+			I(1) did(2) not(3) see(4) any(5) animals(6) /(7) insects(8) in(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			The(1) pool(2) ,(3) lazy(4) river(5) and(6) beach(7) and(8) SO(9) BEAUTIFUL(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			If(1) I(2) had(3) to(4) rate(5) the(6) overall(7) package(8) ,(9) it(10) would(11) be(12) a(13) 3(14) out(15) of(16) 5(17) stars(18) ((19) average(20) )(21) ,(22) but(23) if(24) I(25) had(26) to(27) rate(28) the(29) bathroom(30) alone(31) ,(32) I(33) would(34) give(35) it(36) a(37) 0(38) out(39) of(40) 5(41) stars(42) .(43) 
+		</sentence>
+		<sentence id="36">
+			The(1) room(2) service(3) is(4) dependent(5) on(6) who(7) is(8) cleaning(9) your(10) room(11) so(12) the(13) 3rd(14) floor(15) bathrooms(16) were(17) probably(18) spotless(19) .(20) 
+		</sentence>
+		<sentence id="37">
+			I(1) will(2) not(3) trash(4) the(5) Radisson(6) because(7) one(8) lazy(9) housekeeper(10) works(11) there(12) .(13) 
+		</sentence>
+	</text>
+</review>

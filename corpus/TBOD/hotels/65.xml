@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="65" item="Holiday Inn BEACHSIDE-KEY WEST" rating="3">
+	<title>
+		<sentence id="1">
+			New(1) Property(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			New(1) Property(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) a(2) word(3) on(4) the(5) past(6) comments(7) about(8) this(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			They(1) are(2) no(3) longer(4) relevant(5) as(6) the(7) whole(8) hotel(9) was(10) torn(11) down(12) to(13) the(14) ground(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) now(3) a(4) condo(5) hotel(6) ,(7) brand(8) new(9) as(10) of(11) 2007(12) .(13) 
+		</sentence>
+	</text>
+</review>

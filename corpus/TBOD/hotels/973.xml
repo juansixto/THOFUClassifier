@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="973" item="Fairmont Le Chateau Montebello" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) Very(2) Quiet(3) Retreat(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) quiet(2) and(3) relaxing(4) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Activity(1) availability(2) varies(3) by(4) season(5) !(6) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			As(1) a(2) fan(3) of(4) the(5) Canadian(6) Pacific(7) Hotel(8) chain(9) ,(10) my(11) husband(12) and(13) I(14) visited(15) for(16) our(17) anniversary(18) in(19) the(20) late(21) fall(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			The(1) rustic(2) interior(3) is(4) quite(5) beautiful(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			You(1) can(2) relax(3) in(4) your(5) room(6) ,(7) in(8) the(9) atrium(10) ((11) with(12) a(13) wide(14) variety(15) of(16) board(17) games(18) )(19) ,(20) in(21) the(22) fitness(23) center(24) ,(25) out(26) on(27) the(28) trails(29) or(30) in(31) the(32) spa(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			The(1) late(2) fall(3) was(4) very(5) quiet(6) there(7) ,(8) so(9) if(10) activity(11) is(12) paramount(13) ,(14) please(15) take(16) this(17) into(18) consideration(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			It(1) looks(2) like(3) a(4) wonderful(5) place(6) for(7) families(8) during(9) the(10) summer(11) and(12) winter(13) with(14) the(15) ice(16) rinks(17) ,(18) sledding(19) slopes(20) ,(21) swimming(22) pools(23) ,(24) etc.(25) If(26) I(27) went(28) again(29) ,(30) I(31) would(32) not(33) go(34) in(35) the(36) late(37) fall(38) or(39) spring(40) .(41) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) also(3) offers(4) snowmobile(5) rides(6) in(7) winter(8) ,(9) 4-wheeler(10) rides(11) ,(12) and(13) a(14) Land(15) Rover(16) school(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			Nearby(1) Parc(2) Omega(3) ((4) a(5) drive(6) through(7) wildlife(8) area(9) )(10) is(11) certainly(12) worth(13) while(14) ...(15) and(16) you(17) can(18) feed(19) carrots(20) to(21) the(22) Buffalo(23) ,(24) Moose(25) ,(26) Boar(27) ,(28) etc.(29) The(30) food(31) was(32) very(33) good(34) and(35) you(36) have(37) your(38) choice(39) of(40) two(41) separate(42) restaurants(43) ,(44) one(45) of(46) which(47) is(48) quite(49) casual(50) .(51) 
+			<opinion featWords="31" feature="food" opWords="34" polarity="+" potency="33"/>
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) a(3) small(4) town(5) nearby(6) ,(7) however(8) the(9) resort(10) seems(11) more(12) inviting(13) with(14) its(15) restaurants(16) and(17) activities(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			You(1) can(2) also(3) purchase(4) a(5) package(6) with(7) a(8) table(9) d'haute(10) menu(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			The(1) resort(2) offers(3) rooms(4) which(5) are(6) comfortable(7) yet(8) rustic(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			The(1) mattresses(2) are(3) outstanding(4) !(5) 
+		</sentence>
+		<sentence id="12">
+			I(1) will(2) compare(3) all(4) others(5) to(6) these(7) mattresses(8) in(9) the(10) future(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			Service(1) was(2) friendly(3) yet(4) distant(5) .(6) 
+			<opinion featWords="1" feature="service" opWords="5" polarity="-"/>
+			<opinion featWords="1" feature="service" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) patrons(2) of(3) Montebello(4) can(5) also(6) use(7) the(8) lands(9) at(10) nearby(11) Kenauk(12) for(13) trail(14) walking(15) ,(16) etc.(17) This(18) is(19) a(20) 165,000(21) acre(22) wilderness(23) preserve(24) .(25) 
+		</sentence>
+		<sentence id="15">
+			During(1) our(2) visit(3) the(4) preserve(5) was(6) open(7) to(8) hunting(9) so(10) we(11) could(12) unfortunately(13) not(14) use(15) the(16) land(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			If(1) this(2) appeals(3) to(4) you(5) ,(6) please(7) make(8) sure(9) it(10) is(11) not(12) hunting(13) season(14) when(15) you(16) go(17) .(18) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="43" item="The Suites Of Dorchester" rating="1">
+	<title>
+		<sentence id="1">
+			do(1) not(2) believe(3) the(4) photos(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			the(1) A(2) /(3) C(4) worked(5) ,(6) Breakfast(7) was(8) good(9) 
+			<opinion featWords="7" feature="food" opWords="9" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			filth(1) ,(2) attitude(3) ,(4) terrible(5) service(6) 
+			<opinion featWords="6" feature="service" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			The(1) pictues(2) on(3) their(4) website(5) are(6) quite(7) deceiving(8) !(9) 
+		</sentence>
+		<sentence id="2">
+			We(1) kept(2) our(3) sandals(4) on(5) the(6) entire(7) time(8) because(9) the(10) carpet(11) was(12) so(13) dirty(14) .(15) 
+			<opinion featWords="11" feature="carpets" opWords="14" polarity="-" potency="13"/>
+		</sentence>
+		<sentence id="3">
+			There(1) were(2) gashes(3) on(4) the(5) walls(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			There(1) was(2) no(3) exhaust(4) fan(5) in(6) the(7) small(8) bathroom(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			Apparently(1) this(2) hotel(3) does(4) not(5) believe(6) in(7) face(8) cloths(9) nor(10) hand(11) towels(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			We(1) requested(2) them(3) repeatedly(4) and(5) finally(6) had(7) to(8) go(9) and(10) get(11) them(12) ourselves(13) .....(14) every(15) day(16) !(17) 
+		</sentence>
+		<sentence id="7">
+			We(1) could(2) hear(3) people(4) sneezing(5) in(6) the(7) next(8) room(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) elevator(2) was(3) painfully(4) slow(5) .(6) 
+			<opinion featWords="2" feature="elevator" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="9">
+			One(1) night(2) our(3) friends(4) tried(5) to(6) phone(7) us(8) and(9) the(10) front(11) desk(12) kept(13) putting(14) them(15) through(16) to(17) a(18) recording(19) that(20) we(21) were(22) unavailable(23) ((24) we(25) were(26) waiting(27) for(28) their(29) call(30) )(31) We(32) tried(33) calling(34) the(35) front(36) desk(37) to(38) see(39) what(40) the(41) problem(42) was(43) ,(44) the(45) would(46) not(47) answer(48) ,(49) although(50) we(51) had(52) just(53) come(54) in(55) and(56) saw(57) them(58) sitting(59) there(60) ,(61) not(62) busy(63) .(64) 
+		</sentence>
+		<sentence id="10">
+			Finally(1) we(2) resorted(3) to(4) cell(5) phones(6) !(7) !(8) !(9) !(10) !(11) 
+		</sentence>
+		<sentence id="11">
+			Oh(1) ,(2) and(3) their(4) "(5) sister(6) hotel(7) "(8) where(9) you(10) must(11) go(12) to(13) use(14) the(15) beach(16) ......(17) two(18) very(19) long(20) blocks(21) away(22) !(23) 
+		</sentence>
+		<sentence id="12">
+			An(1) we(2) never(3) did(4) see(5) the(6) swimming(7) pool(8) which(9) is(10) in(11) their(12) ads(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			All(1) this(2) for(3) $105(4) a(5) night(6) !(7) there(8) are(9) betterhotels(10) fro(11) even(12) less(13) money(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			This(1) was(2) out(3) worst(4) hotel(5) experience(6) in(7) decades(8) !(9) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="66" item="Motel 6 Orlando Kissimmee Main Gate" rating="1">
+	<title>
+		<sentence id="1">
+			Motel(1) 6(2) -(3) West(4) Gate(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			There(1) are(2) none(3) except(4) the(5) price(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bugs(1) ,(2) noise(3) ,(4) scary(5) sounding(6) people(7) in(8) the(9) parking(10) lot(11) !(12) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) woke(2) up(3) in(4) the(5) middle(6) of(7) our(8) first(9) night(10) with(11) bugs(12) crawling(13) on(14) us(15) and(16) biting(17) us(18) !(19) !(20) !(21) 
+		</sentence>
+		<sentence id="2">
+			We(1) went(2) to(3) check(4) out(5) and(6) complain(7) ,(8) and(9) the(10) clerk(11) asked(12) ,(13) "(14) Were(15) they(16) bed(17) bugs(18) ?(19) "(20) like(21) they(22) knew(23) they(24) had(25) an(26) infestation(27) !(28) !(29) 
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) never(3) seen(4) a(5) bed(6) bug(7) before(8) ,(9) so(10) I(11) did(12) not(13) know(14) .(15) 
+		</sentence>
+		<sentence id="4">
+			She(1) never(2) even(3) offered(4) us(5) a(6) refund(7) !(8) !(9) !(10) 
+		</sentence>
+		<sentence id="5">
+			She(1) said(2) the(3) manager(4) would(5) call(6) us(7) ,(8) but(9) it(10) 's(11) Monday(12) and(13) she(14) has(15) not(16) called(17) us(18) yet(19) !(20) 
+		</sentence>
+		<sentence id="6">
+			Terrible(1) service(2) ,(3) very(4) loud(5) and(6) dangerous(7) sounds(8) coming(9) from(10) the(11) parking(12) lot(13) ,(14) and(15) BUGS(16) !(17) !(18) !(19) !(20) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="205" item="Circus Circus Hotel &amp; Casino" rating="2">
+	<title>
+		<sentence id="1">
+			You(1) may(2) enjoy(3) yourself(4) ,(5) but(6) you(7) will(8) never(9) want(10) to(11) go(12) back(13) .(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) family(3) oriented(4) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			very(1) hectic(2) atmosphere(3) ,(4) bad(5) service(6) ,(7) nothing(8) special(9) 
+			<opinion featWords="6" feature="service" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Line(1) _____________________________________(2) Line(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) first(2) time(3) I(4) stayed(5) in(6) Las(7) Vegas(8) I(9) decided(10) to(11) stay(12) at(13) the(14) Circus(15) Circus(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			It(1) seemed(2) nice(3) and(4) inexpensive(5) .(6) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3" polarity="+"/>
+			<opinion feature="price" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Here(1) are(2) some(3) of(4) my(5) thoughts(6) on(7) the(8) different(9) aspects(10) of(11) the(12) hotel(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) First(2) Look(3) /(4) The(5) Check(6) In(7) When(8) you(9) enter(10) the(11) premises(12) ,(13) there(14) is(15) a(16) big(17) awning(18) with(19) circus(20) or(21) carnival(22) lights(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			You(1) will(2) most(3) likely(4) not(5) get(6) valet(7) parking(8) ,(9) so(10) you(11) will(12) have(13) to(14) park(15) in(16) the(17) parking(18) garage(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			The(1) Lobby(2) is(3) very(4) simple(5) and(6) also(7) fits(8) the(9) circus(10) theme(11) .(12) 
+			<opinion featWords="2" feature="lobby" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="7">
+			There(1) are(2) not(3) many(4) desks(5) and(6) it(7) took(8) about(9) one(10) hour(11) and(12) thirty(13) minutes(14) to(15) check(16) in(17) ((18) not(19) including(20) waiting(21) in(22) line(23) )(24) due(25) to(26) the(27) inexperience(28) of(29) the(30) employee(31) .(32) 
+		</sentence>
+		<sentence id="8">
+			The(1) Rooms(2) Most(3) likely(4) ,(5) the(6) next(7) thing(8) that(9) you(10) will(11) do(12) is(13) go(14) up(15) to(16) the(17) room(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			You(1) will(2) easily(3) find(4) elevators(5) and(6) go(7) to(8) the(9) room(10) .(11) 
+		</sentence>
+		<sentence id="10">
+			While(1) we(2) were(3) there(4) a(5) friendly(6) old(7) man(8) that(9) did(10) not(11) work(12) there(13) informed(14) us(15) that(16) one(17) of(18) the(19) elevators(20) did(21) not(22) work(23) and(24) that(25) he(26) got(27) caught(28) in(29) it(30) for(31) five(32) hours(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			This(1) is(2) just(3) one(4) of(5) the(6) many(7) faults(8) of(9) the(10) hotel(11) that(12) could(13) easily(14) ruin(15) your(16) stay(17) ,(18) you(19) just(20) have(21) to(22) be(23) careful(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			All(1) I(2) have(3) to(4) say(5) about(6) our(7) room(8) is(9) that(10) it(11) was(12) old(13) ,(14) smelly(15) ,(16) and(17) small(18) .(19) 
+			<opinion featWords="8" feature="rooms" opWords="13" polarity="-"/>
+			<opinion featWords="8" feature="rooms" opWords="15" polarity="-"/>
+			<opinion featWords="8" feature="rooms" opWords="18" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) Amenities(2) The(3) Circus(4) Circus(5) has(6) the(7) basic(8) hotel(9) amenities(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			The(1) Service(2) The(3) service(4) that(5) we(6) got(7) was(8) terrible(9) .(10) 
+			<opinion featWords="4" feature="service" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="15">
+			I(1) guess(2) that(3) the(4) employees(5) are(6) truly(7) "(8) carnies(9) "(10) .(11) 
+		</sentence>
+		<sentence id="16">
+			The(1) AdventureDome(2) The(3) most(4) pleasing(5) aspect(6) of(7) this(8) hotel(9) is(10) the(11) AdventureDome(12) It(13) is(14) a(15) large(16) indoor(17) theme(18) park(19) that(20) attracts(21) thrill(22) seekers(23) and(24) family(25) alike(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			If(1) you(2) do(3) not(4) decide(5) to(6) stay(7) here(8) ((9) which(10) you(11) really(12) should(13) )(14) I(15) suggest(16) that(17) you(18) visit(19) the(20) AdventureDome(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			It(1) is(2) a(3) fun(4) time(5) and(6) also(7) an(8) escape(9) from(10) the(11) Las(12) Vegas(13) sun(14) and(15) heat(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			The(1) Resturaunts(2) There(3) are(4) a(5) few(6) resturaunts(7) around(8) the(9) Circus(10) Circus(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			The(1) buffet(2) and(3) cafe(4) are(5) disapointing(6) if(7) you(8) expected(9) a(10) massive(11) all-you-can-eat(12) or(13) a(14) really(15) nice(16) restaurant(17) .(18) 
+			<opinion featWords="2" feature="food" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="21">
+			The(1) steakhouse(2) is(3) pretty(4) nice(5) though(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			Final(1) Thoughts(2) One(3) of(4) the(5) biggest(6) faults(7) of(8) the(9) hotel(10) is(11) something(12) it(13) has(14) little(15) or(16) no(17) control(18) over(19) .(20) 
+		</sentence>
+		<sentence id="23">
+			It(1) is(2) in(3) a(4) bad(5) location(6) .(7) if(8) you(9) want(10) to(11) go(12) to(13) the(14) other(15) side(16) of(17) "(18) The(19) Strip(20) "(21) it(22) is(23) a(24) six(25) mile(26) walk(27) .(28) 
+		</sentence>
+		<sentence id="24">
+			I(1) suggest(2) you(3) take(4) "(5) The(6) Deuce(7) "(8) double(9) decker(10) bus(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			It(1) seems(2) like(3) you(4) get(5) what(6) you(7) pay(8) for(9) ,(10) so(11) i(12) suggest(13) that(14) you(15) go(16) for(17) a(18) nicer(19) hotel(20) .(21) 
+		</sentence>
+	</text>
+</review>

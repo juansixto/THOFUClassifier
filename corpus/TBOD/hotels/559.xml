@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="559" item="Philadelphia-Ne/Bensalem Pa Tnpk" rating="3">
+	<title>
+		<sentence id="1">
+			Hotel(1) is(2) nothing(3) to(4) write(5) home(6) about(7) ,(8) but(9) is(10) just(11) fine(12) 
+			<opinion featWords="1" feature="hotel" opWords="11,12" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			large(1) minifridge(2) /(3) microwave(4) ;(5) close(6) to(7) Sesame(8) Place(9) ;(10) clean(11) room(12) ;(13) nice(14) employees(15) 
+			<opinion featWords="12" feature="rooms" opWords="11" polarity="+"/>
+			<opinion featWords="15" feature="staff" opWords="14" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			older(1) hotel(2) ;(3) no(4) elevator(5) to(6) second(7) floor(8) ;(9) musty(10) smell(11) in(12) hallways(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Standard(1) older(2) hotel(3) -(4) just(5) fine(6) for(7) families(8) visiting(9) Sesame(10) Place(11) 
+			<opinion featWords="3" feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="3" feature="hotel" opWords="5,6" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Our(1) family(2) of(3) 4(4) stayed(5) here(6) to(7) visit(8) Sesame(9) Place(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			While(1) it(2) was(3) nothing(4) to(5) write(6) home(7) about(8) ,(9) it(10) was(11) just(12) fine(13) for(14) our(15) needs(16) .(17) 
+			<opinion featRef="hotel" featWords="10" feature="hotel" opWords="12,13" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) only(3) about(4) 10(5) min.(6) from(7) Sesame(8) Place(9) ,(10) so(11) that(12) was(13) great(14) ((15) we(16) had(17) heard(18) 10-30(19) minutes(20) in(21) various(22) places(23) )(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) good(3) because(4) they(5) had(6) a(7) rather(8) large(9) mini(10) fridge(11) and(12) a(13) microwave(14) ,(15) which(16) is(17) nice(18) with(19) kids(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Room(1) had(2) high(3) speed(4) internet(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			The(1) air(2) was(3) sort(4) of(5) stuffy(6) and(7) not(8) the(9) best(10) smell(11) in(12) the(13) hallway(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			Not(1) that(2) bad(3) ,(4) just(5) musty(6) old(7) hotel(8) kind(9) of(10) smell(11) .(12) 
+			<opinion feature="hotel" opWords="1,3" polarity="+"/>
+			<opinion featWords="8" feature="hotel" opWords="6" polarity="-"/>
+			<opinion featWords="8" feature="hotel" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			They(1) are(2) redoing(3) the(4) hotel(5) still(6) ((7) July(8) 2006(9) )(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			So(1) it(2) was(3) fine(4) but(5) you(6) could(7) tell(8) it(9) was(10) older(11) .(12) 
+			<opinion featRef="hotel" featWords="2" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Room(1) was(2) clean(3) though(4) .(5) 
+			<opinion featWords="1" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			Does(1) not(2) have(3) free(4) breakfast(5) ,(6) but(7) you(8) can(9) at(10) least(11) get(12) coffee(13) and(14) a(15) paper(16) in(17) the(18) lobby(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			Has(1) a(2) pool(3) too(4) ,(5) but(6) we(7) did(8) not(9) use(10) it(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			I(1) saw(2) a(3) coin(4) operated(5) laundry(6) facility(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			Also(1) ,(2) if(3) you(4) had(5) signed(6) up(7) for(8) priority(9) club(10) ((11) free(12) )(13) ,(14) you(15) get(16) a(17) gift(18) bag(19) with(20) snacks(21) in(22) it(23) at(24) checkin(25) -(26) kind(27) of(28) nice(29) .(30) 
+		</sentence>
+		<sentence id="15">
+			Road(1) noise(2) did(3) not(4) bother(5) us(6) at(7) all(8) and(9) there(10) were(11) no(12) motorcycle(13) rallies(14) as(15) the(16) other(17) reviewer(18) encountered(19) .(20) 
+		</sentence>
+		<sentence id="16">
+			So(1) all(2) in(3) all(4) ,(5) I(6) thought(7) it(8) was(9) a(10) little(11) overpriced(12) for(13) an(14) older(15) hotel(16) with(17) no(18) frills(19) ((20) $109/night(21) was(22) what(23) we(24) paid(25) with(26) AAA(27) rate(28) )(29) ,(30) but(31) it(32) was(33) fine(34) and(35) good(36) for(37) Sesame(38) Place(39) .(40) 
+			<opinion feature="price" opWords="12" polarity="-" potency="11"/>
+			<opinion featRef="hotel" featWords="32" feature="hotel" opWords="34" polarity="+"/>
+			<opinion featRef="hotel" featWords="32" feature="hotel" opWords="36" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Also(1) ,(2) they(3) had(4) a(5) really(6) nice(7) employee(8) there(9) who(10) helped(11) us(12) jump(13) our(14) car(15) when(16) it(17) broke(18) down(19) and(20) gave(21) us(22) good(23) advice(24) on(25) what(26) was(27) wrong(28) with(29) it(30) and(31) where(32) to(33) get(34) it(35) fixed(36) !(37) 
+			<opinion featWords="8" feature="staff" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="796" item="Ritz Carlton San Francisco" rating="5">
+	<title>
+		<sentence id="1">
+			No(1) Matter(2) Where(3) We(4) Go(5) .(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			The(1) Kids(2) Hope(3) It(4) Is(5) The(6) S.F.(7) Ritz(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Rachel(1) ,(2) Bond(3) and(4) Jillian(5) Hurley(6) give(7) this(8) a(9) 10(10) !(11) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) junk(2) food(3) for(4) the(5) kids(6) ,(7) but(8) its(9) close(10) .(11) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Great(1) Service(2) ,(3) great(4) location(5) and(6) just(7) the(8) best(9) beds(10) .(11) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+			<opinion featWords="10" feature="bed" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			There(1) is(2) very(3) little(4) to(5) say(6) about(7) this(8) hotel(9) ,(10) but(11) that(12) it(13) is(14) seemless(15) .(16) 
+			<opinion featWords="9" feature="hotel" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			We(1) were(2) there(3) for(4) a(5) conference(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) a(3) beauty(4) writer(5) ,(6) so(7) my(8) kids(9) have(10) to(11) hustle(12) ...(13) we(14) want(15) to(16) visit(17) the(18) work(19) sites(20) first(21) ,(22) so(23) we(24) can(25) get(26) to(27) the(28) "(29) good(30) stuff(31) .(32) "(33) The(34) Ritz(35) made(36) it(37) so(38) easy(39) ,(40) including(41) actually(42) having(43) our(44) rental(45) car(46) brought(47) to(48) the(49) hotel(50) !(51) 
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) stayed(3) at(4) the(5) Kimpton(6) Chain(7) before(8) and(9) I(10) will(11) PAY(12) the(13) difference(14) from(15) now(16) on(17) ,(18) because(19) when(20) you(21) go(22) to(23) a(24) city(25) where(26) you(27) walk(28) as(29) much(30) as(31) San(32) Francisco(33) ,(34) you(35) want(36) all(37) those(38) little(39) luxuries(40) .(41) 
+		</sentence>
+	</text>
+</review>

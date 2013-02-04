@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="445" item="Turtle Cay Resort" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) Work(2) In(3) Progress(4) .(5) .(6) .(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) can(2) not(3) be(4) beat(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Service(1) and(2) organization(3) need(4) a(5) make-over(6) .(7) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			In(1) May(2) 2000(3) ,(4) I(5) stayed(6) at(7) the(8) Plaza(9) Resort(10) &amp;(11) Spa(12) for(13) a(14) week(15) ,(16) while(17) on(18) a(19) business(20) trip(21) in(22) Daytona(23) Beach(24) ,(25) FL(26) .(27) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) was(3) undergoing(4) a(5) major(6) renovation(7) at(8) the(9) time(10) ,(11) and(12) I(13) was(14) there(15) for(16) a(17) conference(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			All(1) of(2) the(3) guests(4) in(5) my(6) group(7) were(8) promised(9) renovated(10) rooms(11) .(12) 
+			<opinion featWords="11" feature="rooms" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) advised(3) to(4) mention(5) this(6) to(7) the(8) lady(9) at(10) the(11) counter(12) when(13) I(14) checked(15) in(16) to(17) be(18) sure(19) I(20) was(21) given(22) the(23) proper(24) room(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			Unfortunately(1) ,(2) the(3) person(4) I(5) spoke(6) with(7) was(8) quite(9) rude(10) to(11) me(12) about(13) it(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) later(2) found(3) out(4) that(5) several(6) people(7) in(8) our(9) group(10) had(11) been(12) given(13) rooms(14) with(15) significant(16) problems(17) and(18) had(19) made(20) complaints(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			The(1) renovated(2) guest(3) room(4) I(5) shared(6) with(7) my(8) friend(9) had(10) two(11) double(12) beds(13) and(14) was(15) equipped(16) with(17) a(18) microwave(19) ,(20) refrigerator(21) ,(22) and(23) hair(24) dryer(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			The(1) room(2) was(3) supposed(4) to(5) be(6) equipped(7) with(8) an(9) iron(10) and(11) ironing(12) board(13) ,(14) but(15) I(16) had(17) to(18) call(19) to(20) request(21) these(22) items(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			When(1) the(2) iron(3) was(4) brought(5) to(6) my(7) room(8) ,(9) it(10) was(11) badly(12) burned(13) and(14) stained(15) on(16) the(17) bottom(18) and(19) I(20) had(21) to(22) exchange(23) it(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			The(1) furnishings(2) were(3) pleasant(4) ,(5) but(6) the(7) carpet(8) was(9) thin(10) and(11) grimy(12) to(13) the(14) extent(15) that(16) I(17) found(18) myself(19) reluctant(20) to(21) walk(22) on(23) it(24) barefoot(25) .(26) 
+			<opinion featWords="2" feature="furnishings" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="carpets" opWords="10" polarity="-"/>
+			<opinion featWords="8" feature="carpets" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			The(1) bathroom(2) had(3) a(4) pedestal-type(5) sink(6) with(7) NO(8) counter(9) space(10) ,(11) which(12) made(13) getting(14) ready(15) in(16) the(17) morning(18) a(19) challenge(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			The(1) bed(2) was(3) comfortable(4) enough(5) and(6) the(7) sound(8) of(9) the(10) ocean(11) right(12) outside(13) my(14) window(15) helped(16) to(17) lull(18) me(19) to(20) sleep(21) .(22) 
+			<opinion featWords="2" feature="bed" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			Housekeeping(1) did(2) a(3) fine(4) job(5) on(6) the(7) days(8) we(9) took(10) the(11) "(12) Do(13) Not(14) Disturb(15) "(16) sign(17) off(18) the(19) door(20) ,(21) and(22) gave(23) us(24) extra(25) towels(26) when(27) we(28) requested(29) them(30) .(31) 
+		</sentence>
+		<sentence id="14">
+			I(1) did(2) not(3) really(4) eat(5) the(6) food(7) ,(8) other(9) than(10) at(11) the(12) catered(13) lunches(14) for(15) our(16) conference(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			On(1) one(2) afternoon(3) ,(4) my(5) friend(6) and(7) I(8) walked(9) down(10) to(11) the(12) poolside(13) cafe(14) to(15) grab(16) a(17) burger(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			We(1) ended(2) up(3) getting(4) it(5) to(6) go(7) because(8) two(9) employees(10) were(11) yelling(12) at(13) each(14) other(15) and(16) we(17) did(18) not(19) feel(20) comfortable(21) staying(22) there(23) .(24) 
+		</sentence>
+		<sentence id="17">
+			I(1) did(2) not(3) use(4) the(5) spa(6) facilities(7) ,(8) so(9) can(10) not(11) comment(12) on(13) that(14) aspect(15) of(16) the(17) property(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			The(1) hotel(2) is(3) located(4) on(5) an(6) absolutely(7) gorgeous(8) stretch(9) of(10) beach(11) and(12) the(13) scenery(14) just(15) can(16) not(17) be(18) beat(19) .(20) 
+		</sentence>
+		<sentence id="19">
+			There(1) are(2) several(3) good(4) restaurants(5) nearby(6) ,(7) and(8) the(9) historic(10) town(11) of(12) St(13) .(14) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			Augustine(1) is(2) only(3) about(4) an(5) hour(6) 's(7) drive(8) from(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			The(1) boardwalk(2) ,(3) with(4) games(5) and(6) rides(7) ,(8) is(9) within(10) walking(11) distance(12) and(13) there(14) are(15) plenty(16) of(17) nightclubs(18) and(19) souvenir(20) shops(21) in(22) the(23) area(24) .(25) 
+		</sentence>
+		<sentence id="22">
+			My(1) main(2) complaint(3) is(4) that(5) the(6) staff(7) seemed(8) to(9) be(10) excessively(11) stressed(12) out(13) and(14) not(15) very(16) friendly(17) .(18) 
+			<opinion featWords="7" feature="staff" opWords="12,13" polarity="-" potency="11"/>
+			<opinion featWords="7" feature="staff" opWords="15,17" polarity="-" potency="16"/>
+		</sentence>
+		<sentence id="23">
+			Hopefully(1) ,(2) when(3) the(4) renovations(5) are(6) through(7) ,(8) The(9) Plaza(10) Resort(11) &amp;(12) Spa(13) will(14) be(15) a(16) nice(17) place(18) to(19) stay(20) .(21) 
+			<opinion featWords="18" feature="place" opWords="17" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			However(1) ,(2) given(3) the(4) choice(5) and(6) based(7) on(8) my(9) prior(10) experience(11) ,(12) I(13) would(14) not(15) stay(16) there(17) again(18) .(19) 
+			<opinion feature="hotel" opWords="15,16" polarity="-"/>
+		</sentence>
+	</text>
+</review>

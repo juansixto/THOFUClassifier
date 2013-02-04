@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="946" item="Marriott Jw Lima" rating="5">
+	<title>
+		<sentence id="1">
+			JW(1) Marriott(2) -(3) Lima(4) ((5) Miraflores(6) )(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) Location(2) ,(3) New(4) Property(5) ,(6) Outstanding(7) Staff(8) ,(9) Very(10) Nice(11) Rooms(12) and(13) Gym(14) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) very(2) nice(3) ,(4) trendy(5) hotel(6) and(7) I(8) 'd(9) stay(10) again(11) without(12) hesitation(13) .(14) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="+"/>
+			<opinion featWords="6" feature="hotel" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) made(3) me(4) feel(5) very(6) welcome(7) and(8) the(9) hotel(10) was(11) so(12) nice(13) it(14) was(15) a(16) destination(17) in(18) itself(19) .(20) 
+			<opinion featWords="10" feature="hotel" opWords="13" polarity="+" potency="12"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) this(4) hotel(5) in(6) April(7) ,(8) 2002(9) for(10) 2(11) nights(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) about(3) 30-45(4) min.(5) from(6) the(7) airport(8) ,(9) depending(10) on(11) traffic(12) ...(13) through(14) some(15) pretty(16) dismal(17) parts(18) of(19) town(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			Once(1) we(2) got(3) into(4) the(5) Miraflores(6) area(7) ,(8) things(9) started(10) to(11) brighten(12) up(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) Marriott(2) is(3) immediately(4) across(5) the(6) street(7) from(8) the(9) beach(10) ,(11) however(12) its(13) not(14) a(15) swimming(16) beach(17) due(18) to(19) polluted(20) water(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			Still(1) though(2) ,(3) the(4) view(5) was(6) nice(7) .(8) 
+			<opinion featWords="5" feature="view" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Also(1) across(2) the(3) street(4) from(5) the(6) hotel(7) was(8) the(9) Larcomar(10) Shopping(11) Center(12) with(13) some(14) neat(15) shops(16) ,(17) cafes(18) and(19) restaurants(20) of(21) convenience(22) to(23) me(24) --(25) a(26) Continental(27) Airlines(28) city(29) ticket(30) office(31) in(32) the(33) building(34) .(35) 
+		</sentence>
+		<sentence id="7">
+			The(1) Casino(2) was(3) rather(4) small(5) -(6) but(7) busy(8) when(9) I(10) was(11) there(12) .(13) 
+			<opinion featWords="2" feature="casino" opWords="8" polarity="+"/>
+			<opinion featWords="2" feature="casino" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="8">
+			The(1) rules(2) somewhat(3) differ(4) from(5) Vegas(6) casinos(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) had(3) very(4) good(5) security(6) and(7) the(8) staff(9) was(10) outstanding(11) .(12) 
+			<opinion featWords="9" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Every(1) uniformed(2) staff(3) member(4) went(5) out(6) of(7) his(8) way(9) to(10) say(11) hello(12) and(13) see(14) if(15) there(16) was(17) anything(18) they(19) can(20) do(21) for(22) me(23) .(24) 
+		</sentence>
+		<sentence id="11">
+			My(1) room(2) was(3) on(4) the(5) Executive(6) Club(7) level(8) ,(9) which(10) allowed(11) for(12) access(13) into(14) the(15) club(16) lounge(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) a(3) free(4) breakfast(5) buffet(6) ,(7) appetizers(8) and(9) drinks(10) all(11) day(12) long(13) and(14) a(15) small(16) dinner(17) spread(18) .(19) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) lounge(2) was(3) on(4) the(5) 24th(6) floor(7) ,(8) very(9) comfortable(10) and(11) classy(12) and(13) came(14) with(15) its(16) own(17) concierge(18) who(19) would(20) help(21) with(22) transportation(23) ,(24) recommendations(25) ,(26) local(27) dinner(28) reservations(29) and(30) airline(31) issues(32) .(33) 
+			<opinion feature="hotel" opWords="12" polarity="+"/>
+			<opinion feature="hotel" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			My(1) room(2) on(3) the(4) 22nd(5) floor(6) was(7) very(8) nicely(9) furnished(10) with(11) a(12) wonderful(13) ocean(14) view(15) .(16) 
+			<opinion featWords="2" feature="rooms" opWords="9,10" polarity="+" potency="8"/>
+			<opinion featWords="15" feature="view" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) room(2) was(3) impeccably(4) clean(5) and(6) tastefully(7) decorated(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="7,8" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="16">
+			The(1) bed(2) and(3) chairs(4) were(5) very(6) comfortable(7) and(8) it(9) had(10) excellent(11) climate(12) control(13) .(14) 
+			<opinion featWords="12,13" feature="air conditioning units" opWords="11" polarity="+"/>
+			<opinion featWords="4" feature="chairs" opWords="7" polarity="+" potency="6"/>
+			<opinion featWords="2" feature="bed" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="17">
+			The(1) entry(2) to(3) the(4) hotel(5) brings(6) you(7) past(8) the(9) bell(10) persons(11) and(12) at(13) least(14) two(15) layers(16) of(17) security(18) to(19) the(20) elevator(21) ((22) all(23) elevators(24) are(25) card(26) access(27) except(28) for(29) this(30) one(31) )(32) which(33) you(34) need(35) to(36) take(37) to(38) the(39) main(40) level(41) for(42) check(43) in(44) .(45) 
+		</sentence>
+		<sentence id="18">
+			This(1) is(2) where(3) the(4) Restaurant(5) ((6) La(7) Vista(8) )(9) is(10) located(11) as(12) well(13) as(14) the(15) bar(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			The(1) entire(2) second(3) floor(4) lobby(5) and(6) bar(7) area(8) looks(9) like(10) its(11) out(12) of(13) architectural(14) digest(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			Its(1) a(2) beautiful(3) room(4) .(5) 
+			<opinion featWords="4" feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			This(1) hotel(2) is(3) very(4) popular(5) with(6) airline(7) crews(8) and(9) business(10) people(11) of(12) all(13) ages(14) .(15) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+	</text>
+</review>

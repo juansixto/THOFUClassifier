@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="623" item="Anabella Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			This(1) will(2) be(3) our(4) regular(5) Disneyland(6) hotel(7) from(8) now(9) on(10) !(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Beautiful(3) Grounds(4) ,(5) Service(6) ,(7) Rooms(8) ,(9) Family(10) Pool(11) ,(12) and(13) Tangerine(14) Grill(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			NONE(1) ,(2) except(3) bathroom(4) window(5) opened(6) up(7) to(8) a(9) parking(10) lot(11) ,(12) but(13) no(14) problem(15) really(16) .(17) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) do(2) not(3) expect(4) to(5) get(6) a(7) high(8) rating(9) for(10) this(11) review(12) since(13) I(14) do(15) not(16) have(17) the(18) time(19) to(20) go(21) into(22) great(23) detail(24) .(25) 
+		</sentence>
+		<sentence id="2">
+			But(1) I(2) will(3) say(4) this(5) is(6) the(7) best(8) hotel(9) I(10) have(11) ever(12) stayed(13) at(14) and(15) I(16) 've(17) stayed(18) at(19) a(20) lot(21) !(22) 
+			<opinion featWords="9" feature="hotel" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			In(1) a(2) nut(3) shell(4) here(5) 's(6) what(7) this(8) hotel(9) does(10) have(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			Great(1) service(2) .(3) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Gorgeous(1) rooms(2) that(3) are(4) spic(5) and(6) span(7) ,(8) most(9) with(10) private(11) patios(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="5,6,7" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			An(1) awesome(2) family(3) pool(4) .(5) 
+			<opinion featWords="4" feature="swimming pool" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Great(1) parking(2) .(3) 
+			<opinion featWords="2" feature="parking" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Close(1) ,(2) ten(3) minute(4) walk(5) to(6) Disney(7) .(8) 
+		</sentence>
+		<sentence id="9">
+			Gorgeous(1) grounds(2) .(3) 
+			<opinion featWords="2" feature="grounds" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Tangerine(1) Grill(2) was(3) delicious(4) ,(5) especially(6) the(7) tangerine(8) juice(9) !(10) 
+		</sentence>
+		<sentence id="11">
+			Each(1) and(2) every(3) request(4) I(5) made(6) was(7) met(8) with(9) more(10) than(11) a(12) smile(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			This(1) is(2) the(3) fifth(4) ,(5) and(6) final(7) hotel(8) I(9) will(10) try(11) for(12) our(13) yearly(14) trips(15) to(16) Disney(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			I(1) 've(2) found(3) my(4) Anaheim(5) second(6) home(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			If(1) you(2) have(3) any(4) specific(5) questions(6) ,(7) or(8) want(9) to(10) see(11) some(12) photos(13) please(14) e-mail(15) me(16) !(17) 
+		</sentence>
+	</text>
+</review>

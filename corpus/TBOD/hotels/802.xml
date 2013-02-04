@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="802" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Healthy(1) ,(2) homely(3) atmosphere(4) at(5) California(6) Suites(7) Hotel(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Best(1) location(2) ,(3) nice(4) staff(5) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) was(2) a(3) home(4) like(5) atmosphere(6) in(7) the(8) California(9) Suites(10) Hotel(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			Since(1) my(2) son(3) Rex(4) is(5) 8(6) year(7) old(8) ,(9) his(10) stay(11) in(12) the(13) hotel(14) was(15) free(16) of(17) cost(18) .(19) 
+			<opinion featWords="14" feature="hotel" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			After(1) touring(2) San(3) Diego(4) all(5) day(6) ,(7) Rex(8) was(9) happy(10) playing(11) around(12) in(13) the(14) warm(15) swimming(16) pool(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			That(1) kept(2) him(3) busy(4) and(5) away(6) from(7) pranks(8) !(9) 
+		</sentence>
+		<sentence id="5">
+			The(1) staff(2) members(3) are(4) really(5) good(6) with(7) the(8) kids(9) .(10) 
+			<opinion featWords="2" feature="staff" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			I(1) would(2) recommend(3) this(4) hotel(5) to(6) any(7) family(8) looking(9) for(10) a(11) home(12) like(13) environment(14) .(15) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</text>
+</review>

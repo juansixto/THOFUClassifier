@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="31" item="Bw Westport Park Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			stay(1) here(2) if(3) you(4) do(5) not(6) want(7) good(8) service(9) .(10) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			the(1) pool(2) was(3) nice(4) and(5) the(6) water(7) was(8) warm(9) .(10) 
+			<opinion featWords="2" feature="swimming pool" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) hot(2) tub(3) worked(4) well(5) 
+			<opinion featWords="3" feature="tub" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			bar(1) closed(2) ,(3) saunas(4) broke(5) ,(6) no(7) heat(8) ,(9) ,(10) no(11) breakfast(12) ,(13) unfriendly(14) front(15) desk(16) .(17) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			i(1) was(2) there(3) one(4) night(5) in(6) February(7) of(8) 03(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) heat(2) was(3) broke(4) in(5) the(6) common(7) areas(8) ,(9) the(10) bar(11) was(12) closed(13) ,(14) the(15) internet(16) was(17) broke(18) ,(19) and(20) the(21) saunas(22) were(23) broke(24) .(25) 
+			<opinion featWords="2" feature="heaters" opWords="4" polarity="-"/>
+			<opinion featWords="11" feature="food" opWords="13" polarity="-"/>
+			<opinion featWords="16" feature="internet" opWords="18" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Management(1) was(2) not(3) very(4) friendly(5) or(6) helpful(7) .(8) do(9) not(10) stay(11) here(12) .(13) 
+			<opinion featWords="1" feature="front desk" opWords="3,5" polarity="-" potency="4"/>
+			<opinion featWords="1" feature="front desk" opWords="3,7" polarity="-"/>
+		</sentence>
+	</text>
+</review>

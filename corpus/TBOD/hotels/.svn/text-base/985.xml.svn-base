@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="985" item="Disneys Gr.Florid Lagoon" rating="4">
+	<title>
+		<sentence id="1">
+			Live(1) the(2) good(3) life(4) !(5) 
+		</sentence>
+		<sentence id="2">
+			Well(1) for(2) the(3) length(4) of(5) your(6) vacation(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Taste(1) of(2) the(3) good(4) life(5) and(6) luxury(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Very(1) pricey(2) to(3) stay(4) there(5) 
+			<opinion feature="price" opWords="2" polarity="-" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			if(1) you(2) can(3) not(4) afford(5) to(6) stay(7) there(8) at(9) least(10) go(11) check(12) out(13) the(14) grounds(15) and(16) the(17) spa(18) .(19) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Why(1) not(2) treat(3) yourself(4) while(5) on(6) vacation(7) ?(8) 
+		</sentence>
+		<sentence id="2">
+			I(1) mean(2) you(3) are(4) going(5) to(6) the(7) happiest(8) place(9) on(10) Earth(11) ,(12) Disney(13) World(14) .(15) 
+			<opinion featWords="9" feature="place" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Why(1) not(2) pamper(3) yourself(4) ?(5) 
+		</sentence>
+		<sentence id="4">
+			Stay(1) at(2) the(3) Grand(4) Floridian(5) Resort(6) or(7) take(8) a(9) day(10) excursion(11) to(12) its(13) very(14) own(15) Spa(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			The(1) Grand(2) Floridian(3) Resort(4) in(5) Disney(6) World(7) is(8) located(9) on(10) the(11) Seven(12) Seas(13) Lagoon(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			What(1) s(2) that(3) mean(4) ?(5) 
+		</sentence>
+		<sentence id="7">
+			Well(1) you(2) get(3) a(4) perfect(5) view(6) of(7) Disney(8) s(9) Magic(10) Kingdom(11) Park(12) across(13) the(14) Lagoon(15) ,(16) not(17) only(18) that(19) you(20) have(21) your(22) own(23) personal(24) transportation(25) to(26) the(27) park(28) via(29) the(30) monorail(31) system(32) or(33) a(34) boat(35) across(36) the(37) way(38) .(39) 
+			<opinion featWords="6" feature="view" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			What(1) better(2) way(3) to(4) make(5) you(6) feel(7) special(8) in(9) an(10) already(11) special(12) place(13) to(14) have(15) special(16) transportation(17) directly(18) from(19) this(20) resort(21) to(22) the(23) Magic(24) Kingdom(25) !(26) 
+		</sentence>
+		<sentence id="9">
+			Although(1) I(2) have(3) never(4) personally(5) stayed(6) in(7) the(8) guest(9) rooms(10) at(11) the(12) Grand(13) Floridian(14) ,(15) due(16) to(17) the(18) fact(19) that(20) they(21) are(22) way(23) out(24) of(25) my(26) budget(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			I(1) have(2) visited(3) the(4) hotel(5) on(6) many(7) occasions(8) to(9) be(10) pampered(11) and(12) spoiled(13) at(14) their(15) spa(16) !(17) 
+		</sentence>
+		<sentence id="11">
+			The(1) hotel(2) is(3) everything(4) you(5) would(6) expect(7) in(8) a(9) high(10) school(11) hotel(12) resort(13) any(14) where(15) in(16) the(17) world(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) grounds(2) are(3) perfectly(4) maintained(5) and(6) every(7) little(8) detail(9) is(10) carefully(11) noted(12) down(13) to(14) the(15) sand(16) stamps(17) of(18) the(19) #148(20) insignia(21) in(22) the(23) ash(24) trays(25) ,(26) now(27) that(28) s(29) attention(30) to(31) detail(32) .(33) 
+		</sentence>
+		<sentence id="13">
+			The(1) lobby(2) is(3) very(4) grand(5) with(6) high(7) ceilings(8) and(9) classy(10) furniture(11) in(12) decorations(13) ,(14) it(15) almost(16) makes(17) one(18) feel(19) that(20) they(21) do(22) not(23) belong(24) but(25) then(26) you(27) remember(28) that(29) you(30) are(31) in(32) Disney(33) World(34) !(35) 
+			<opinion featWords="11" feature="furnishings" opWords="10" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="14">
+			The(1) Spa(2) is(3) located(4) in(5) the(6) back(7) of(8) the(9) hotel(10) down(11) a(12) short(13) walk(14) down(15) a(16) path(17) you(18) are(19) greeted(20) by(21) a(22) friendly(23) knowledgeable(24) staff(25) that(26) will(27) help(28) you(29) with(30) all(31) your(32) Spa(33) needs(34) .(35) 
+		</sentence>
+		<sentence id="15">
+			They(1) do(2) recommend(3) that(4) you(5) pre(6) book(7) your(8) Spa(9) package(10) ,(11) and(12) use(13) a(14) credit(15) card(16) to(17) reserve(18) your(19) time(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) many(3) different(4) massages(5) and(6) spa(7) treatments(8) to(9) choose(10) from(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			In(1) the(2) past(3) I(4) have(5) gotten(6) facial(7) and(8) scalp(9) massages(10) that(11) are(12) very(13) relaxing(14) and(15) well(16) worth(17) the(18) time(19) .(20) 
+		</sentence>
+		<sentence id="18">
+			In(1) all(2) the(3) chaos(4) of(5) Disney(6) World(7) it(8) is(9) good(10) just(11) to(12) escape(13) and(14) have(15) someone(16) else(17) focus(18) on(19) you(20) for(21) a(22) while(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			The(1) grounds(2) of(3) this(4) hotel(5) also(6) have(7) a(8) wedding(9) pavilion(10) for(11) those(12) of(13) us(14) lucky(15) enough(16) to(17) get(18) married(19) in(20) the(21) Happiest(22) place(23) on(24) Earth(25) !(26) 
+			<opinion featWords="23" feature="place" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			The(1) chapel(2) on(3) the(4) wedding(5) pavilion(6) has(7) a(8) view(9) of(10) the(11) castle(12) in(13) the(14) Magic(15) Kingdom(16) in(17) the(18) background(19) !(20) 
+		</sentence>
+		<sentence id="21">
+			The(1) Grand(2) Floridian(3) is(4) definitely(5) little(6) escape(7) and(8) a(9) taste(10) of(11) the(12) "(13) good(14) life(15) "(16) while(17) on(18) vacation(19) and(20) is(21) centrally(22) located(23) near(24) Disney(25) s(26) Magic(27) Kingdom(28) and(29) on(30) the(31) Monorail(32) line(33) .(34) 
+		</sentence>
+	</text>
+</review>

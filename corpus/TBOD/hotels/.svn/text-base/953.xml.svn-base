@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="953" item="Exclusive Hotel Queen Mary" rating="5">
+	<title>
+		<sentence id="1">
+			I(1) just(2) can(3) not(4) say(5) anything(6) negative(7) .(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) best(2) value(3) /(4) price(5) I(6) 've(7) had(8) in(9) Paris(10) 
+			<opinion featWords="5" feature="price" opWords="2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) ,(2) simple(3) !(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) will(2) definitely(3) stay(4) there(5) again(6) on(7) my(8) next(9) visit(10) and(11) I(12) highly(13) recommend(14) it(15) .(16) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+			<opinion feature="hotel" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) went(5) during(6) low(7) season(8) so(9) the(10) hotel(11) was(12) 'nt(13) that(14) busy(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			So(1) without(2) even(3) asking(4) they(5) offered(6) us(7) a(8) complementary(9) room(10) upgrade(11) !(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) are(3) very(4) specious(5) ,(6) extremely(7) clean(8) and(9) nicely(10) decorated(11) .(12) 
+			<opinion featWords="2" feature="rooms" opWords="10,11" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="4">
+			All(1) the(2) staff(3) were(4) very(5) polite(6) ((7) even(8) to(9) my(10) husband(11) who(12) does(13) 'nt(14) speak(15) French(16) )(17) We(18) havn't(19) tried(20) their(21) food(22) though(23) .(24) 
+			<opinion featWords="3" feature="staff" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) location(2) is(3) perfect(4) for(5) those(6) who(7) want(8) to(9) be(10) close(11) to(12) everything(13) without(14) paying(15) the(16) high(17) prices(18) of(19) 1er(20) arrondissement(21) .(22) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			It(1) is(2) a(3) good(4) 25-30(5) minutes(6) walk(7) to(8) the(9) Eiffel(10) Tour(11) and(12) Champs(13) Elysées(14) ,(15) but(16) it(17) is(18) just(19) a(20) minute(21) away(22) from(23) Place(24) Vendome(25) ((26) great(27) shopping(28) )(29) and(30) Opera(31) Garnier(32) .(33) 
+		</sentence>
+	</text>
+</review>

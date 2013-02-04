@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="705" item="Portland Square Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			A(1) fine(2) budget(3) hotel(4) .(5) 
+			<opinion featWords="4" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) ,(2) Ideal(3) Location(4) ,(5) Safe(6) &amp;(7) Clean(8) !(9) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) -(2) this(3) is(4) a(5) fine(6) budget(7) hotel(8) !(9) 
+			<opinion featWords="8" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Probably(1) the(2) best(3) budget(4) hotel(5) in(6) New(7) York(8) City(9) !(10) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) had(2) the(3) pleasure(4) of(5) 5(6) nights(7) at(8) the(9) Portland(10) Square(11) Hotel(12) ((13) www.portlandsquarehotel.com)(14) In(15) October(16) of(17) last(18) year(19) and(20) would(21) recommend(22) this(23) hotel(24) as(25) a(26) budget(27) hotel(28) ((29) $100(30) )(31) to(32) those(33) who(34) want(35) to(36) be(37) IN(38) Times(39) Square(40) but(41) not(42) PAY(43) Times(44) Square(45) prices(46) .(47) 
+			<opinion featWords="24" feature="hotel" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) is(3) located(4) half(5) a(6) block(7) away(8) from(9) Times(10) Square(11) Ticket(12) Office(13) itself(14) and(15) is(16) 2(17) blocks(18) away(19) from(20) the(21) nearest(22) tube(23) station(24) /(25) subway(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			Directly(1) opposite(2) is(3) a(4) deli(5) which(6) makes(7) great(8) coffee(9) and(10) equally(11) great(12) breakfasts(13) !(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) hotel(2) is(3) accessed(4) from(5) 47th(6) Street(7) though(8) security(9) doors(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) reception(2) area(3) is(4) basic(5) but(6) clean(7) and(8) I(9) found(10) the(11) staff(12) helpful(13) .(14) 
+			<opinion featWords="3" feature="place" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="place" opWords="7" polarity="+"/>
+			<opinion featWords="12" feature="staff" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Downstairs(1) from(2) Reception(3) are(4) the(5) laundry(6) facilities(7) ((8) very(9) cheap(10) )(11) and(12) an(13) excuse(14) for(15) exercise(16) equipment(17) ((18) I(19) defy(20) you(21) to(22) need(23) to(24) exercise(25) after(26) walking(27) around(28) NYC(29) all(30) day(31) )(32) !(33) 
+		</sentence>
+		<sentence id="7">
+			The(1) corridors(2) and(3) rooms(4) are(5) basic(6) ((7) what(8) do(9) you(10) expect(11) for(12) $100(13) )(14) .(15) 
+			<opinion featWords="4" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			My(1) room(2) had(3) two(4) double(5) beds(6) and(7) a(8) TV(9) and(10) closet(11) space(12) ,(13) there(14) was(15) enough(16) space(17) between(18) each(19) double(20) bed(21) for(22) 2(23) people(24) to(25) pass(26) through(27) .(28) 
+		</sentence>
+		<sentence id="9">
+			The(1) bathroom(2) was(3) surprisingly(4) big(5) with(6) toilet(7) ,(8) sink(9) ,(10) shower(11) and(12) ((13) small(14) )(15) bath(16) )(17) .(18) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="16" feature="tub" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			Room(1) service(2) was(3) daily(4) and(5) they(6) did(7) a(8) good(9) job(10) .(11) 
+			<opinion featWords="1,2" feature="room service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) room(2) was(3) air(4) conditioned(5) but(6) did(7) suffer(8) a(9) little(10) from(11) '(12) New(13) York(14) '(15) noise(16) being(17) heard(18) throughout(19) the(20) night(21) ((22) the(23) price(24) you(25) pay(26) for(27) being(28) so(29) close(30) to(31) the(32) action(33) )(34) .(35) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) rooms(2) were(3) clean(4) yet(5) basic(6) .(7) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			This(1) was(2) the(3) last(4) of(5) three(6) budget(7) hotels(8) I(9) have(10) stayed(11) in(12) and(13) I(14) would(15) rate(16) it(17) slightly(18) better(19) than(20) The(21) Riverside(22) Tower(23) Hotel(24) and(25) miles(26) better(27) than(28) The(29) Malibu(30) Hotel(31) ((32) both(33) of(34) which(35) are(36) located(37) in(38) the(39) slightly(40) quieter(41) Upper(42) West(43) Side(44) )(45) .(46) 
+		</sentence>
+		<sentence id="14">
+			Would(1) I(2) stay(3) here(4) again(5) -(6) Yes(7) !(8) 
+		</sentence>
+		<sentence id="15">
+			After(1) this(2) hotel(3) I(4) had(5) 2(6) nights(7) in(8) the(9) Sheraton(10) Manhattan(11) and(12) whilst(13) the(14) quality(15) of(16) the(17) Sheraton(18) was(19) vastly(20) better(21) than(22) the(23) Portland(24) Square(25) ,(26) so(27) was(28) the(29) price(30) .(31) 
+		</sentence>
+		<sentence id="16">
+			When(1) reviewing(2) the(3) rooms(4) ,(5) I(6) am(7) bearing(8) in(9) mind(10) that(11) I(12) am(13) reviewing(14) a(15) budget(16) hotel(17) ,(18) to(19) compare(20) with(21) the(22) Sheraton(23) ,(24) knock(25) a(26) point(27) or(28) two(29) off(30) each(31) area(32) .(33) 
+		</sentence>
+	</text>
+</review>

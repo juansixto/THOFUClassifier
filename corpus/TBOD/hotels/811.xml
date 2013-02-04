@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="811" item="California Suites Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			California(1) Suites(2) Hotel(3) Excellent(4) Value(5) for(6) Money(7) !(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) location(2) ,(3) Comfortable(4) and(5) clean(6) ,(7) Not(8) so(9) expensive(10) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+			<opinion feature="price" opWords="8,10" polarity="+" potency="9"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Needs(1) little(2) bit(3) cleanliness(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) liked(5) the(6) prompt(7) services(8) and(9) the(10) hospitality(11) extended(12) to(13) us(14) by(15) the(16) staff(17) .(18) 
+			<opinion featWords="8" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Our(1) room(2) was(3) comfortable(4) and(5) clean(6) .(7) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) free(2) breakfast(3) buffet(4) was(5) delicious(6) and(7) more(8) than(9) sufficient(10) to(11) keep(12) us(13) energized(14) the(15) whole(16) day(17) .(18) 
+			<opinion featWords="4" feature="food" opWords="2" polarity="+"/>
+			<opinion featWords="4" feature="food" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Popular(1) food(2) joints(3) and(4) the(5) major(6) tourist(7) spots(8) such(9) as(10) Zoo(11) ,(12) beaches(13) ,(14) Sea(15) world(16) etc.(17) were(18) just(19) a(20) stone(21) 's(22) throw(23) away(24) from(25) the(26) hotel(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			All(1) in(2) all(3) ,(4) it(5) was(6) a(7) great(8) experience(9) staying(10) here(11) at(12) California(13) Suites(14) Hotel(15) .(16) 
+		</sentence>
+	</text>
+</review>

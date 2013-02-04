@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="358" item="Sheraton Miami - Biscayne Bay" rating="4">
+	<title>
+		<sentence id="1">
+			Sheraton(1) Biscayne(2) Bay(3) not(4) bad(5) --(6) Good(7) location(8) for(9) business(10) travelers(11) !(12) .(13) 
+			<opinion feature="hotel" opWords="4,5" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) central(2) --(3) ideal(4) for(5) the(6) business(7) traveler(8) .(9) 
+			<opinion featWords="1" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Car(1) gives(2) you(3) easy(4) access(5) to(6) nearby(7) attractions(8) .(9) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) beach(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			No(1) happening(2) scene(3) .(4) 
+		</sentence>
+		<sentence id="3">
+			But(1) both(2) a(3) short(4) drive(5) away(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			No(1) free(2) parking(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Centrally(1) located(2) --(3) an(4) ideal(5) spot(6) for(7) a(8) business(9) traveler(10) .(11) 
+			<opinion feature="place" opWords="1,2" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Clean(1) and(2) comfortable(3) --(4) perhaps(5) not(6) luxurious(7) but(8) definitely(9) worthy(10) of(11) a(12) Sheraton(13) .(14) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion feature="hotel" opWords="6,7" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			No(1) ,(2) its(3) not(4) on(5) the(6) beach(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			No(1) ,(2) its(3) not(4) in(5) the(6) activity(7) center(8) of(9) it(10) all(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			But(1) The(2) Sheraton(3) Biscayne(4) Bay(5) is(6) in(7) good(8) location(9) in(10) downtown(11) Miami(12) --(13) especially(14) if(15) you(16) are(17) in(18) Miami(19) for(20) business(21) in(22) addition(23) to(24) pleasure(25) !(26) 
+			<opinion featWords="9" feature="place" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) no(3) beach(4) nearby(5) ,(6) nor(7) any(8) beach(9) access(10) so(11) do(12) not(13) stay(14) here(15) if(16) that(17) is(18) what(19) you(20) are(21) looking(22) for(23) .(24) 
+			<opinion feature="hotel" opWords="13,14" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			It(1) is(2) a(3) waterfront(4) property(5) with(6) nice(7) views(8) ,(9) however(10) .(11) 
+			<opinion featWords="8" feature="view" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			You(1) have(2) a(3) view(4) of(5) the(6) bay(7) and(8) not(9) the(10) Atlantic(11) ,(12) which(13) is(14) a(15) deeper(16) blue(17) than(18) Miami(19) Beach(20) is(21) known(22) for(23) ,(24) but(25) it(26) is(27) serene(28) none-the-less(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			Perhaps(1) it(2) 's(3) more(4) of(5) a(6) three(7) star(8) hotel(9) than(10) a(11) four(12) ,(13) but(14) it(15) 's(16) a(17) solid(18) three(19) !(20) 
+		</sentence>
+		<sentence id="8">
+			We(1) stayed(2) at(3) this(4) hotel(5) for(6) two(7) evenings(8) in(9) June(10) of(11) this(12) past(13) year(14) and(15) we(16) were(17) pleasantly(18) surprised(19) .(20) 
+		</sentence>
+		<sentence id="9">
+			We(1) got(2) a(3) rather(4) economical(5) price(6) on(7) priceline(8) .(9) com(10) which(11) I(12) imagine(13) made(14) us(15) like(16) the(17) hotel(18) even(19) more(20) .(21) 
+			<opinion featWords="6" feature="price" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) drive(2) from(3) the(4) airport(5) was(6) easy(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			There(1) was(2) a(3) $20/night(4) parking(5) fee(6) ,(7) which(8) we(9) have(10) come(11) to(12) expect(13) when(14) using(15) priceline(16) these(17) days(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			We(1) really(2) thought(3) the(4) service(5) at(6) the(7) front(8) desk(9) was(10) especially(11) nice(12) .(13) 
+			<opinion featWords="8,9" feature="front desk" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="13">
+			They(1) changed(2) our(3) room(4) so(5) that(6) we(7) could(8) be(9) on(10) a(11) higher(12) floor(13) as(14) we(15) checked(16) in(17) which(18) we(19) thought(20) was(21) rather(22) kind(23) of(24) them(25) .(26) 
+		</sentence>
+		<sentence id="14">
+			There(1) was(2) room(3) service(4) and(5) a(6) restaurant(7) within(8) the(9) hotel(10) --(11) but(12) just(13) a(14) very(15) short(16) drive(17) away(18) was(19) the(20) Bayside(21) Market(22) Place(23) --(24) essentially(25) a(26) large(27) outdoor(28) mall(29) --(30) but(31) with(32) party(33) boats(34) ,(35) good(36) restaurants(37) like(38) the(39) Bubba(40) Gump(41) shrimp(42) place(43) ,(44) and(45) live(46) entertainment(47) .(48) 
+			<opinion featWords="37" feature="food" opWords="36" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			Possibly(1) a(2) tourist(3) trap(4) of(5) sorts(6) ,(7) but(8) an(9) enjoyable(10) one(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			Adjacent(1) to(2) this(3) area(4) was(5) Miami(6) 's(7) sports(8) /(9) concert(10) complex(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			The(1) hotel(2) was(3) really(4) rather(5) nice(6) .(7) 
+			<opinion featWords="2" feature="hotel" opWords="6" polarity="+" potency="4,5"/>
+		</sentence>
+		<sentence id="18">
+			The(1) outdoor(2) pool(3) was(4) not(5) very(6) large(7) but(8) there(9) seemed(10) to(11) always(12) be(13) a(14) hubbub(15) of(16) activity(17) in(18) and(19) around(20) it(21) ,(22) possibly(23) because(24) of(25) the(26) outdoor(27) bar(28) beside(29) it(30) .(31) 
+			<opinion featWords="3" feature="swimming pool" opWords="5,7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="19">
+			The(1) truth(2) is(3) that(4) we(5) did(6) not(7) ask(8) for(9) much(10) in(11) terms(12) of(13) services(14) so(15) we(16) can(17) not(18) comment(19) on(20) those(21) aspects(22) .(23) 
+		</sentence>
+		<sentence id="20">
+			But(1) the(2) room(3) was(4) clean(5) ,(6) everything(7) worked(8) well(9) .(10) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			The(1) decor(2) was(3) not(4) stellar(5) ,(6) but(7) it(8) was(9) standard(10) and(11) sufficient(12) .(13) 
+			<opinion featWords="2" feature="decoration" opWords="4,5" polarity="-"/>
+			<opinion featWords="2" feature="decoration" opWords="10" polarity="+"/>
+			<opinion featWords="2" feature="decoration" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			The(1) location(2) was(3) really(4) ideal(5) for(6) our(7) needs(8) ,(9) easy(10) drives(11) to(12) our(13) business(14) locations(15) .(16) 
+			<opinion featWords="2" feature="place" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="23">
+			As(1) far(2) as(3) pleasure(4) goes(5) ,(6) the(7) central(8) location(9) of(10) the(11) hotel(12) made(13) it(14) easy(15) for(16) us(17) to(18) drive(19) to(20) Miami(21) Beach(22) ,(23) the(24) Vizcaya(25) Italian(26) Renaissance(27) museum(28) and(29) gardens(30) ((31) which(32) was(33) not(34) all(35) that(36) I(37) thought(38) it(39) would(40) be(41) )(42) ,(43) the(44) Coconut(45) Grove(46) shopping(47) and(48) restaurant(49) area(50) ,(51) Coral(52) Gables(53) ,(54) etc.(55) I(56) would(57) recommend(58) this(59) hotel(60) ,(61) especially(62) if(63) you(64) are(65) not(66) much(67) for(68) the(69) beach(70) and(71) party(72) scene(73) and(74) so(75) do(76) not(77) wish(78) to(79) stay(80) on(81) Miami(82) beach(83) !(84) 
+			<opinion featWords="9" feature="place" opWords="8" polarity="+"/>
+			<opinion featWords="60" feature="hotel" opWords="58" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			But(1) the(2) hotel(3) does(4) afford(5) a(6) very(7) comfortable(8) stay(9) and(10) a(11) central(12) locale(13) .(14) 
+		</sentence>
+	</text>
+</review>

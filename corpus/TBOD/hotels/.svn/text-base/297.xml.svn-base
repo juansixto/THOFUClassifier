@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="297" item="Best Value Yosemite Westgate" rating="2">
+	<title>
+		<sentence id="1">
+			Best(1) Value(2) Yosemite(3) Westgate(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) is(2) good(3) for(4) the(5) Park(6) -(7) nice(8) enough(9) area(10) 
+			<opinion featWords="1" feature="place" opWords="3" polarity="+"/>
+			<opinion featWords="10" feature="place" opWords="8,9" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Poor(1) value(2) ,(3) pool(4) /(5) hot-tub(6) not(7) heated(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Basic(1) and(2) relatively(3) expensive(4) with(5) services(6) not(7) working(8) .(9) 
+			<opinion feature="price" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) location(2) for(3) the(4) park(5) but(6) that(7) s(8) about(9) it(10) .(11) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) here(3) in(4) October(5) 2004(6) because(7) it(8) seemed(9) close(10) to(11) the(12) park(13) with(14) quite(15) a(16) lot(17) of(18) amenities(19) and(20) featured(21) a(22) heated(23) pool(24) and(25) hot(26) tub(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) is(3) quite(4) well(5) located(6) and(7) close(8) to(9) the(10) park(11) .(12) 
+			<opinion feature="place" opWords="5,6" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) immediate(2) location(3) was(4) clean(5) and(6) fairly(7) attractive(8) ,(9) and(10) in(11) quite(12) a(13) large(14) open(15) flat(16) area(17) .(18) 
+			<opinion featWords="3" feature="place" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="place" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="17" feature="place" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			When(1) we(2) called(3) to(4) reserve(5) we(6) asked(7) if(8) there(9) was(10) a(11) restaurant(12) nearby(13) and(14) were(15) told(16) that(17) the(18) only(19) one(20) in(21) walking(22) distance(23) was(24) right(25) next(26) door(27) but(28) was(29) a(30) Thai(31) restaurant(32) "(33) if(34) you(35) like(36) that(37) sort(38) of(39) thing(40) "(41) .(42) 
+		</sentence>
+		<sentence id="5">
+			That(1) was(2) fine(3) for(4) us(5) because(6) we(7) both(8) like(9) Thai(10) food(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			We(1) reserved(2) a(3) room(4) for(5) 1(6) night(7) and(8) anticipated(9) staying(10) for(11) a(12) 2nd(13) night(14) if(15) we(16) liked(17) the(18) hotel(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) hotel(2) was(3) easy(4) to(5) find(6) ,(7) and(8) on(9) the(10) only(11) main(12) road(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			Looked(1) nice(2) with(3) the(4) pool(5) and(6) tub(7) area(8) in(9) front(10) of(11) the(12) hotel(13) .(14) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			The(1) room(2) was(3) a(4) fairly(5) standard(6) but(7) basic(8) motel(9) /(10) hotel(11) room(12) and(13) was(14) clean(15) ,(16) spacious(17) and(18) tidy(19) .(20) 
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="10">
+			The(1) staff(2) were(3) all(4) fine(5) and(6) not(7) overly(8) or(9) under(10) friendly(11) just(12) fine(13) and(14) businesslike(15) .(16) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="13" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			At(1) check(2) in(3) we(4) were(5) told(6) that(7) the(8) pool(9) was(10) heated(11) ,(12) and(13) of(14) course(15) we(16) knew(17) they(18) had(19) the(20) hot(21) tub(22) .(23) 
+			<opinion featWords="9" feature="swimming pool" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) price(2) was(3) just(4) OK(5) we(6) paid(7) about(8) $120(9) per(10) night(11) but(12) if(13) you(14) go(15) slightly(16) further(17) away(18) from(19) the(20) park(21) you(22) can(23) get(24) much(25) more(26) for(27) your(28) money(29) .(30) 
+			<opinion featWords="2" feature="price" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) previous(2) night(3) we(4) stayed(5) in(6) Yosemite(7) village(8) for(9) $170(10) ,(11) so(12) $120(13) here(14) was(15) expensive(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			As(1) there(2) are(3) few(4) places(5) around(6) Yosemite(7) with(8) a(9) pool(10) and(11) hot(12) tub(13) ,(14) we(15) were(16) looking(17) forward(18) to(19) using(20) them(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			We(1) arrived(2) in(3) sunshine(4) in(5) the(6) early(7) afternoon(8) and(9) rushed(10) out(11) to(12) the(13) hot(14) tub(15) to(16) find(17) that(18) it(19) was(20) COLD(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			AND(1) I(2) MEAN(3) COLD(4) !(5) !(6) !(7) 
+		</sentence>
+		<sentence id="17">
+			The(1) pool(2) was(3) about(4) the(5) same(6) temperature(7) as(8) the(9) hot(10) tub(11) ,(12) and(13) there(14) was(15) no(16) way(17) that(18) it(19) was(20) heated(21) .(22) 
+		</sentence>
+		<sentence id="18">
+			We(1) checked(2) with(3) the(4) front(5) desk(6) and(7) they(8) said(9) to(10) check(11) to(12) see(13) if(14) the(15) safety(16) cut(17) off(18) had(19) been(20) pushed(21) it(22) had(23) 'nt(24) but(25) we(26) tried(27) re-setting(28) it(29) .(30) 
+		</sentence>
+		<sentence id="19">
+			Anyway(1) the(2) jets(3) were(4) moving(5) the(6) water(7) around(8) so(9) it(10) was(11) all(12) switched(13) on(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			The(1) heater(2) must(3) have(4) burnt(5) out(6) I(7) suppose(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			Sadly(1) we(2) gave(3) up(4) on(5) the(6) cold(7) tub(8) and(9) just(10) went(11) for(12) dinner(13) .(14) 
+		</sentence>
+		<sentence id="22">
+			The(1) Thai(2) restaurant(3) was(4) right(5) next(6) door(7) and(8) basic(9) and(10) cheap(11) .(12) 
+			<opinion featWords="3" feature="food" opWords="9" polarity="+"/>
+			<opinion feature="price" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			Its(1) difficult(2) to(3) advise(4) on(5) this(6) one(7) ,(8) because(9) I(10) actually(11) had(12) a(13) really(14) nice(15) meal(16) ,(17) but(18) my(19) wife(20) s(21) dish(22) was(23) quite(24) bland(25) and(26) I(27) had(28) to(29) agree(30) that(31) hers(32) was(33) not(34) too(35) good(36) .(37) 
+			<opinion featWords="16" feature="food" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			Portions(1) were(2) large(3) and(4) cheap(5) but(6) the(7) menu(8) was(9) short(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			I(1) think(2) its(3) just(4) pot(5) luck(6) here(7) .(8) 
+		</sentence>
+		<sentence id="26">
+			If(1) you(2) were(3) planning(4) to(5) stay(6) 2(7) nights(8) then(9) you(10) would(11) want(12) to(13) eat(14) somewhere(15) else(16) the(17) second(18) time(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			We(1) were(2) told(3) that(4) the(5) next(6) restaurant(7) was(8) in(9) town(10) about(11) 15(12) minutes(13) drive(14) away(15) .(16) 
+		</sentence>
+		<sentence id="28">
+			On(1) the(2) way(3) back(4) from(5) the(6) restaurant(7) we(8) thought(9) we(10) see(11) if(12) the(13) hot(14) tub(15) had(16) heated(17) up(18) after(19) several(20) hours(21) .(22) 
+		</sentence>
+		<sentence id="29">
+			The(1) water(2) was(3) moving(4) around(5) nicely(6) ,(7) but(8) it(9) was(10) still(11) cold(12) .(13) 
+		</sentence>
+		<sentence id="30">
+			If(1) the(2) hot(3) tub(4) had(5) been(6) heated(7) we(8) would(9) probably(10) have(11) stayed(12) a(13) second(14) night(15) ((16) we(17) have(18) simple(19) requirements(20) !(21) )(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			It(1) was(2) 'nt(3) we(4) did(5) 'nt(6) .(7) 
+		</sentence>
+		<sentence id="32">
+			Would(1) we(2) stay(3) here(4) again(5) ?(6) 
+		</sentence>
+		<sentence id="33">
+			I(1) very(2) much(3) doubt(4) it(5) .(6) 
+		</sentence>
+		<sentence id="34">
+			Overall(1) :(2) Basic(3) and(4) relatively(5) expensive(6) with(7) services(8) not(9) working(10) .(11) 
+			<opinion feature="price" opWords="5,6" polarity="-"/>
+			<opinion featWords="8" feature="service" opWords="9,10" polarity="-"/>
+		</sentence>
+		<sentence id="35">
+			Good(1) location(2) for(3) the(4) park(5) but(6) that(7) s(8) about(9) it(10) .(11) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="668" item="Sutton Suites &amp; Extended Stay" rating="4">
+	<title>
+		<sentence id="1">
+			SAVE(1) by(2) using(3) the(4) Park(5) n(6) Fly(7) option(8) at(9) Sutton(10) Suites(11) in(12) Seattle(13) !(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			FREE(1) airport(2) shuttle(3) ,(4) convenient(5) location(6) ,(7) inexpensive(8) ,(9) FREE(10) breakfast(11) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+			<opinion feature="price" opWords="8" polarity="+"/>
+			<opinion featWords="11" feature="food" opWords="10" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Older(1) building(2) and(3) rooms(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			When(1) you(2) need(3) a(4) cheap(5) ,(6) convenient(7) place(8) to(9) leave(10) your(11) car(12) and(13) to(14) sleep(15) before(16) an(17) early(18) flight(19) out(20) of(21) SeaTac(22) ,(23) Sutton(24) Suites(25) fits(26) the(27) bill(28) !(29) 
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+			<opinion feature="price" opWords="5" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			When(1) we(2) fly(3) ,(4) we(5) try(6) to(7) take(8) an(9) early(10) morning(11) flight(12) and(13) therefore(14) spend(15) the(16) night(17) before(18) in(19) Seattle(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			In(1) the(2) past(3) ,(4) we(5) have(6) used(7) the(8) same(9) two(10) Hotels(11) but(12) I(13) am(14) happy(15) to(16) say(17) ,(18) I(19) have(20) found(21) another(22) option(23) and(24) this(25) one(26) was(27) cheaper(28) too(29) !(30) 
+		</sentence>
+		<sentence id="3">
+			OH(1) ,(2) A(3) COUPON(4) !(5) !(6) 
+		</sentence>
+		<sentence id="4">
+			I(1) do(2) so(3) love(4) a(5) bargain(6) which(7) explains(8) how(9) I(10) found(11) out(12) about(13) Sutton(14) Suites(15) and(16) Extended(17) Stays(18) in(19) the(20) first(21) place(22) !(23) 
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) stopped(3) at(4) Denney(5) 's(6) restaurant(7) after(8) for(9) a(10) bite(11) to(12) eat(13) and(14) a(15) break(16) from(17) the(18) car(19) on(20) a(21) recent(22) drive(23) down(24) to(25) Oregon(26) .(27) 
+		</sentence>
+		<sentence id="6">
+			As(1) we(2) were(3) walking(4) in(5) ,(6) I(7) saw(8) one(9) of(10) those(11) travel(12) coupon(13) booklets(14) that(15) they(16) carry(17) at(18) different(19) restaurants(20) and(21) rest(22) stops(23) .(24) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) are(3) unfamiliar(4) with(5) them(6) they(7) contain(8) hotel(9) and(10) restaurant(11) adds(12) and(13) coupons(14) along(15) with(16) maps(17) of(18) the(19) area(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			The(1) one(2) I(3) picked(4) up(5) cover(6) from(7) Seattle(8) up(9) through(10) Vancouver(11) BC(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			I(1) flipped(2) through(3) it(4) while(5) we(6) were(7) at(8) the(9) table(10) and(11) that(12) 's(13) when(14) I(15) saw(16) the(17) Sutton(18) Suites(19) and(20) Extended(21) Stays(22) coupon(23) .(24) 
+		</sentence>
+		<sentence id="10">
+			It(1) said(2) "(3) $59.99(4) for(5) a(6) single(7) or(8) double(9) room(10) with(11) an(12) airport(13) shuttle(14) and(15) 7(16) days(17) free(18) parking(19) "(20) Now(21) that(22) was(23) a(24) deal(25) worth(26) checking(27) out(28) !(29) 
+		</sentence>
+		<sentence id="11">
+			When(1) we(2) returned(3) home(4) I(5) looked(6) them(7) up(8) on(9) the(10) web(11) and(12) it(13) seemed(14) like(15) a(16) decent(17) enough(18) place(19) to(20) stay(21) .(22) 
+		</sentence>
+		<sentence id="12">
+			The(1) only(2) room(3) that(4) came(5) up(6) online(7) with(8) the(9) coupon(10) rate(11) was(12) a(13) single(14) which(15) would(16) be(17) too(18) small(19) .(20) 
+		</sentence>
+		<sentence id="13">
+			I(1) emailed(2) them(3) and(4) was(5) told(6) they(7) would(8) honor(9) that(10) price(11) on(12) a(13) larger(14) room(15) as(16) well(17) !(18) 
+		</sentence>
+		<sentence id="14">
+			I(1) was(2) told(3) I(4) would(5) need(6) the(7) coupon(8) to(9) get(10) that(11) price(12) so(13) be(14) sure(15) to(16) bring(17) it(18) with(19) me(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			CHECKING(1) IN(2) We(3) found(4) the(5) place(6) easily(7) enough(8) and(9) I(10) went(11) in(12) to(13) check(14) in(15) which(16) was(17) fast(18) ,(19) easy(20) and(21) without(22) a(23) problem(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			I(1) gave(2) them(3) the(4) coupon(5) and(6) was(7) charged(8) the(9) $59.99(10) rate(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			Since(1) I(2) was(3) leaving(4) a(5) car(6) ,(7) they(8) took(9) a(10) photo(11) copy(12) of(13) my(14) drivers(15) license(16) and(17) had(18) me(19) fill(20) out(21) some(22) information(23) on(24) my(25) car(26) ~(27) type(28) ,(29) year(30) ,(31) color(32) and(33) license(34) number(35) .(36) 
+		</sentence>
+		<sentence id="18">
+			They(1) then(2) gave(3) me(4) a(5) slip(6) of(7) paper(8) to(9) place(10) on(11) my(12) dash(13) board(14) to(15) identify(16) it(17) as(18) a(19) park(20) and(21) fly(22) vehicle(23) .(24) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) then(3) given(4) an(5) electronic(6) key(7) for(8) our(9) room(10) ,(11) asked(12) for(13) a(14) wake(15) up(16) call(17) at(18) 4:30(19) AM(20) and(21) then(22) went(23) off(24) to(25) find(26) our(27) room(28) .(29) 
+		</sentence>
+		<sentence id="20">
+			THE(1) ROOM(2) We(3) had(4) a(5) room(6) on(7) the(8) second(9) floor(10) which(11) we(12) got(13) to(14) by(15) climbing(16) a(17) flight(18) of(19) stairs(20) .(21) 
+		</sentence>
+		<sentence id="21">
+			There(1) were(2) no(3) elevators(4) so(5) if(6) walking(7) is(8) a(9) problem(10) ,(11) ask(12) for(13) a(14) first(15) floor(16) room(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			The(1) room(2) was(3) nice(4) sized(5) ,(6) very(7) clean(8) but(9) old(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="2" feature="rooms" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="23">
+			There(1) was(2) a(3) small(4) kitchen(5) with(6) a(7) stove(8) ,(9) sink(10) ,(11) microwave(12) ,(13) coffee(14) maker(15) and(16) full(17) size(18) fridge(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			There(1) were(2) also(3) dishes(4) ,(5) silverware(6) and(7) pots(8) and(9) pans(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			A(1) small(2) round(3) dinning(4) room(5) table(6) was(7) pre(8) set(9) for(10) two(11) people(12) with(13) MISMATCHED(14) dishes(15) !(16) 
+		</sentence>
+		<sentence id="26">
+			Even(1) the(2) silverware(3) was(4) from(5) 3(6) or(7) 4(8) different(9) sets(10) !(11) 
+		</sentence>
+		<sentence id="27">
+			There(1) were(2) 3(3) beds(4) ,(5) 1(6) Queen(7) and(8) 1(9) Double(10) regular(11) beds(12) and(13) 1(14) Double(15) sized(16) sofa(17) bed(18) .(19) 
+		</sentence>
+		<sentence id="28">
+			We(1) were(2) there(3) about(4) 3(5) minutes(6) before(7) housekeeping(8) knocked(9) at(10) our(11) door(12) with(13) extra(14) pillows(15) and(16) bedding(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			She(1) pulled(2) out(3) the(4) sofa(5) bed(6) made(7) it(8) and(9) then(10) added(11) an(12) extra(13) pillow(14) to(15) each(16) of(17) the(18) other(19) two(20) beds(21) .(22) 
+		</sentence>
+		<sentence id="30">
+			It(1) was(2) nice(3) since(4) we(5) had(6) not(7) called(8) down(9) or(10) anything(11) .(12) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="31">
+			The(1) rest(2) of(3) the(4) room(5) consisted(6) of(7) a(8) coffee(9) table(10) ,(11) couple(12) of(13) end(14) tables(15) ,(16) a(17) long(18) dresser(19) that(20) a(21) nice(22) size(23) TV(24) was(25) placed(26) on(27) and(28) a(29) nice(30) lite(31) vanity(32) area(33) and(34) chair(35) .(36) 
+		</sentence>
+		<sentence id="32">
+			There(1) was(2) also(3) an(4) ironing(5) board(6) and(7) iron(8) but(9) they(10) were(11) BOTH(12) broken(13) !(14) !(15) 
+		</sentence>
+		<sentence id="33">
+			The(1) bathroom(2) was(3) were(4) you(5) could(6) see(7) the(8) age(9) the(10) most(11) ~(12) the(13) tile(14) around(15) the(16) tub(17) was(18) separating(19) and(20) there(21) were(22) a(23) few(24) cracks(25) in(26) the(27) floor(28) .(29) 
+		</sentence>
+		<sentence id="34">
+			The(1) shower(2) was(3) nice(4) and(5) high(6) and(7) provided(8) good(9) water(10) pressure(11) and(12) plenty(13) of(14) hot(15) water(16) .(17) 
+		</sentence>
+		<sentence id="35">
+			There(1) was(2) soap(3) and(4) shampoo(5) /(6) conditioner(7) combo(8) laid(9) on(10) the(11) counter(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			EXTRAS(1) There(2) were(3) not(4) a(5) lot(6) of(7) extras(8) ,(9) no(10) pool(11) or(12) fitness(13) area(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			They(1) did(2) not(3) offer(4) room(5) service(6) but(7) there(8) was(9) a(10) Thai(11) restaurant(12) on(13) the(14) first(15) floor(16) .(17) 
+		</sentence>
+		<sentence id="38">
+			We(1) did(2) not(3) go(4) in(5) there(6) so(7) I(8) do(9) not(10) know(11) how(12) the(13) food(14) is(15) .(16) 
+		</sentence>
+		<sentence id="39">
+			There(1) is(2) a(3) set(4) of(5) vending(6) machines(7) on(8) the(9) first(10) floor(11) offering(12) a(13) variety(14) of(15) snacks(16) and(17) drinks(18) .(19) 
+		</sentence>
+		<sentence id="40">
+			We(1) bought(2) microwave(3) popcorn(4) for(5) 65(6) cents(7) and(8) 12(9) oz(10) juices(11) for(12) 75(13) .(14) 
+		</sentence>
+		<sentence id="41">
+			The(1) add(2) and(3) online(4) site(5) said(6) "(7) free(8) continental(9) breakfast(10) "(11) but(12) we(13) had(14) to(15) leave(16) so(17) early(18) that(19) we(20) never(21) saw(22) it(23) .(24) 
+			<opinion featWords="10" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="42">
+			CHECKING(1) OUT(2) The(3) wake(4) up(5) call(6) came(7) as(8) ordered(9) ~(10) it(11) was(12) an(13) automatic(14) one(15) that(16) played(17) music(18) .(19) 
+		</sentence>
+		<sentence id="43">
+			We(1) called(2) down(3) before(4) we(5) headed(6) down(7) and(8) asked(9) that(10) they(11) bring(12) the(13) airport(14) shuttle(15) around(16) .(17) 
+		</sentence>
+		<sentence id="44">
+			We(1) brought(2) our(3) bags(4) down(5) stairs(6) and(7) the(8) shuttle(9) was(10) ready(11) and(12) waiting(13) !(14) 
+		</sentence>
+		<sentence id="45">
+			I(1) paid(2) with(3) a(4) credit(5) card(6) ((7) the(8) room(9) plus(10) the(11) 2(12) extra(13) parking(14) days(15) ,(16) no(17) surprises(18) )(19) and(20) our(21) bags(22) were(23) placed(24) in(25) the(26) van(27) .(28) 
+		</sentence>
+		<sentence id="46">
+			It(1) took(2) about(3) 5(4) minutes(5) to(6) get(7) to(8) the(9) airport(10) .(11) 
+		</sentence>
+		<sentence id="47">
+			When(1) we(2) returned(3) we(4) just(5) called(6) for(7) the(8) shuttle(9) from(10) the(11) airport(12) and(13) he(14) was(15) there(16) in(17) less(18) than(19) 10(20) minutes(21) .(22) 
+		</sentence>
+		<sentence id="48">
+			He(1) then(2) drove(3) us(4) back(5) to(6) the(7) hotel(8) and(9) helped(10) load(11) our(12) bags(13) back(14) into(15) our(16) car(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			Nice(1) and(2) easy(3) !(4) 
+		</sentence>
+		<sentence id="50">
+			PARK(1) AND(2) FLY(3) The(4) Park(5) and(6) Fly(7) option(8) allows(9) you(10) to(11) leave(12) your(13) car(14) in(15) the(16) Hotel(17) parking(18) lot(19) while(20) you(21) are(22) gone(23) .(24) 
+		</sentence>
+		<sentence id="51">
+			This(1) replaces(2) the(3) need(4) of(5) going(6) to(7) an(8) off(9) site(10) parking(11) garage(12) or(13) even(14) worse(15) ,(16) pay(17) and(18) arm(19) and(20) a(21) leg(22) to(23) leave(24) your(25) car(26) in(27) the(28) airport(29) lot(30) !(31) 
+		</sentence>
+		<sentence id="52">
+			At(1) Sutton(2) Suites(3) and(4) Extended(5) Stays(6) they(7) give(8) you(9) seven(10) FREE(11) days(12) of(13) parking(14) with(15) your(16) paid(17) room(18) .(19) 
+		</sentence>
+		<sentence id="53">
+			They(1) do(2) however(3) ,(4) count(5) the(6) night(7) you(8) sleep(9) there(10) as(11) one(12) of(13) the(14) seven(15) which(16) the(17) other(18) places(19) we(20) have(21) stayed(22) out(23) do(24) not(25) .(26) 
+		</sentence>
+		<sentence id="54">
+			For(1) every(2) day(3) past(4) the(5) seven(6) free(7) days(8) they(9) charge(10) $6.99(11) which(12) is(13) still(14) cheaper(15) than(16) most(17) lots(18) .(19) 
+		</sentence>
+		<sentence id="55">
+			We(1) had(2) to(3) pay(4) for(5) two(6) extra(7) days(8) so(9) we(10) ended(11) up(12) paying(13) an(14) extra(15) $13.98(16) .(17) 
+		</sentence>
+		<sentence id="56">
+			THIS(1) AND(2) THAT(3) **(4) Sutton(5) Suites(6) and(7) Extended(8) Stays(9) is(10) located(11) at(12) 3423(13) S(14) 160th(15) St(16) ,(17) Seatac(18) ,(19) WA(20) 98101(21) and(22) their(23) phone(24) number(25) is(26) 206-431-6884(27) .(28) **(29) There(30) are(31) several(32) nearby(33) restaurants(34) that(35) will(36) deliver(37) to(38) your(39) room(40) .(41) 
+		</sentence>
+		<sentence id="57">
+			Their(1) numbers(2) are(3) all(4) listed(5) ((6) including(7) their(8) menus(9) and(10) prices(11) )(12) in(13) the(14) room(15) .(16) 
+		</sentence>
+		<sentence id="58">
+			There(1) was(2) an(3) added(4) delivery(5) charge(6) .(7) **(8) My(9) rating(10) is(11) based(12) on(13) the(14) value(15) with(16) the(17) coupon(18) and(19) the(20) park(21) and(22) fly(23) option(24) .(25) 
+		</sentence>
+		<sentence id="59">
+			Know(1) going(2) in(3) that(4) this(5) is(6) an(7) older(8) place(9) but(10) clean(11) and(12) very(13) adequate(14) .(15) 
+			<opinion featWords="9" feature="place" opWords="11" polarity="+"/>
+			<opinion featWords="9" feature="place" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+	</text>
+</review>

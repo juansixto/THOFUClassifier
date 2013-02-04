@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="866" item="Fifth Avenue Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			As(1) good(2) as(3) it(4) gets(5) in(6) Portland(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) ,(3) pleasant(4) rooms(5) ,(6) very(7) comfortable(8) bed(9) ,(10) friendly(11) ,(12) helpful(13) staff(14) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="9" feature="bed" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="14" feature="staff" opWords="11" polarity="+"/>
+			<opinion featWords="14" feature="staff" opWords="13" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cramped(1) parking(2) .(3) 
+			<opinion featWords="2" feature="parking" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Visitors(1) with(2) giant(3) SUVs(4) should(5) park(6) elsewhere(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Better(1) yet(2) ,(3) sell(4) your(5) stupid(6) vehicle(7) .(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) perfect(2) combination(3) of(4) elegance(5) ,(6) service(7) ,(8) and(9) comfort(10) in(11) an(12) ideal(13) downtown(14) location(15) .(16) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Fifth(2) Avenue(3) Suites(4) Hotel(5) ,(6) part(7) of(8) the(9) Kimpton(10) Group(11) ,(12) is(13) a(14) sophisticated(15) slice(16) of(17) Manhattan(18) in(19) downtown(20) Portland(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			From(1) the(2) hotel(3) 's(4) busy(5) streetside(6) entrance(7) ,(8) the(9) friendly(10) doorman(11) will(12) direct(13) you(14) through(15) a(16) double(17) set(18) of(19) swinging(20) leaded(21) glass(22) doors(23) to(24) the(25) pleasantly(26) posh(27) lobby(28) that(29) features(30) a(31) fireplace(32) and(33) several(34) comfortable(35) seating(36) areas(37) .(38) 
+			<opinion featWords="37" feature="place" opWords="35" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) hotel(2) staff(3) are(4) among(5) the(6) best(7) I(8) 've(9) encountered(10) :(11) friendly(12) and(13) efficient(14) ,(15) they(16) graciously(17) add(18) a(19) touch(20) of(21) personal(22) welcome(23) without(24) being(25) obsequious(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			When(1) PrfStars(2) and(3) I(4) checked(5) in(6) at(7) around(8) 9:00(9) p.m.(10) on(11) a(12) busy(13) Friday(14) evening(15) ,(16) we(17) were(18) not(19) given(20) a(21) suite(22) ,(23) but(24) instead(25) got(26) a(27) "(28) Deluxe(29) Queen(30) Room(31) "(32) .(33) 
+		</sentence>
+		<sentence id="5">
+			Given(1) the(2) fact(3) that(4) we(5) 'd(6) made(7) our(8) reservations(9) through(10) Priceline(11) ,(12) at(13) a(14) fraction(15) of(16) the(17) rack(18) rate(19) ,(20) we(21) were(22) not(23) complaining(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) :(3) Our(4) room(5) was(6) not(7) overly(8) large(9) ,(10) but(11) was(12) certainly(13) adequate(14) in(15) every(16) way(17) .(18) 
+			<opinion featWords="5" feature="rooms" opWords="7,9" polarity="-" potency="8"/>
+			<opinion featWords="5" feature="rooms" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) decorated(3) in(4) a(5) style(6) that(7) was(8) sort(9) of(10) a(11) modern(12) ,(13) fun(14) take(15) on(16) old-style(17) elegance(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			The(1) furnishings(2) were(3) primarily(4) a(5) soothing(6) yellow(7) gold(8) ,(9) with(10) playful(11) stripes(12) everywhere(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Enormous(1) old(2) double(3) hung(4) windows(5) overlooked(6) the(7) busy(8) street(9) below(10) ,(11) and(12) were(13) reflected(14) in(15) an(16) ornate(17) framed(18) mirror(19) that(20) stretched(21) from(22) the(23) floor(24) nearly(25) to(26) the(27) ten(28) foot(29) ceilings(30) in(31) the(32) bedroom(33) area(34) .(35) 
+		</sentence>
+		<sentence id="10">
+			The(1) room(2) was(3) elegantly(4) simple(5) ,(6) with(7) nothing(8) more(9) than(10) a(11) bed(12) ,(13) two(14) bedside(15) tables(16) ,(17) a(18) writing(19) table(20) ,(21) and(22) a(23) TV(24) armoire(25) .(26) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="11">
+			The(1) incredibly(2) comfortable(3) bed(4) featured(5) a(6) down(7) filled(8) duvet(9) ,(10) with(11) subtle(12) white(13) on(14) white(15) striped(16) linens(17) .(18) 
+			<opinion featWords="4" feature="bed" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+		<sentence id="12">
+			The(1) room(2) included(3) a(4) large(5) closet(6) ((7) which(8) held(9) two(10) robes(11) and(12) a(13) complimentary(14) umbrella(15) -(16) a(17) nice(18) touch(19) in(20) drizzly(21) Portland(22) )(23) and(24) an(25) amply-sized(26) tiled(27) bath(28) .(29) 
+			<opinion featWords="6" feature="closet" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			Floor(1) and(2) ceiling(3) moldings(4) throughout(5) the(6) room(7) recalled(8) the(9) hotel(10) 's(11) vintage(12) status(13) .(14) 
+		</sentence>
+		<sentence id="14">
+			The(1) property(2) :(3) The(4) hotel(5) ,(6) which(7) opened(8) in(9) 1996(10) ,(11) is(12) in(13) an(14) early(15) 20th(16) century(17) building(18) that(19) formerly(20) housed(21) a(22) department(23) store(24) .(25) 
+		</sentence>
+		<sentence id="15">
+			The(1) restoration(2) of(3) the(4) property(5) and(6) its(7) conversion(8) to(9) a(10) hotel(11) retained(12) many(13) architectural(14) details(15) ,(16) including(17) high(18) ceilings(19) ,(20) large(21) windows(22) ,(23) and(24) ornate(25) woodwork(26) .(27) 
+		</sentence>
+		<sentence id="16">
+			Adding(1) to(2) the(3) hotel(4) 's(5) charm(6) is(7) its(8) floorplan(9) ,(10) which(11) features(12) several(13) winding(14) hallways(15) containing(16) three(17) or(18) four(19) rooms(20) each(21) -(22) a(23) blessedly(24) far(25) cry(26) from(27) the(28) typical(29) monolithic(30) modern(31) hotel(32) .(33) 
+			<opinion featWords="32" feature="hotel" opWords="31" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Amenities(1) :(2) The(3) hotel(4) offers(5) complimentary(6) wine(7) tasting(8) every(9) evening(10) in(11) the(12) lobby(13) ,(14) as(15) well(16) as(17) tea(18) and(19) coffee(20) in(21) the(22) morning(23) .(24) 
+		</sentence>
+		<sentence id="18">
+			We(1) arrived(2) too(3) late(4) for(5) wine(6) and(7) slept(8) too(9) late(10) for(11) coffee(12) ,(13) so(14) I(15) can(16) not(17) comment(18) on(19) the(20) quality(21) -(22) although(23) I(24) 'd(25) be(26) startled(27) if(28) it(29) were(30) anything(31) less(32) than(33) stellar(34) .(35) 
+		</sentence>
+		<sentence id="19">
+			After(1) oversleeping(2) ,(3) we(4) roused(5) ourselves(6) with(7) the(8) in-room(9) Starbuck(10) 's(11) coffee(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			The(1) Fifth(2) Avenue(3) Suites(4) is(5) a(6) prominent(7) patron(8) of(9) the(10) arts.(11) They(12) are(13) currently(14) helping(15) sponsor(16) a(17) display(18) of(19) 17th(20) century(21) French(22) paintings(23) at(24) the(25) nearby(26) Portland(27) Art(28) Museum(29) .(30) 
+		</sentence>
+		<sentence id="21">
+			Additionally(1) ,(2) the(3) hotel(4) lobby(5) and(6) other(7) public(8) areas(9) feature(10) a(11) wide(12) display(13) of(14) Pacific(15) Northwest(16) artists(17) '(18) work(19) .(20) 
+		</sentence>
+		<sentence id="22">
+			The(1) hotel(2) lobby(3) also(4) connects(5) to(6) an(7) Aveda(8) Environmental(9) Lifestyle(10) Store(11) &amp;(12) Spa(13) -(14) this(15) is(16) evidently(17) a(18) big(19) deal(20) .(21) 
+		</sentence>
+		<sentence id="23">
+			I(1) tend(2) to(3) avoid(4) aromatherapy(5) wraps(6) ,(7) but(8) for(9) those(10) who(11) like(12) such(13) things(14) ,(15) it(16) 's(17) certainly(18) convenient(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			The(1) hotel(2) rooms(3) also(4) feature(5) Aveda(6) products(7) .(8) 
+		</sentence>
+		<sentence id="25">
+			Finally(1) ,(2) the(3) hotel(4) is(5) adjacent(6) to(7) the(8) Red(9) Star(10) Tavern(11) and(12) Roast(13) House(14) ,(15) an(16) attractive(17) ,(18) clubby(19) sort(20) of(21) restaurant(22) that(23) specializes(24) in(25) high-end(26) comfort(27) food(28) .(29) 
+			<opinion featWords="28" feature="food" opWords="26" polarity="+"/>
+			<opinion featWords="28" feature="food" opWords="27" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			We(1) did(2) not(3) dine(4) there(5) ,(6) but(7) perused(8) the(9) menu(10) ,(11) which(12) was(13) both(14) extensive(15) and(16) expensive(17) .(18) 
+			<opinion feature="price" opWords="17" polarity="-"/>
+		</sentence>
+		<sentence id="27">
+			I(1) think(2) there(3) are(4) better(5) dining(6) choices(7) nearby(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			Summary(1) :(2) I(3) spend(4) a(5) lot(6) of(7) nights(8) away(9) from(10) home(11) ,(12) and(13) I(14) 've(15) grown(16) pretty(17) jaded(18) regarding(19) hotels(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			Normally(1) there(2) 's(3) always(4) some(5) kind(6) of(7) small(8) ((9) or(10) not(11) so(12) small(13) )(14) annoyance(15) ,(16) whether(17) it(18) 's(19) noisy(20) neighbors(21) or(22) malfunctioning(23) light(24) switches(25) ...(26) it(27) 's(28) a(29) rare(30) hotel(31) that(32) can(33) achieve(34) the(35) goal(36) of(37) providing(38) a(39) truly(40) trouble-free(41) ,(42) relaxing(43) stay(44) for(45) its(46) guests(47) .(48) 
+		</sentence>
+		<sentence id="30">
+			Fifth(1) Avenue(2) Suites(3) certainly(4) delivered(5) that(6) -(7) as(8) their(9) website(10) states(11) ,(12) "(13) It(14) 's(15) what(16) you(17) expect(18) from(19) a(20) 4-diamond(21) hotel(22) .(23) "(24) Update(25) :(26) My(27) wife(28) and(29) I(30) have(31) stayed(32) twice(33) more(34) at(35) the(36) Fifth(37) Avenue(38) Suites(39) ,(40) in(41) actual(42) suites(43) .(44) 
+		</sentence>
+		<sentence id="31">
+			The(1) service(2) has(3) been(4) consistently(5) excellent(6) .(7) 
+			<opinion featWords="2" feature="service" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="32">
+			During(1) our(2) last(3) stay(4) ,(5) we(6) took(7) advantage(8) of(9) a(10) special(11) deal(12) that(13) included(14) a(15) nice(16) bottle(17) of(18) wine(19) ,(20) some(21) awesome(22) chocolate-covered(23) blueberries(24) ,(25) and(26) room(27) service(28) breakfast(29) .(30) 
+		</sentence>
+		<sentence id="33">
+			Everything(1) was(2) flawless(3) .(4) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="34">
+			We(1) 've(2) also(3) dined(4) at(5) the(6) Red(7) Star(8) -(9) we(10) chose(11) a(12) bunch(13) of(14) appetizers(15) and(16) worked(17) through(18) most(19) of(20) them(21) .(22) 
+		</sentence>
+		<sentence id="35">
+			It(1) 's(2) not(3) a(4) bad(5) restaurant(6) ,(7) and(8) is(9) certainly(10) convenient(11) .(12) 
+			<opinion featWords="6" feature="food" opWords="3,5" polarity="+"/>
+			<opinion featWords="6" feature="food" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="36">
+			There(1) are(2) better(3) options(4) out(5) there(6) ,(7) however(8) .(9) 
+		</sentence>
+		<sentence id="37">
+			Fifth(1) Avenue(2) Suites(3) 506(4) S.W.(5) Washington(6) Portland(7) ,(8) Oregon(9) 97204(10) 866-861-9514(11) fax(12) 503-222-0004(13) http://www.5thavenuesuites.com(14) 
+		</sentence>
+	</text>
+</review>

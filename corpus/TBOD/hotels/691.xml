@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="691" item="Nob Hill Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Went(1) for(2) a(3) conference(4) ,(5) enjoyed(6) a(7) great(8) stay(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Stunning(1) rooms(2) ,(3) nice(4) staff(5) ,(6) good(7) location(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) really(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) was(2) in(3) town(4) for(5) a(6) conference(7) and(8) stayed(9) at(10) the(11) Nob(12) Hill(13) Hotel(14) because(15) the(16) price(17) was(18) good(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) called(2) the(3) hotel(4) ,(5) and(6) the(7) front(8) desk(9) gave(10) me(11) a(12) rate(13) 15(14) %(15) better(16) than(17) that(18) listed(19) on(20) their(21) website(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			I(1) ended(2) up(3) staying(4) for(5) only(6) $85(7) per(8) night(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="4">
+			In(1) addition(2) because(3) three(4) of(5) the(6) nights(7) I(8) stayed(9) were(10) weekdays(11) ,(12) the(13) lady(14) at(15) the(16) front(17) desk(18) bumped(19) me(20) up(21) to(22) a(23) nicer(24) room(25) when(26) she(27) saw(28) me(29) wheel(30) in(31) my(32) large(33) suitcase(34) .(35) ((36) be(37) sure(38) to(39) walk(40) up(41) the(42) hill(43) to(44) the(45) beautiful(46) gigantic(47) courtyard(48) )(49) Overall(50) ,(51) they(52) were(53) very(54) good(55) ,(56) and(57) the(58) room(59) was(60) great(61) .(62) 
+			<opinion featWords="59" feature="rooms" opWords="61" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			I(1) would(2) absolutley(3) stay(4) here(5) again(6) .(7) 
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</text>
+</review>

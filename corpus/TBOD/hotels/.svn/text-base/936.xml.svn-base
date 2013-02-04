@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="936" item="Ritz Carlton Cleveland" rating="5">
+	<title>
+		<sentence id="1">
+			Ritz(1) Carlton(2) Cleveland(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Club(1) Level(2) Service(3) and(4) Food(5) Selection(6) are(7) top(8) notch(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Windy(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) visiting(2) Cleveland(3) ,(4) OH(5) ,(6) look(7) no(8) further(9) than(10) The(11) Ritz(12) Carlton(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			You(1) not(2) be(3) disappointed(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) spent(3) a(4) weekend(5) on(6) the(7) Club(8) Level(9) of(10) this(11) property(12) and(13) i(14) had(15) a(16) wonderful(17) stay(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) food(2) settings(3) on(4) the(5) club(6) level(7) were(8) outstanding(9) and(10) the(11) service(12) was(13) top(14) notch(15) .(16) 
+			<opinion featWords="12" feature="service" opWords="14,15" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Make(1) sure(2) you(3) try(4) the(5) small(6) cinnamon(7) cakes(8) they(9) serve(10) with(11) cordials(12) at(13) the(14) dessert(15) serving(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) cakes(2) are(3) delicious(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			The(1) rooms(2) were(3) also(4) outstanding(5) ,(6) very(7) nicely(8) prepared(9) upon(10) early(11) check(12) in(13) and(14) turned(15) down(16) equally(17) well(18) in(19) the(20) evening(21) .(22) 
+			<opinion featWords="2" feature="rooms" opWords="8,9" polarity="+" potency="7"/>
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			All(1) necessary(2) arrangements(3) ((4) tickets(5) ,(6) dinner(7) reservations(8) )(9) were(10) promptly(11) executed(12) by(13) the(14) staff(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) are(3) looking(4) to(5) stay(6) for(7) business(8) or(9) pleasure(10) in(11) Cleveland(12) ,(13) look(14) no(15) further(16) than(17) The(18) Ritz(19) Carlton(20) ,(21) You(22) Will(23) Not(24) Be(25) Disappointed(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			If(1) traveling(2) for(3) business(4) and(5) staying(6) on(7) the(8) Club(9) Floor(10) you(11) will(12) not(13) even(14) have(15) to(16) bother(17) looking(18) for(19) a(20) restaurant(21) ,(22) simply(23) enjoy(24) all(25) of(26) the(27) offerings(28) on(29) the(30) club(31) floor(32) .(33) 
+		</sentence>
+	</text>
+</review>

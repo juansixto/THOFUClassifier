@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="501" item="Radisson Hotel JFK Airport" rating="3">
+	<title>
+		<sentence id="1">
+			Best(1) of(2) a(3) bad(4) lot(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Efficient(1) and(2) helpful(3) staff(4) ,(5) good(6) shuttle(7) service(8) ,(9) convenient(10) to(11) airport(12) ,(13) fairly(14) clean(15) 
+			<opinion featWords="4" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="staff" opWords="3" polarity="+"/>
+			<opinion feature="hotel" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Fairly(1) clean(2) ,(3) catering(4) ,(5) transparent(6) sheets(7) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+			<opinion featWords="7" feature="bedding" opWords="6" polarity="+"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) have(3) to(4) stay(5) at(6) JFK(7) ,(8) then(9) give(10) it(11) a(12) try(13) .(14) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) fly(2) on(3) early(4) flight(5) out(6) of(7) JFK(8) so(9) I(10) often(11) stay(12) the(13) night(14) at(15) JFK(16) Hotels(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) been(3) to(4) most(5) of(6) them(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) not(3) something(4) I(5) look(6) forward(7) to(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			My(1) view(2) on(3) JFK(4) hotels(5) was(6) confirmed(7) this(8) trip(9) when(10) I(11) looked(12) out(13) of(14) my(15) bedroom(16) window(17) to(18) see(19) that(20) the(21) old(22) Hilton(23) is(24) now(25) a(26) Salvation(27) Army(28) Building(29) .(30) 
+		</sentence>
+		<sentence id="5">
+			Having(1) said(2) all(3) that(4) ,(5) the(6) Radisson(7) was(8) not(9) bad(10) .(11) 
+			<opinion feature="hotel" opWords="9,10" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) clean(4) ((5) although(6) the(7) bathroom(8) was(9) not(10) )(11) .(12) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="bathroom" opWords="10,4" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			The(1) bedding(2) was(3) adequate(4) and(5) the(6) sheets(7) were(8) clean(9) though(10) you(11) could(12) see(13) through(14) them(15) .(16) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="bedding" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) check(2) in(3) and(4) check(5) out(6) was(7) efficient(8) ,(9) courteous(10) and(11) speedy(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			The(1) wake(2) up(3) call(4) came(5) through(6) as(7) ordered(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			I(1) got(2) exactly(3) what(4) I(5) booked(6) and(7) most(8) things(9) worked(10) .(11) 
+		</sentence>
+		<sentence id="11">
+			One(1) thing(2) that(3) really(4) bugged(5) me(6) was(7) the(8) bedside(9) light(10) on(11) the(12) side(13) by(14) the(15) phone(16) ,(17) where(18) as(19) a(20) single(21) traveler(22) you(23) sleep(24) ,(25) did(26) not(27) work(28) .(29) 
+		</sentence>
+		<sentence id="12">
+			On(1) checking(2) the(3) bulb(4) ,(5) I(6) discovered(7) the(8) reason(9) it(10) did(11) not(12) work(13) is(14) there(15) is(16) no(17) power(18) socket(19) on(20) that(21) side(22) of(23) the(24) room(25) .(26) 
+		</sentence>
+		<sentence id="13">
+			I(1) can(2) only(3) presume(4) a(5) previous(6) guest(7) had(8) liberated(9) the(10) extension(11) cord(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Most(1) things(2) in(3) the(4) hotel(5) do(6) work(7) though(8) ,(9) including(10) the(11) elevators(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) shuttle(2) bus(3) is(4) excellent(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			Whilst(1) resembling(2) more(3) a(4) prison(5) bus(6) from(7) a(8) Movie(9) ,(10) it(11) was(12) frequent(13) ((14) More(15) than(16) one(17) -(18) other(19) properties(20) take(21) note(22) )(23) -(24) and(25) ran(26) to(27) schedule(28) with(29) a(30) very(31) helpful(32) driver(33) .(34) 
+		</sentence>
+		<sentence id="17">
+			The(1) restaurant(2) is(3) a(4) combination(5) of(6) commissary(7) ,(8) diner(9) and(10) convenience(11) store(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			OK(1) to(2) stop(3) hunger(4) but(5) that(6) 's(7) about(8) it(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			On(1) balance(2) it(3) is(4) convenient(5) ,(6) clean-ish(7) ,(8) efficiently(9) run(10) with(11) a(12) good(13) shuttle(14) .(15) 
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+			<opinion feature="hotel" opWords="7" polarity="+"/>
+			<opinion feature="hotel" opWords="9,10" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			It(1) is(2) also(3) a(4) reasonable(5) value(6) .(7) 
+		</sentence>
+		<sentence id="21">
+			If(1) you(2) have(3) to(4) stay(5) at(6) JFK(7) there(8) are(9) many(10) many(11) worse(12) places(13) .(14) 
+		</sentence>
+	</text>
+</review>

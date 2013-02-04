@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="233" item="Cal-Neva Resort" rating="1">
+	<title>
+		<sentence id="1">
+			Neva(1) again(2) --(3) ditto(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			North(1) Shore(2) location(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			a(1) rip-off(2) ,(3) AND(4) the(5) desk(6) clerks(7) have(8) attitude(9) 
+			<opinion feature="price" opWords="2" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Review(1) Topic(2) :(3) AccommodationsI(4) was(5) taken(6) in(7) by(8) the(9) slick(10) Internet(11) marketing(12) of(13) the(14) Cal-Neva(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) thought(2) I(3) 'd(4) experience(5) a(6) bit(7) of(8) casino(9) history(10) ,(11) see(12) the(13) ghosts(14) of(15) Frank(16) and(17) Marilyn(18) lurking(19) in(20) the(21) hallways(22) .(23) 
+		</sentence>
+		<sentence id="3">
+			Instead(1) ,(2) the(3) Cal-Neva(4) presented(5) itself(6) as(7) a(8) tattered(9) and(10) tired(11) ,(12) with(13) no(14) reason(15) to(16) allow(17) for(18) the(19) front(20) desk(21) 's(22) snobby(23) attitude(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) rate(2) was(3) expensive(4) for(5) the(6) North(7) Shore(8) ,(9) but(10) the(11) room(12) was(13) tacky(14) .(15) 
+			<opinion featWords="2" feature="price" opWords="4" polarity="-"/>
+			<opinion featWords="12" feature="rooms" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			Wallpaper(1) was(2) peeling(3) off(4) the(5) walls(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			In(1) the(2) fitness(3) center(4) ,(5) the(6) machines(7) were(8) broken(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			I(1) had(2) wanted(3) to(4) try(5) the(6) spa(7) facilities(8) ,(9) but(10) decided(11) I(12) did(13) not(14) want(15) to(16) chance(17) it(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			To(1) top(2) it(3) off(4) ,(5) when(6) we(7) checked(8) out(9) ,(10) I(11) had(12) been(13) quoted(14) a(15) lower(16) rate(17) than(18) charged(19) ,(20) and(21) the(22) manager(23) was(24) conveniently(25) "(26) not(27) in(28) .(29) "(30) The(31) casino(32) manager(33) did(34) agree(35) to(36) a(37) slight(38) discount(39) ,(40) but(41) not(42) what(43) I(44) was(45) quoted(46) initially(47) .(48) 
+		</sentence>
+		<sentence id="9">
+			I(1) did(2) not(3) want(4) to(5) argue(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			While(1) we(2) were(3) checking(4) out(5) ,(6) two(7) other(8) customers(9) were(10) also(11) complaining(12) about(13) their(14) accommodations(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			Obviously(1) ,(2) this(3) is(4) the(5) norm(6) with(7) the(8) Cal-Neva(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			do(1) not(2) be(3) fooled(4) by(5) slick(6) advertising(7) and(8) pretty(9) pictures(10) !(11) 
+		</sentence>
+		<sentence id="13">
+			Neva(1) stay(2) at(3) the(4) Cal-Neva(5) !(6) 
+		</sentence>
+	</text>
+</review>

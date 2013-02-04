@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="805" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Awesome(1) Place(2) to(3) Stay(4) for(5) Vacation(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			prompt(1) service(2) ,(3) best(4) location(5) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Clean(1) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) had(2) a(3) great(4) time(5) in(6) San(7) Diego(8) last(9) month(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			And(1) what(2) added(3) to(4) the(5) whole(6) experience(7) was(8) my(9) stay(10) at(11) the(12) California(13) Suites(14) Hotel(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			In(1) one(2) word(3) ,(4) I(5) would(6) say(7) that(8) the(9) hotel(10) was(11) amazing(12) .(13) 
+			<opinion featWords="10" feature="hotel" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			I(1) am(2) a(3) foodie(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			So(1) I(2) loved(3) the(4) delicious(5) breakfast(6) the(7) hotel(8) provided(9) and(10) that(11) too(12) for(13) free(14) .(15) 
+			<opinion featWords="6" feature="food" opWords="3" polarity="+"/>
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			The(1) mouth-watering(2) buffet(3) had(4) everything(5) from(6) cereals(7) ,(8) fresh(9) fruits(10) ,(11) fruit(12) spreads(13) ,(14) Danish(15) ,(16) muffins(17) ,(18) bagels(19) ,(20) juices(21) ,(22) espresso(23) ,(24) bread(25) ,(26) cream(27) cheese(28) ,(29) and(30) most(31) importantly(32) my(33) favorite(34) hot(35) chocolate(36) .(37) 
+			<opinion featWords="3" feature="food" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Honestly(1) ,(2) I(3) ate(4) so(5) much(6) there(7) that(8) I(9) must(10) have(11) gained(12) some(13) extra(14) pounds(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Apart(1) from(2) food(3) ,(4) I(5) loved(6) swimming(7) in(8) the(9) large(10) pool(11) .(12) 
+			<opinion featWords="11" feature="swimming pool" opWords="6" polarity="+"/>
+			<opinion featWords="11" feature="swimming pool" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Awesome(1) time(2) .(3) 
+		</sentence>
+		<sentence id="10">
+			I(1) am(2) looking(3) forward(4) to(5) staying(6) here(7) again(8) .(9) 
+		</sentence>
+	</text>
+</review>

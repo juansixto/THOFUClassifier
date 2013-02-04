@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="236" item="Historic Franklin Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			Stay(1) Elsewhere(2) in(3) Deadwwod(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Central(1) location(2) on(3) the(4) main(5) strip(6) of(7) town(8) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			run(1) down(2) property(3) ,(4) noise(5) ,(6) poor(7) customer(8) service(9) 
+			<opinion featWords="9" feature="service" opWords="7" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) can(2) not(3) recommend(4) the(5) hotel(6) as(7) it(8) does(9) not(10) meet(11) basic(12) standards(13) of(14) service(15) or(16) quality(17) .(18) 
+			<opinion featWords="6" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			There(1) are(2) many(3) other(4) choices(5) close(6) by(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) the(4) Historic(5) Franklin(6) Hotel(7) in(8) June(9) 2006(10) for(11) two(12) nights(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) on(3) a(4) Contiki(5) tour(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			I(1) did(2) not(3) expect(4) much(5) out(6) of(7) the(8) hotel(9) as(10) I(11) had(12) read(13) reviews(14) before(15) I(16) left(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) not(3) satisfied(4) at(5) all(6) with(7) my(8) stay(9) at(10) this(11) property(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			I(1) knew(2) not(3) to(4) expect(5) 4(6) diamonds(7) but(8) expected(9) the(10) basics(11) of(12) a(13) clean(14) room(15) and(16) a(17) bed(18) .(19) 
+			<opinion featWords="15" feature="rooms" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			A(1) Motel(2) 6(3) would(4) have(5) been(6) nicer(7) When(8) we(9) arrived(10) at(11) the(12) hotels(13) and(14) were(15) given(16) our(17) keys(18) ,(19) we(20) went(21) to(22) the(23) elevator(24) and(25) saw(26) that(27) it(28) said(29) 2(30) and(31) 3(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			Our(1) keys(2) were(3) in(4) the(5) 100(6) range(7) .(8) 
+		</sentence>
+		<sentence id="8">
+			So(1) I(2) asked(3) the(4) desk(5) clerk(6) if(7) our(8) rooms(9) were(10) on(11) the(12) first(13) floor(14) or(15) the(16) second(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			I(1) was(2) told(3) that(4) there(5) were(6) no(7) rooms(8) on(9) the(10) first(11) floor(12) so(13) to(14) go(15) to(16) the(17) second(18) floor(19) .(20) 
+		</sentence>
+		<sentence id="10">
+			I(1) questioned(2) about(3) the(4) key(5) numbers(6) .(7) 
+		</sentence>
+		<sentence id="11">
+			Once(1) we(2) got(3) to(4) the(5) second(6) floor(7) those(8) rooms(9) were(10) 200(11) rooms(12) and(13) our(14) keys(15) did(16) not(17) work(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			He(1) failed(2) to(3) inform(4) us(5) that(6) we(7) would(8) be(9) staying(10) at(11) the(12) motel(13) across(14) the(15) street(16) .(17) 
+		</sentence>
+		<sentence id="13">
+			I(1) found(2) the(3) desk(4) clerk(5) very(6) rude(7) and(8) not(9) helpful(10) at(11) all(12) .(13) 
+			<opinion featWords="5" feature="front desk" opWords="7" polarity="-" potency="6"/>
+			<opinion featWords="5" feature="front desk" opWords="9,10" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			He(1) could(2) have(3) told(4) us(5) this(6) to(7) begin(8) with(9) .(10) 
+		</sentence>
+		<sentence id="15">
+			We(1) crossed(2) the(3) street(4) and(5) carried(6) our(7) luggage(8) up(9) rickety(10) old(11) stairs(12) .(13) 
+			<opinion featWords="12" feature="stairways" opWords="10" polarity="-"/>
+			<opinion featWords="12" feature="stairways" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			My(1) room(2) claimed(3) to(4) be(5) a(6) suite(7) .(8) 
+		</sentence>
+		<sentence id="17">
+			This(1) made(2) me(3) laugh(4) as(5) it(6) was(7) old(8) and(9) run(10) down(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			The(1) room(2) was(3) dark(4) and(5) without(6) much(7) lighting(8) .(9) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			The(1) room(2) also(3) smelled(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			The(1) air(2) conditioner(3) was(4) in(5) a(6) back(7) window(8) .(9) 
+		</sentence>
+		<sentence id="21">
+			The(1) room(2) construction(3) ,(4) obstructed(5) its(6) flow(7) of(8) the(9) air(10) .(11) 
+		</sentence>
+		<sentence id="22">
+			But(1) it(2) was(3) better(4) than(5) nothing(6) .(7) 
+		</sentence>
+		<sentence id="23">
+			The(1) room(2) needed(3) a(4) few(5) coats(6) of(7) paint(8) and(9) about(10) 4(11) lamps(12) .(13) 
+		</sentence>
+		<sentence id="24">
+			The(1) room(2) was(3) a(4) good(5) size(6) although(7) the(8) king(9) size(10) bed(11) covered(12) the(13) electrical(14) outlets(15) .(16) 
+			<opinion featWords="2" feature="rooms" opWords="5,6" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			The(1) room(2) configuration(3) had(4) a(5) wall(6) separating(7) the(8) sink(9) area(10) from(11) the(12) bed(13) area(14) but(15) the(16) air(17) conditioner(18) was(19) on(20) the(21) wall(22) across(23) from(24) the(25) sink(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			So(1) it(2) blew(3) into(4) the(5) mirror(6) above(7) the(8) sink(9) and(10) not(11) into(12) the(13) main(14) room(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			The(1) bedspread(2) was(3) torn(4) and(5) just(6) old(7) from(8) wear(9) .(10) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="bedding" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="28">
+			The(1) bed(2) was(3) uncomfortable(4) .(5) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="29">
+			The(1) carpet(2) was(3) stained(4) .(5) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="30">
+			The(1) bathroom(2) was(3) filthy(4) .(5) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="31">
+			The(1) shower(2) was(3) full(4) of(5) mildew(6) .(7) 
+		</sentence>
+		<sentence id="32">
+			The(1) shower(2) was(3) more(4) of(5) a(6) trickle(7) than(8) anything(9) else(10) .(11) 
+		</sentence>
+		<sentence id="33">
+			I(1) ended(2) up(3) rinsing(4) the(5) shampoo(6) out(7) of(8) my(9) hair(10) in(11) the(12) sink(13) .(14) 
+		</sentence>
+		<sentence id="34">
+			The(1) sink(2) was(3) not(4) adequately(5) cleaned(6) .(7) 
+			<opinion featWords="2" feature="sinks" opWords="4,6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="35">
+			So(1) I(2) cleaned(3) what(4) I(5) could(6) with(7) the(8) sanitary(9) wipes(10) to(11) disinfect(12) it(13) as(14) much(15) as(16) possible(17) .(18) 
+		</sentence>
+		<sentence id="36">
+			I(1) found(2) my(3) room(4) noisy(5) as(6) the(7) delivery(8) trucks(9) started(10) at(11) 4am(12) and(13) beep(14) as(15) they(16) back(17) up(18) .(19) 
+			<opinion featWords="4" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="37">
+			Then(1) Deadwood(2) is(3) lively(4) at(5) night(6) and(7) I(8) could(9) hear(10) people(11) on(12) the(13) street(14) all(15) night(16) .(17) 
+		</sentence>
+		<sentence id="38">
+			I(1) had(2) a(3) corner(4) room(5) so(6) I(7) heard(8) people(9) walking(10) up(11) the(12) stairs(13) ,(14) outside(15) of(16) the(17) casino(18) ,(19) in(20) the(21) front(22) parking(23) lot(24) ,(25) and(26) in(27) adjoining(28) rooms(29) .(30) 
+		</sentence>
+		<sentence id="39">
+			Wherever(1) I(2) was(3) on(4) the(5) strips(6) of(7) rooms(8) ,(9) I(10) would(11) have(12) heard(13) the(14) same(15) noise(16) .(17) 
+		</sentence>
+		<sentence id="40">
+			We(1) ate(2) at(3) the(4) Silverado(5) Casino(6) in(7) the(8) lower(9) level(10) which(11) was(12) across(13) from(14) the(15) Franklin(16) Hotel(17) .(18) 
+		</sentence>
+		<sentence id="41">
+			The(1) first(2) night(3) was(4) a(5) buffet(6) and(7) the(8) second(9) night(10) was(11) a(12) plated(13) dinner(14) .(15) 
+		</sentence>
+		<sentence id="42">
+			The(1) buffet(2) was(3) nice(4) and(5) provided(6) a(7) variety(8) of(9) meal(10) options(11) .(12) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="43">
+			Breakfast(1) both(2) mornings(3) were(4) two(5) slices(6) of(7) toast(8) ,(9) and(10) two(11) eggs(12) .(13) 
+		</sentence>
+		<sentence id="44">
+			We(1) were(2) not(3) given(4) a(5) buffet(6) as(7) an(8) option(9) even(10) though(11) it(12) was(13) available(14) to(15) others(16) having(17) breakfast(18) .(19) 
+		</sentence>
+		<sentence id="45">
+			The(1) Historic(2) Franklin(3) Hotel(4) lobby(5) is(6) being(7) renovated(8) for(9) $7(10) million(11) but(12) the(13) guest(14) rooms(15) are(16) not(17) being(18) renovated(19) .(20) 
+		</sentence>
+		<sentence id="46">
+			The(1) lobby(2) did(3) not(4) have(5) much(6) in(7) it(8) while(9) I(10) was(11) there(12) besides(13) a(14) couch(15) .(16) 
+		</sentence>
+		<sentence id="47">
+			The(1) hotel(2) location(3) is(4) on(5) the(6) main(7) street(8) of(9) the(10) town(11) but(12) other(13) locations(14) are(15) on(16) the(17) street(18) as(19) well(20) .(21) 
+		</sentence>
+		<sentence id="48">
+			If(1) the(2) rooms(3) were(4) maintained(5) properly(6) ,(7) the(8) hotel(9) would(10) have(11) a(12) lot(13) of(14) potential(15) .(16) 
+		</sentence>
+		<sentence id="49">
+			It(1) is(2) not(3) far(4) to(5) walk(6) from(7) one(8) end(9) to(10) the(11) other(12) on(13) the(14) main(15) street(16) of(17) Deadwood(18) .(19) 
+		</sentence>
+		<sentence id="50">
+			A(1) brand(2) new(3) Hampton(4) Inn(5) is(6) on(7) the(8) one(9) end(10) and(11) looked(12) very(13) nice(14) and(15) had(16) bands(17) playing(18) while(19) I(20) was(21) there(22) .(23) 
+			<opinion feature="hotel" opWords="14" polarity="+" potency="13"/>
+		</sentence>
+		<sentence id="51">
+			I(1) will(2) be(3) staying(4) there(5) next(6) time(7) .(8) 
+		</sentence>
+		<sentence id="52">
+			The(1) guest(2) there(3) I(4) spoke(5) with(6) were(7) impressed(8) .(9) 
+		</sentence>
+		<sentence id="53">
+			Deadwood(1) has(2) many(3) casino(4) /(5) bars(6) .(7) 
+		</sentence>
+		<sentence id="54">
+			I(1) do(2) not(3) gamble(4) or(5) smoke(6) so(7) that(8) was(9) not(10) really(11) my(12) thing(13) .(14) 
+		</sentence>
+		<sentence id="55">
+			Although(1) I(2) did(3) enjoy(4) walking(5) through(6) the(7) Midnight(8) Star(9) as(10) I(11) learned(12) from(13) my(14) Deadwood(15) tour(16) guide(17) that(18) Kevin(19) Costner(20) owned(21) it(22) and(23) had(24) costumes(25) on(26) display(27) .(28) 
+		</sentence>
+		<sentence id="56">
+			Deadwood(1) had(2) some(3) small(4) shops(5) and(6) black(7) gold(8) was(9) available(10) for(11) purchase(12) .(13) 
+		</sentence>
+		<sentence id="57">
+			A(1) photography(2) shop(3) was(4) also(5) there(6) where(7) you(8) could(9) dress(10) up(11) and(12) have(13) a(14) photo(15) taken(16) from(17) the(18) past(19) .(20) 
+		</sentence>
+		<sentence id="58">
+			Deadwood(1) is(2) a(3) fun(4) ,(5) small(6) town(7) with(8) a(9) lot(10) of(11) history(12) .(13) 
+		</sentence>
+		<sentence id="59">
+			I(1) recommend(2) checking(3) out(4) the(5) museums(6) and(7) walking(8) around(9) the(10) town(11) .(12) 
+		</sentence>
+		<sentence id="60">
+			However(1) ,(2) I(3) do(4) not(5) recommend(6) the(7) Historic(8) Franklin(9) Hotel(10) .(11) 
+			<opinion feature="hotel" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="61">
+			I(1) loved(2) Deadwood(3) and(4) the(5) small(6) town(7) atmosphere(8) .(9) 
+		</sentence>
+		<sentence id="62">
+			I(1) was(2) there(3) during(4) the(5) Wild(6) Bill(7) days(8) and(9) enjoyed(10) the(11) gunfights(12) outside(13) of(14) the(15) hotel(16) on(17) the(18) street(19) and(20) the(21) parade(22) .(23) 
+		</sentence>
+		<sentence id="63">
+			The(1) locals(2) were(3) very(4) friendly(5) .(6) 
+		</sentence>
+	</text>
+</review>

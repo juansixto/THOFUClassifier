@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="879" item="Renaissance London Chancery Court Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Fantastic(1) Convenient(2) Hotel(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Smart(1) ,(2) comfortable(3) ,(4) quiet(5) ,(6) and(7) convenient(8) .(9) 
+			<opinion feature="hotel" opWords="8" polarity="+"/>
+			<opinion feature="hotel" opWords="5" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Very(1) friendly(2) staff(3) .(4) 
+			<opinion featWords="3" feature="staff" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			Toblerone(1) in(2) the(3) front(4) desk(5) bowl(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Price(1) of(2) food(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Spent(1) 8(2) days(3) on(4) vacation(5) with(6) my(7) wife(8) and(9) 16(10) yr(11) old(12) daughter(13) ((14) 8/06(15) )(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			I(1) travel(2) a(3) lot(4) on(5) business(6) and(7) as(8) a(9) family(10) we(11) are(12) used(13) to(14) upscale(15) hotels(16) .(17) 
+			<opinion featWords="16" feature="hotel" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			This(1) is(2) one(3) of(4) the(5) nicest(6) hotels(7) I(8) have(9) every(10) found(11) .(12) 
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			A(1) Life(2) Insurance(3) company(4) headquarters(5) converted(6) to(7) a(8) hotel(9) ((10) you(11) 'd(12) never(13) know(14) it(15) )(16) ;(17) this(18) granite(19) building(20) is(21) wonderful(22) ,(23) comfortably(24) appointed(25) ,(26) and(27) quiet(28) !(29) 
+			<opinion feature="hotel" opWords="28" polarity="+"/>
+			<opinion feature="hotel" opWords="24,25" polarity="+"/>
+			<opinion featWords="20" feature="building" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) very(3) quiet(4) .(5) 
+			<opinion featWords="2" feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="6">
+			We(1) never(2) heard(3) any(4) sounds(5) from(6) the(7) street(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			The(1) Holborn(2) Tube(3) station(4) is(5) a(6) couple(7) of(8) hundred(9) feet(10) down(11) the(12) street(13) which(14) opens(15) all(16) of(17) London(18) to(19) easy(20) access(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			The(1) British(2) Museum(3) is(4) an(5) easy(6) walk(7) away(8) as(9) is(10) the(11) shopping(12) of(13) Covent(14) Garden(15) area(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			There(1) 's(2) a(3) grocery(4) store(5) nearby(6) too(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			Book(1) ahead(2) and(3) great(4) prices(5) can(6) be(7) had(8) .(9) 
+			<opinion featWords="5" feature="price" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			We(1) got(2) a(3) price(4) of(5) about(6) 160(7) pounds(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			I(1) have(2) spent(3) a(4) lot(5) more(6) in(7) London(8) and(9) been(10) very(11) disappointed(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Not(1) this(2) time(3) !(4) 
+		</sentence>
+		<sentence id="14">
+			One(1) consideration(2) is(3) the(4) price(5) of(6) food(7) at(8) the(9) hotel(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			The(1) breakfast(2) spread(3) is(4) wonderful(5) but(6) get(7) it(8) included(9) in(10) your(11) package(12) .(13) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			We(1) got(2) it(3) for(4) 20(5) pounds(6) for(7) the(8) family(9) .(10) 
+		</sentence>
+		<sentence id="17">
+			Otherwise(1) the(2) tab(3) would(4) have(5) been(6) close(7) to(8) 50(9) pounds(10) !(11) 
+		</sentence>
+	</text>
+</review>

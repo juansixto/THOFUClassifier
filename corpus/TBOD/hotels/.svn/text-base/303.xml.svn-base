@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="303" item="Double Jj Ranch And Golf Rsrt" rating="4">
+	<title>
+		<sentence id="1">
+			Thoroughbred(1) Suite(2) is(3) the(4) way(5) to(6) go(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Suite(1) very(2) nice(3) .(4) 
+			<opinion featWords="1" feature="rooms" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+		<sentence id="2">
+			Golf(1) course(2) is(3) top(4) notch(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Horseback(1) riding(2) was(3) great(4) .(5) 
+		</sentence>
+		<sentence id="4">
+			Advanced(1) rides(2) offered(3) .(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Ranch(1) side(2) in(3) disrepair(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			No(1) rides(2) from(3) Ranch(4) barn(5) .(6) 
+		</sentence>
+		<sentence id="3">
+			Staff(1) hit(2) or(3) miss(4) .(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) got(2) back(3) from(4) the(5) Double(6) J(7) and(8) we(9) had(10) a(11) wonderful(12) vacation(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			We(1) stayed(2) in(3) a(4) suite(5) which(6) was(7) lovely(8) and(9) had(10) everything(11) we(12) needed(13) to(14) make(15) our(16) stay(17) a(18) pleasant(19) one(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			I(1) took(2) advantage(3) of(4) the(5) riding(6) ,(7) alot(8) ,(9) and(10) enjoyed(11) every(12) horse(13) that(14) I(15) had(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			The(1) trails(2) did(3) get(4) a(5) little(6) boring(7) mind(8) you(9) because(10) it(11) seemed(12) that(13) we(14) kept(15) going(16) on(17) the(18) same(19) ways(20) constantly(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			The(1) golf(2) course(3) is(4) very(5) well(6) maintained(7) and(8) killer(9) ((10) for(11) me(12) anyway(13) )(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			This(1) was(2) our(3) first(4) time(5) going(6) and(7) I(8) was(9) shocked(10) to(11) hear(12) that(13) it(14) might(15) be(16) closing(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			I(1) hope(2) that(3) is(4) not(5) the(6) case(7) because(8) I(9) really(10) want(11) to(12) go(13) back(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			I(1) hear(2) the(3) Fall(4) is(5) lovely(6) there(7) .(8) 
+		</sentence>
+	</text>
+</review>

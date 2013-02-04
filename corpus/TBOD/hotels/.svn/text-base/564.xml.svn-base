@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="564" item="Sheraton City Centre Hotel, Salt Lake" rating="3">
+	<title>
+		<sentence id="1">
+			Great(1) location-Rundown(2) rooms(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location-close(2) to(3) restaurants(4) and(5) entertainment(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) rooms(2) very(3) run-down(4) and(5) dirty(6) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-" potency="3"/>
+			<opinion featWords="2" feature="rooms" opWords="6" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Request(1) a(2) tower(3) room(4) .(5) 
+		</sentence>
+		<sentence id="2">
+			Great(1) location(2) close(3) to(4) entertainment(5) ,(6) restaurants(7) and(8) bars(9) .(10) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) Stayed(2) here(3) with(4) husband(5) and(6) six(7) month(8) old(9) son(10) for(11) a(12) weekend(13) getaway(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) has(3) two(4) parts-the(5) tower(6) and(7) the(8) "(9) back(10) "(11) area(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			Our(1) first(2) room(3) was(4) in(5) the(6) back(7) area(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) not(3) clean(4) and(5) was(6) very(7) run(8) down(9) .(10) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			The(1) heat(2) in(3) our(4) room(5) did(6) not(7) work(8) and(9) we(10) were(11) told(12) to(13) open(14) a(15) window(16) to(17) get(18) the(19) room(20) warm(21) .(22) 
+		</sentence>
+		<sentence id="6">
+			Our(1) window(2) also(3) did(4) not(5) have(6) a(7) screen(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			Due(1) to(2) the(3) location(4) of(5) our(6) room(7) ,(8) we(9) could(10) here(11) everyone(12) coming(13) in(14) the(15) outside(16) doors(17) late(18) into(19) the(20) night(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			We(1) called(2) the(3) front(4) desk(5) and(6) Ron(7) politely(8) moved(9) us(10) to(11) another(12) room(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Our(1) next(2) room(3) was(4) on(5) the(6) club(7) level(8) in(9) the(10) tower(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			It(1) was(2) a(3) vast(4) difference(5) from(6) our(7) other(8) room(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) very(3) clean(4) and(5) well-kept(6) .(7) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="4" polarity="+" potency="3"/>
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			We(1) were(2) very(3) impressed(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			The(1) hotel(2) has(3) a(4) pretty(5) outside(6) garden(7) area(8) with(9) a(10) swimming(11) pool(12) .(13) 
+			<opinion featWords="7" feature="gardens" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			There(1) is(2) a(3) Starbucks(4) located(5) within(6) the(7) hotel(8) ,(9) a(10) definite(11) plus(12) .(13) 
+		</sentence>
+		<sentence id="15">
+			The(1) location(2) of(3) the(4) hotel(5) is(6) excellent(7) .(8) 
+			<opinion featWords="2" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			There(1) are(2) many(3) family(4) friendly(5) pubs(6) and(7) restaurants(8) in(9) the(10) area(11) .(12) 
+			<opinion featWords="8" feature="food" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			There(1) are(2) also(3) more(4) upscale(5) and(6) adult(7) friendly(8) bars(9) close(10) by(11) .(12) 
+			<opinion featWords="9" feature="food" opWords="5" polarity="+"/>
+			<opinion featWords="9" feature="food" opWords="7,8" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			The(1) hotel(2) is(3) located(4) downtown(5) within(6) easy(7) access(8) to(9) transportation(10) .(11) 
+			<opinion feature="place" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			Also(1) close(2) by(3) are(4) many(5) area(6) attractions(7) including(8) the(9) Delta(10) Center(11) and(12) the(13) outside(14) Gateway(15) Mall(16) -(17) ((18) very(19) fun(20) with(21) the(22) Olympic(23) dedicated(24) area(25) including(26) a(27) ground(28) squirting(29) fountain(30) that(31) kids(32) can(33) cool(34) off(35) in(36) )(37) .(38) 
+		</sentence>
+		<sentence id="20">
+			If(1) you(2) stay(3) in(4) this(5) hotel(6) ,(7) request(8) a(9) tower(10) room(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			Also(1) ,(2) there(3) is(4) a(5) $10(6) a(7) night(8) charge(9) to(10) park(11) your(12) car(13) .(14) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="943" item="Shangri-La Bangkok" rating="4">
+	<title>
+		<sentence id="1">
+			Very(1) nice-but(2) not(3) the(4) nicest(5) 
+			<opinion feature="hotel" opWords="3,5" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			breakfast(1) on(2) the(3) terrace(4) and(5) the(6) grounds(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			hotel(1) rooms(2) are(3) just(4) nice(5) cookie(6) cutter(7) hotel(8) rooms(9) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) fairly(4) large(5) and(6) is(7) a(8) little(9) confusing(10) .(11) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="hotel" opWords="10" polarity="-" potency="9"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) got(3) the(4) original(5) building(6) and(7) the(8) Krungthep(9) wing(10) which(11) has(12) rooms(13) with(14) balconies(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			I(1) little(2) more(3) expensive(4) but(5) also(6) a(7) little(8) nicer(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			The(1) strength(2) of(3) this(4) hotel(5) in(6) my(7) opinion(8) is(9) the(10) grounds(11) along(12) the(13) river(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			It(1) feels(2) like(3) a(4) tropical(5) resort(6) instead(7) of(8) a(9) city(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			The(1) lobby(2) is(3) lovely(4) and(5) the(6) service(7) is(8) good(9) .(10) 
+			<opinion featWords="7" feature="service" opWords="9" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			The(1) restaurants(2) are(3) good(4) and(5) eating(6) breakfast(7) outside(8) on(9) the(10) terrace(11) was(12) relaxing(13) .(14) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) rooms(2) are(3) the(4) standard(5) hotel(6) room(7) layout(8) ,(9) so(10) there(11) is(12) nothing(13) exceptional(14) there(15) but(16) they(17) are(18) nicely(19) decorated(20) .(21) 
+			<opinion featWords="7" feature="rooms" opWords="19,20" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			After(1) staying(2) in(3) the(4) Peninsula(5) ,(6) this(7) hotel(8) in(9) far(10) less(11) interesting(12) to(13) me(14) than(15) it(16) was(17) before(18) the(19) arrival(20) of(21) the(22) competition(23) across(24) the(25) river(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			It(1) 's(2) a(3) very(4) nice(5) place(6) to(7) stay(8) and(9) if(10) you(11) 've(12) booked(13) a(14) package(15) that(16) includes(17) this(18) hotel(19) you(20) be(21) happy(22) with(23) the(24) choice(25) but(26) if(27) you(28) have(29) a(30) say(31) in(32) the(33) hotel-go(34) to(35) the(36) Peninsula(37) !(38) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+	</text>
+</review>

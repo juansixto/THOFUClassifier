@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="987" item="Holiday Inn Sunspree Barharbor" rating="4">
+	<title>
+		<sentence id="1">
+			Try(1) a(2) smaller(3) Hotel(4) ....(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) location(2) ,(3) Heated(4) pool(5) ,(6) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="swimming pool" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Pricey(1) ,(2) do(3) not(4) drink(5) the(6) in(7) room(8) coffee(9) ...(10) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Nice(1) ,(2) but(3) too(4) expensive(5) for(6) that(7) AREA(8) ,(9) support(10) the(11) local(12) smaller(13) hotels(14) ...(15) 
+			<opinion feature="price" opWords="4,5" polarity="-"/>
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) arrived(2) at(3) the(4) Sunpree(5) after(6) a(7) 12(8) hour(9) ride(10) form(11) South(12) Jersey(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			There(1) was(2) no(3) bellman(4) at(5) the(6) door(7) and(8) we(9) lugged(10) our(11) luggage(12) around(13) the(14) back(15) to(16) the(17) Building(18) six(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			To(1) my(2) surprise(3) there(4) was(5) no(6) elevator(7) and(8) we(9) carried(10) our(11) bags(12) ((13) 5(14) People(15) )(16) to(17) the(18) room(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Yeah(1) sure(2) "(3) Kids(4) eat(5) free(6) "(7) but(8) the(9) menu(10) in(11) the(12) Restaurant(13) is(14) quite(15) expensive(16) .(17) 
+			<opinion feature="price" opWords="16" polarity="-" potency="15"/>
+		</sentence>
+		<sentence id="5">
+			You(1) are(2) better(3) off(4) going(5) into(6) town(7) which(8) we(9) did(10) and(11) We(12) got(13) a(14) Lobster(15) dinner(16) for(17) $15(18) .(19) ((20) I(21) was(22) surprised(23) to(24) see(25) that(26) upon(27) checkin(28) the(29) Hotel(30) said(31) that(32) I(33) would(34) be(35) charged(36) $.50(37) a(38) day(39) for(40) the(41) newspaper(42) UNLESS(43) i(44) refuse(45) it(46) which(47) I(48) did(49) )(50) .(51) 
+		</sentence>
+		<sentence id="6">
+			I(1) paid(2) over(3) $219(4) so(5) I(6) figured(7) I(8) would(9) get(10) a(11) paper(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			On(1) the(2) second(3) day(4) I(5) got(6) the(7) newspaper(8) at(9) my(10) door(11) compliments(12) ?(13) .(14) 
+		</sentence>
+		<sentence id="8">
+			There(1) is(2) a(3) shuttle(4) leaving(5) from(6) all(7) the(8) big(9) hotels(10) .(11) 
+		</sentence>
+		<sentence id="9">
+			Parking(1) in(2) town(3) is(4) tough(5) .(6) 
+			<opinion featWords="1" feature="parking" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			WE(1) also(2) went(3) on(4) the(5) Whale(6) watching(7) Boat(8) BayKING(9) .(10) and(11) There(12) was(13) a(14) heavy(15) Fog(16) condition(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			We(1) didnt(2) see(3) any(4) whales(5) but(6) they(7) were(8) nice(9) and(10) gave(11) every(12) one(13) a(14) credit(15) to(16) come(17) again(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			If(1) I(2) were(3) to(4) go(5) again(6) I(7) would(8) just(9) go(10) up(11) there(12) and(13) get(14) a(15) room(16) in(17) one(18) of(19) the(20) smaller(21) Hotels(22) .(23) 
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) the(3) end(4) of(5) July(6) and(7) nearly(8) all(9) the(10) hotels(11) had(12) plenty(13) of(14) vacancies(15) .....(16) 
+		</sentence>
+	</text>
+</review>

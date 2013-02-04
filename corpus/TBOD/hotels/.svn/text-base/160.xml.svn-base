@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="160" item="Oasis Cancun - All Inclusive" rating="2">
+	<title>
+		<sentence id="1">
+			OK(1) if(2) on(3) a(4) budget(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) beach(2) ,(3) good(4) rooms(5) 
+			<opinion featWords="2" feature="beach" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Bad(1) restaraunts(2) ,(3) drinks(4) 
+			<opinion featWords="4" feature="drinks" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) elsewhere(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) are(3) on(4) a(5) budget(6) then(7) this(8) place(9) is(10) OK(11) .(12) 
+			<opinion featWords="9" feature="place" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			But(1) to(2) me(3) ,(4) when(5) your(6) spending(7) over(8) $700.00(9) ,(10) why(11) not(12) pay(13) a(14) little(15) more(16) and(17) be(18) completely(19) satisifed(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			We(1) stayed(2) at(3) the(4) Oasis(5) in(6) August(7) of(8) 2001(9) and(10) I(11) can(12) not(13) say(14) I(15) really(16) enjoyed(17) the(18) stay(19) for(20) a(21) couple(22) reasons(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			One(1) is(2) the(3) restaurants(4) .(5) 
+		</sentence>
+		<sentence id="5">
+			We(1) had(2) purchased(3) the(4) all(5) inclusive(6) package(7) and(8) the(9) restaurants(10) had(11) very(12) bland(13) food(14) .(15) 
+			<opinion featWords="14" feature="food" opWords="13" polarity="-" potency="12"/>
+		</sentence>
+		<sentence id="6">
+			What(1) 's(2) worse(3) is(4) they(5) are(6) very(7) crowded(8) and(9) only(10) one(11) of(12) them(13) was(14) air(15) conditioned(16) ,(17) and(18) even(19) that(20) one(21) was(22) not(23) air(24) conditioned(25) that(26) well(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			Two(1) ,(2) is(3) the(4) cheap(5) drinks(6) .(7) 
+			<opinion featWords="6" feature="drinks" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			do(1) not(2) expect(3) Corona(4) like(5) your(6) use(7) to(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			When(1) you(2) order(3) a(4) Corona(5) you(6) do(7) not(8) get(9) one(10) in(11) the(12) bottle(13) like(14) here(15) in(16) the(17) states(18) .(19) 
+		</sentence>
+		<sentence id="10">
+			They(1) get(2) out(3) a(4) big(5) brown(6) jug(7) marked(8) Corona(9) Especial(10) and(11) pour(12) it(13) into(14) plastic(15) cups(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) not(3) very(4) good(5) beer(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			Another(1) bad(2) thing(3) is(4) when(5) we(6) were(7) there(8) ,(9) there(10) were(11) a(12) lot(13) of(14) locals(15) staying(16) there(17) who(18) would(19) constantly(20) come(21) up(22) to(23) you(24) in(25) the(26) pool(27) asking(28) you(29) to(30) buy(31) them(32) beer(33) .(34) 
+		</sentence>
+		<sentence id="13">
+			I(1) finally(2) got(3) tired(4) of(5) them(6) asking(7) and(8) got(9) one(10) for(11) one(12) of(13) them(14) and(15) got(16) yelled(17) at(18) by(19) the(20) bartender(21) who(22) said(23) they(24) were(25) not(26) all(27) inclusive(28) and(29) had(30) to(31) pay(32) and(33) that(34) I(35) could(36) not(37) drink(38) at(39) his(40) bar(41) anymore(42) .(43) 
+		</sentence>
+		<sentence id="14">
+			Nice(1) .(2) 
+		</sentence>
+		<sentence id="15">
+			On(1) the(2) good(3) side(4) ,(5) the(6) rooms(7) were(8) decent(9) and(10) clean(11) and(12) the(13) view(14) was(15) excellent(16) .(17) 
+			<opinion featWords="7" feature="rooms" opWords="9" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="11" polarity="+"/>
+			<opinion featWords="14" feature="view" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			However(1) ,(2) while(3) the(4) rooms(5) were(6) adequately(7) air(8) conditioned(9) ,(10) none(11) of(12) the(13) lobby(14) 's(15) leading(16) to(17) the(18) rooms(19) were(20) .(21) ((22) A(23) major(24) issue(25) in(26) August(27) )(28) .(29) 
+			<opinion featWords="5" feature="rooms" opWords="8,9" polarity="+" potency="7"/>
+		</sentence>
+		<sentence id="17">
+			All(1) in(2) all(3) ,(4) like(5) I(6) said(7) at(8) the(9) top(10) ,(11) if(12) your(13) on(14) a(15) budget(16) ,(17) it(18) 's(19) nice(20) enough(21) ,(22) but(23) do(24) not(25) expect(26) quality(27) food(28) and(29) drinks(30) .(31) 
+		</sentence>
+		<sentence id="18">
+			I(1) would(2) suck(3) it(4) up(5) and(6) pay(7) a(8) little(9) more(10) to(11) go(12) elsewhere(13) .(14) 
+		</sentence>
+	</text>
+</review>

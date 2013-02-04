@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="239" item="Royal Kona Resort" rating="1">
+	<title>
+		<sentence id="1">
+			Stay(1) elsewhere(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Completely(1) outdated(2) and(3) in(4) need(5) of(6) work(7) 
+			<opinion feature="hotel" opWords="2" polarity="-" potency="1"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Spend(1) your(2) money(3) elsewhere(4) until(5) they(6) put(7) some(8) renovation(9) into(10) this(11) hotel(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) the(4) Royal(5) Kona(6) in(7) July(8) 2003(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			This(1) property(2) is(3) run-down(4) and(5) has(6) an(7) outdated(8) and(9) weathered(10) feel(11) to(12) it(13) .(14) 
+			<opinion feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			It(1) needs(2) a(3) paint(4) job(5) badly(6) .(7) 
+		</sentence>
+		<sentence id="4">
+			I(1) would(2) hardly(3) say(4) that(5) this(6) hotel(7) deserves(8) 2(9) stars(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			The(1) great(2) location(3) and(4) views(5) from(6) the(7) property(8) are(9) about(10) all(11) it(12) has(13) going(14) for(15) it(16) .(17) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+			<opinion featWords="5" feature="view" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			On(1) the(2) exterior(3) ,(4) the(5) hotel(6) feels(7) like(8) 1971(9) -(10) there(11) has(12) been(13) no(14) noticeable(15) renovation(16) for(17) several(18) decades(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) chipped(3) paint(4) everywhere(5) and(6) cheap(7) industrial(8) stained(9) carpets(10) ,(11) often(12) pieced(13) together(14) with(15) duct(16) tape(17) ,(18) especially(19) in(20) the(21) halls(22) .(23) 
+			<opinion featWords="10" feature="carpets" opWords="7" polarity="-"/>
+			<opinion featWords="10" feature="carpets" opWords="8" polarity="-"/>
+			<opinion featWords="10" feature="carpets" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Inside(1) the(2) rooms(3) ,(4) you(5) will(6) again(7) find(8) cheap(9) industrial(10) carpet(11) ,(12) extremely(13) firm(14) beds(15) ((16) I(17) had(18) a(19) hard(20) time(21) sleeping(22) every(23) night(24) )(25) ,(26) weak(27) air-conditioning(28) ((29) one(30) night(31) I(32) woke(33) up(34) in(35) a(36) sweat(37) )(38) ,(39) small(40) thin(41) towels(42) ,(43) peeling(44) wallpaper(45) ,(46) popcorn(47) ceilings(48) with(49) yellow(50) stains(51) ,(52) rusted(53) lighting(54) fixtures(55) ,(56) mold(57) and(58) dust(59) in(60) the(61) vents(62) ,(63) small(64) holes(65) in(66) the(67) walls(68) ,(69) and(70) rusted(71) balcony(72) doors(73) ((74) the(75) one(76) I(77) had(78) did(79) 'nt(80) even(81) shut(82) all(83) the(84) way(85) ,(86) and(87) came(88) off(89) its(90) track(91) )(92) .(93) 
+			<opinion featWords="11" feature="carpets" opWords="9" polarity="-"/>
+			<opinion featWords="11" feature="carpets" opWords="10" polarity="-"/>
+			<opinion featWords="15" feature="bed" opWords="14" polarity="+" potency="13"/>
+			<opinion featWords="42" feature="towels" opWords="40" polarity="-"/>
+			<opinion featWords="42" feature="towels" opWords="41" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			The(1) balconies(2) are(3) designed(4) so(5) you(6) can(7) hop(8) over(9) to(10) another(11) room(12) s(13) balcony(14) ((15) not(16) very(17) secure(18) nor(19) private(20) )(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			While(1) the(2) hotel(3) claims(4) it(5) has(6) renovated(7) recently(8) ,(9) the(10) most(11) it(12) did(13) was(14) put(15) in(16) some(17) new(18) furniture(19) ,(20) maybe(21) a(22) mirror(23) or(24) table(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			They(1) also(2) say(3) on(4) their(5) website(6) that(7) they(8) have(9) irons(10) and(11) ironing(12) boards(13) -(14) well(15) ,(16) they(17) do(18) 'nt(19) ,(20) and(21) it(22) was(23) 'nt(24) just(25) the(26) room(27) I(28) was(29) in(30) either(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			They(1) also(2) surprise(3) you(4) with(5) a(6) $7(7) charge(8) per(9) day(10) to(11) park(12) your(13) car(14) in(15) the(16) parking(17) lot(18) .(19) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) a(3) low-budget(4) hotel(5) ,(6) which(7) is(8) fine(9) if(10) you(11) are(12) trying(13) to(14) save(15) money(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			You(1) can(2) surely(3) tell(4) that(5) it(6) caters(7) to(8) the(9) masses(10) of(11) tour(12) companies(13) such(14) as(15) Pleasant(16) Hawaiian(17) Holidays(18) and(19) the(20) like(21) .(22) 
+		</sentence>
+		<sentence id="15">
+			The(1) staff(2) is(3) plain(4) and(5) boring(6) ,(7) with(8) hardly(9) a(10) smile(11) .(12) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="staff" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			I(1) would(2) not(3) stay(4) at(5) this(6) hotel(7) again(8) ,(9) nor(10) recommend(11) it(12) to(13) anybody(14) .(15) 
+			<opinion featWords="7" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+	</text>
+</review>

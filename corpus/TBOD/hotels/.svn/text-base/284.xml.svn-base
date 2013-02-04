@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="284" item="Sheraton Studio City Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			Smelly(1) ,(2) unclean(3) ,(4) cheap(5) looking(6) hotel(7) 
+			<opinion featWords="7" feature="hotel" opWords="1" polarity="-"/>
+			<opinion featWords="7" feature="hotel" opWords="3" polarity="-"/>
+			<opinion featWords="7" feature="hotel" opWords="5" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			smelly(1) ,(2) unclean(3) ,(4) cheap(5) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion feature="hotel" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Big(1) name(2) but(3) cheap(4) hotel(5) !(6) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Not(1) clean(2) .(3) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			The(1) whole(2) hotel(3) particularly(4) the(5) lobby(6) smells(7) OLD(8) and(9) bad(10) .(11) 
+			<opinion featWords="6" feature="lobby" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Service(1) was(2) acceptable(3) .(4) 
+			<opinion featWords="1" feature="service" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			DO(1) NOT(2) expect(3) quality(4) in(5) this(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			I(1) booked(2) the(3) hotel(4) on(5) the(6) web(7) ((8) $100/night(9) ,(10) supposedly(11) at(12) lower(13) price(14) )(15) ,(16) but(17) when(18) I(19) arrived(20) there(21) ,(22) I(23) realized(24) the(25) price(26) was(27) clearly(28) too(29) high(30) for(31) what(32) they(33) offer(34) ...(35) I(36) would(37) NEVER(38) recommend(39) this(40) hotel(41) ((42) Sheraton(43) Studio(44) City(45) ,(46) Orlando(47) FL(48) )(49) 
+			<opinion featWords="26" feature="price" opWords="29,30" polarity="-" potency="28"/>
+			<opinion featWords="41" feature="hotel" opWords="38,39" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="310" item="Sea Crest Resort" rating="2">
+	<title>
+		<sentence id="1">
+			Sea(1) Crest(2) :(3) Yesterday(4) 's(5) News(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) private(2) beach(3) and(4) indoor(5) /(6) outdoor(7) pools(8) .(9) 
+			<opinion featWords="3" feature="beach" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Limited(1) recreation(2) facilities(3) ,(4) and(5) the(6) service(7) is(8) just(9) absolutely(10) horrible(11) !(12) 
+			<opinion featWords="3" feature="facilities" opWords="1" polarity="-"/>
+			<opinion featWords="7" feature="service" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) find(4) somewhere(5) else(6) --(7) take(8) it(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Sea(1) Crest(2) in(3) Falmouth(4) used(5) to(6) be(7) one(8) of(9) the(10) top(11) destinations(12) for(13) people(14) seeking(15) a(16) resort-style(17) getaway(18) on(19) Cape(20) Cod(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) ,(2) time(3) and(4) a(5) lack(6) of(7) attention(8) to(9) detail(10) by(11) the(12) current(13) management(14) has(15) placed(16) Sea(17) Crest(18) in(19) the(20) "(21) has-been(22) "(23) category(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			Let(1) me(2) start(3) off(4) by(5) stating(6) that(7) the(8) service(9) is(10) absolutely(11) deplorable(12) --(13) really(14) .(15) 
+			<opinion featWords="9" feature="service" opWords="12" polarity="-" potency="11"/>
+		</sentence>
+		<sentence id="4">
+			The(1) staff(2) is(3) rude(4) and(5) not(6) trained(7) very(8) well(9) at(10) all(11) .(12) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="staff" opWords="6,7" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			An(1) example(2) :(3) we(4) ordered(5) room(6) service(7) for(8) two(9) at(10) around(11) 8(12) pm.(13) 8:30(14) rolled(15) around(16) and(17) still(18) no(19) knock(20) at(21) the(22) door(23) .(24) 
+		</sentence>
+		<sentence id="6">
+			Only(1) after(2) 2(3) ((4) 2(5) !(6) )(7) calls(8) to(9) room(10) service(11) was(12) our(13) order(14) finally(15) delivered(16) ,(17) at(18) around(19) 9:15(20) pm.(21) Typically(22) ,(23) most(24) hotels(25) will(26) profusely(27) apologize(28) and(29) either(30) provide(31) the(32) items(33) gratis(34) or(35) at(36) a(37) substantial(38) discount(39) ,(40) but(41) not(42) Sea(43) Crest(44) .(45) 
+		</sentence>
+		<sentence id="7">
+			I(1) actually(2) had(3) to(4) fight(5) with(6) the(7) Dining(8) room(9) manager(10) to(11) right(12) the(13) wrong(14) and(15) get(16) some(17) satisfaction(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			Another(1) example(2) :(3) bartenders(4) who(5) do(6) not(7) know(8) how(9) to(10) make(11) a(12) martini(13) ((14) or(15) other(16) drinks(17) for(18) that(19) matter(20) )(21) ,(22) and(23) using(24) olives(25) that(26) have(27) been(28) stored(29) there(30) since(31) before(32) World(33) War(34) II(35) .(36) 
+		</sentence>
+		<sentence id="9">
+			The(1) beach(2) and(3) pool(4) facilities(5) were(6) nice(7) ,(8) but(9) keep(10) an(11) eye(12) on(13) the(14) little(15) ones(16) ,(17) because(18) the(19) so-called(20) "(21) lifeguards(22) "(23) do(24) anything(25) but(26) watch(27) what(28) 's(29) going(30) on(31) at(32) the(33) beach(34) or(35) the(36) pool(37) .(38) 
+			<opinion featWords="2" feature="beach" opWords="7" polarity="+"/>
+			<opinion featWords="4" feature="swimming pool" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Sea(1) Crest(2) is(3) a(4) bit(5) out(6) of(7) the(8) way(9) ,(10) so(11) if(12) you(13) 're(14) looking(15) for(16) something(17) to(18) do(19) ,(20) you(21) 'd(22) better(23) have(24) a(25) car(26) and(27) a(28) map(29) --(30) there(31) 's(32) really(33) nothing(34) to(35) do(36) there(37) at(38) Sea(39) Crest(40) .(41) 
+		</sentence>
+		<sentence id="11">
+			Overall(1) ,(2) I(3) 'd(4) give(5) the(6) Sea(7) Crest(8) 1(9) 1/2(10) stars(11) --(12) and(13) I(14) 'm(15) being(16) generous(17) .(18) 
+		</sentence>
+	</text>
+</review>

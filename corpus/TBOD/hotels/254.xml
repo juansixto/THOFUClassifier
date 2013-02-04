@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="254" item="Sheraton World" rating="1">
+	<title>
+		<sentence id="1">
+			HORRIBLE(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) exhibition(3) center(4) but(5) that(6) is(7) all(8) I(9) can(10) think(11) of(12) to(13) say(14) .(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) .(2) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Poorly(1) staffed(2) .(3) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Smelly(1) room(2) .(3) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Badly(1) decorated(2) .(3) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Too(1) expensive(2) and(3) horrible(4) to(5) stay(6) there(7) .(8) 
+			<opinion feature="price" opWords="1,2" polarity="-"/>
+			<opinion feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Pay(1) $10(2) for(3) a(4) much(5) better(6) hotel(7) nearby(8) .(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) recently(2) stayed(3) at(4) the(5) Sheraton(6) World(7) Resort(8) as(9) part(10) of(11) a(12) conference(13) held(14) in(15) Orlando(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			The(1) Hotel(2) was(3) booked(4) by(5) our(6) American(7) colleagues(8) sometime(9) prior(10) to(11) the(12) Exhibition(13) ((14) originally(15) the(16) Exhibition(17) was(18) due(19) to(20) be(21) held(22) in(23) New(24) Orleans(25) but(26) for(27) obvious(28) reasons(29) had(30) to(31) be(32) moved(33) .(34) )(35) Originally(36) I(37) was(38) pleased(39) that(40) I(41) would(42) be(43) staying(44) in(45) a(46) Sheraton(47) with(48) its(49) reputation(50) for(51) quality(52) etc.(53) However(54) on(55) arrival(56) ((57) late(58) on(59) a(60) Tuesday(61) night(62) )(63) we(64) became(65) less(66) than(67) impressed(68) .(69) 
+		</sentence>
+		<sentence id="3">
+			Waiting(1) to(2) check-in(3) we(4) got(5) chatting(6) to(7) two(8) Australians(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			They(1) made(2) really(3) bad(4) comments(5) about(6) the(7) hotel(8) and(9) warned(10) us(11) not(12) to(13) stay(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			As(1) we(2) had(3) arrived(4) late(5) at(6) night(7) we(8) had(9) no(10) choice(11) .(12) 
+		</sentence>
+		<sentence id="6">
+			After(1) checking(2) in(3) ,(4) which(5) was(6) slow(7) ,(8) and(9) also(10) slightly(11) incompetently(12) done(13) I(14) went(15) to(16) my(17) room(18) ((19) no(20) offer(21) of(22) bell(23) hop(24) was(25) made(26) )(27) .(28) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) was(3) in(4) an(5) out(6) building(7) and(8) it(9) felt(10) like(11) going(12) to(13) a(14) $50(15) motel(16) in(17) the(18) middle(19) of(20) some(21) no(22) where(23) town(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			The(1) room(2) was(3) situated(4) near(5) the(6) car(7) park(8) though(9) in(10) a(11) quiet(12) enough(13) area(14) .(15) 
+		</sentence>
+		<sentence id="9">
+			Upon(1) entering(2) the(3) room(4) I(5) was(6) immediately(7) struck(8) by(9) the(10) small(11) -(12) very(13) musty(14) and(15) damp(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			I(1) found(2) that(3) it(4) was(5) also(6) grimy(7) and(8) a(9) bit(10) drab(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) bath(2) was(3) unclean(4) and(5) stained(6) .(7) 
+			<opinion featWords="2" feature="tub" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="tub" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			Generally(1) everything(2) was(3) tired(4) .(5) 
+		</sentence>
+		<sentence id="13">
+			The(1) main(2) problem(3) was(4) two(5) days(6) later(7) I(8) found(9) a(10) dead(11) cockroach(12) next(13) to(14) my(15) bed(16) .(17) 
+		</sentence>
+		<sentence id="14">
+			I(1) do(2) ,(3) however(4) ,(5) feel(6) lucky(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			Other(1) members(2) of(3) our(4) party(5) found(6) their(7) rooms(8) to(9) be(10) worse(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			Hair(1) on(2) the(3) bed(4) clothes(5) ,(6) dirty(7) towels(8) left(9) in(10) the(11) bathroom(12) from(13) the(14) previous(15) guest(16) .(17) 
+			<opinion featWords="8" feature="towels" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			Internet(1) access(2) not(3) working(4) .(5) 
+			<opinion featWords="1" feature="internet" opWords="3,4" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			No(1) or(2) limited(3) hot(4) water(5) .(6) 
+		</sentence>
+		<sentence id="19">
+			Noise(1) .(2) 
+		</sentence>
+		<sentence id="20">
+			I(1) raised(2) the(3) issue(4) of(5) the(6) cockroach(7) with(8) the(9) manager(10) and(11) was(12) given(13) a(14) $50(15) refund(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			The(1) Australian(2) pair(3) mentioned(4) that(5) their(6) room(7) became(8) flooded(9) .(10) 
+		</sentence>
+	</text>
+</review>

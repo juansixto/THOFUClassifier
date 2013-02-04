@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="981" item="Sheraton Cancun Resort and Towers" rating="4">
+	<title>
+		<sentence id="1">
+			Spectacular(1) view(2) and(3) relaxing(4) services(5) 
+			<opinion featWords="5" feature="service" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="view" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Spectacular(1) view(2) ,(3) great(4) beach(5) ,(6) excellent(7) services(8) .(9) 
+			<opinion featWords="5" feature="beach" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="view" opWords="1" polarity="+"/>
+			<opinion featWords="8" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Sometime(1) the(2) flights(3) have(4) delays(5) with(6) so(7) many(8) regulations(9) and(10) safety(11) precautions(12) .(13) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			In(1) March(2) ,(3) May(4) you(5) are(6) tired(7) of(8) winter(9) in(10) USA(11) ,(12) you(13) will(14) charge(15) your(16) batteries(17) when(18) you(19) go(20) in(21) Cancun(22) .(23) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) arrive(2) very(3) late(4) because(5) our(6) flight(7) from(8) USA(9) was(10) late(11) !(12) 
+		</sentence>
+		<sentence id="2">
+			We(1) called(2) to(3) tell(4) them(5) that(6) we(7) will(8) arrive(9) late(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			This(1) was(2) a(3) miracle(4) !(5) 
+		</sentence>
+		<sentence id="4">
+			At(1) the(2) hotel(3) we(4) did(5) the(6) checking(7) in(8) 5(9) min.(10) ,(11) in(12) 15(13) minutes(14) we(15) was(16) in(17) our(18) room(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			We(1) was(2) so(3) tired(4) but(5) as(6) soon(7) as(8) we(9) get(10) in(11) out(12) room(13) we(14) was(15) happy(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			The(1) room(2) was(3) cozy(4) ,(5) and(6) relaxing(7) and(8) we(9) really(10) had(11) a(12) good(13) deserved(14) night(15) sleep(16) .(17) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			We(1) had(2) a(3) spectacular(4) view(5) as(6) well(7) ,(8) when(9) you(10) book(11) ,(12) the(13) higher(14) the(15) better(16) ,(17) excellent(18) services(19) .(20) 
+			<opinion featWords="19" feature="service" opWords="18" polarity="+"/>
+			<opinion featWords="5" feature="view" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) employees(2) are(3) useful(4) ,(5) and(6) efficient(7) ,(8) and(9) well(10) trained(11) to(12) help(13) tourists(14) .(15) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="10,11" polarity="+"/>
+			<opinion featWords="2" feature="staff" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Next(1) day(2) we(3) lay(4) on(5) a(6) beautiful(7) beach(8) ,(9) swam(10) in(11) the(12) swimming(13) pool(14) .(15) 
+			<opinion featWords="8" feature="beach" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			From(1) hotel(2) we(3) booked(4) 2(5) tours(6) in(7) land(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			We(1) really(2) regretted(3) that(4) our(5) stay(6) was(7) just(8) for(9) a(10) week(11) .(12) 
+		</sentence>
+		<sentence id="12">
+			In(1) May(2) the(3) entire(4) week(5) the(6) whether(7) was(8) fantastic(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			We(1) got(2) just(3) half(4) day(5) rain(6) in(7) which(8) we(9) did(10) a(11) lot(12) of(13) shopping(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			It(1) really(2) was(3) a(4) shopper(5) s(6) paradise(7) .(8) 
+		</sentence>
+		<sentence id="15">
+			I(1) enjoyed(2) and(3) bought(4) a(5) lot(6) of(7) craft(8) ,(9) it(10) was(11) not(12) cheap(13) but(14) it(15) was(16) good(17) quality(18) :(19) wood(20) sculptures(21) and(22) Tarahumara(23) tribe(24) baskets(25) were(26) among(27) my(28) favorites(29) .(30) 
+		</sentence>
+		<sentence id="16">
+			This(1) is(2) a(3) place(4) you(5) want(6) to(7) come(8) back(9) ,(10) even(11) though(12) I(13) was(14) afraid(15) to(16) swim(17) in(18) the(19) ocean(20) ,(21) but(22) the(23) swimming(24) pool(25) was(26) perfect(27) for(28) me(29) .(30) !(31) 
+			<opinion featWords="24,25" feature="swimming pool" opWords="27" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			I(1) highly(2) recommend(3) !(4) 
+			<opinion feature="hotel" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+	</text>
+</review>

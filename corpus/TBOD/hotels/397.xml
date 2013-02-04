@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="397" item="Riviera Hotel and Casino" rating="2">
+	<title>
+		<sentence id="1">
+			Why(1) you(2) should(3) stay(4) anywhere(5) else(6) but(7) here(8) .(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			the(1) buffet(2) service(3) was(4) very(5) nice(6) the(7) pool(8) is(9) nice(10) .(11) 
+			<opinion featWords="3" feature="service" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="8" feature="swimming pool" opWords="10" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Smells(1) of(2) old(3) cigarettes(4) .(5) no(6) place(7) to(8) sit(9) down(10) .(11) no(12) lobby(13) .(14) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) building(2) needs(3) some(4) major(5) work(6) both(7) to(8) clean(9) it(10) up(11) and(12) ventilate(13) the(14) smoke(15) out(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			Also(1) all(2) the(3) staff(4) should(5) be(6) sent(7) to(8) customer(9) service(10) training(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) place(2) smells(3) like(4) an(5) old(6) dirty(7) ashtray(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			The(1) rooms(2) were(3) dirty(4) .(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			There(1) is(2) no(3) where(4) to(5) sit(6) down(7) other(8) than(9) at(10) a(11) slot(12) machine(13) or(14) gaming(15) table(16) .(17) 
+		</sentence>
+		<sentence id="4">
+			We(1) were(2) there(3) for(4) a(5) convention(6) of(7) an(8) organization(9) that(10) includes(11) young(12) people(13) and(14) they(15) were(16) constantly(17) being(18) told(19) to(20) MOVE(21) .(22) 
+		</sentence>
+		<sentence id="5">
+			There(1) was(2) no(3) where(4) for(5) the(6) young(7) members(8) to(9) congregate(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			The(1) elevators(2) are(3) in(4) the(5) casino(6) .(7) 
+		</sentence>
+		<sentence id="7">
+			The(1) employees(2) though(3) out(4) the(5) hotel(6) were(7) rude(8) .(9) 
+			<opinion featWords="2" feature="staff" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			Our(1) convention(2) committee(3) was(4) not(5) permitted(6) to(7) see(8) the(9) theater(10) before(11) the(12) convention(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			This(1) lead(2) to(3) over(4) crowded(5) conditions(6) in(7) the(8) theater(9) because(10) the(11) Rivera(12) also(13) provided(14) and(15) inaccurate(16) seating(17) chart(18) to(19) the(20) room(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			When(1) the(2) young(3) members(4) were(5) hanging(6) out(7) outside(8) the(9) stage(10) door(11) to(12) see(13) a(14) major(15) celebrity(16) in(17) their(18) field(19) they(20) were(21) constantly(22) being(23) told(24) to(25) move(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			Again(1) the(2) problem(3) no(4) where(5) is(6) not(7) a(8) casino(9) and(10) minors(11) are(12) not(13) permitted(14) to(15) stand(16) inside(17) a(18) casino(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			The(1) food(2) court(3) has(4) no(5) nonsmoking(6) area(7) .(8) 
+		</sentence>
+		<sentence id="13">
+			The(1) employees(2) there(3) are(4) as(5) unfriendly(6) as(7) they(8) can(9) get(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			The(1) menu(2) on(3) the(4) wall(5) means(6) nothing(7) they(8) make(9) what(10) ever(11) they(12) want(13) and(14) if(15) you(16) do(17) not(18) like(19) the(20) selection(21) "(22) then(23) to(24) bad(25) .(26) "(27) The(28) over(29) all(30) attitude(31) in(32) this(33) building(34) is(35) ,(36) "(37) if(38) you(39) do(40) not(41) like(42) it(43) who(44) cares(45) .(46) "(47) We(48) were(49) left(50) waiting(51) at(52) the(53) transfer(54) stop(55) for(56) 1(57) hour(58) and(59) 15(60) minutes(61) to(62) transfer(63) from(64) the(65) airport(66) to(67) the(68) hotel(69) .(70) 
+		</sentence>
+		<sentence id="15">
+			When(1) we(2) arrived(3) at(4) the(5) hotel(6) we(7) were(8) greeted(9) by(10) hostel(11) and(12) unyielding(13) desk(14) clerks(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			Those(1) of(2) us(3) with(4) children(5) had(6) to(7) argue(8) to(9) get(10) adjoining(11) rooms(12) and(13) finally(14) had(15) to(16) settle(17) for(18) a(19) smoking(20) floor(21) ((22) is(23) there(24) a(25) non(26) smoking(27) floor(28) in(29) this(30) hotel(31) I(32) 'm(33) not(34) sure(35) )(36) .(37) 
+		</sentence>
+		<sentence id="17">
+			Then(1) they(2) tried(3) to(4) add(5) a(6) utilities(7) surcharge(8) onto(9) our(10) prepaid(11) all(12) inclusive(13) package(14) .(15) 
+		</sentence>
+		<sentence id="18">
+			Had(1) to(2) argue(3) again(4) to(5) have(6) that(7) removed(8) .(9) 
+		</sentence>
+		<sentence id="19">
+			The(1) best(2) thing(3) about(4) staying(5) at(6) the(7) Rivera(8) Hotel(9) and(10) Casino(11) was(12) leaving(13) it(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			Over(1) all(2) I(3) give(4) this(5) Hotel(6) &amp;(7) Casino(8) a(9) poor(10) rating(11) .(12) 
+		</sentence>
+	</text>
+</review>

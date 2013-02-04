@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="820" item="Fiesta Americana Grand Coral Beach Cancun" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) Best(2) in(3) Cancun(4) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Beautiful(1) pools(2) !(3) !(4) !(5) !(6) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Really(1) nice(2) rooms(3) .(4) 
+			<opinion featWords="3" feature="rooms" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			The(1) best(2) service(3) .(4) 
+			<opinion featWords="3" feature="service" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) Best(2) place(3) to(4) stay(5) in(6) Cancun(7) .(8) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			little(1) kids(2) begging(3) for(4) money(5) outside(6) hotel(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Not(1) U.S.(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) go(3) to(4) Cancun(5) and(6) want(7) to(8) stay(9) in(10) the(11) Best(12) and(13) most(14) beautiful(15) Hotel(16) this(17) is(18) it(19) .(20) 
+			<opinion featWords="16" feature="hotel" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			I(1) really(2) did(3) not(4) want(5) to(6) leave(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			No(1) better(2) pool(3) anywhere(4) .(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) went(2) there(3) for(4) our(5) honeymoon(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Really(1) nice(2) place(3) to(4) stay(5) ,(6) the(7) best(8) in(9) cancun(10) .(11) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+" potency="1"/>
+			<opinion feature="hotel" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			I(1) dream(2) about(3) going(4) back(5) .(6) 
+		</sentence>
+		<sentence id="4">
+			They(1) upgraded(2) our(3) room(4) to(5) a(6) suite(7) and(8) it(9) was(10) huge(11) .(12) 
+			<opinion featWords="7" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Marble(1) everywhere(2) .(3) 
+		</sentence>
+		<sentence id="6">
+			The(1) pool(2) was(3) too(4) cool(5) ,(6) great(7) swim(8) up(9) bars(10) .(11) 
+			<opinion featWords="2" feature="swimming pool" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			We(1) got(2) up(3) every(4) morning(5) at(6) 6(7) :(8) oo(9) to(10) eat(11) breakfast(12) at(13) the(14) hotel(15) which(16) was(17) great(18) then(19) headed(20) for(21) the(22) pool(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			Tons(1) of(2) shopping(3) is(4) close(5) .(6) 1st(7) class(8) all(9) the(10) way(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Way(1) better(2) than(3) the(4) Ritz(5) .(6) eating(7) in(8) the(9) hotel(10) was(11) just(12) as(13) great(14) .(15) 
+		</sentence>
+		<sentence id="10">
+			Reading(1) the(2) hotel(3) bill(4) was(5) very(6) difficult(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			It(1) was(2) 5(3) feet(4) long(5) but(6) who(7) cares(8) it(9) was(10) worth(11) it(12) !(13) !(14) 
+		</sentence>
+		<sentence id="12">
+			This(1) Hotel(2) is(3) way(4) better(5) than(6) the(7) Ritz(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			Once(1) you(2) see(3) the(4) pool(5) and(6) the(7) view(8) of(9) the(10) water(11) behind(12) it(13) you(14) will(15) think(16) this(17) is(18) Heaven(19) .(20) 
+		</sentence>
+	</text>
+</review>

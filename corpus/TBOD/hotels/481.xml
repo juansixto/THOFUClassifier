@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="481" item="Lake Lawn Resort - Delavan" rating="3">
+	<title>
+		<sentence id="1">
+			Lake(1) Lawn(2) Resort(3) in(4) Delavan(5) ,(6) Wisconsin(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			pool(1) ,(2) fitness(3) room(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			thin(1) walls(2) 
+			<opinion featWords="2" feature="walls" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			While(1) not(2) a(3) destination(4) I(5) 'd(6) go(7) out(8) of(9) my(10) way(11) for(12) ,(13) Lake(14) Lawn(15) Resort(16) is(17) a(18) decent(19) place(20) to(21) spend(22) a(23) few(24) days(25) .(26) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Over(1) the(2) Christmas(3) holiday(4) ,(5) we(6) traveled(7) to(8) Wisconsin(9) to(10) spend(11) some(12) time(13) with(14) my(15) husband(16) s(17) family(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			Because(1) their(2) house(3) is(4) 'nt(5) really(6) set(7) up(8) for(9) small(10) children(11) ,(12) we(13) stayed(14) at(15) Lake(16) Lawn(17) Resort(18) ,(19) only(20) a(21) few(22) miles(23) from(24) their(25) home(26) in(27) Delavan(28) ,(29) Wisconsin(30) .(31) 
+		</sentence>
+		<sentence id="3">
+			We(1) enjoyed(2) our(3) stay(4) ,(5) although(6) the(7) pricing(8) for(9) the(10) rooms(11) posted(12) on(13) the(14) hotel(15) room(16) door(17) is(18) way(19) too(20) high(21) .(22) 
+			<opinion featWords="8" feature="price" opWords="20,21" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Room(1) Our(2) room(3) was(4) fairly(5) typical(6) for(7) a(8) hotel(9) room(10) .(11) 
+			<opinion featWords="3" feature="rooms" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="5">
+			The(1) main(2) room(3) contained(4) two(5) double(6) beds(7) with(8) a(9) lamp(10) on(11) a(12) small(13) side(14) table(15) between(16) them(17) .(18) 
+			<opinion featWords="15" feature="tables" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			Near(1) the(2) window(3) there(4) were(5) two(6) chairs(7) with(8) a(9) very(10) low(11) table(12) between(13) them(14) .(15) 
+			<opinion featWords="12" feature="tables" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+		<sentence id="7">
+			The(1) table(2) was(3) too(4) low(5) to(6) use(7) for(8) any(9) purpose(10) except(11) resting(12) a(13) drinking(14) glass(15) or(16) other(17) items(18) .(19) 
+			<opinion featWords="2" feature="tables" opWords="4,5" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			I(1) would(2) have(3) liked(4) something(5) high(6) enough(7) to(8) use(9) for(10) playing(11) a(12) card(13) game(14) or(15) at(16) least(17) writing(18) on(19) my(20) laptop(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) a(3) dresser(4) with(5) a(6) mirror(7) over(8) it(9) and(10) a(11) cabinet(12) with(13) more(14) drawers(15) and(16) a(17) mid-sized(18) television(19) in(20) it(21) .(22) 
+		</sentence>
+		<sentence id="10">
+			The(1) television(2) received(3) about(4) 40(5) channels(6) ;(7) I(8) was(9) surprised(10) to(11) see(12) that(13) SoapNet(14) was(15) one(16) of(17) them(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			For(1) an(2) extra(3) charge(4) you(5) could(6) get(7) pay(8) per(9) view(10) movies(11) on(12) the(13) tv(14) or(15) play(16) video(17) games(18) on(19) it(20) .(21) 
+		</sentence>
+		<sentence id="12">
+			The(1) main(2) room(3) also(4) had(5) an(6) open(7) closet(8) to(9) hang(10) coats(11) or(12) other(13) garments(14) ;(15) this(16) featured(17) those(18) hangers(19) that(20) come(21) apart(22) so(23) you(24) do(25) 'nt(26) steal(27) the(28) whole(29) thing(30) .(31) 
+		</sentence>
+		<sentence id="13">
+			Not(1) my(2) favorite(3) type(4) of(5) hanger(6) ,(7) but(8) better(9) than(10) the(11) ones(12) that(13) you(14) can(15) 'nt(16) remove(17) at(18) all(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			An(1) iron(2) and(3) ironing(4) board(5) are(6) hidden(7) in(8) the(9) closet(10) ;(11) we(12) did(13) 'nt(14) use(15) those(16) ,(17) but(18) it(19) is(20) nice(21) to(22) have(23) it(24) available(25) .(26) 
+		</sentence>
+		<sentence id="15">
+			The(1) decor(2) was(3) pleasant(4) and(5) neutral(6) ,(7) but(8) nothing(9) special(10) or(11) interesting(12) .(13) 
+		</sentence>
+		<sentence id="16">
+			The(1) one(2) feature(3) of(4) interest(5) is(6) the(7) wood(8) beams(9) on(10) the(11) ceiling(12) ,(13) which(14) are(15) a(16) nice(17) touch(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			The(1) bathroom(2) was(3) small(4) ,(5) featuring(6) one(7) sink(8) ,(9) a(10) toilet(11) ,(12) and(13) a(14) standard(15) shower(16) and(17) bathtub(18) combination(19) .(20) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="18">
+			We(1) never(2) had(3) a(4) problem(5) with(6) hot(7) water(8) or(9) plumbing(10) ,(11) and(12) the(13) water(14) pressure(15) was(16) decent(17) .(18) 
+		</sentence>
+		<sentence id="19">
+			The(1) bathroom(2) also(3) featured(4) a(5) hair(6) dryer(7) that(8) looked(9) like(10) it(11) dated(12) from(13) the(14) 1970s(15) or(16) before(17) ;(18) I(19) did(20) 'nt(21) try(22) it(23) out(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			A(1) makeup(2) mirror(3) hung(4) from(5) the(6) side(7) of(8) the(9) wall(10) ,(11) I(12) guess(13) in(14) case(15) the(16) regular(17) large(18) mirror(19) does(20) 'nt(21) cut(22) it(23) for(24) you(25) .(26) 
+		</sentence>
+		<sentence id="21">
+			If(1) that(2) is(3) the(4) case(5) ,(6) though(7) ,(8) the(9) makeup(10) mirror(11) in(12) our(13) room(14) would(15) 'nt(16) help(17) much(18) ,(19) as(20) only(21) one(22) side(23) of(24) it(25) would(26) light(27) up(28) and(29) then(30) only(31) intermittently(32) .(33) 
+		</sentence>
+		<sentence id="22">
+			Possibly(1) the(2) most(3) salient(4) thing(5) to(6) know(7) about(8) the(9) rooms(10) is(11) that(12) the(13) walls(14) are(15) apparently(16) very(17) thin(18) .(19) 
+			<opinion featWords="14" feature="walls" opWords="18" polarity="-" potency="17"/>
+		</sentence>
+		<sentence id="23">
+			We(1) were(2) able(3) to(4) clearly(5) hear(6) everything(7) going(8) on(9) in(10) the(11) next(12) room(13) ;(14) one(15) night(16) this(17) involved(18) some(19) kind(20) of(21) party(22) with(23) a(24) lot(25) of(26) laughing(27) and(28) also(29) some(30) moo-ing(31) .(32) 
+		</sentence>
+		<sentence id="24">
+			I(1) would(2) 'nt(3) recommend(4) this(5) as(6) a(7) destination(8) for(9) honeymooners(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			Amenities(1) One(2) thing(3) we(4) really(5) did(6) enjoy(7) was(8) the(9) swimming(10) pool(11) .(12) 
+		</sentence>
+		<sentence id="26">
+			Every(1) day(2) we(3) were(4) there(5) we(6) spend(7) some(8) time(9) in(10) pool(11) area(12) ,(13) getting(14) some(15) exercise(16) and(17) working(18) off(19) the(20) holiday(21) treats(22) we(23) were(24) consuming(25) .(26) 
+		</sentence>
+		<sentence id="27">
+			The(1) pool(2) itself(3) was(4) pretty(5) large(6) ,(7) although(8) not(9) Olympic-sized(10) .(11) 
+			<opinion featWords="2" feature="swimming pool" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="28">
+			The(1) water(2) in(3) the(4) shallow(5) end(6) was(7) 3(8) 1/2(9) feet(10) deep(11) ,(12) while(13) in(14) the(15) deep(16) end(17) it(18) was(19) only(20) 5(21) 1/2(22) feet(23) deep(24) .(25) 
+		</sentence>
+		<sentence id="29">
+			I(1) actually(2) liked(3) that(4) the(5) pool(6) did(7) 'nt(8) get(9) deeper(10) than(11) that(12) ,(13) as(14) I(15) was(16) able(17) to(18) take(19) my(20) kids(21) into(22) more(23) of(24) the(25) pool(26) .(27) 
+		</sentence>
+		<sentence id="30">
+			The(1) water(2) was(3) always(4) warm(5) and(6) appeared(7) clean(8) .(9) 
+		</sentence>
+		<sentence id="31">
+			A(1) good-size(2) hot(3) tub(4) is(5) also(6) in(7) the(8) pool(9) area(10) ,(11) and(12) my(13) family(14) also(15) enjoyed(16) that(17) .(18) 
+			<opinion featWords="4" feature="tub" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="32">
+			The(1) water(2) in(3) the(4) hot(5) tub(6) was(7) about(8) the(9) perfect(10) temperature(11) ;(12) hot(13) enough(14) to(15) be(16) relaxing(17) ,(18) but(19) not(20) so(21) hot(22) that(23) it(24) hurt(25) .(26) 
+		</sentence>
+		<sentence id="33">
+			While(1) we(2) enjoyed(3) our(4) time(5) at(6) the(7) pool(8) quite(9) a(10) bit(11) ,(12) our(13) nephew(14) ((15) who(16) was(17) also(18) visiting(19) )(20) developed(21) a(22) rash(23) that(24) seemed(25) to(26) be(27) linked(28) to(29) being(30) in(31) the(32) pool(33) or(34) the(35) hot(36) tub(37) .(38) 
+		</sentence>
+		<sentence id="34">
+			The(1) other(2) issue(3) that(4) the(5) pool(6) has(7) is(8) that(9) ,(10) probably(11) due(12) to(13) the(14) design(15) of(16) the(17) floor(18) ,(19) there(20) are(21) always(22) puddles(23) of(24) water(25) surrounding(26) the(27) pool(28) .(29) 
+		</sentence>
+		<sentence id="35">
+			If(1) you(2) re(3) going(4) to(5) walk(6) in(7) the(8) pool(9) area(10) ,(11) do(12) 'nt(13) go(14) in(15) your(16) most(17) expensive(18) shoes(19) !(20) 
+		</sentence>
+		<sentence id="36">
+			Lake(1) Lawn(2) Resort(3) also(4) has(5) a(6) fitness(7) room(8) ,(9) which(10) features(11) a(12) couple(13) of(14) treadmills(15) ,(16) some(17) weight(18) lifting(19) equipment(20) ,(21) and(22) a(23) couple(24) of(25) other(26) cardio(27) machines(28) .(29) 
+		</sentence>
+		<sentence id="37">
+			I(1) was(2) unable(3) to(4) find(5) time(6) to(7) use(8) the(9) fitness(10) room(11) ,(12) but(13) I(14) did(15) note(16) that(17) the(18) treadmills(19) are(20) facing(21) the(22) wall(23) ,(24) which(25) is(26) not(27) ideal(28) .(29) 
+		</sentence>
+		<sentence id="38">
+			The(1) treadmills(2) did(3) have(4) the(5) safety-key(6) feature(7) that(8) stops(9) the(10) machine(11) if(12) you(13) fall(14) behind(15) or(16) fall(17) off(18) .(19) 
+		</sentence>
+		<sentence id="39">
+			Other(1) spots(2) of(3) interest(4) around(5) Lake(6) Lawn(7) Resort(8) include(9) the(10) room(11) near(12) the(13) pool(14) with(15) a(16) fireplace(17) ,(18) which(19) appears(20) to(21) be(22) a(23) relaxing(24) spot(25) to(26) hang(27) out(28) ,(29) and(30) a(31) spa(32) ,(33) which(34) for(35) a(36) good(37) amount(38) of(39) money(40) ,(41) would(42) definitely(43) be(44) relaxing(45) .(46) 
+		</sentence>
+		<sentence id="40">
+			Spa(1) prices(2) seemed(3) about(4) on(5) a(6) par(7) with(8) what(9) I(10) ve(11) seen(12) in(13) Minnesota(14) ;(15) a(16) half(17) hour(18) Swedish(19) massage(20) is(21) $60(22) ,(23) and(24) hour(25) is(26) $80(27) .(28) 
+		</sentence>
+		<sentence id="41">
+			They(1) also(2) offer(3) herbal(4) wraps(5) ,(6) body(7) masks(8) ,(9) and(10) hydrotherapy(11) .(12) 
+		</sentence>
+		<sentence id="42">
+			My(1) daughter(2) and(3) husband(4) did(5) enjoy(6) doughnuts(7) one(8) morning(9) at(10) Lake(11) Lawn(12) s(13) deli(14) ,(15) but(16) otherwise(17) we(18) did(19) 'nt(20) eat(21) at(22) the(23) resort(24) .(25) 
+		</sentence>
+		<sentence id="43">
+			They(1) do(2) offer(3) room(4) service(5) ,(6) as(7) well(8) as(9) a(10) casual(11) restaurant(12) ,(13) a(14) more(15) formal(16) restaurant(17) ,(18) and(19) the(20) deli(21) and(22) ice(23) cream(24) shop(25) .(26) 
+		</sentence>
+		<sentence id="44">
+			On(1) our(2) walk(3) through(4) the(5) resort(6) which(7) is(8) almost(9) all(10) enclosed(11) so(12) once(13) you(14) are(15) in(16) ,(17) you(18) do(19) 'nt(20) have(21) to(22) go(23) back(24) outside(25) we(26) saw(27) a(28) couple(29) of(30) beautiful(31) rooms(32) that(33) must(34) be(35) used(36) for(37) conferences(38) .(39) 
+			<opinion featWords="32" feature="rooms" opWords="31" polarity="+"/>
+		</sentence>
+		<sentence id="45">
+			The(1) Christmas(2) decorations(3) were(4) gorgeous(5) in(6) this(7) area(8) .(9) 
+			<opinion featWords="3" feature="decoration" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="46">
+			I(1) should(2) mention(3) that(4) during(5) warmer(6) times(7) of(8) the(9) year(10) ,(11) Lake(12) Lawn(13) Resort(14) features(15) a(16) golf(17) course(18) ,(19) and(20) I(21) did(22) spot(23) a(24) pro(25) shop(26) when(27) we(28) were(29) driving(30) in(31) to(32) the(33) resort(34) one(35) night(36) .(37) 
+		</sentence>
+		<sentence id="47">
+			I(1) amm(2) not(3) sure(4) if(5) the(6) course(7) goes(8) right(9) up(10) to(11) the(12) lake(13) that(14) Lake(15) Lawn(16) is(17) named(18) after(19) ,(20) but(21) the(22) lake(23) is(24) very(25) close(26) and(27) I(28) imagine(29) it(30) is(31) fun(32) to(33) splash(34) there(35) in(36) the(37) summer(38) ,(39) too(40) .(41) 
+		</sentence>
+		<sentence id="48">
+			Housekeeping(1) ,(2) Check-In(3) and(4) Check-Out(5) Housekeeping(6) came(7) in(8) every(9) day(10) to(11) make(12) beds(13) ,(14) change(15) towels(16) ,(17) and(18) leave(19) new(20) water(21) glasses(22) .(23) 
+		</sentence>
+		<sentence id="49">
+			The(1) service(2) was(3) fine(4) ,(5) although(6) not(7) entirely(8) consistent(9) ;(10) one(11) day(12) no(13) new(14) glasses(15) were(16) left(17) and(18) we(19) had(20) to(21) go(22) to(23) the(24) desk(25) and(26) ask(27) to(28) have(29) them(30) some(31) sent(32) to(33) our(34) room(35) .(36) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="service" opWords="7,9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="50">
+			Check-in(1) and(2) check-out(3) were(4) handled(5) smoothly(6) .(7) 
+		</sentence>
+		<sentence id="51">
+			Our(1) interactions(2) with(3) workers(4) are(5) the(6) resort(7) were(8) all(9) pleasant(10) ,(11) although(12) they(13) seemed(14) puzzled(15) when(16) my(17) husband(18) did(19) 'nt(20) want(21) to(22) just(23) put(24) ice(25) into(26) the(27) ice(28) bucket(29) in(30) our(31) room(32) ,(33) which(34) was(35) 'nt(36) very(37) clean(38) .(39) 
+		</sentence>
+		<sentence id="52">
+			The(1) resort(2) staff(3) were(4) able(5) to(6) give(7) us(8) a(9) laundry(10) bag(11) to(12) use(13) in(14) the(15) ice(16) bucket(17) ,(18) so(19) it(20) did(21) 'nt(22) become(23) an(24) issue(25) .(26) 
+		</sentence>
+		<sentence id="53">
+			Costs(1) Our(2) room(3) rate(4) per(5) night(6) was(7) $69.00(8) ,(9) a(10) corporate(11) rate(12) offered(13) to(14) family(15) and(16) friends(17) of(18) my(19) husband(20) s(21) father(22) s(23) company(24) .(25) 
+		</sentence>
+		<sentence id="54">
+			For(1) that(2) cost(3) ,(4) I(5) stay(6) at(7) Lake(8) Lawn(9) Resort(10) any(11) time(12) .(13) 
+		</sentence>
+		<sentence id="55">
+			However(1) ,(2) the(3) regular(4) room(5) rate(6) ,(7) according(8) to(9) information(10) in(11) the(12) room(13) is(14) $229.00(15) per(16) night(17) ,(18) which(19) is(20) ridiculously(21) high(22) for(23) a(24) very(25) basic(26) room(27) with(28) thin(29) walls(30) .(31) 
+			<opinion featWords="6" feature="price" opWords="22" polarity="-" potency="21"/>
+			<opinion featWords="27" feature="rooms" opWords="26" polarity="+" potency="25"/>
+			<opinion featWords="30" feature="walls" opWords="29" polarity="-"/>
+		</sentence>
+		<sentence id="56">
+			Looking(1) at(2) their(3) website(4) ,(5) I(6) see(7) the(8) cost(9) is(10) variable(11) ,(12) but(13) it(14) looks(15) like(16) the(17) rates(18) for(19) this(20) January(21) for(22) a(23) room(24) for(25) two(26) adults(27) and(28) two(29) children(30) is(31) $89.00(32) per(33) night(34) .(35) 
+		</sentence>
+		<sentence id="57">
+			It(1) probably(2) varies(3) throughout(4) the(5) year(6) .(7) 
+		</sentence>
+		<sentence id="58">
+			I(1) would(2) 'nt(3) want(4) to(5) pay(6) more(7) than(8) $100.00(9) per(10) night(11) to(12) stay(13) at(14) this(15) resort(16) .(17) 
+		</sentence>
+		<sentence id="59">
+			I(1) understand(2) that(3) they(4) are(5) in(6) the(7) process(8) of(9) upgrading(10) their(11) rooms(12) and(13) also(14) beginning(15) to(16) sell(17) condo(18) resorts(19) as(20) well(21) .(22) 
+		</sentence>
+		<sentence id="60">
+			It(1) may(2) be(3) that(4) in(5) the(6) future(7) the(8) higher(9) prices(10) at(11) Lake(12) Lawn(13) will(14) be(15) reasonable(16) .(17) 
+		</sentence>
+		<sentence id="61">
+			I(1) like(2) Lake(3) Lawn(4) Resort(5) and(6) would(7) definitely(8) stay(9) again(10) as(11) long(12) as(13) the(14) cost(15) was(16) less(17) than(18) $100.00(19) per(20) night(21) .(22) 
+		</sentence>
+		<sentence id="62">
+			It(1) s(2) kind(3) of(4) an(5) average(6) resort(7) ,(8) but(9) it(10) does(11) have(12) a(13) nice(14) pool(15) and(16) some(17) other(18) nice(19) amenities(20) .(21) 3(22) stars(23) .(24) 
+			<opinion featWords="7" feature="hotel" opWords="6" polarity="-"/>
+			<opinion featWords="15" feature="swimming pool" opWords="14" polarity="+"/>
+			<opinion featWords="20" feature="amenities" opWords="19" polarity="+"/>
+		</sentence>
+		<sentence id="63">
+			For(1) further(2) information(3) ,(4) visit(5) :(6) http://www.lakelawnresort.com/(7) 
+		</sentence>
+	</text>
+</review>

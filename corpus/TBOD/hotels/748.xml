@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="748" item="Patricia Grand Resort Hotel" rating="4">
+	<title>
+		<sentence id="1">
+			Patricia(1) Grand(2) :(3) I(4) 'd(5) go(6) back(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Spacious(1) balconies(2) ,(3) good(4) location(5) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Parking(1) in(2) tight(3) deck(4) across(5) the(6) street(7) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) location(2) ,(3) close(4) to(5) the(6) action(7) but(8) not(9) entirely(10) in(11) the(12) middle(13) of(14) it(15) .(16) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Great(1) room(2) .(3) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Fantastic(1) balcony(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) first(2) vacation-only(3) trip(4) to(5) Myrtle(6) Beach(7) was(8) enhanced(9) because(10) of(11) the(12) spacious(13) suite(14) and(15) comfortable(16) balcony(17) in(18) the(19) Patricia(20) Grand(21) .(22) 
+			<opinion featWords="14" feature="rooms" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) at(3) the(4) northernmost(5) border(6) of(7) regular(8) Myrtle(9) Beach(10) ,(11) so(12) a(13) stroll(14) along(15) the(16) shore(17) heading(18) north(19) quickly(20) brings(21) you(22) to(23) the(24) back(25) of(26) interesting(27) houses(28) rather(29) than(30) hotels(31) ,(32) and(33) sand(34) dunes(35) rather(36) than(37) tourists(38) gawking(39) from(40) their(41) balconies(42) .(43) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) a(3) suite(4) ,(5) including(6) a(7) full(8) kitchen(9) with(10) a(11) tall(12) fridge(13) ,(14) a(15) real(16) stove(17) ,(18) a(19) microwave(20) ,(21) a(22) sink(23) ,(24) pots(25) ,(26) pans(27) ,(28) dishes(29) ,(30) silverware(31) ,(32) and(33) dish(34) washing(35) liquid(36) .(37) 
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) two(3) televisions(4) ,(5) one(6) in(7) the(8) living(9) room(10) and(11) one(12) in(13) the(14) bedroom(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Both(1) closets(2) had(3) full-length(4) mirrors(5) for(6) doors(7) .(8) 
+		</sentence>
+		<sentence id="6">
+			All(1) the(2) beds(3) ,(4) including(5) the(6) Murphy(7) bed(8) ,(9) were(10) comfortable(11) .(12) 
+			<opinion featWords="3" feature="bed" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Our(1) balcony(2) provided(3) a(4) view(5) of(6) the(7) northern(8) edge(9) of(10) the(11) strip(12) and(13) the(14) beach(15) ((16) including(17) sunrise(18) )(19) ,(20) and(21) it(22) was(23) very(24) comfortable(25) with(26) four(27) chairs(28) and(29) a(30) little(31) table(32) .(33) 
+			<opinion feature="hotel" opWords="25" polarity="+" potency="24"/>
+		</sentence>
+		<sentence id="8">
+			We(1) had(2) no(3) problems(4) with(5) birds(6) or(7) bugs(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			We(1) really(2) enjoyed(3) the(4) relaxing(5) sound(6) of(7) the(8) waves(9) .(10) 
+		</sentence>
+		<sentence id="10">
+			The(1) windows(2) near(3) our(4) dining(5) table(6) provided(7) a(8) view(9) of(10) the(11) southern(12) ((13) active(14) )(15) strip(16) and(17) points(18) west(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			We(1) could(2) see(3) sunset(4) from(5) that(6) window(7) .(8) 
+		</sentence>
+		<sentence id="12">
+			With(1) all(2) the(3) great(4) restaurants(5) in(6) Myrtle(7) Beach(8) ,(9) we(10) only(11) used(12) the(13) hotel(14) restaurant(15) for(16) breakfast(17) on(18) a(19) couple(20) of(21) our(22) days(23) there(24) .(25) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) food(2) was(3) fine(4) .(5) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) biscuits(2) were(3) good(4) .(5) 
+		</sentence>
+		<sentence id="15">
+			As(1) with(2) many(3) of(4) the(5) high-rise(6) hotels(7) on(8) the(9) ocean(10) front(11) ,(12) parking(13) was(14) across(15) busy(16) Ocean(17) Boulevard(18) .(19) 
+		</sentence>
+		<sentence id="16">
+			The(1) city(2) of(3) Myrtle(4) Beach(5) needs(6) to(7) do(8) more(9) to(10) protect(11) its(12) pedestrians(13) !(14) 
+		</sentence>
+		<sentence id="17">
+			No(1) crosswalk(2) between(3) the(4) hotel(5) and(6) the(7) parking(8) deck(9) meant(10) risky(11) trots(12) across(13) the(14) street(15) !(16) 
+		</sentence>
+		<sentence id="18">
+			The(1) parking(2) deck(3) itself(4) is(5) not(6) for(7) those(8) who(9) lack(10) depth(11) perception(12) !(13) 
+		</sentence>
+		<sentence id="19">
+			Narrow(1) turns(2) and(3) tight(4) corridors(5) gave(6) me(7) shock(8) waves(9) every(10) time(11) we(12) had(13) to(14) look(15) for(16) a(17) spot(18) or(19) head(20) out(21) of(22) the(23) deck(24) .(25) 
+		</sentence>
+		<sentence id="20">
+			I(1) would(2) hate(3) to(4) have(5) a(6) big(7) SUV(8) or(9) truck(10) in(11) there(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Renting(1) an(2) umbrella(3) and(4) two(5) chairs(6) costs(7) $25(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			Strolling(1) the(2) shore(3) at(4) sunrise(5) is(6) free(7) ((8) and(9) gorgeous(10) )(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			Many(1) of(2) the(3) reviews(4) I(5) had(6) seen(7) of(8) this(9) hotel(10) were(11) rather(12) negative(13) ,(14) but(15) they(16) were(17) also(18) somewhat(19) dated(20) .(21) 
+		</sentence>
+		<sentence id="24">
+			I(1) had(2) already(3) booked(4) the(5) place(6) ,(7) so(8) I(9) went(10) anyhow(11) ,(12) a(13) little(14) filled(15) with(16) dread(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			The(1) elevators(2) really(3) are(4) pretty(5) slow(6) ,(7) and(8) you(9) might(10) want(11) to(12) book(13) your(14) stay(15) to(16) leave(17) on(18) something(19) other(20) than(21) a(22) Sunday(23) to(24) avoid(25) the(26) mass(27) exodus(28) .(29) 
+			<opinion featWords="2" feature="elevator" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="26">
+			Otherwise(1) ,(2) the(3) horror(4) stories(5) are(6) unfounded(7) .(8) 
+		</sentence>
+		<sentence id="27">
+			I(1) 'm(2) so(3) glad(4) I(5) went(6) ,(7) and(8) I(9) do(10) plan(11) to(12) go(13) back(14) to(15) Patricia(16) Grand(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			Ask(1) for(2) the(3) north(4) end(5) if(6) you(7) want(8) to(9) view(10) sunrise(11) from(12) your(13) balcony(14) .(15) 
+		</sentence>
+	</text>
+</review>

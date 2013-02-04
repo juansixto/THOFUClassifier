@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="743" item="Thirty Thirty Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			We(1) got(2) what(3) we(4) expected(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Pretty(1) good(2) location(3) ,(4) near(5) subway(6) ,(7) clean(8) room(9) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+" potency="1"/>
+			<opinion featWords="9" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			No(1) breakfast(2) included(3) ,(4) pretty(5) small(6) room(7) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Staying(1) in(2) a(3) hotel(4) in(5) NYC(6) is(7) expensive(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			I(1) think(2) that(3) we(4) got(5) what(6) we(7) expected(8) but(9) 150$(10) is(11) a(12) bit(13) much(14) for(15) this(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			But(1) the(2) location(3) was(4) good(5) 
+			<opinion featWords="3" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) Hotel(4) Thirty(5) Thirty(6) in(7) New(8) York(9) City(10) 6(11) nights(12) in(13) July(14) 2004(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			When(1) we(2) first(3) started(4) searching(5) for(6) a(7) hotel(8) in(9) New(10) York(11) we(12) were(13) of(14) course(15) overwhelmed(16) by(17) the(18) number(19) of(20) hotels(21) we(22) could(23) choose(24) from(25) .(26) 
+		</sentence>
+		<sentence id="3">
+			Our(1) goal(2) was(3) to(4) find(5) a(6) clean(7) ,(8) decent(9) hotel(10) located(11) centrally(12) in(13) Manhattan(14) and(15) we(16) wanted(17) to(18) room(19) to(20) be(21) as(22) cheap(23) as(24) possible(25) and(26) we(27) wanted(28) a(29) private(30) bath(31) and(32) a(33) TV(34) .(35) 
+			<opinion featWords="10" feature="hotel" opWords="7" polarity="+"/>
+			<opinion featWords="10" feature="hotel" opWords="9" polarity="+"/>
+			<opinion feature="place" opWords="11,12" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			After(1) searching(2) for(3) quite(4) a(5) bit(6) and(7) looking(8) into(9) the(10) option(11) of(12) using(13) priceline(14) .(15) com(16) we(17) ended(18) up(19) on(20) Hotel(21) Thirty(22) Thirty(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			We(1) booked(2) it(3) through(4) a(5) travel(6) agency(7) here(8) in(9) Norway(10) and(11) we(12) had(13) to(14) pay(15) about(16) 6400(17) Norwegian(18) Kroner(19) for(20) the(21) 6(22) nights(23) ((24) with(25) today(26) s(27) exchange(28) rate(29) that(30) is(31) about(32) 150(33) dollars(34) pr(35) night(36) including(37) all(38) taxes(39) )(40) .(41) 
+		</sentence>
+		<sentence id="6">
+			I(1) also(2) used(3) tripadvisor(4) .(5) com(6) which(7) is(8) an(9) excellent(10) site(11) where(12) you(13) can(14) get(15) feedback(16) about(17) most(18) hotels(19) in(20) the(21) US(22) and(23) around(24) the(25) world(26) .(27) 
+			<opinion featWords="11" feature="decoration" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			We(1) arrived(2) in(3) New(4) York(5) City(6) at(7) Penn(8) Station(9) and(10) we(11) took(12) a(13) cab(14) to(15) the(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			The(1) hotel(2) is(3) located(4) on(5) 30(6) East(7) 30th(8) street(9) near(10) Park(11) Avenue(12) ((13) only(14) a(15) few(16) minutes(17) walk(18) from(19) Empire(20) State(21) Building(22) )(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			The(1) taxi(2) only(3) took(4) 5(5) minutes(6) to(7) get(8) there(9) and(10) we(11) paid(12) about(13) 5(14) dollars(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			The(1) lobby(2) of(3) the(4) hotel(5) was(6) nice(7) and(8) quiet(9) and(10) the(11) check(12) in(13) was(14) extremely(15) fast(16) .(17) 
+			<opinion featWords="2" feature="lobby" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			I(1) just(2) had(3) to(4) sign(5) a(6) paper(7) and(8) they(9) swiped(10) my(11) credit(12) card(13) and(14) then(15) we(16) got(17) a(18) non-smoking(19) room(20) on(21) the(22) 11th(23) floor(24) ((25) 1141(26) to(27) be(28) precise(29) )(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			Our(1) room(2) was(3) quite(4) small(5) but(6) nice(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			As(1) you(2) can(3) see(4) from(5) the(6) pictures(7) there(8) room(9) was(10) pretty(11) naked(12) .(13) 
+			<opinion featWords="9" feature="rooms" opWords="12" polarity="-" potency="11"/>
+		</sentence>
+		<sentence id="14">
+			There(1) were(2) a(3) carpet(4) on(5) the(6) floor(7) and(8) the(9) walls(10) were(11) covered(12) with(13) a(14) light(15) wall(16) paper(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			Apart(1) from(2) the(3) king-size(4) bed(5) we(6) had(7) a(8) chair(9) ,(10) a(11) TV(12) that(13) was(14) mounted(15) on(16) the(17) wall(18) in(19) corner(20) of(21) the(22) room(23) ,(24) a(25) couple(26) of(27) draws(28) and(29) a(30) wardrobe(31) with(32) about(33) 5(34) hangers(35) .(36) 
+		</sentence>
+		<sentence id="16">
+			The(1) TV(2) had(3) lots(4) and(5) lots(6) of(7) channels(8) to(9) offer(10) but(11) I(12) felt(13) like(14) it(15) was(16) like(17) the(18) Bruce(19) Springsteen(20) song(21) fty-seven(22) channels(23) and(24) nothin(25) '(26) on(27) :(28) -(29) )(30) One(31) strange(32) thing(33) about(34) the(35) room(36) was(37) that(38) the(39) sink(40) was(41) in(42) the(43) bedroom(44) itself(45) and(46) not(47) in(48) the(49) bathroom(50) .(51) 
+		</sentence>
+		<sentence id="17">
+			I(1) amm(2) not(3) sure(4) why(5) it(6) has(7) been(8) done(9) like(10) this(11) but(12) we(13) got(14) used(15) to(16) it(17) :(18) -(19) )(20) There(21) was(22) also(23) a(24) telephone(25) and(26) an(27) alarm(28) clock(29) on(30) the(31) night(32) tables(33) next(34) to(35) the(36) bed(37) .(38) 
+		</sentence>
+		<sentence id="18">
+			The(1) bathroom(2) was(3) also(4) quite(5) tiny(6) but(7) big(8) enough(9) to(10) room(11) the(12) toilet(13) and(14) a(15) shower(16) .(17) 
+		</sentence>
+		<sentence id="19">
+			The(1) bathroom(2) was(3) covered(4) with(5) tiles(6) on(7) both(8) the(9) floor(10) and(11) the(12) wall(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			The(1) shower(2) was(3) a(4) step(5) in(6) type(7) with(8) a(9) glass(10) door(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			In(1) the(2) shower(3) we(4) found(5) little(6) bottles(7) of(8) shampoo(9) ,(10) conditioner(11) and(12) in(13) the(14) room(15) itself(16) we(17) found(18) little(19) bars(20) of(21) soap(22) and(23) moisturizing(24) cream(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			Our(1) window(2) faced(3) towards(4) 29th(5) Street(6) and(7) the(8) view(9) from(10) our(11) room(12) was(13) not(14) great(15) to(16) say(17) the(18) least(19) .(20) 
+			<opinion featWords="9" feature="view" opWords="14,15" polarity="-"/>
+		</sentence>
+		<sentence id="23">
+			We(1) looked(2) right(3) out(4) on(5) a(6) typical(7) New(8) York(9) landmark(10) I(11) guess(12) water(13) tank(14) :(15) -(16) )(17) But(18) at(19) least(20) we(21) were(22) high(23) up(24) so(25) we(26) did(27) 'nt(28) have(29) any(30) problem(31) with(32) noise(33) from(34) the(35) traffic(36) on(37) Park(38) Avenue(39) at(40) night(41) .(42) 
+		</sentence>
+		<sentence id="24">
+			Location(1) In(2) our(3) opinion(4) the(5) hotel(6) has(7) a(8) pretty(9) good(10) location(11) .(12) 
+			<opinion featWords="11" feature="place" opWords="10" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="25">
+			It(1) only(2) takes(3) a(4) few(5) seconds(6) to(7) get(8) to(9) places(10) where(11) you(12) can(13) have(14) breakfast(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			We(1) ended(2) up(3) having(4) breakfast(5) on(6) Suzi(7) s(8) kitchen(9) quite(10) a(11) lot(12) but(13) there(14) were(15) also(16) a(17) Starbuck(18) s(19) coffee(20) right(21) around(22) the(23) corner(24) and(25) a(26) Pax(27) place(28) near(29) by(30) .(31) 
+		</sentence>
+		<sentence id="27">
+			There(1) is(2) also(3) a(4) restaurant(5) connected(6) to(7) the(8) hotel(9) ((10) Zana(11) s(12) )(13) but(14) I(15) can(16) 'nt(17) really(18) comment(19) on(20) it(21) because(22) we(23) never(24) ate(25) there(26) .(27) 
+		</sentence>
+		<sentence id="28">
+			The(1) hotel(2) was(3) also(4) pretty(5) good(6) located(7) when(8) it(9) comes(10) to(11) getting(12) around(13) .(14) 
+			<opinion feature="place" opWords="6,7" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="29">
+			It(1) only(2) took(3) us(4) 2-3(5) minutes(6) to(7) walk(8) to(9) the(10) 28th(11) Street(12) /(13) Park(14) Avenue(15) subway(16) station(17) d(18) once(19) you(20) are(21) on(22) the(23) subway(24) you(25) can(26) reach(27) most(28) places(29) in(30) New(31) York(32) .(33) 
+		</sentence>
+		<sentence id="30">
+			We(1) like(2) to(3) walk(4) and(5) on(6) our(7) first(8) afternoon(9) we(10) walked(11) to(12) Empire(13) State(14) Building(15) and(16) after(17) that(18) up(19) to(20) Times(21) Square(22) .(23) 
+		</sentence>
+		<sentence id="31">
+			Apart(1) from(2) this(3) there(4) is(5) not(6) that(7) much(8) more(9) to(10) say(11) about(12) the(13) hotel(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			They(1) have(2) a(3) laundry(4) service(5) ,(6) there(7) are(8) an(9) internet(10) option(11) in(12) the(13) lobby(14) ((15) we(16) did(17) 'nt(18) try(19) it(20) out(21) but(22) we(23) used(24) The(25) Log-on(26) Cafe(27) across(28) the(29) street(30) from(31) the(32) hotel(33) )(34) ,(35) and(36) you(37) can(38) borrow(39) an(40) iron(41) in(42) the(43) lobby(44) if(45) you(46) need(47) one(48) .(49) 
+		</sentence>
+		<sentence id="33">
+			Conclusion(1) I(2) see(3) that(4) there(5) are(6) many(7) different(8) opinions(9) about(10) this(11) hotel(12) on(13) places(14) like(15) Tripadvisor(16) .(17) com(18) .(19) 
+		</sentence>
+		<sentence id="34">
+			We(1) felt(2) that(3) we(4) got(5) what(6) we(7) expected(8) and(9) I(10) think(11) that(12) the(13) information(14) on(15) the(16) hotel(17) s(18) website(19) www.thirtythirty-nyc.com(20) is(21) pretty(22) accurate(23) .(24) 
+		</sentence>
+		<sentence id="35">
+			We(1) got(2) a(3) small(4) ,(5) clean(6) room(7) in(8) a(9) hotel(10) that(11) did(12) 'nt(13) have(14) much(15) more(16) to(17) offer(18) than(19) a(20) pretty(21) good(22) location(23) .(24) 
+			<opinion featWords="7" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="23" feature="place" opWords="22" polarity="+" potency="21"/>
+		</sentence>
+		<sentence id="36">
+			But(1) when(2) we(3) are(4) on(5) a(6) big(7) city(8) holiday(9) we(10) are(11) not(12) really(13) looking(14) for(15) a(16) hotel(17) with(18) lots(19) of(20) amenities(21) .(22) 
+		</sentence>
+		<sentence id="37">
+			After(1) all(2) most(3) of(4) the(5) day(6) and(7) evening(8) is(9) spent(10) sight-seeing(11) anyway(12) .(13) 
+		</sentence>
+		<sentence id="38">
+			I(1) would(2) not(3) mind(4) staying(5) there(6) again(7) if(8) we(9) go(10) to(11) New(12) York(13) City(14) in(15) the(16) future(17) and(18) I(19) would(20) not(21) hestitate(22) to(23) recommend(24) this(25) hotel(26) to(27) other(28) people(29) .(30) 
+			<opinion featWords="26" feature="hotel" opWords="24" polarity="+"/>
+		</sentence>
+	</text>
+</review>

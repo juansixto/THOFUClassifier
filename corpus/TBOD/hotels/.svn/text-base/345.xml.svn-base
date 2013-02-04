@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="345" item="Marco Polo Ramada Plaza Beach Resort" rating="1">
+	<title>
+		<sentence id="1">
+			The(1) Worst(2) Hotel(3) Ever(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			?(1) ?(2) ?(3) ?(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unclean(1) ,(2) bad(3) food(4) ,(5) less-than-friendly(6) staff(7) ,(8) underwhelming(9) amenities(10) .(11) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="food" opWords="3" polarity="-"/>
+			<opinion featWords="7" feature="staff" opWords="6" polarity="-"/>
+			<opinion featWords="10" feature="amenities" opWords="9" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) recommend(2) that(3) you(4) do(5) not(6) stay(7) here(8) .(9) 
+			<opinion feature="hotel" opWords="6,7" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Stay(1) at(2) the(3) Ramada(4) !(5) 
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) cheap(3) ,(4) but(5) you(6) get(7) what(8) you(9) pay(10) for(11) .(12) 
+			<opinion feature="price" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			I(1) walked(2) into(3) the(4) hotel(5) for(6) the(7) first(8) time(9) at(10) 2AM(11) and(12) I(13) guess(14) being(15) so(16) tired(17) from(18) a(19) long(20) flight(21) made(22) me(23) think(24) the(25) place(26) was(27) okay(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			The(1) lobby(2) looked(3) impressive(4) anyway(5) .(6) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			I(1) was(2) led(3) to(4) my(5) room(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			Tired(1) as(2) I(3) was(4) ,(5) I(6) could(7) see(8) that(9) the(10) ugly(11) wallpaper(12) was(13) peeling(14) .(15) 
+			<opinion featWords="12" feature="walls" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) conditions(3) never(4) improved(5) .(6) 
+		</sentence>
+		<sentence id="8">
+			They(1) put(2) residential(3) customers(4) in(5) rooms(6) next(7) to(8) travelers(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			The(1) resident(2) next(3) door(4) was(5) a(6) smoker(7) and(8) I(9) could(10) smell(11) it(12) all(13) day(14) through(15) the(16) vents(17) despite(18) it(19) being(20) a(21) nonsmoking(22) room(23) ((24) why(25) not(26) put(27) all(28) of(29) the(30) smoking(31) rooms(32) and(33) the(34) nonsmoking(35) rooms(36) in(37) one(38) place(39) ?(40) )(41) I(42) went(43) for(44) a(45) walk(46) on(47) the(48) beach(49) one(50) morning(51) and(52) some(53) sand(54) spilled(55) out(56) of(57) my(58) shoe(59) when(60) I(61) came(62) back(63) to(64) my(65) room(66) .(67) 
+		</sentence>
+		<sentence id="10">
+			No(1) one(2) came(3) and(4) vacuumed(5) that(6) sand(7) off(8) the(9) floor(10) the(11) entire(12) week(13) I(14) was(15) there(16) .(17) 
+		</sentence>
+		<sentence id="11">
+			I(1) wondered(2) what(3) else(4) they(5) were(6) not(7) cleaning(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			Food(1) was(2) horrible(3) in(4) their(5) Ocean(6) Terrace(7) /(8) Prince(9) Hamlet(10) restaurant(11) .(12) 
+			<opinion featWords="1" feature="food" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) breakfast(2) buffet(3) was(4) barely(5) edible(6) .(7) 
+			<opinion featWords="3" feature="food" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="14">
+			Eggs(1) were(2) obviously(3) powdered(4) .(5) 
+		</sentence>
+		<sentence id="15">
+			Everything(1) was(2) either(3) greasy(4) or(5) overcooked(6) or(7) undercooked(8) .(9) 
+			<opinion featRef="food" featWords="1" feature="food" opWords="4" polarity="-"/>
+			<opinion featRef="food" featWords="1" feature="food" opWords="6" polarity="-"/>
+			<opinion featRef="food" featWords="1" feature="food" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			Dinner(1) was(2) only(3) slightly(4) better(5) than(6) what(7) I(8) used(9) to(10) eat(11) in(12) my(13) high(14) school(15) cafeteria(16) ((17) fortunately(18) I(19) only(20) had(21) to(22) eat(23) there(24) one(25) night(26) )(27) .(28) 
+		</sentence>
+		<sentence id="17">
+			The(1) facilities(2) ?(3) 
+		</sentence>
+		<sentence id="18">
+			The(1) "(2) Fitness(3) Center(4) "(5) was(6) just(7) three(8) bikes(9) that(10) lined(11) the(12) corridor(13) leading(14) to(15) the(16) pool(17) ((18) to(19) the(20) hotel(21) 's(22) credit(23) ,(24) they(25) would(26) give(27) you(28) free(29) vouchers(30) to(31) a(32) very(33) nicely(34) equipped(35) Bally(36) 's(37) if(38) you(39) were(40) willing(41) to(42) make(43) a(44) 20(45) minute(46) drive(47) )(48) .(49) 
+		</sentence>
+		<sentence id="19">
+			The(1) pool(2) staff(3) was(4) indifferent(5) and(6) unhelpful(7) .(8) 
+			<opinion featWords="3" feature="staff" opWords="5" polarity="-"/>
+			<opinion featWords="3" feature="staff" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			The(1) beach(2) was(3) just(4) a(5) short(6) strip(7) of(8) sand(9) that(10) disappeared(11) when(12) the(13) tide(14) was(15) high(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			Most(1) days(2) I(3) stayed(4) here(5) access(6) to(7) the(8) beach(9) was(10) blocked(11) anyway(12) .(13) 
+		</sentence>
+		<sentence id="22">
+			I(1) can(2) not(3) say(4) it(5) enough(6) times(7) DO(8) NOT(9) STAY(10) HERE(11) .(12) 
+		</sentence>
+		<sentence id="23">
+			It(1) 's(2) dirty(3) ,(4) unfriendly(5) ,(6) and(7) ill-equipped(8) .(9) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3" polarity="-"/>
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="5" polarity="-"/>
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			You(1) will(2) be(3) much(4) happier(5) if(6) you(7) stay(8) at(9) the(10) Holiday(11) Inn(12) or(13) ((14) if(15) you(16) really(17) want(18) to(19) splurge(20) )(21) The(22) Westin(23) Diplomat(24) down(25) the(26) road(27) .(28) 
+		</sentence>
+	</text>
+</review>

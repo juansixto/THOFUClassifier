@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="378" item="Holiday Inn SAN FRANCISCO-CIVIC CENTER" rating="4">
+	<title>
+		<sentence id="1">
+			Clean(1) ,(2) Reasonably(3) Priced(4) ,(5) Free(6) Breakfast(7) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) location(2) ,(3) clean(4) rooms(5) ,(6) decent(7) staff(8) ,(9) 2(10) Priority(11) Club(12) Floors(13) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="staff" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Getting(1) kinda(2) old(3) .(4) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) stayed(3) at(4) the(5) Civic(6) Center(7) Holiday(8) Inn(9) several(10) dozen(11) times(12) on(13) business(14) travel(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			I(1) 'm(2) frugal(3) ,(4) book(5) ahead(6) ,(7) and(8) have(9) never(10) paid(11) more(12) than(13) $150/night(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			For(1) that(2) you(3) get(4) a(5) great(6) downtown(7) location(8) ,(9) close(10) to(11) the(12) Civic(13) Center(14) and(15) state(16) of(17) California(18) buildings(19) .(20) 
+			<opinion featWords="8" feature="place" opWords="6" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) rooms(2) are(3) San(4) Fran(5) sized(6) ((7) that(8) means(9) smallish(10) )(11) .(12) 
+			<opinion featWords="2" feature="rooms" opWords="10" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			I(1) 've(2) never(3) had(4) a(5) trashed(6) room(7) .(8) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 've(2) never(3) had(4) a(5) dirty(6) room(7) .(8) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			I(1) 've(2) only(3) had(4) to(5) fight(6) with(7) the(8) front(9) desk(10) once(11) to(12) get(13) moved(14) ,(15) and(16) that(17) was(18) to(19) get(20) onto(21) the(22) Priority(23) Club(24) floor(25) ((26) there(27) are(28) 2(29) )(30) .(31) 
+		</sentence>
+		<sentence id="8">
+			Parking(1) is(2) $25/day(3) ,(4) but(5) this(6) IS(7) San(8) Fran(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			I(1) vote(2) with(3) my(4) wallet(5) and(6) I(7) go(8) to(9) the(10) hotel(11) whenever(12) I(13) 'm(14) in(15) town(16) .(17) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) want(3) nice(4) in(5) San(6) Fran(7) then(8) you(9) should(10) prepare(11) to(12) pay(13) $500(14) and(15) stay(16) someplace(17) else(18) .(19) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) want(3) a(4) decent(5) clean(6) room(7) and(8) good(9) location(10) ,(11) book(12) ahead(13) and(14) stay(15) here(16) .(17) 
+			<opinion featWords="7" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+	</text>
+</review>

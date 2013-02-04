@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="60" item="Parkside Inn Bridgeside" rating="1">
+	<title>
+		<sentence id="1">
+			Stay(1) Away(2) :(3) Rude(4) Management(5) :(6) ---(7) Poor(8) Service(9) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Lovely(1) location(2) across(3) from(4) park(5) ;(6) near(7) bridge(8) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Irrational(1) and(2) rude(3) management(4) personnel(5) 
+			<opinion featWords="4" feature="front desk" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="front desk" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Stay(1) away(2) from(3) this(4) hotel(5) unless(6) there(7) is(8) new(9) management(10) !(11) 
+			<opinion featWords="5" feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Warning(1) :(2) rude(3) management(4) !(5) 
+			<opinion featWords="4" feature="front desk" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			When(1) we(2) were(3) there(4) ,(5) we(6) spoke(7) with(8) several(9) '(10) guests(11) '(12) who(13) were(14) treated(15) quite(16) rudely(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			One(1) customer(2) received(3) a(4) phone(5) call(6) confirming(7) their(8) bridge(9) view(10) room(11) ,(12) but(13) upon(14) checking(15) in(16) ,(17) they(18) were(19) switched(20) to(21) a(22) ground(23) level(24) inside(25) room(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			When(1) the(2) gentleman(3) wanted(4) to(5) see(6) the(7) room(8) first(9) before(10) paying(11) ((12) upon(13) check-in(14) )(15) ,(16) the(17) Front(18) desk(19) /(20) Owner(21) woman(22) told(23) him(24) that(25) his(26) reservation(27) would(28) be(29) canceled(30) if(31) he(32) left(33) the(34) lobby(35) .(36) 
+		</sentence>
+		<sentence id="5">
+			Another(1) guest(2) was(3) followed(4) and(5) cornered(6) in(7) the(8) laundry(9) room(10) and(11) threatened(12) to(13) have(14) the(15) police(16) called(17) if(18) the(19) car(20) was(21) not(22) moved(23) from(24) a(25) legal(26) ,(27) unmarked(28) parking(29) spot(30) .(31) .(32) but(33) there(34) are(35) no(36) numbers(37) on(38) the(39) spots(40) .(41) 
+		</sentence>
+		<sentence id="6">
+			Another(1) customer(2) complaint(3) to(4) the(5) owner(6) lady(7) that(8) the(9) milk(10) tasted(11) watered(12) down(13) ((14) and(15) it(16) did(17) taste(18) disgusting(19) !(20) )(21) but(22) customer(23) 's(24) concern(25) was(26) scoffed(27) at(28) by(29) the(30) female(31) owner(32) .(33) 
+		</sentence>
+		<sentence id="7">
+			Another(1) person(2) made(3) the(4) mistake(5) of(6) asking(7) for(8) a(9) "(10) do(11) not(12) disturb(13) "(14) sign(15) and(16) the(17) owner(18) treated(19) them(20) quite(21) rudely(22) ,(23) complaining(24) about(25) people(26) stealing(27) them(28) .(29) .(30) shall(31) I(32) go(33) on(34) ?(35) 
+		</sentence>
+		<sentence id="8">
+			Cute(1) ,(2) clean(3) place(4) with(5) a(6) great(7) location(8) .....(9) just(10) be(11) warned(12) of(13) the(14) irrational(15) management(16) people(17) who(18) threaten(19) people(20) who(21) complain(22) or(23) do(24) not(25) do(26) exactly(27) what(28) the(29) management(30) thinks(31) ...(32) such(33) as(34) parking(35) in(36) a(37) safe(38) spot(39) or(40) asking(41) for(42) or(43) "(44) do(45) not(46) disturb(47) "(48) signs(49) or(50) an(51) extra(52) towel(53) .(54) 
+			<opinion featWords="16" feature="front desk" opWords="15" polarity="-"/>
+			<opinion featWords="4" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="place" opWords="3" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			I(1) 'd(2) never(3) stay(4) there(5) again(6) ,(7) and(8) hope(9) anyone(10) else(11) who(12) does(13) gets(14) treated(15) better(16) .(17) 
+		</sentence>
+	</text>
+</review>

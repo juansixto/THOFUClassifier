@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="99" item="Red Lion Inn &amp; Suites Portland Airport" rating="1">
+	<title>
+		<sentence id="1">
+			update(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nothing(1) really(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Housekeeping(1) .(2) 
+		</sentence>
+		<sentence id="2">
+			Front(1) desk(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Maintenance(1) .(2) 
+		</sentence>
+		<sentence id="4">
+			All(1) shabby(2) .(3) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="2" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Since(1) the(2) last(3) review(4) ,(5) no(6) real(7) improvement(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			If(1) anything(2) ,(3) worse(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			The(1) front(2) desk(3) staff(4) were(5) rude(6) .(7) 
+			<opinion featWords="4" feature="staff" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) a(3) one(4) night(5) reservation(6) and(7) were(8) moved(9) to(10) 3(11) different(12) rooms(13) .(14) 
+		</sentence>
+		<sentence id="5">
+			The(1) room(2) ((3) s(4) )(5) we(6) viewed(7) had(8) 1(9) )(10) broken(11) furniture(12) ,(13) 2(14) )(15) missing(16) smoke(17) detector(18) ,(19) 3(20) )(21) poor(22) housekeeping(23) .(24) 
+			<opinion featWords="12" feature="furnishings" opWords="11" polarity="-"/>
+			<opinion featWords="23" feature="room service" opWords="22" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			We(1) ended(2) up(3) cleaning(4) our(5) own(6) bathroom(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			In(1) the(2) morning(3) ,(4) we(5) tried(6) to(7) get(8) a(9) receipt(10) for(11) charges(12) and(13) front(14) desk(15) refused(16) to(17) give(18) us(19) a(20) copy(21) .(22) 
+		</sentence>
+		<sentence id="8">
+			I(1) was(2) afraid(3) they(4) would(5) try(6) to(7) charge(8) us(9) for(10) all(11) the(12) stuff(13) broken(14) or(15) missing(16) in(17) each(18) room(19) !(20) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) no(3) excuse(4) for(5) this(6) place(7) .(8) 
+		</sentence>
+	</text>
+</review>

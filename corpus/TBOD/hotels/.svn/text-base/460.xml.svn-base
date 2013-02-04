@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="460" item="Boardwalk Beach Resort" rating="3">
+	<title>
+		<sentence id="1">
+			Spacious(1) for(2) a(3) family(4) of(5) 5(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Indoor(1) pool(2) ,(3) easily(4) sleeps(5) larger(6) families(7) .(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) would(2) return(3) to(4) the(5) Boardwalk(6) with(7) no(8) hesitation(9) .(10) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			We(1) paid(2) $99(3) per(4) night(5) .(6) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Traveling(1) with(2) a(3) family(4) of(5) 5(6) always(7) presents(8) challenges(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Who(1) knew(2) we(3) were(4) crossing(5) into(6) a(7) "(8) no(9) travel(10) "(11) zone(12) when(13) we(14) had(15) our(16) third(17) child(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			The(1) dilemna(2) is(3) always(4) the(5) same(6) :(7) Book(8) 2(9) rooms(10) and(11) pray(12) that(13) even(14) though(15) they(16) will(17) not(18) guarantee(19) connecting(20) rooms(21) ,(22) you(23) get(24) them(25) ?(26) 
+		</sentence>
+		<sentence id="4">
+			Or(1) just(2) lie(3) and(4) say(5) 4(6) people(7) ?(8) 
+		</sentence>
+		<sentence id="5">
+			Boardwalk(1) gave(2) us(3) another(4) choice(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			We(1) booked(2) our(3) room(4) by(5) phone(6) as(7) it(8) was(9) a(10) last(11) minute(12) trip(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			And(1) we(2) traveling(3) early(4) spring(5) ,(6) before(7) Easter(8) and(9) spring(10) break(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			We(1) had(2) no(3) problems(4) with(5) booking(6) ,(7) everyone(8) we(9) dealt(10) with(11) was(12) helpful(13) and(14) courteous(15) .(16) 
+			<opinion featRef="staff" featWords="8" feature="staff" opWords="13" polarity="+"/>
+			<opinion featRef="staff" featWords="8" feature="staff" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) is(3) easy(4) to(5) find(6) ,(7) and(8) right(9) on(10) the(11) ocean(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Our(1) room(2) was(3) actually(4) more(5) of(6) a(7) suite(8) .(9) 
+		</sentence>
+		<sentence id="11">
+			When(1) you(2) first(3) walked(4) in(5) the(6) door(7) ,(8) it(9) looked(10) like(11) a(12) standard(13) hotel(14) room(15) with(16) 2(17) double(18) beds(19) ,(20) dresser(21) and(22) TV(23) .(24) 
+		</sentence>
+		<sentence id="12">
+			As(1) you(2) walk(3) straight(4) back(5) ,(6) you(7) find(8) yourself(9) in(10) the(11) kitchenette(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			This(1) is(2) a(3) fully(4) equipped(5) kitchen(6) ,(7) and(8) everything(9) was(10) as(11) clean(12) as(13) you(14) 'd(15) want(16) it(17) to(18) be(19) .(20) 
+		</sentence>
+		<sentence id="14">
+			Kitchen(1) stuff(2) is(3) on(4) your(5) right(6) .(7) 
+		</sentence>
+		<sentence id="15">
+			On(1) your(2) left(3) is(4) the(5) bathroom(6) ,(7) which(8) comes(9) with(10) a(11) large(12) whirlpool(13) tub(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			Not(1) the(2) cheesy(3) regular(4) bathtub(5) kind(6) with(7) jets(8) ,(9) a(10) real(11) whirlpool(12) tub(13) .(14) 
+			<opinion featWords="5" feature="tub" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="17">
+			Bathroom(1) was(2) also(3) spotless(4) .(5) 
+			<opinion featWords="1" feature="bathroom" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			Keep(1) walking(2) straight(3) back(4) ,(5) and(6) you(7) 're(8) in(9) the(10) living(11) room(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			It(1) has(2) a(3) couch(4) ,(5) and(6) sliding(7) doors(8) to(9) the(10) balcony(11) ,(12) which(13) has(14) 2(15) chairs(16) and(17) a(18) small(19) table(20) .(21) it(22) 's(23) a(24) perfect(25) place(26) to(27) drink(28) coffee(29) and(30) wait(31) for(32) the(33) family(34) to(35) wake(36) up(37) ,(38) and(39) it(40) 's(41) a(42) full(43) ocean(44) view(45) .(46) 
+			<opinion featWords="20" feature="tables" opWords="19" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			The(1) living(2) room(3) comes(4) complete(5) with(6) pull(7) down(8) Murphy(9) bed(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			Now(1) ,(2) if(3) you(4) 're(5) not(6) of(7) my(8) generation(9) ,(10) you(11) may(12) never(13) have(14) seen(15) one(16) of(17) these(18) up(19) close(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			A(1) murphy(2) bed(3) pulls(4) down(5) out(6) of(7) the(8) wall(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			The(1) kids(2) come(3) not(4) get(5) over(6) this(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			It(1) was(2) more(3) comfortable(4) than(5) I(6) would(7) have(8) expected(9) ,(10) but(11) it(12) is(13) a(14) Murphy(15) bed(16) ,(17) so(18) do(19) not(20) expect(21) more(22) that(23) decent(24) pull(25) out(26) couch(27) quality(28) .(29) 
+		</sentence>
+		<sentence id="25">
+			Boardwalk(1) is(2) located(3) just(4) a(5) little(6) way(7) from(8) all(9) the(10) commotion(11) of(12) the(13) Pavilion(14) and(15) other(16) chaos(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			Traveling(1) with(2) a(3) family(4) ,(5) we(6) thought(7) this(8) was(9) a(10) good(11) thing(12) .(13) 
+		</sentence>
+		<sentence id="27">
+			Note(1) ,(2) the(3) Pavilion(4) completed(5) it(6) 's(7) last(8) season(9) 2006(10) ,(11) so(12) the(13) "(14) hot(15) spots(16) "(17) in(18) Myrtle(19) Beach(20) may(21) be(22) about(23) to(24) change(25) .(26) 
+		</sentence>
+		<sentence id="28">
+			Boardwalk(1) features(2) an(3) outdoor(4) pool(5) ,(6) which(7) is(8) your(9) standard(10) boring(11) rectangle(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			It(1) also(2) has(3) a(4) small(5) "(6) lazy(7) river(8) "(9) pool(10) ,(11) which(12) we(13) used(14) a(15) lot(16) ,(17) even(18) in(19) the(20) cooler(21) weather(22) .(23) 
+			<opinion featWords="10" feature="swimming pool" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="30">
+			The(1) current(2) is(3) gentle(4) enough(5) for(6) not-so-expert(7) kid(8) swimmers(9) .(10) 
+		</sentence>
+		<sentence id="31">
+			Boardwalk(1) also(2) has(3) an(4) indoor(5) pool(6) ,(7) so(8) off(9) season(10) swimming(11) is(12) available(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			I(1) did(2) find(3) the(4) chemical(5) fumes(6) in(7) there(8) a(9) bit(10) much(11) ,(12) but(13) that(14) 's(15) typical(16) of(17) indoor(18) pools(19) and(20) it(21) was(22) no(23) worse(24) than(25) most(26) .(27) 
+		</sentence>
+		<sentence id="33">
+			Customer(1) service(2) really(3) kicked(4) in(5) for(6) us(7) at(8) check(9) out(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			My(1) 7(2) year(3) old(4) had(5) left(6) "(7) blankie(8) "(9) behind(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			Now(1) ,(2) blankie(3) is(4) really(5) just(6) a(7) scrap(8) of(9) nasty(10) looking(11) fabric(12) ,(13) and(14) we(15) were(16) very(17) concerned(18) that(19) it(20) might(21) have(22) been(23) trashed(24) .(25) 
+		</sentence>
+		<sentence id="36">
+			The(1) cleaning(2) crew(3) really(4) when(5) out(6) of(7) their(8) way(9) for(10) us(11) on(12) this(13) ,(14) and(15) blankie(16) was(17) located(18) ,(19) safely(20) ,(21) in(22) the(23) laundry(24) room(25) .(26) 
+		</sentence>
+		<sentence id="37">
+			I(1) will(2) definitely(3) return(4) to(5) the(6) Boardwalk(7) .(8) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+	</text>
+</review>

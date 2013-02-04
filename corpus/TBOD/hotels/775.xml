@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="775" item="Los Arcos Suites" rating="4">
+	<title>
+		<sentence id="1">
+			Perfect(1) Location(2) ...(3) Experience(4) the(5) REAL(6) Mexico(7) ....(8) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			LOCATION(1) LOCATION(2) LOCATION(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			none(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Go(1) if(2) you(3) want(4) to(5) experience(6) the(7) real(8) Puerto(9) Vallarta(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) loved(2) the(3) location(4) of(5) this(6) hotel(7) .(8) 
+			<opinion featWords="4" feature="place" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			It(1) 's(2) a(3) block(4) from(5) the(6) beach(7) and(8) it(9) is(10) in(11) the(12) middle(13) of(14) the(15) Zona(16) Romantica(17) ,(18) which(19) is(20) the(21) older(22) area(23) of(24) Puerto(25) Vallarta(26) but(27) truly(28) makes(29) you(30) feel(31) that(32) you(33) are(34) in(35) Mexico(36) .(37) 
+		</sentence>
+		<sentence id="3">
+			The(1) usual(2) areas(3) where(4) the(5) tourists(6) stay(7) is(8) about(9) 45-60(10) minutes(11) north(12) of(13) here(14) and(15) is(16) quite(17) boring(18) in(19) my(20) opinion(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			The(1) Malecon(2) is(3) about(4) a(5) 10-15(6) minute(7) walk(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			You(1) would(2) not(3) even(4) notice(5) .(6) 
+		</sentence>
+		<sentence id="6">
+			Now(1) the(2) hotel(3) ...(4) it(5) 's(6) a(7) good(8) deal(9) for(10) the(11) price(12) you(13) pay(14) .(15) 
+		</sentence>
+		<sentence id="7">
+			The(1) bed(2) was(3) clean(4) and(5) the(6) floors(7) were(8) clean(9) when(10) we(11) got(12) there(13) .(14) ((15) It(16) 's(17) hard(18) to(19) maintain(20) clean(21) floors(22) when(23) they(24) are(25) tiled(26) and(27) the(28) windows(29) are(30) always(31) open(32) )(33) .(34) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="grounds" opWords="9" polarity="+"/>
+			<opinion featWords="22" feature="grounds" opWords="21" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) balcony(2) was(3) nice(4) and(5) the(6) chairs(7) looked(8) aged(9) ,(10) but(11) nothing(12) that(13) a(14) fresh(15) coat(16) of(17) paint(18) would(19) not(20) fix(21) .(22) 
+			<opinion featWords="7" feature="chairs" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			They(1) give(2) you(3) bottled(4) water(5) that(6) you(7) have(8) to(9) pay(10) for(11) .(12) ((13) Just(14) go(15) down(16) to(17) the(18) store(19) and(20) buy(21) a(22) bottle(23) for(24) 50(25) cents(26) .(27) )(28) The(29) room(30) is(31) pretty(32) darn(33) big(34) .(35) 
+			<opinion featWords="30" feature="rooms" opWords="34" polarity="+" potency="32,33"/>
+		</sentence>
+		<sentence id="10">
+			It(1) had(2) two(3) couches(4) ,(5) a(6) king-size(7) bed(8) ,(9) a(10) coffee(11) table(12) ,(13) and(14) a(15) little(16) kitchenette(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			It(1) 's(2) not(3) noisy(4) at(5) all(6) at(7) night(8) .(9) .(10) which(11) is(12) weird(13) because(14) I(15) thought(16) it(17) would(18) be(19) .(20) 
+			<opinion feature="hotel" opWords="3,4" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			It(1) just(2) had(3) a(4) funny(5) smell(6) ,(7) but(8) it(9) 's(10) probably(11) the(12) humidity(13) that(14) causes(15) the(16) scent(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			You(1) can(2) also(3) use(4) the(5) facilities(6) at(7) Playa(8) Los(9) Arcos(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			Beach(1) chairs(2) ,(3) umbrellas(4) ,(5) and(6) large(7) beach(8) towels(9) are(10) provided(11) by(12) them(13) .(14) 
+			<opinion featWords="9" feature="towels" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			Now(1) .(2) .(3) the(4) beach(5) .(6) 
+		</sentence>
+		<sentence id="16">
+			Oh(1) the(2) beach(3) is(4) gorgeous(5) BUT(6) the(7) people(8) trying(9) to(10) sell(11) stuff(12) to(13) you(14) are(15) quite(16) annoying(17) .(18) 
+			<opinion featWords="3" feature="beach" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			I(1) know(2) I(3) know(4) they(5) are(6) trying(7) to(8) make(9) a(10) living(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			But(1) ,(2) I(3) am(4) not(5) exaggerating(6) that(7) you(8) will(9) be(10) approached(11) at(12) least(13) every(14) 3(15) minutes(16) by(17) someone(18) .(19) 
+		</sentence>
+		<sentence id="19">
+			Pretending(1) to(2) sleep(3) does(4) not(5) keep(6) them(7) away(8) .(9) .(10) and(11) reading(12) certainly(13) does(14) not(15) .(16) 
+		</sentence>
+		<sentence id="20">
+			Also(1) ,(2) do(3) not(4) forget(5) to(6) haggle(7) because(8) they(9) quadruple(10) the(11) price(12) on(13) the(14) beach(15) .(16) ((17) A(18) rug(19) on(20) the(21) beach(22) will(23) cost(24) you(25) 20(26) dollars(27) or(28) more(29) ...(30) go(31) to(32) a(33) shop(34) on(35) the(36) Malecon(37) it(38) 's(39) 5(40) bucks(41) )(42) If(43) you(44) just(45) want(46) to(47) buy(48) to(49) be(50) nice(51) ...(52) go(53) for(54) it(55) .(56) 
+		</sentence>
+		<sentence id="21">
+			Also(1) watch(2) out(3) for(4) the(5) people(6) who(7) braid(8) hair(9) ...(10) they(11) use(12) the(13) same(14) comb(15) for(16) everybody(17) .(18) 
+		</sentence>
+		<sentence id="22">
+			Needless(1) to(2) say(3) ,(4) we(5) didnt(6) get(7) our(8) hair(9) braided(10) .(11) 
+		</sentence>
+		<sentence id="23">
+			Overall(1) ,(2) this(3) is(4) a(5) good(6) place(7) for(8) people(9) who(10) do(11) not(12) usually(13) go(14) to(15) all-inclusive(16) resorts(17) .(18) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			If(1) you(2) go(3) to(4) Mexico(5) just(6) to(7) lay(8) on(9) a(10) beach(11) and(12) not(13) do(14) much(15) else(16) ,(17) I(18) would(19) not(20) stay(21) here(22) .(23) 
+			<opinion feature="hotel" opWords="20,21" polarity="-"/>
+		</sentence>
+	</text>
+</review>

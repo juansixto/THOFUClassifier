@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="289" item="Best Western Twin Islands" rating="1">
+	<title>
+		<sentence id="1">
+			Worn(1) ,(2) outdated(3) property(4) ,(5) NO(6) FISHING(7) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			I(1) can(2) not(3) think(4) of(5) any(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) fishing(2) ,(3) guest(4) room(5) in(6) terrible(7) condition(8) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) not(4) Best(5) Western(6) quality(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			The(1) bedspreads(2) were(3) very(4) old(5) and(6) worn(7) .(8) 
+			<opinion featWords="2" feature="bedding" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="bedding" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			It(1) smelled(2) musty(3) .(4) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="2,3" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) bathroom(2) vanity(3) was(4) broken(5) and(6) mold(7) was(8) growing(9) around(10) tub(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			We(1) tried(2) to(3) change(4) rooms(5) but(6) they(7) were(8) sold(9) out(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			I(1) could(2) not(3) believe(4) we(5) paid(6) $125(7) a(8) night(9) to(10) stay(11) here(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			As(1) far(2) as(3) the(4) "(5) fishing(6) on(7) property(8) ,(9) "(10) that(11) was(12) very(13) deceitful(14) because(15) you(16) are(17) required(18) to(19) find(20) someplace(21) that(22) issues(23) Tennessee(24) fishing(25) licenses(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			The(1) front(2) desk(3) said(4) they(5) were(6) not(7) sure(8) where(9) to(10) obtain(11) one(12) and(13) they(14) were(15) fairly(16) costly(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			The(1) front(2) desk(3) staff(4) was(5) very(6) friendly(7) but(8) I(9) had(10) a(11) very(12) difficult(13) time(14) seeing(15) them(16) through(17) all(18) of(19) the(20) cigarette(21) smoke(22) .(23) 
+			<opinion featWords="2,3" feature="front desk" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="10">
+			It(1) is(2) also(3) at(4) the(5) end(6) of(7) the(8) strip(9) so(10) it(11) is(12) poorly(13) located(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			We(1) had(2) a(3) printed(4) confirmation(5) that(6) guaranteed(7) the(8) rate(9) of(10) $104(11) per(12) night(13) but(14) front(15) desk(16) person(17) said(18) I(19) would(20) have(21) to(22) call(23) back(24) and(25) speak(26) with(27) a(28) manager(29) .(30) 
+		</sentence>
+		<sentence id="12">
+			One(1) more(2) inconvenience(3) ....(4) 
+		</sentence>
+	</text>
+</review>

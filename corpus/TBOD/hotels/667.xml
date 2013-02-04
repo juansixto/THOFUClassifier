@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="667" item="Club Quarters in Philadelphia" rating="3">
+	<title>
+		<sentence id="1">
+			Recent(1) Stay(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) clean(2) ,(3) location(4) is(5) convenient(6) to(7) Market(8) St(9) .(10) /(11) City(12) Hall(13) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+			<opinion featWords="4" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) are(2) small(3) -(4) not(5) for(6) chlosterphobics(7) ;(8) restaurant(9) pricey(10) ;(11) no(12) automated(13) checkout(14) 
+			<opinion featWords="1" feature="rooms" opWords="3" polarity="-"/>
+			<opinion feature="price" opWords="10" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Entrance(1) to(2) the(3) hotel(4) is(5) through(6) a(7) door(8) on(9) Chestnut(10) Street(11) that(12) takes(13) you(14) to(15) an(16) elevator(17) lobby(18) -(19) you(20) must(21) go(22) up(23) one(24) floor(25) to(26) check(27) in(28) .(29) 
+		</sentence>
+		<sentence id="2">
+			The(1) lobby(2) is(3) comfortable(4) ,(5) with(6) a(7) computer(8) station(9) available(10) for(11) those(12) needing(13) to(14) check(15) e-mail(16) ,(17) stock(18) quotes(19) ,(20) etc.(21) The(22) hotel(23) restaurant(24) is(25) good(26) but(27) pricey(28) ((29) a(30) relatively(31) simple(32) pasta(33) dish(34) was(35) $19(36) )(37) ,(38) and(39) service(40) at(41) the(42) bar(43) during(44) my(45) visit(46) was(47) fair(48) ((49) needed(50) another(51) bartender(52) to(53) handle(54) the(55) volume(56) )(57) .(58) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+			<opinion featWords="24" feature="food" opWords="26" polarity="+"/>
+			<opinion featWords="24" feature="food" opWords="28" polarity="-"/>
+			<opinion featWords="40" feature="service" opWords="48" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) are(3) basic(4) ,(5) very(6) clean(7) ,(8) but(9) quite(10) small(11) ...(12) the(13) bathroom(14) in(15) my(16) room(17) measured(18) 4(19) by(20) 4(21) ,(22) not(23) including(24) the(25) shower(26) .(27) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+" potency="6"/>
+			<opinion featWords="2" feature="rooms" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+		<sentence id="4">
+			The(1) room(2) was(3) about(4) 11(5) -(6) 12(7) feet(8) wide(9) ,(10) and(11) maybe(12) 25(13) feet(14) in(15) length(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			This(1) hotel(2) is(3) very(4) convenient(5) to(6) Market(7) Street(8) businesses(9) ,(10) especially(11) near(12) City(13) Hall(14) .(15) 
+			<opinion featWords="2" feature="hotel" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			I(1) refer(2) to(3) this(4) hotel(5) as(6) "(7) Close(8) Quarters(9) "(10) .(11) 
+		</sentence>
+	</text>
+</review>

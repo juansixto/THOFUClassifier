@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="166" item="Oasis Cancun - All Inclusive" rating="2">
+	<title>
+		<sentence id="1">
+			Oasis(1) not(2) that(3) great(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) beach(2) area(3) ,(4) bartenders(5) make(6) excellent(7) drinks(8) .(9) 
+			<opinion featWords="3" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="8" feature="drinks" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			March(1) Break(2) type(3) crowd(4) ,(5) no(6) control(7) by(8) hotel(9) staff(10) ,(11) food(12) very(13) bland(14) 
+			<opinion featWords="12" feature="food" opWords="14" polarity="-" potency="13"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) to(4) spend(5) a(6) rowdy(7) drinking(8) week(9) then(10) this(11) is(12) the(13) place(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) want(3) a(4) relaxing(5) vacation(6) with(7) good(8) food(9) and(10) atmosphere(11) then(12) look(13) somewhere(14) else(15) .(16) 
+			<opinion featWords="9" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Was(1) there(2) Feb.14-21,2002(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			The(1) beach(2) area(3) is(4) very(5) nice(6) ,(7) was(8) fun(9) to(10) play(11) in(12) the(13) waves(14) .(15) 
+			<opinion featWords="3" feature="place" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="3">
+			Life(1) guards(2) very(3) professional(4) and(5) keep(6) order(7) on(8) the(9) beach(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			The(1) food(2) was(3) very(4) bland(5) but(6) plentiful(7) .(8) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="food" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) bartenders(2) and(3) drinks(4) were(5) very(6) well(7) prepared(8) and(9) the(10) drinks(11) were(12) not(13) total(14) alcohol(15) .(16) 
+			<opinion featWords="4" feature="drinks" opWords="7,8" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="6">
+			The(1) hotel(2) ,(3) no(4) matter(5) what(6) they(7) say(8) ,(9) caters(10) to(11) a(12) "(13) March(14) break(15) "(16) type(17) client(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			A(1) lot(2) of(3) 20-25(4) yr(5) olds(6) who(7) are(8) away(9) from(10) home(11) for(12) the(13) first(14) time(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			Lots(1) of(2) yelling(3) and(4) slaming(5) of(6) doors(7) well(8) into(9) the(10) 3-4(11) :(12) 00(13) am(14) time(15) zones(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) hotel(2) staff(3) has(4) no(5) control(6) or(7) does(8) not(9) want(10) to(11) take(12) control(13) of(14) the(15) going(16) ons(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) rooms(2) are(3) very(4) basic(5) ,(6) 2(7) *(8) at(9) best(10) ,(11) you(12) can(13) upgrade(14) to(15) the(16) Grand(17) Oasis(18) that(19) looks(20) to(21) be(22) very(23) nice(24) but(25) a(26) hefty(27) price(28) to(29) pay(30) to(31) get(32) a(33) better(34) room(35) because(36) there(37) is(38) not(39) much(40) more(41) in(42) terms(43) of(44) amentities(45) .(46) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="28" feature="price" opWords="27" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			The(1) biggest(2) problem(3) with(4) the(5) hotel(6) is(7) that(8) the(9) employees(10) encourage(11) all(12) the(13) 20-25(14) yr(15) olds(16) to(17) get(18) totally(19) drunk(20) every(21) day(22) by(23) either(24) giving(25) them(26) too(27) many(28) drinks(29) or(30) by(31) encouraging(32) them(33) to(34) sign(35) up(36) for(37) booze(38) crawls(39) at(40) local(41) bars(42) .(43) 
+		</sentence>
+		<sentence id="12">
+			Again(1) it(2) is(3) a(4) "(5) March(6) break(7) "(8) mentality(9) .(10) 
+		</sentence>
+	</text>
+</review>

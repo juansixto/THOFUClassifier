@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="502" item="Radisson Inn Tulsa Airport" rating="3">
+	<title>
+		<sentence id="1">
+			Up(1) ,(2) Up(3) and(4) Away(5) ....(6) ((7) After(8) Spending(9) the(10) Night(11) at(12) the(13) Radisson(14) Inn(15) Tulsa(16) International(17) Airport(18) )(19) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Close(1) to(2) Tulsa(3) airport(4) ,(5) reasonable(6) rates(7) 
+			<opinion featWords="7" feature="price" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Some(1) rough(2) edges(3) ...(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) 're(3) looking(4) affordable(5) lodging(6) close(7) to(8) the(9) Tulsa(10) airport(11) ,(12) it(13) 's(14) hard(15) to(16) beat(17) the(18) Radisson(19) 's(20) value(21) .(22) 
+			<opinion feature="price" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Just(1) do(2) not(3) set(4) your(5) sights(6) too(7) high(8) ...(9) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			A(1) combination(2) of(3) an(4) early-morning(5) flight(6) home(7) and(8) the(9) ready(10) availability(11) of(12) a(13) super(14) cheap(15) rate(16) conspired(17) to(18) make(19) me(20) move(21) my(22) self(23) and(24) belongings(25) over(26) to(27) the(28) Radisson(29) for(30) my(31) last(32) night(33) in(34) Tulsa(35) .(36) 
+			<opinion featWords="16" feature="price" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="2">
+			While(1) the(2) digs(3) were(4) definitely(5) not(6) as(7) posh(8) as(9) the(10) room(11) I(12) had(13) over(14) at(15) the(16) Hilton(17) Southern(18) Hills(19) ,(20) the(21) place(22) was(23) perfectly(24) acceptable(25) for(26) my(27) needs(28) ,(29) and(30) it(31) did(32) save(33) me(34) enough(35) money(36) to(37) cover(38) my(39) extensive(40) bar(41) tab(42) .(43) 
+			<opinion featWords="22" feature="place" opWords="25" polarity="+" potency="24"/>
+		</sentence>
+		<sentence id="3">
+			The(1) Hotel(2) and(3) Its(4) Facilities(5) ...(6) This(7) is(8) a(9) garden-style(10) inn(11) ,(12) with(13) 172(14) rooms(15) surrounding(16) a(17) center(18) courtyard(19) on(20) all(21) four(22) sides(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			The(1) courtyard(2) showcases(3) a(4) pleasant-looking(5) pool(6) --(7) heck(8) of(9) a(10) lot(11) of(12) good(13) an(14) outdoor(15) pool(16) does(17) me(18) in(19) the(20) winter(21) though(22) .(23) 
+			<opinion featWords="6" feature="swimming pool" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) 're(3) visiting(4) in(5) the(6) summer(7) ,(8) it(9) looks(10) like(11) a(12) casual(13) place(14) to(15) hang(16) out(17) ,(18) with(19) lots(20) of(21) open(22) space(23) around(24) it(25) .(26) 
+			<opinion featWords="14" feature="place" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			I(1) 'm(2) impressed(3) with(4) the(5) exercise(6) room(7) here(8) .(9) 
+		</sentence>
+		<sentence id="7">
+			It(1) 's(2) larger(3) than(4) those(5) at(6) most(7) hotels(8) I(9) 've(10) stayed(11) in(12) ,(13) and(14) it(15) seems(16) to(17) be(18) better(19) equipped(20) in(21) that(22) it(23) has(24) everything(25) the(26) others(27) have(28) ,(29) plus(30) a(31) universal(32) weight(33) system(34) ((35) which(36) I(37) suspect(38) some(39) hotels(40) skip(41) for(42) liability(43) reasons(44) )(45) .(46) 
+		</sentence>
+		<sentence id="8">
+			Best(1) of(2) all(3) ,(4) it(5) 's(6) open(7) 24(8) hours(9) ((10) I(11) 've(12) honestly(13) never(14) understood(15) why(16) some(17) hotels(18) close(19) their(20) exercise(21) rooms(22) at(23) night(24) --(25) what(26) 's(27) the(28) risk(29) or(30) cost(31) of(32) leaving(33) it(34) open(35) ?(36) ?(37) )(38) There(39) are(40) several(41) meeting(42) rooms(43) on(44) site(45) ,(46) and(47) the(48) hotel(49) 's(50) literature(51) says(52) they(53) can(54) accomodate(55) up(56) to(57) 400(58) attendees(59) ((60) not(61) very(62) big(63) by(64) corporate(65) meeting(66) standards(67) ,(68) but(69) sufficient(70) for(71) smaller(72) companies(73) ,(74) training(75) ,(76) demos(77) ,(78) etc.(79) )(80) As(81) far(82) as(83) overall(84) physical(85) condition(86) ,(87) the(88) hotel(89) looks(90) like(91) it(92) 's(93) about(94) 20(95) years(96) old(97) with(98) some(99) fraying(100) at(101) the(102) edges(103) .(104) 
+		</sentence>
+		<sentence id="9">
+			I(1) did(2) not(3) care(4) for(5) the(6) sprawling(7) layout(8) and(9) odd(10) arrangement(11) of(12) corridors(13) ((14) it(15) always(16) seemed(17) like(18) I(19) was(20) making(21) weird(22) turns(23) )(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			I(1) think(2) there(3) 's(4) only(5) two(6) ice(7) machines(8) in(9) the(10) place(11) --(12) one(13) on(14) each(15) floor(16) ,(17) and(18) the(19) one(20) on(21) the(22) first(23) floor(24) was(25) busted(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			The(1) hotel(2) was(3) installing(4) new(5) carpet(6) while(7) I(8) was(9) there(10) ,(11) and(12) the(13) hallway(14) that(15) I(16) was(17) on(18) was(19) ripped(20) up(21) while(22) I(23) was(24) there(25) .(26) 
+		</sentence>
+		<sentence id="12">
+			Evidently(1) it(2) was(3) upstairs(4) too(5) ,(6) since(7) I(8) could(9) hear(10) hammering(11) and(12) chiseling(13) up(14) until(15) about(16) 9pm(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			I(1) suppose(2) someone(3) is(4) always(5) going(6) to(7) be(8) in(9) the(10) hotel(11) while(12) maintenance(13) is(14) going(15) on(16) ,(17) I(18) just(19) thought(20) it(21) was(22) odd(23) to(24) have(25) it(26) happening(27) on(28) a(29) Sunday(30) evening(31) .(32) 
+		</sentence>
+		<sentence id="14">
+			The(1) good(2) news(3) ?(4) 
+		</sentence>
+		<sentence id="15">
+			Well(1) ,(2) y'all(3) will(4) have(5) nice(6) new(7) carpet(8) to(9) walk(10) on(11) ((12) and(13) it(14) looks(15) like(16) an(17) elegant(18) pattern(19) of(20) gold(21) on(22) indigo(23) )(24) .(25) 
+			<opinion featWords="8" feature="carpets" opWords="6" polarity="+"/>
+			<opinion featWords="8" feature="carpets" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			Eat(1) ,(2) Drink(3) ,(4) and(5) Be(6) Merry(7) ...(8) There(9) 's(10) one(11) restaurant(12) at(13) this(14) Radisson(15) ,(16) plus(17) a(18) casual(19) sports(20) bar(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			The(1) restaurant(2) --(3) called(4) Plums(5) --(6) is(7) full-service(8) at(9) dinner(10) with(11) a(12) breakfast(13) buffet(14) and(15) a(16) lunch(17) buffet(18) on(19) weekdays(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			Though(1) I(2) was(3) planning(4) to(5) eat(6) in(7) the(8) hotel(9) on(10) a(11) Sunday(12) evening(13) ,(14) Plums(15) was(16) closed(17) ,(18) so(19) I(20) ended(21) up(22) driving(23) a(24) few(25) miles(26) to(27) an(28) El(29) Chico(30) mexican(31) restaurant(32) ((33) not(34) too(35) bad(36) --(37) a(38) bit(39) under-spiced(40) ,(41) but(42) everything(43) tasted(44) fresh(45) and(46) well(47) made(48) )(49) .(50) 
+			<opinion featWords="32" feature="food" opWords="34,35,36" polarity="+"/>
+			<opinion featWords="32" feature="food" opWords="40" polarity="-"/>
+			<opinion featWords="32" feature="food" opWords="45" polarity="+"/>
+			<opinion featWords="32" feature="food" opWords="47,48" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			Menu(1) prices(2) for(3) dinner(4) at(5) Plums(6) hover(7) around(8) the(9) $15-18(10) range(11) for(12) most(13) entrees(14) ,(15) which(16) are(17) mostly(18) your(19) basic(20) all-American(21) faves(22) :(23) ribs(24) ,(25) salads(26) ,(27) steaks(28) ,(29) etc.(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			I(1) did(2) stop(3) in(4) the(5) sports(6) bar(7) ,(8) dubbed(9) Bentleys(10) Lounge(11) .(12) 
+		</sentence>
+		<sentence id="21">
+			The(1) beer(2) selection(3) was(4) nothing(5) to(6) write(7) home(8) about(9) ,(10) but(11) they(12) did(13) have(14) Shiner(15) Bock(16) ,(17) so(18) I(19) did(20) not(21) leave(22) thirsty(23) .(24) 
+		</sentence>
+		<sentence id="22">
+			It(1) 's(2) not(3) a(4) particularly(5) attractive(6) place(7) ,(8) and(9) the(10) decor(11) is(12) mostly(13) late(14) 1980s(15) pool(16) hall(17) --(18) right(19) down(20) to(21) the(22) big(23) billiards(24) table(25) with(26) the(27) faux(28) stained(29) glass(30) light(31) fixture(32) overhead(33) .(34) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="23">
+			Naturally(1) ,(2) the(3) place(4) had(5) too(6) many(7) TVs(8) turned(9) to(10) dull(11) sporting(12) events(13) that(14) nobody(15) cares(16) about(17) ,(18) but(19) that(20) the(21) hotel(22) management(23) thinks(24) will(25) draw(26) in(27) the(28) patrons(29) ((30) I(31) 'd(32) have(33) stayed(34) longer(35) to(36) watch(37) C-SPAN(38) re-runs(39) )(40) .(41) 
+		</sentence>
+		<sentence id="24">
+			I(1) did(2) get(3) the(4) munchies(5) late(6) at(7) night(8) ,(9) and(10) ordered(11) chicken(12) strips(13) from(14) room(15) service(16) ,(17) which(18) turned(19) out(20) to(21) be(22) HUGE(23) ,(24) as(25) in(26) ,(27) about(28) half(29) of(30) a(31) split(32) breast(33) each(34) .(35) 
+		</sentence>
+		<sentence id="25">
+			The(1) fries(2) were(3) pretty(4) decent(5) ,(6) and(7) I(8) liked(9) that(10) they(11) were(12) the(13) kind(14) with(15) some(16) brown(17) peel(18) still(19) on(20) '(21) em(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			Maybe(1) the(2) added(3) fiber(4) will(5) compensate(6) for(7) the(8) grease(9) factor(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			Okay(1) ,(2) so(3) maybe(4) it(5) will(6) not(7) .(8) 
+		</sentence>
+		<sentence id="28">
+			A(1) guy(2) can(3) wish(4) ...(5) I(6) 've(7) always(8) heard(9) that(10) there(11) is(12) no(13) such(14) thing(15) as(16) a(17) free(18) lunch(19) ,(20) but(21) there(22) is(23) such(24) a(25) thing(26) as(27) a(28) free(29) breakfast(30) --(31) unfortunately(32) ,(33) it(34) 's(35) probably(36) over(37) at(38) the(39) La(40) Quinta(41) ,(42) because(43) it(44) 's(45) sure(46) not(47) at(48) this(49) hotel(50) .(51) 
+			<opinion featWords="30" feature="food" opWords="29" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			Just(1) thought(2) I(3) 'd(4) mention(5) it(6) in(7) an(8) effort(9) to(10) provide(11) maximally(12) helpful(13) consumer(14) information(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			Step(1) Into(2) My(3) Tulsa(4) Airport(5) Lair(6) ...(7) The(8) room(9) is(10) good-sized(11) and(12) equipped(13) as(14) I(15) 'd(16) expect(17) .(18) 
+			<opinion featWords="9" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="31">
+			I(1) 've(2) got(3) my(4) mandatory(5) coffee(6) maker(7) ,(8) plus(9) the(10) de(11) rigeur(12) ironing(13) board(14) ((15) makes(16) a(17) great(18) spare(19) table(20) too(21) !(22) 
+		</sentence>
+		<sentence id="32">
+			)(1) and(2) hair(3) dryer(4) .(5) 
+		</sentence>
+		<sentence id="33">
+			Here(1) 's(2) a(3) tip(4) for(5) you(6) folks(7) traveling(8) with(9) kids(10) --(11) bring(12) one(13) of(14) those(15) light(16) inflatable(17) balls(18) ((19) a(20) beach(21) ball(22) works(23) fine(24) )(25) :(26) on(27) a(28) medium(29) setting(30) ,(31) the(32) hair(33) dryer(34) can(35) easily(36) keep(37) the(38) ball(39) suspended(40) in(41) air(42) for(43) hours(44) ,(45) amusing(46) the(47) kids(48) for(49) minutes(50) on(51) end(52) !(53) 
+		</sentence>
+		<sentence id="34">
+			We(1) 've(2) got(3) the(4) 21(5) "(6) color(7) TV(8) with(9) cable(10) ,(11) and(12) it(13) seems(14) to(15) get(16) pretty(17) much(18) every(19) local(20) broadcast(21) station(22) .(23) There(24) 's(25) even(26) a(27) spanish(28) language(29) station(30) for(31) me(32) ,(33) plus(34) Nick(35) and(36) Cartoon(37) Network(38) for(39) the(40) kids(41) .(42) The(43) furnishings(44) are(45) strictly(46) top-of-the-line(47) WalMart(48) ,(49) assemble-it-yourself(50) quality(51) .(52) I(53) 'm(54) impressed(55) that(56) the(57) drawers(58) did(59) not(60) fall(61) apart(62) when(63) I(64) opened(65) them(66) ,(67) though(68) the(69) handles(70) were(71) certainly(72) falling(73) off(74) the(75) armoire(76) ,(77) as(78) handles(79) of(80) WalMart(81) furniture(82) tend(83) to(84) do(85) .(86) I(87) could(88) tell(89) that(90) this(91) was(92) not(93) the(94) absolute(95) cheapest(96) line(97) of(98) WalMart(99) furniture(100) because(101) the(102) obviously(103) faux(104) oak(105) veneer(106) did(107) not(108) show(109) bubbles(110) and(111) it(112) had(113) a(114) faux(115) grain(116) that(117) was(118) slightly(119) less(120) broad(121) than(122) the(123) toothless(124) woman(125) who(126) tried(127) to(128) buy(129) me(130) a(131) beer(132) in(133) the(134) hotel(135) bar(136) .(137) Strictly(138) top-of-the-line(139) WalMart(140) quality(141) ,(142) Yessiree(143) ,(144) Bubba(145) !(146) The(147) bathroom(148) is(149) clean(150) and(151) functional(152) .(153) Not(154) much(155) you(156) can(157) do(158) wrong(159) with(160) one(161) standard(162) bathtub(163) ((164) white(165) )(166) ,(167) one(168) standard(169) toilet(170) ((171) white(172) )(173) ,(174) and(175) one(176) standard(177) sink(178) ((179) white(180) )(181) set(182) in(183) one(184) standard(185) faux(186) marble(187) pre-formed(188) vanity(189) top(190) ((191) antique(192) white(193) )(194) .(195) The(196) Radisson(197) web(198) site(199) claims(200) that(201) you(202) get(203) a(204) copy(205) of(206) USA(207) Today(208) in(209) the(210) morning(211) .(212) I(213) was(214) there(215) on(216) a(217) Monday(218) morning(219) ,(220) the(221) paper(222) was(223) not(224) .(225) Good(226) thing(227) I(228) do(229) not(230) really(231) like(232) USA(233) Today(234) ...(235) What(236) else(237) can(238) I(239) tell(240) you(241) ?(242) The(243) heat(244) worked(245) ,(246) the(247) pillows(248) were(249) soft(250) ,(251) the(252) blankets(253) were(254) warm(255) ,(256) my(257) bill(258) was(259) right(260) ,(261) and(262) the(263) staff(264) were(265) friendly(266) .(267) In(268) fact(269) ,(270) most(271) folks(272) I(273) met(274) in(275) Tulsa(276) seemed(277) pretty(278) friendly(279) --(280) I(281) 'll(282) have(283) to(284) stop(285) scoffing(286) when(287) the(288) boss(289) suggests(290) a(291) trip(292) to(293) Tulsa(294) --(295) not(296) that(297) scoffing(298) does(299) me(300) much(301) good(302) anyway(303) .(304) "(305) Scoff(306) "(307) is(308) really(309) an(310) excellent(311) word(312) ,(313) and(314) it(315) 's(316) so(317) underused(318) these(319) days(320) .(321) I(322) think(323) everyone(324) should(325) use(326) it(327) every(328) day(329) .(330) Just(331) think(332) of(333) the(334) possibilities(335) .(336) Instead(337) of(338) just(339) flipping(340) someone(341) off(342) with(343) an(344) off-the-cuff(345) ,(346) "(347) F(348) *(349) ck(350) you(351) ,(352) butthead(353) ,(354) "(355) you(356) can(357) show(358) innovation(359) by(360) saying(361) "(362) I(363) scoff(364) at(365) you(366) .(367) "(368) This(369) is(370) a(371) sure-fire(372) way(373) to(374) impress(375) people(376) while(377) still(378) expressing(379) your(380) disdain(381) of(382) their(383) sub-mensa(384) intellect(385) .(386) Meanwhile(387) ,(388) us(389) geniuses(390) do(391) not(392) get(393) easily(394) sidetracked(395) ,(396) so(397) let(398) 's(399) talk(400) more(401) about(402) the(403) Radisson(404) Tulsa(405) ...(406) Located(407) for(408) the(409) Jet(410) Set(411) ...(412) The(413) best(414) reason(415) to(416) stay(417) at(418) this(419) hotel(420) is(421) because(422) you(423) really(424) ,(425) really(426) like(427) the(428) airport(429) location(430) .(431) And(432) when(433) I(434) say(435) "(436) airport(437) "(438) ,(439) I(440) mean(441) airport(442) .(443) The(444) Radisson(445) is(446) one(447) of(448) two(449) hotels(450) located(451) inside(452) the(453) airport(454) perimeter(455) ((456) the(457) other(458) being(459) the(460) Hilton(461) Garden(462) Inn(463) ,(464) right(465) across(466) the(467) street(468) )(469) .(470) To(471) give(472) you(473) an(474) idea(475) of(476) just(477) how(478) close(479) you(480) are(481) to(482) the(483) airport(484) ,(485) the(486) Radisson(487) 's(488) parking(489) lot(490) is(491) adjacent(492) to(493) the(494) parking(495) garage(496) where(497) the(498) rental(499) cars(500) are(501) located(502) .(503) The(504) hotel(505) does(506) have(507) a(508) shuttle(509) ,(510) but(511) you(512) could(513) also(514) walk(515) to(516) the(517) terminal(518) in(519) less(520) time(521) than(522) you(523) 'd(524) probably(525) spend(526) waiting(527) for(528) the(529) driver(530) to(531) load(532) everything(533) into(534) the(535) van(536) for(537) the(538) journey(539) of(540) 300(541) meters(542) .(543) If(544) you(545) want(546) shuttle(547) service(548) over(549) to(550) the(551) airport(552) ,(553) the(554) shuttles(555) are(556) available(557) 24(558) hours(559) ((560) not(561) a(562) bad(563) idea(564) ,(565) considering(566) that(567) Tulsa(568) is(569) a(570) city(571) that(572) seems(573) to(574) rely(575) more(576) on(577) corporate(578) jet(579) traffic(580) than(581) on(582) scheduled(583) airline(584) service(585) )(586) .(587) Bottom(588) Line(589) ...(590) This(591) is(592) not(593) an(594) exciting(595) hotel(596) .(597) It(598) 's(599) not(600) particularly(601) attractive(602) ,(603) nor(604) luxurious(605) .(606) It(607) 's(608) not(609) convenient(610) to(611) anything(612) other(613) than(614) the(615) Tulsa(616) airport(617) .(618) On(619) the(620) other(621) hand(622) ,(623) it(624) is(625) a(626) good(627) ,(628) servicable(629) hotel(630) with(631) affordable(632) rates(633) .(634) I(635) have(636) no(637) complaints(638) about(639) this(640) property(641) --(642) but(643) no(644) wild(645) fantasies(646) either(647) .(648) I(649) got(650) what(651) I(652) paid(653) for(654) .(655) And(656) speaking(657) of(658) paying(659) ,(660) I(661) scored(662) this(663) room(664) for(665) $41(666) using(667) Hotwire(668) ---(669) about(670) $15(671) less(672) than(673) I(674) could(675) have(676) booked(677) directly(678) through(679) Radisson(680) .(681) At(682) that(683) price(684) ,(685) it(686) 's(687) not(688) a(689) bad(690) deal(691) ,(692) but(693) I(694) would(695) not(696) pay(697) much(698) over(699) $45(700) for(701) this(702) hotel(703) because(704) frankly(705) ,(706) Tulsa(707) is(708) not(709) an(710) expensive(711) market(712) and(713) it(714) 's(715) easy(716) to(717) get(718) around(719) throughout(720) the(721) area(722) ((723) so(724) the(725) airport(726) location(727) is(728) not(729) really(730) very(731) important(732) ---(733) you(734) 'll(735) make(736) the(737) flight(738) no(739) matter(740) where(741) in(742) Tulsa(743) you(744) stay(745) )(746) ,(747) and(748) it(749) 's(750) easy(751) to(752) find(753) good(754) deals(755) in(756) better(757) quality(758) hotels(759) ((760) see(761) my(762) review(763) of(764) the(765) Hilton(766) Southern(767) Hills(768) )(769) .(770) Until(771) next(772) time(773) ,(774) see(775) you(776) on(777) the(778) road(779) .(780) As(781) always(782) ,(783) I(784) 'll(785) be(786) looking(787) for(788) a(789) way(790) to(791) save(792) a(793) buck(794) or(795) two(796) without(797) sacrificing(798) too(799) many(800) creature(801) comforts(802) ...(803) 
+			<opinion featWords="148" feature="bathroom" opWords="150" polarity="+"/>
+			<opinion featWords="148" feature="bathroom" opWords="152" polarity="+"/>
+			<opinion featWords="596" feature="hotel" opWords="593,595" polarity="-"/>
+			<opinion featWords="596" feature="hotel" opWords="600,602" polarity="-" potency="601"/>
+			<opinion feature="hotel" opWords="609,610" polarity="-"/>
+			<opinion featWords="630" feature="hotel" opWords="627" polarity="+"/>
+			<opinion featWords="630" feature="hotel" opWords="629" polarity="+"/>
+			<opinion featWords="633" feature="price" opWords="632" polarity="+"/>
+		</sentence>
+	</text>
+</review>

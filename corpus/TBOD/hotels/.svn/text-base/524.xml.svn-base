@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="524" item="Havelock-Days Inn" rating="2">
+	<title>
+		<sentence id="1">
+			Days(1) Inn(2) Havelock(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Very(1) cheap(2) ,(3) friendly(4) management(5) 
+			<opinion feature="price" opWords="2" polarity="+" potency="1"/>
+			<opinion featWords="5" feature="front desk" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) nickel-and-dime(2) you(3) ,(4) smelly(5) hallways(6) 
+			<opinion featWords="6" feature="lobby" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) no(6) frills(7) ,(8) you(9) found(10) it(11) here(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Especially(1) if(2) you(3) do(4) not(5) mind(6) stale(7) cigarette(8) smoke(9) !(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) the(4) epitome(5) of(6) "(7) you(8) get(9) what(10) you(11) pay(12) for(13) .(14) "(15) We(16) chose(17) to(18) stay(19) here(20) while(21) looking(22) at(23) houses(24) in(25) the(26) area(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) the(3) cheapest(4) joint(5) hands(6) down(7) ,(8) at(9) 35(10) bucks(11) a(12) night(13) with(14) all(15) the(16) discounts(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			My(1) family(2) and(3) I(4) drove(5) straight(6) through(7) from(8) Syracuse(9) -(10) 16(11) hours(12) -(13) and(14) arrived(15) at(16) 4(17) am.(18) When(19) my(20) husband(21) went(22) inside(23) to(24) check(25) in(26) ,(27) the(28) clerk(29) told(30) him(31) that(32) they(33) only(34) had(35) smoking(36) rooms(37) left(38) .(39) 
+		</sentence>
+		<sentence id="4">
+			When(1) he(2) told(3) me(4) that(5) ,(6) I(7) went(8) in(9) and(10) insisted(11) that(12) I(13) would(14) NEVER(15) have(16) reserved(17) a(18) smoking(19) room(20) since(21) we(22) have(23) two(24) young(25) children(26) under(27) 3(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			The(1) clerk(2) then(3) "(4) magically(5) "(6) found(7) a(8) non-smoking(9) room(10) for(11) us(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			When(1) we(2) brought(3) our(4) bags(5) inside(6) ,(7) I(8) realized(9) that(10) there(11) was(12) little(13) difference(14) between(15) smoking(16) and(17) non(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			The(1) hallways(2) ,(3) which(4) were(5) dark(6) and(7) scary(8) ,(9) REEKED(10) of(11) cigarettes(12) .(13) 
+			<opinion featWords="2" feature="lobby" opWords="6" polarity="-"/>
+			<opinion featWords="2" feature="lobby" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			It(1) literally(2) stunk(3) worse(4) than(5) the(6) seediest(7) pool(8) hall(9) I(10) have(11) ever(12) smelled(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			Our(1) room(2) was(3) slightly(4) less(5) stinky(6) ,(7) but(8) nonetheless(9) ...(10) Oh(11) ,(12) and(13) they(14) charged(15) us(16) an(17) extra(18) $5(19) per(20) night(21) for(22) a(23) cot(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			Hoping(1) to(2) make(3) the(4) best(5) of(6) the(7) motel(8) ,(9) since(10) we(11) did(12) not(13) spend(14) much(15) time(16) there(17) anyway(18) ,(19) we(20) decided(21) to(22) take(23) a(24) dip(25) in(26) the(27) pool(28) .(29) 
+		</sentence>
+		<sentence id="11">
+			Although(1) you(2) can(3) not(4) tell(5) from(6) the(7) picture(8) ,(9) the(10) pool(11) is(12) literally(13) right(14) alongside(15) a(16) MAJOR(17) four-lane(18) highway(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			Not(1) exactly(2) a(3) refreshing(4) oasis(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			But(1) the(2) kids(3) loved(4) it(5) .(6) 
+		</sentence>
+		<sentence id="14">
+			And(1) the(2) manager(3) ,(4) an(5) Indian(6) man(7) ,(8) came(9) out(10) to(11) chat(12) with(13) us(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			He(1) showed(2) us(3) his(4) herb(5) garden(6) ((7) which(8) he(9) has(10) growing(11) in(12) pots(13) around(14) the(15) pool(16) )(17) and(18) gave(19) my(20) daughter(21) a(22) nice(23) little(24) sandalwood(25) flower(26) to(27) smell(28) .(29) 
+		</sentence>
+		<sentence id="16">
+			He(1) was(2) incredibly(3) nice(4) ,(5) and(6) I(7) felt(8) badly(9) that(10) his(11) hotel(12) was(13) so(14) ratty(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			But(1) ,(2) he(3) must(4) get(5) customers(6) -(7) he(8) got(9) us(10) !(11) 
+		</sentence>
+		<sentence id="18">
+			The(1) front(2) desk(3) was(4) not(5) exactly(6) helpful(7) ,(8) as(9) they(10) had(11) no(12) local(13) papers(14) or(15) maps(16) .(17) 
+			<opinion featWords="2,3" feature="front desk" opWords="5,7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="19">
+			I(1) expected(2) they(3) would(4) have(5) these(6) items(7) as(8) a(9) bare(10) minimum(11) .(12) 
+		</sentence>
+		<sentence id="20">
+			Nope(1) !(2) 
+		</sentence>
+		<sentence id="21">
+			Only(1) brochures(2) from(3) advertised(4) locations(5) -(6) like(7) deep(8) sea(9) fishing(10) ,(11) etc(12) ...(13) On(14) one(15) side(16) of(17) the(18) Days(19) Inn(20) is(21) a(22) small(23) liquor(24) store(25) .(26) 
+		</sentence>
+		<sentence id="22">
+			On(1) the(2) other(3) side(4) is(5) a(6) gas(7) station(8) .(9) 
+		</sentence>
+		<sentence id="23">
+			Across(1) Highway(2) 70(3) ,(4) there(5) is(6) a(7) large(8) strip(9) mall(10) with(11) a(12) grocery(13) store(14) and(15) lots(16) of(17) other(18) shops(19) .(20) 
+		</sentence>
+		<sentence id="24">
+			In(1) the(2) strip(3) mall(4) is(5) a(6) Mexican(7) restaurant(8) ,(9) I(10) believe(11) called(12) "(13) El(14) Cerro(15) Grande(16) ,(17) "(18) which(19) is(20) delicious(21) .(22) 
+		</sentence>
+		<sentence id="25">
+			It(1) is(2) 100(3) %(4) authentic(5) ,(6) and(7) worth(8) the(9) trip(10) when(11) you(12) are(13) in(14) Havelock(15) .(16) 
+		</sentence>
+		<sentence id="26">
+			It(1) was(2) especially(3) convenient(4) for(5) us(6) at(7) the(8) Days(9) Inn(10) ,(11) because(12) my(13) husband(14) just(15) ran(16) across(17) the(18) highway(19) to(20) pick(21) up(22) our(23) food(24) !(25) 
+		</sentence>
+		<sentence id="27">
+			It(1) is(2) literally(3) so(4) close(5) ,(6) that(7) it(8) would(9) take(10) longer(11) to(12) drive(13) there(14) than(15) to(16) walk(17) .(18) 
+		</sentence>
+		<sentence id="28">
+			If(1) you(2) are(3) a(4) budget(5) traveler(6) looking(7) for(8) a(9) deal(10) ,(11) this(12) is(13) the(14) place(15) for(16) you(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			If(1) I(2) was(3) still(4) in(5) college(6) on(7) a(8) road(9) trip(10) ,(11) I(12) am(13) sure(14) the(15) Days(16) Inn(17) would(18) have(19) fit(20) the(21) bill(22) .(23) 
+		</sentence>
+		<sentence id="30">
+			But(1) I(2) wish(3) I(4) had(5) shelled(6) out(7) a(8) little(9) more(10) for(11) my(12) family(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			The(1) most(2) depressing(3) part(4) was(5) arriving(6) on(7) Highway(8) 70(9) -(10) you(11) pass(12) a(13) nice(14) Holiday(15) Inn(16) ,(17) some(18) other(19) lovely(20) new(21) hotels(22) ...(23) and(24) then(25) there(26) 's(27) the(28) Days(29) Inn(30) ,(31) its(32) 1970(33) 's(34) style(35) yellow(36) awnings(37) shining(38) like(39) a(40) beacon(41) in(42) the(43) night(44) .(45) 
+		</sentence>
+		<sentence id="32">
+			In(1) fact(2) ,(3) when(4) we(5) sheepishly(6) told(7) our(8) realtor(9) we(10) were(11) staying(12) there(13) ,(14) she(15) said(16) ,(17) "(18) My(19) god(20) ,(21) you(22) should(23) have(24) called(25) me(26) and(27) I(28) would(29) have(30) recommended(31) a(32) good(33) hotel(34) .(35) "(36) 
+			<opinion featWords="34" feature="hotel" opWords="33" polarity="+"/>
+		</sentence>
+	</text>
+</review>

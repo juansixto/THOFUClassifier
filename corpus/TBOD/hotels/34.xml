@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="34" item="Toftrees Rst And 4 Star Golf Club" rating="1">
+	<title>
+		<sentence id="1">
+			Used(1) to(2) be(3) a(4) great(5) hotel(6) 
+			<opinion featWords="6" feature="hotel" opWords="5" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) ,(2) unless(3) you(4) golf(5) and(6) do(7) not(8) care(9) where(10) you(11) sleep(12) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Outdated(1) ,(2) our(3) rooms(4) were(5) filthy(6) ,(7) poor(8) staff(9) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="rooms" opWords="6" polarity="-"/>
+			<opinion featWords="9" feature="staff" opWords="8" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) worn(2) out(3) hotel(4) has(5) seen(6) better(7) days(8) and(9) is(10) in(11) desperate(12) need(13) of(14) remodeling(15) .(16) 
+			<opinion featWords="4" feature="hotel" opWords="2,3" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			The(1) carpet(2) ,(3) bed(4) coverings(5) curtains(6) and(7) bathrooms(8) were(9) filthy(10) .(11) 
+			<opinion featWords="2" feature="carpets" opWords="10" polarity="-"/>
+			<opinion featWords="4,5" feature="bedding" opWords="10" polarity="-"/>
+			<opinion featWords="8" feature="bathroom" opWords="10" polarity="-"/>
+		</sentence>
+	</text>
+</review>

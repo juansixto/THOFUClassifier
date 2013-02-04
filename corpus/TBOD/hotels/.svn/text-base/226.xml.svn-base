@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="226" item="Historic Franklin Hotel" rating="1">
+	<title>
+		<sentence id="1">
+			HFH(1) :(2) This(3) place(4) should(5) be(6) history(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Food(1) ,(2) small(3) rooms(4) ,(5) poor(6) atmosphere(7) 
+			<opinion featWords="4" feature="rooms" opWords="3" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			---(1) see(2) the(3) review(4) ---(5) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Two(1) thirds(2) of(3) the(4) way(5) through(6) my(7) Contiki(8) trip(9) last(10) summer(11) ((12) from(13) New(14) York(15) to(16) Anaheim(17) )(18) ,(19) we(20) had(21) a(22) two-night(23) stop(24) in(25) Deadwood(26) ,(27) South(28) Dakota(29) .(30) 
+		</sentence>
+		<sentence id="2">
+			Our(1) hotel(2) for(3) the(4) period(5) was(6) the(7) Historic(8) Franklin(9) Hotel(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) a(3) long(4) day(5) on(6) the(7) bus(8) prior(9) to(10) arriving(11) in(12) Deadwood(13) late(14) in(15) the(16) afternoon(17) of(18) June(19) 17th(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			On(1) the(2) way(3) there(4) we(5) watched(6) what(7) I(8) believe(9) was(10) the(11) second(12) or(13) third(14) episode(15) of(16) Deadwood(17) ((18) the(19) HBO(20) TV(21) series(22) )(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			After(1) seeing(2) that(3) ,(4) I(5) could(6) not(7) wait(8) to(9) arrive(10) .(11) 
+		</sentence>
+		<sentence id="6">
+			This(1) was(2) going(3) to(4) be(5) like(6) a(7) Mini(8) Vegas(9) !(10) 
+		</sentence>
+		<sentence id="7">
+			Alas(1) ,(2) both(3) the(4) town(5) and(6) the(7) hotel(8) did(9) not(10) live(11) up(12) to(13) my(14) expectations(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			My(1) experience(2) started(3) out(4) quite(5) well(6) with(7) the(8) Historic(9) Franklin(10) Hotel(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			A(1) few(2) minutes(3) after(4) we(5) got(6) there(7) the(8) group(9) was(10) herded(11) into(12) the(13) bar(14) where(15) everyone(16) was(17) given(18) a(19) drink(20) and(21) a(22) brief(23) speech(24) by(25) the(26) owner(27) of(28) the(29) hotel(30) .(31) 
+		</sentence>
+		<sentence id="10">
+			He(1) gave(2) us(3) a(4) brief(5) history(6) of(7) Deadwood(8) ,(9) how(10) the(11) hotel(12) had(13) come(14) into(15) existence(16) and(17) how(18) long(19) he(20) 'd(21) been(22) running(23) the(24) place(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			I(1) do(2) not(3) remember(4) a(5) single(6) word(7) .(8) :(9) )(10) The(11) room(12) that(13) I(14) shared(15) with(16) my(17) roomie(18) Bruce(19) ,(20) an(21) Aussie(22) ,(23) was(24) cramped(25) to(26) say(27) the(28) least(29) .(30) 
+			<opinion featWords="12" feature="rooms" opWords="25" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			Two(1) small(2) beds(3) and(4) a(5) small(6) TV(7) were(8) pretty(9) much(10) all(11) there(12) was(13) .(14) 
+			<opinion featWords="3" feature="bed" opWords="2" polarity="-"/>
+			<opinion featWords="7" feature="tv" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) washroom(2) was(3) also(4) quite(5) small(6) .(7) 
+			<opinion featWords="2" feature="bathroom" opWords="6" polarity="-" potency="5"/>
+		</sentence>
+		<sentence id="14">
+			If(1) I(2) remember(3) correctly(4) ,(5) according(6) to(7) the(8) owner(9) ,(10) each(11) room(12) in(13) the(14) hotel(15) had(16) a(17) different(18) theme(19) .(20) 
+		</sentence>
+		<sentence id="15">
+			Whatever(1) the(2) theme(3) of(4) our(5) room(6) was(7) supposed(8) to(9) be(10) ,(11) I(12) did(13) not(14) like(15) it(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			If(1) there(2) 's(3) one(4) thing(5) I(6) liked(7) about(8) the(9) hotel(10) ,(11) it(12) was(13) the(14) fact(15) that(16) there(17) was(18) quite(19) a(20) few(21) TV(22) channels(23) to(24) choose(25) from(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			I(1) remember(2) no(3) fewer(4) than(5) fifteen(6) choices(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			Besides(1) that(2) ,(3) the(4) HFH(5) was(6) centrally(7) located(8) on(9) the(10) main(11) street(12) of(13) Deadwood(14) .(15) 
+		</sentence>
+		<sentence id="19">
+			All(1) the(2) bars(3) ,(4) shops(5) and(6) small(7) casinos(8) were(9) on(10) the(11) same(12) street(13) .(14) 
+			<opinion featWords="8" feature="casino" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			I(1) think(2) the(3) same(4) can(5) be(6) said(7) for(8) the(9) other(10) hotels(11) ,(12) but(13) I(14) 'm(15) not(16) certain(17) .(18) 
+		</sentence>
+		<sentence id="21">
+			While(1) we(2) were(3) in(4) Deadwood(5) they(6) were(7) having(8) a(9) special(10) "(11) Wild(12) Bill(13) Days(14) "(15) celebration(16) or(17) something(18) of(19) that(20) nature(21) .(22) 
+		</sentence>
+		<sentence id="22">
+			There(1) was(2) certainly(3) plenty(4) of(5) visitors(6) there(7) ,(8) and(9) the(10) town(11) ,(12) if(13) you(14) can(15) call(16) it(17) that(18) ,(19) was(20) packed(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			The(1) hotel(2) had(3) a(4) porch(5) on(6) the(7) second(8) level(9) ,(10) and(11) in(12) the(13) evenings(14) you(15) could(16) hardly(17) walk(18) from(19) one(20) end(21) to(22) the(23) other(24) there(25) was(26) so(27) many(28) people(29) .(30) 
+		</sentence>
+		<sentence id="24">
+			Also(1) ,(2) just(3) outside(4) the(5) HFH(6) 's(7) main(8) entrance(9) there(10) were(11) two(12) rocking(13) chairs(14) ,(15) something(16) that(17) really(18) antiquated(19) the(20) building(21) in(22) my(23) mind(24) .(25) 
+		</sentence>
+		<sentence id="25">
+			As(1) you(2) step(3) inside(4) the(5) Historic(6) Franklin(7) 's(8) front(9) doors(10) ,(11) you(12) 're(13) greeted(14) with(15) a(16) bunch(17) of(18) slot(19) machines(20) on(21) each(22) side(23) ,(24) and(25) the(26) reception(27) area(28) straight(29) ahead(30) .(31) 
+		</sentence>
+		<sentence id="26">
+			Walk(1) up(2) to(3) the(4) reception(5) area(6) and(7) make(8) a(9) right(10) and(11) you(12) 'll(13) enter(14) the(15) bar(16) .(17) 
+		</sentence>
+		<sentence id="27">
+			If(1) you(2) head(3) downstairs(4) you(5) 'll(6) find(7) the(8) small(9) card(10) game(11) room(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			Take(1) a(2) left(3) in(4) the(5) main(6) lobby(7) and(8) you(9) 'll(10) head(11) right(12) into(13) the(14) dining(15) area(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			Breakfasts(1) were(2) a(3) buffet(4) while(5) we(6) were(7) there(8) ,(9) and(10) were(11) included(12) .(13) 
+		</sentence>
+		<sentence id="30">
+			This(1) might(2) not(3) be(4) the(5) case(6) for(7) normal(8) visitors(9) -(10) again(11) ,(12) we(13) were(14) a(15) group(16) of(17) about(18) 40(19) Contiki(20) vacationers(21) ((22) mostly(23) Australians(24) )(25) .(26) 
+		</sentence>
+		<sentence id="31">
+			For(1) dinner(2) they(3) turned(4) the(5) place(6) became(7) a(8) restaurant(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			I(1) remember(2) there(3) being(4) a(5) choice(6) of(7) steak(8) bits(9) or(10) some(11) type(12) of(13) pasta(14) .(15) 
+		</sentence>
+		<sentence id="33">
+			Being(1) an(2) enthusiastic(3) meat(4) eater(5) I(6) naturally(7) chose(8) the(9) steak(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			I(1) did(2) not(3) eat(4) much(5) .(6) 
+		</sentence>
+		<sentence id="35">
+			It(1) was(2) one(3) of(4) the(5) worst(6) meals(7) on(8) the(9) whole(10) trip(11) .(12) 
+			<opinion featWords="7" feature="food" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="36">
+			From(1) the(2) way(3) it(4) tasted(5) and(6) looked(7) ,(8) I(9) do(10) not(11) even(12) think(13) it(14) was(15) steak(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			The(1) salad(2) served(3) with(4) the(5) meal(6) was(7) decent(8) enough(9) ,(10) and(11) the(12) water(13) they(14) gave(15) me(16) tasted(17) like(18) water(19) ,(20) so(21) I(22) 'll(23) give(24) them(25) points(26) for(27) that(28) .(29) 
+			<opinion featWords="6" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="38">
+			In(1) the(2) basement(3) of(4) the(5) hotel(6) ,(7) I(8) found(9) a(10) room(11) not(12) much(13) larger(14) than(15) your(16) average(17) master(18) bedroom(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			It(1) was(2) home(3) to(4) about(5) four(6) card(7) tables(8) .(9) 
+		</sentence>
+		<sentence id="40">
+			The(1) table(2) where(3) they(4) had(5) the(6) poker(7) game(8) going(9) could(10) only(11) handle(12) about(13) 6(14) or(15) 7(16) people(17) maximum(18) ,(19) if(20) memory(21) serves(22) .(23) 
+		</sentence>
+		<sentence id="41">
+			On(1) the(2) one(3) or(4) two(5) occasions(6) that(7) I(8) went(9) down(10) there(11) ,(12) the(13) room(14) was(15) filled(16) with(17) smoke(18) .(19) 
+		</sentence>
+		<sentence id="42">
+			Seeing(1) as(2) I(3) do(4) not(5) smoke(6) -(7) never(8) have(9) and(10) never(11) will(12) -(13) and(14) do(15) not(16) like(17) inhaling(18) the(19) stuff(20) I(21) did(22) not(23) stay(24) long(25) .(26) 
+		</sentence>
+		<sentence id="43">
+			My(1) British(2) friend(3) who(4) was(5) a(6) poker(7) aficianado(8) there(9) was(10) actually(11) chosen(12) to(13) spin(14) the(15) HFH(16) 's(17) wheel(18) of(19) fortune(20) .(21) 
+		</sentence>
+		<sentence id="44">
+			He(1) ended(2) up(3) with(4) $100(5) for(6) his(7) troubles(8) .(9) 
+		</sentence>
+		<sentence id="45">
+			Overall(1) ,(2) the(3) Historic(4) Franklin(5) Hotel(6) just(7) was(8) not(9) my(10) cup(11) of(12) tea(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			If(1) I(2) had(3) the(4) money(5) to(6) invest(7) in(8) a(9) town(10) like(11) this(12) ,(13) the(14) first(15) thing(16) I(17) would(18) do(19) is(20) either(21) completely(22) redesign(23) the(24) hotel(25) or(26) smash(27) it(28) down(29) and(30) start(31) from(32) scratch(33) .(34) 
+		</sentence>
+		<sentence id="47">
+			You(1) might(2) find(3) the(4) HFH(5) to(6) be(7) the(8) cheapest(9) hotel(10) in(11) town(12) ,(13) of(14) that(15) I(16) 'm(17) not(18) sure(19) -(20) but(21) if(22) that(23) 's(24) the(25) case(26) you(27) really(28) get(29) what(30) you(31) pay(32) for(33) .(34) 
+			<opinion featWords="10" feature="hotel" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="48">
+			The(1) food(2) ,(3) the(4) rooms(5) and(6) the(7) atmosphere(8) there(9) left(10) a(11) sour(12) taste(13) in(14) my(15) mouth(16) .(17) 
+		</sentence>
+		<sentence id="49">
+			You(1) can(2) find(3) better(4) gaming(5) rooms(6) in(7) the(8) town(9) ,(10) and(11) better(12) bars(13) /(14) nightclubs(15) /(16) nightspots(17) as(18) well(19) .(20) 
+		</sentence>
+		<sentence id="50">
+			The(1) fact(2) that(3) there(4) 's(5) a(6) Holiday(7) Inn(8) ,(9) Comfort(10) Inn(11) and(12) a(13) Super(14) 8(15) among(16) other(17) hotels(18) should(19) mean(20) that(21) you(22) 'll(23) find(24) rooms(25) elsewhere(26) .(27) 
+		</sentence>
+		<sentence id="51">
+			Unless(1) you(2) have(3) no(4) other(5) choice(6) ,(7) avoid(8) the(9) Historic(10) Franklin(11) .(12) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="416" item="The Westin Long Beach" rating="4">
+	<title>
+		<sentence id="1">
+			Long(1) List(2) of(3) Things(4) to(5) Do(6) at(7) the(8) Westin(9) Long(10) Beach(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Heavenly(1) Beds(2) ,(3) helpful(4) and(5) friendly(6) staff(7) 
+			<opinion featWords="7" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Depending(1) on(2) when(3) you(4) book(5) ,(6) can(7) get(8) pricey(9) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Westin(2) Long(3) Beach(4) is(5) a(6) clean(7) ,(8) full(9) service(10) hotel(11) with(12) many(13) attractions(14) nearby(15) 
+			<opinion featWords="11" feature="hotel" opWords="7" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			On(1) a(2) recent(3) trip(4) to(5) visit(6) family(7) in(8) Southern(9) California(10) ,(11) we(12) found(13) a(14) need(15) for(16) a(17) hotel(18) room(19) in(20) Long(21) Beach(22) .(23) 
+		</sentence>
+		<sentence id="2">
+			The(1) Westin(2) Long(3) Beach(4) was(5) a(6) great(7) option(8) and(9) suited(10) our(11) traveling(12) needs(13) perfectly(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			A(1) full(2) service(3) hotel(4) in(5) the(6) heart(7) of(8) downtown(9) Long(10) Beach(11) ,(12) the(13) Westin(14) provided(15) us(16) with(17) not(18) only(19) their(20) Heavenly(21) Bed(22) ,(23) but(24) also(25) an(26) array(27) of(28) amenities(29) that(30) as(31) a(32) family(33) traveling(34) with(35) a(36) two(37) year(38) old(39) proved(40) invaluable(41) .(42) 
+		</sentence>
+		<sentence id="4">
+			Arrival(1) The(2) Westin(3) Long(4) Beach(5) offers(6) the(7) option(8) to(9) self(10) park(11) ((12) $10(13) )(14) on(15) two(16) floors(17) below(18) the(19) lobby(20) level(21) or(22) valet(23) parking(24) for(25) $14(26) per(27) day(28) .(29) 
+		</sentence>
+		<sentence id="5">
+			We(1) found(2) for(3) the(4) price(5) difference(6) ,(7) it(8) was(9) easier(10) to(11) have(12) someone(13) else(14) park(15) our(16) car(17) and(18) the(19) attendants(20) were(21) fast(22) and(23) courteous(24) .(25) 
+		</sentence>
+		<sentence id="6">
+			The(1) lobby(2) area(3) is(4) huge(5) .(6) 
+			<opinion featWords="3" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Plenty(1) of(2) seating(3) provides(4) a(5) nice(6) place(7) for(8) meeting(9) up(10) before(11) heading(12) out(13) and(14) Westin(15) comforts(16) are(17) not(18) lost(19) here(20) ,(21) with(22) a(23) pleasing(24) scent(25) wafting(26) through(27) the(28) lobby(29) .(30) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			A(1) large(2) front(3) desk(4) gave(5) us(6) access(7) to(8) attendants(9) who(10) were(11) efficient(12) and(13) very(14) friendly(15) -(16) always(17) a(18) plus(19) .(20) 
+			<opinion featWords="3,4" feature="front desk" opWords="2" polarity="+"/>
+			<opinion featWords="3,4" feature="front desk" opWords="12" polarity="+"/>
+			<opinion featWords="3,4" feature="front desk" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="9">
+			There(1) were(2) also(3) computer(4) terminals(5) available(6) for(7) use(8) ((9) for(10) a(11) fee(12) )(13) that(14) had(15) printers(16) attached(17) to(18) them(19) for(20) printing(21) out(22) documents(23) such(24) as(25) boarding(26) passes(27) .(28) 
+		</sentence>
+		<sentence id="10">
+			Rooms(1) Our(2) king(3) sized(4) room(5) was(6) pretty(7) average(8) in(9) square(10) footage(11) .(12) 
+			<opinion featWords="5" feature="rooms" opWords="8" polarity="-" potency="7"/>
+		</sentence>
+		<sentence id="11">
+			It(1) had(2) enough(3) room(4) for(5) two(6) adults(7) and(8) one(9) toddler(10) not(11) to(12) feel(13) too(14) crowded(15) ,(16) but(17) I(18) would(19) not(20) have(21) complained(22) about(23) a(24) little(25) extra(26) square(27) footage(28) ,(29) that(30) s(31) for(32) sure(33) .(34) 
+		</sentence>
+		<sentence id="12">
+			The(1) 32(2) inch(3) flat(4) screen(5) television(6) was(7) on(8) a(9) bureau(10) that(11) was(12) two(13) drawers(14) high(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			A(1) desk(2) provided(3) adequate(4) working(5) space(6) and(7) a(8) lounge(9) chair(10) gave(11) us(12) additional(13) seating(14) .(15) 
+		</sentence>
+		<sentence id="14">
+			We(1) put(2) a(3) baby(4) crib(5) against(6) the(7) wall(8) near(9) the(10) window(11) and(12) had(13) plenty(14) of(15) space(16) around(17) it(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			The(1) Heavenly(2) Bed(3) was(4) super(5) comfy(6) ,(7) with(8) extra(9) pillows(10) and(11) a(12) down(13) comforter(14) to(15) make(16) everything(17) that(18) much(19) more(20) soft(21) and(22) cozy(23) .(24) 
+		</sentence>
+		<sentence id="16">
+			Luckily(1) ,(2) we(3) were(4) on(5) vacation(6) and(7) did(8) 'nt(9) have(10) to(11) get(12) up(13) too(14) early(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			This(1) is(2) the(3) kind(4) of(5) bed(6) that(7) makes(8) you(9) want(10) to(11) stay(12) in(13) your(14) pjs(15) all(16) day(17) !(18) 
+		</sentence>
+		<sentence id="18">
+			The(1) bathroom(2) was(3) very(4) nicely(5) sized(6) ,(7) with(8) a(9) coffee(10) maker(11) ((12) Starbucks(13) coffee(14) was(15) served(16) )(17) and(18) the(19) standard(20) curved(21) shower(22) rod(23) made(24) the(25) bath(26) seem(27) bigger(28) than(29) it(30) probably(31) was(32) .(33) 
+			<opinion featWords="2" feature="bathroom" opWords="5,6" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) lighting(2) was(3) great(4) ,(5) perfect(6) for(7) applying(8) make-up(9) .(10) 
+		</sentence>
+		<sentence id="20">
+			A(1) hair(2) dryer(3) was(4) also(5) in(6) the(7) bathroom(8) and(9) the(10) Westin(11) collection(12) of(13) shampoo(14) ,(15) conditioner(16) ,(17) lotion(18) and(19) cold(20) cream(21) bar(22) soap(23) was(24) also(25) provided(26) .(27) 
+		</sentence>
+		<sentence id="21">
+			Every(1) night(2) ,(3) we(4) had(5) turn(6) down(7) service(8) with(9) milk(10) chocolate(11) left(12) on(13) our(14) pillow(15) and(16) our(17) room(18) freshened(19) up(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			It(1) was(2) great(3) to(4) have(5) this(6) service(7) ,(8) as(9) being(10) in(11) the(12) same(13) hotel(14) room(15) for(16) more(17) than(18) a(19) couple(20) of(21) days(22) really(23) makes(24) you(25) feel(26) like(27) you(28) might(29) be(30) going(31) slightly(32) stir(33) crazy(34) and(35) the(36) tidying(37) up(38) helped(39) relieve(40) some(41) of(42) that(43) stress(44) .(45) 
+		</sentence>
+		<sentence id="23">
+			Restaurants(1) /(2) Bars(3) /(4) Room(5) Service(6) We(7) had(8) room(9) service(10) for(11) breakfast(12) and(13) pool(14) side(15) -(16) every(17) time(18) ,(19) it(20) was(21) fast(22) and(23) the(24) servers(25) always(26) had(27) a(28) smile(29) on(30) their(31) faces(32) .(33) 
+			<opinion featWords="9,10" feature="room service" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			It(1) was(2) a(3) little(4) on(5) the(6) expensive(7) side(8) ((9) not(10) unexpected(11) for(12) a(13) Westin(14) )(15) ,(16) but(17) the(18) smile(19) on(20) my(21) little(22) girl(23) s(24) face(25) when(26) she(27) got(28) waffles(29) with(30) fresh(31) berries(32) and(33) whipped(34) cream(35) was(36) worth(37) it(38) !(39) 
+		</sentence>
+		<sentence id="25">
+			The(1) menu(2) was(3) fairly(4) hotel(5) standard(6) ,(7) with(8) Caesar(9) salads(10) ,(11) steaks(12) ,(13) chicken(14) dishes(15) and(16) a(17) variety(18) of(19) appetizers(20) and(21) desserts(22) .(23) 
+		</sentence>
+		<sentence id="26">
+			The(1) hotel(2) bar(3) and(4) restaurant(5) were(6) right(7) off(8) of(9) the(10) lobby(11) .(12) 
+		</sentence>
+		<sentence id="27">
+			We(1) did(2) not(3) eat(4) at(5) the(6) restaurant(7) ,(8) but(9) it(10) shared(11) a(12) kitchen(13) with(14) room(15) service(16) ,(17) so(18) I(19) do(20) know(21) that(22) the(23) quality(24) of(25) the(26) food(27) was(28) good(29) .(30) 
+			<opinion featWords="27" feature="food" opWords="29" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			We(1) looked(2) at(3) the(4) menu(5) and(6) again(7) ,(8) it(9) was(10) pretty(11) much(12) hotel(13) standard(14) ((15) meaning(16) nothing(17) too(18) out(19) of(20) the(21) ordinary(22) for(23) menu(24) items(25) ,(26) but(27) slightly(28) higher(29) standards(30) than(31) average(32) chain(33) restaurants(34) )(35) .(36) 
+		</sentence>
+		<sentence id="29">
+			My(1) husband(2) liked(3) the(4) bar(5) ,(6) which(7) always(8) seemed(9) to(10) be(11) airing(12) a(13) sporting(14) event(15) .(16) 
+		</sentence>
+		<sentence id="30">
+			The(1) drinks(2) were(3) good(4) and(5) they(6) had(7) a(8) decent(9) ,(10) if(11) not(12) slightly(13) overpriced(14) ,(15) wine(16) list(17) .(18) 
+			<opinion featWords="2" feature="drinks" opWords="4" polarity="+"/>
+			<opinion feature="price" opWords="14" polarity="-"/>
+		</sentence>
+		<sentence id="31">
+			Other(1) Amenities(2) The(3) fitness(4) room(5) ,(6) part(7) of(8) the(9) Westin(10) Workout(11) is(12) decent(13) ((14) by(15) hotel(16) standards(17) )(18) ,(19) although(20) we(21) were(22) on(23) vacation(24) ,(25) so(26) I(27) did(28) 'nt(29) bother(30) working(31) out(32) ((33) shh(34) ,(35) do(36) 'nt(37) tell(38) anyone(39) !(40) )(41) .(42) 
+		</sentence>
+		<sentence id="32">
+			We(1) did(2) use(3) the(4) outdoor(5) pool(6) ,(7) which(8) was(9) supposed(10) to(11) be(12) heated(13) ,(14) but(15) was(16) a(17) little(18) too(19) cold(20) for(21) me(22) .(23) 
+		</sentence>
+		<sentence id="33">
+			It(1) was(2) clean(3) though(4) ,(5) as(6) was(7) the(8) hot(9) tub(10) ,(11) that(12) we(13) did(14) use(15) .(16) 
+		</sentence>
+		<sentence id="34">
+			There(1) were(2) several(3) tables(4) with(5) umbrellas(6) and(7) other(8) lounge(9) chairs(10) .(11) 
+		</sentence>
+		<sentence id="35">
+			A(1) house(2) phone(3) outside(4) also(5) had(6) a(7) menu(8) nearby(9) to(10) order(11) drinks(12) and(13) food(14) to(15) be(16) served(17) poolside(18) .(19) 
+		</sentence>
+		<sentence id="36">
+			Although(1) it(2) was(3) 'nt(4) cheap(5) ,(6) it(7) sure(8) was(9) nice(10) to(11) be(12) served(13) outside(14) .(15) 
+		</sentence>
+		<sentence id="37">
+			There(1) was(2) a(3) gift(4) shop(5) with(6) items(7) that(8) you(9) might(10) find(11) in(12) a(13) convenience(14) store(15) as(16) well(17) as(18) souvenir(19) items(20) .(21) 
+		</sentence>
+		<sentence id="38">
+			A(1) business(2) center(3) was(4) also(5) available(6) for(7) guest(8) use(9) ,(10) in(11) addition(12) to(13) the(14) computers(15) available(16) in(17) the(18) lobby(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			Nearby(1) Almost(2) right(3) across(4) the(5) street(6) from(7) the(8) Westin(9) Long(10) Beach(11) is(12) the(13) Aquarium(14) of(15) the(16) Pacific(17) and(18) the(19) Long(20) Beach(21) Convention(22) Center(23) and(24) within(25) a(26) 10(27) minute(28) drive(29) is(30) the(31) Queen(32) Mary(33) ship(34) /(35) hotel(36) .(37) 
+		</sentence>
+		<sentence id="40">
+			The(1) San(2) Pedro(3) cruise(4) terminal(5) is(6) about(7) 3(8) miles(9) away(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			Many(1) other(2) restaurants(3) are(4) nearby(5) and(6) overall(7) the(8) hotel(9) is(10) in(11) a(12) nice(13) location(14) .(15) 
+			<opinion featWords="14" feature="place" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="42">
+			It(1) is(2) easily(3) accessible(4) from(5) the(6) freeways(7) ,(8) but(9) not(10) so(11) close(12) you(13) feel(14) like(15) you(16) might(17) be(18) run(19) over(20) !(21) !(22) 
+			<opinion featRef="place" featWords="1" feature="place" opWords="3,4" polarity="+"/>
+		</sentence>
+		<sentence id="43">
+			Overall(1) Our(2) week(3) long(4) stay(5) at(6) the(7) Westin(8) Long(9) Beach(10) was(11) a(12) very(13) pleasant(14) one(15) .(16) 
+		</sentence>
+		<sentence id="44">
+			The(1) entire(2) hotel(3) is(4) smoke(5) free(6) and(7) everything(8) was(9) kept(10) very(11) clean(12) .(13) 
+			<opinion featWords="3" feature="hotel" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="45">
+			Everyone(1) was(2) very(3) friendly(4) and(5) helpful(6) .(7) 
+			<opinion featRef="staff" featWords="1" feature="staff" opWords="4" polarity="+" potency="3"/>
+			<opinion featRef="staff" featWords="1" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="46">
+			A(1) few(2) days(3) that(4) we(5) were(6) there(7) were(8) rainy(9) and(10) they(11) provided(12) us(13) with(14) umbrellas(15) for(16) the(17) day(18) .(19) 
+		</sentence>
+		<sentence id="47">
+			The(1) valet(2) attendants(3) and(4) bellmen(5) were(6) always(7) smiling(8) and(9) the(10) front(11) desk(12) was(13) very(14) willing(15) to(16) accommodate(17) us(18) ,(19) which(20) was(21) especially(22) nice(23) as(24) we(25) were(26) traveling(27) with(28) a(29) little(30) one(31) .(32) 
+		</sentence>
+		<sentence id="48">
+			I(1) would(2) definitely(3) stay(4) at(5) the(6) Westin(7) Long(8) Beach(9) again(10) and(11) would(12) recommend(13) this(14) hotel(15) to(16) anyone(17) staying(18) in(19) the(20) Long(21) Beach(22) area(23) .(24) 
+		</sentence>
+		<sentence id="49">
+			Rates(1) seem(2) to(3) average(4) around(5) $230-260(6) a(7) night(8) .(9) 
+		</sentence>
+	</text>
+</review>

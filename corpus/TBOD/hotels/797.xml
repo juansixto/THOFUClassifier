@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="797" item="Ritz Carlton San Francisco" rating="5">
+	<title>
+		<sentence id="1">
+			The(1) best(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			it(1) 's(2) sublime(3) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			EXPENSIVE(1) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) place(2) is(3) perfectly(4) elegant(5) .(6) 
+			<opinion featWords="2" feature="place" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="2">
+			The(1) food(2) is(3) fabulous(4) and(5) the(6) service(7) is(8) outstanding(9) .(10) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="service" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			But(1) it(2) ought(3) to(4) be(5) for(6) what(7) one(8) pays(9) for(10) it(11) .(12) 
+		</sentence>
+	</text>
+</review>

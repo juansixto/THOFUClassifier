@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="938" item="Shangri-La Bangkok" rating="5">
+	<title>
+		<sentence id="1">
+			Amazing(1) Shangri-la(2) !(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Striking(1) views(2) ,(3) great(4) rooms(5) ,(6) and(7) warm(8) service(9) -(10) Asian(11) hospitality(12) at(13) its(14) best(15) !(16) 
+			<opinion featWords="9" feature="service" opWords="8" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="view" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) food(2) outlets(3) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Shangri-la(1) Hotel(2) Bangkok(3) is(4) a(5) dream(6) accomodation(7) made(8) more(9) special(10) by(11) its(12) topnotch(13) service(14) and(15) more(16) accessible(17) with(18) its(19) practical(20) accessibility(21) to(22) almost(23) all(24) major(25) points(26) in(27) the(28) city(29) .(30) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) 've(2) always(3) thought(4) that(5) Asians(6) are(7) among(8) the(9) most(10) discerning(11) travellers(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) been(3) to(4) practically(5) all(6) the(7) major(8) capitals(9) around(10) the(11) world(12) ,(13) but(14) nothing(15) comes(16) close(17) to(18) the(19) kind(20) of(21) warmth(22) and(23) hospitality(24) that(25) hotels(26) in(27) this(28) continent(29) can(30) offer(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			Being(1) an(2) Asian(3) myself(4) makes(5) me(6) feel(7) proud(8) that(9) every(10) country(11) in(12) this(13) region(14) takes(15) the(16) extra(17) mile(18) in(19) insuring(20) quality(21) service(22) to(23) all(24) its(25) guests(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			As(1) a(2) result(3) ,(4) tourists(5) from(6) Europe(7) ,(8) the(9) Americas(10) ,(11) Australia(12) are(13) truly(14) pampered(15) to(16) no(17) end(18) ,(19) just(20) as(21) I(22) always(23) get(24) to(25) be(26) treated(27) like(28) a(29) VIP(30) client(31) everytime(32) I(33) visit(34) Thailand(35) ,(36) Indonesia(37) ,(38) China(39) ,(40) Singapore(41) ,(42) Korea(43) ,(44) and(45) whenever(46) I(47) stay(48) at(49) the(50) hotels(51) of(52) my(53) home(54) country(55) ,(56) the(57) Philippines(58) .(59) 
+		</sentence>
+		<sentence id="5">
+			Thailand(1) ,(2) though(3) ,(4) can(5) lay(6) claim(7) to(8) being(9) Best(10) in(11) Asia(12) in(13) terms(14) of(15) hospitality(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			During(1) my(2) last(3) visit(4) to(5) Bangkok(6) ,(7) I(8) decided(9) to(10) stay(11) at(12) the(13) Shangri-la(14) Hotel(15) inspite(16) of(17) the(18) obviously(19) steep(20) price(21) I(22) have(23) to(24) pay(25) for(26) such(27) a(28) luxury(29) accomodation(30) .(31) 
+			<opinion featWords="21" feature="price" opWords="20" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			But(1) as(2) I(3) was(4) fortunate(5) enough(6) to(7) come(8) across(9) a(10) great(11) deal(12) on(13) the(14) internet(15) offering(16) this(17) property(18) for(19) less(20) than(21) US$100.00(22) per(23) night(24) ,(25) I(26) had(27) no(28) second(29) thoughts(30) grabbing(31) the(32) opportunity(33) to(34) stay(35) in(36) a(37) deluxe(38) hotel(39) of(40) this(41) caliber(42) .(43) 
+			<opinion featWords="39" feature="hotel" opWords="38" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			I(1) have(2) no(3) regrets(4) .(5) 
+		</sentence>
+		<sentence id="9">
+			From(1) the(2) minute(3) I(4) stepped(5) out(6) of(7) the(8) limousine(9) service(10) ,(11) no(12) time(13) was(14) wasted(15) to(16) have(17) me(18) delivered(19) to(20) my(21) well-appointed(22) room(23) on(24) the(25) 13th(26) floor(27) .(28) 
+			<opinion featWords="23" feature="rooms" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Having(1) paid(2) only(3) for(4) a(5) superior(6) river(7) /(8) city(9) view(10) room(11) ,(12) the(13) upgrade(14) to(15) a(16) river(17) view(18) room(19) was(20) such(21) a(22) pleasant(23) surprise(24) .(25) 
+			<opinion featWords="10" feature="view" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			From(1) that(2) moment(3) on(4) ,(5) I(6) knew(7) that(8) my(9) recent(10) vacation(11) in(12) the(13) City(14) of(15) Angels(16) will(17) surpass(18) all(19) past(20) sojourns(21) in(22) the(23) same(24) .(25) 
+		</sentence>
+		<sentence id="12">
+			The(1) accomodations(2) have(3) a(4) decidedly(5) 80s(6) feel(7) to(8) it(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			But(1) do(2) not(3) get(4) me(5) wrong(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) exactly(3) part(4) and(5) parcel(6) of(7) the(8) charm(9) that(10) the(11) hotel(12) has(13) to(14) offer(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			People(1) may(2) think(3) that(4) a(5) dated(6) look(7) to(8) their(9) sleeping(10) haven(11) might(12) spoil(13) their(14) stay(15) .(16) 
+		</sentence>
+		<sentence id="16">
+			But(1) everything(2) inside(3) is(4) so(5) clean(6) and(7) well-maintained(8) you(9) would(10) never(11) even(12) think(13) of(14) your(15) room(16) as(17) more(18) than(19) twelve(20) years(21) in(22) existence(23) already(24) .(25) 
+			<opinion feature="hotel" opWords="8" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="17">
+			The(1) bed(2) -(3) a(4) California(5) king(6) -(7) is(8) so(9) large(10) that(11) two(12) heavyweights(13) can(14) fit(15) in(16) comfortably(17) without(18) rubbing(19) each(20) other(21) 's(22) elbow(23) ((24) and(25) toes(26) )(27) .(28) 
+			<opinion featWords="2" feature="bed" opWords="10" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="18">
+			The(1) nightly(2) turndown(3) service(4) is(5) an(6) added(7) comfort(8) that(9) undoubtedly(10) makes(11) you(12) feel(13) at(14) home(15) after(16) a(17) day(18) 's(19) worth(20) of(21) optional(22) tours(23) ,(24) walking(25) ,(26) and(27) shopping(28) ((29) not(30) to(31) mention(32) enduring(33) the(34) heat(35) /(36) humidity(37) of(38) the(39) city(40) )(41) .(42) 
+		</sentence>
+		<sentence id="19">
+			In(1) the(2) mornings(3) ,(4) buffet(5) breakfast(6) is(7) served(8) at(9) the(10) Coffee(11) Garden(12) overlooking(13) the(14) Chao(15) Phrya(16) River(17) ,(18) and(19) this(20) gives(21) a(22) totally(23) new(24) meaning(25) to(26) "(27) starting(28) your(29) day(30) right(31) .(32) "(33) I(34) must(35) admit(36) that(37) having(38) lunch(39) or(40) dinner(41) in(42) one(43) of(44) their(45) several(46) restaurants(47) ((48) like(49) the(50) cosmopolitan(51) Italian(52) fare(53) at(54) Angelini(55) or(56) the(57) authentic(58) Thai(59) dishes(60) at(61) Salathip(62) or(63) the(64) romantic(65) dinner(66) cruises(67) aboard(68) a(69) yacht(70) )(71) can(72) be(73) very(74) pricey(75) .(76) 
+			<opinion feature="price" opWords="75" polarity="-" potency="74"/>
+		</sentence>
+		<sentence id="20">
+			But(1) hey(2) ,(3) trying(4) out(5) at(6) least(7) one(8) will(9) not(10) hurt(11) the(12) wallet(13) that(14) much(15) .(16) 
+		</sentence>
+		<sentence id="21">
+			On(1) top(2) of(3) having(4) one(5) meal(6) at(7) the(8) Edogin(9) ((10) their(11) Japanese(12) restaurant(13) )(14) ,(15) I(16) went(17) one(18) step(19) further(20) and(21) tried(22) their(23) room(24) service(25) which(26) is(27) just(28) as(29) superb(30) .(31) 
+		</sentence>
+		<sentence id="22">
+			Shangri-la(1) Hotel(2) Bangkok(3) has(4) this(5) "(6) Customer(7) Delight(8) "(9) program(10) where(11) guests(12) are(13) requested(14) to(15) name(16) one(17) employee(18) who(19) has(20) made(21) their(22) stay(23) particularly(24) wonderful(25) .(26) 
+		</sentence>
+		<sentence id="23">
+			I(1) wrote(2) to(3) them(4) that(5) picking(6) just(7) one(8) would(9) be(10) a(11) real(12) shame(13) because(14) all(15) their(16) morning(17) /(18) afternoon(19) doormen(20) and(21) pool(22) attendants(23) are(24) so(25) nice(26) that(27) they(28) should(29) be(30) rewarded(31) as(32) a(33) group(34) !(35) 
+		</sentence>
+		<sentence id="24">
+			On(1) top(2) of(3) this(4) ,(5) the(6) hotel(7) manager(8) also(9) invites(10) guests(11) to(12) meet(13) with(14) him(15) at(16) a(17) specified(18) time(19) ((20) early(21) evenings(22) )(23) to(24) just(25) chat(26) about(27) anything(28) -(29) be(30) it(31) the(32) hotel(33) ,(34) its(35) services(36) ,(37) how(38) their(39) day(40) was(41) spent(42) ,(43) etc.(44) What(45) more(46) can(47) I(48) ask(49) for(50) given(51) these(52) added(53) details(54) ?(55) 
+		</sentence>
+		<sentence id="25">
+			Well(1) ,(2) asking(3) all(4) the(5) Thai(6) employees(7) to(8) perfect(9) their(10) English(11) would(12) be(13) too(14) much(15) to(16) ask(17) ,(18) so(19) in(20) the(21) final(22) analysis(23) ,(24) everything(25) is(26) almost(27) perfect(28) !(29) 
+		</sentence>
+		<sentence id="26">
+			Before(1) I(2) forget(3) ,(4) the(5) Krung(6) Thep(7) wing(8) is(9) far(10) more(11) opulent(12) than(13) the(14) Shangri-la(15) wing(16) where(17) I(18) stayed(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			But(1) then(2) again(3) ,(4) the(5) price(6) on(7) this(8) side(9) is(10) higher(11) .(12) 
+		</sentence>
+		<sentence id="28">
+			On(1) top(2) of(3) its(4) more(5) luxurious(6) rooms(7) ,(8) there(9) is(10) one(11) big(12) plus(13) factor(14) ,(15) though(16) .(17) 
+		</sentence>
+		<sentence id="29">
+			The(1) entrance(2) of(3) this(4) wing(5) leads(6) guests(7) right(8) at(9) the(10) foot(11) of(12) the(13) stairs(14) of(15) Saphan(16) Taksin(17) station(18) of(19) the(20) Skytrain(21) ,(22) so(23) the(24) infamous(25) Bangkok(26) traffic(27) can(28) be(29) hardly(30) felt(31) .(32) 
+		</sentence>
+	</text>
+</review>

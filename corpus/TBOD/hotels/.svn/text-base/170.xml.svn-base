@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="170" item="Oasis Cancun - All Inclusive" rating="1">
+	<title>
+		<sentence id="1">
+			Do(1) NOT(2) go(3) !(4) 
+		</sentence>
+		<sentence id="2">
+			Big(1) Scam(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			absolutly(1) nothing(2) !(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			absolutly(1) everything(2) !(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			They(1) took(2) all(3) our(4) money(5) ,(6) and(7) scammed(8) us(9) ,(10) hotel(11) works(12) with(13) police(14) and(15) bullies(16) their(17) patrons(18) ,(19) and(20) nothing(21) can(22) be(23) done(24) !(25) !(26) !(27) 
+		</sentence>
+		<sentence id="2">
+			They(1) charge(2) $50(3) if(4) you(5) lose(6) your(7) towel(8) for(9) the(10) pool(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) food(2) is(3) horrible(4) ,(5) no(6) air(7) condition(8) in(9) half(10) the(11) hotel(12) .(13) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) bus(2) never(3) showed(4) to(5) bring(6) us(7) to(8) the(9) airport(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			HORRIBLE(1) HORRIBLE(2) EXPERIENCE(3) !(4) 
+		</sentence>
+		<sentence id="6">
+			PLEASE(1) DONT(2) GO(3) !(4) 
+		</sentence>
+		<sentence id="7">
+			They(1) basically(2) framed(3) us(4) ,(5) someone(6) threw(7) something(8) and(9) damaged(10) the(11) property(12) ,(13) grabbed(14) me(15) because(16) I(17) was(18) closest(19) even(20) thought(21) they(22) saw(23) the(24) person(25) who(26) did(27) it(28) ,(29) and(30) told(31) me(32) I(33) have(34) to(35) give(36) them(37) $2000.00(38) or(39) they(40) call(41) the(42) police(43) ,(44) which(45) in(46) return(47) they(48) would(49) arrest(50) ((51) for(52) nothing(53) )(54) and(55) I(56) would(57) have(58) to(59) pay(60) $4000(61) .(62) 
+		</sentence>
+		<sentence id="8">
+			After(1) they(2) took(3) my(4) money(5) ,(6) the(7) very(8) next(9) morning(10) the(11) security(12) were(13) harrassing(14) other(15) vacationers(16) for(17) money(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			We(1) saw(2) parents(3) with(4) their(5) children(6) so(7) mad(8) with(9) the(10) hotel(11) for(12) everything(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) want(3) a(4) stressfree(5) fun(6) vacation(7) this(8) is(9) NOT(10) the(11) place(12) to(13) go(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			Very(1) scary(2) ,(3) very(4) dangerous(5) and(6) they(7) get(8) away(9) with(10) it(11) .(12) 
+			<opinion feature="hotel" opWords="2" polarity="-" potency="1"/>
+			<opinion feature="hotel" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+	</text>
+</review>

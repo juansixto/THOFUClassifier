@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="512" item="Brebant Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Yankee(1) Air(2) Conditioning(3) Saves(4) the(5) last(6) night(7) in(8) Paris(9) /(10) Great(11) Hotel(12) Write(13) Off(14) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Frigid(1) air-conditioning(2) ,(3) location(4) is(5) fantastic(6) ,(7) 
+			<opinion featWords="2" feature="air conditioning units" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="place" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Really(1) were(2) not(3) any(4) ,(5) little(6) noisy(7) at(8) night(9) 
+			<opinion feature="hotel" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			For(1) location(2) ,(3) friendly(4) and(5) helpful(6) staff(7) ,(8) no(9) better(10) location(11) for(12) the(13) money(14) .(15) 
+			<opinion featWords="7" feature="staff" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) had(2) just(3) returned(4) to(5) Paris(6) for(7) one(8) night(9) before(10) our(11) departure(12) back(13) to(14) the(15) United(16) States(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) on(3) tour(4) with(5) my(6) favorite(7) group(8) ,(9) the(10) Hooterville(11) family(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			We(1) had(2) returned(3) from(4) Florence(5) on(6) the(7) train(8) .(9) 
+		</sentence>
+		<sentence id="4">
+			We(1) had(2) no(3) trouble(4) finding(5) the(6) hotel(7) it(8) is(9) right(10) at(11) the(12) Grand(13) Boulevards(14) Metro(15) stop(16) in(17) the(18) 9th(19) arrondissement(20) .(21) 
+		</sentence>
+		<sentence id="5">
+			Only(1) a(2) short(3) walk(4) from(5) the(6) Galleries(7) Lafayette(8) and(9) the(10) Opera(11) Garnier(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			On(1) the(2) same(3) block(4) as(5) the(6) hotel(7) were(8) many(9) American(10) franchises(11) such(12) as(13) Ben(14) &amp;(15) Jerry(16) 's(17) ,(18) TGIF(19) Fridays(20) ,(21) McDonald(22) 's(23) those(24) are(25) the(26) ones(27) I(28) recall(29) .(30) 
+		</sentence>
+		<sentence id="7">
+			It(1) seemed(2) as(3) though(4) the(5) Parisians(6) want(7) to(8) keep(9) all(10) the(11) American(12) businesses(13) on(14) the(15) same(16) street(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			But(1) real(2) French(3) shops(4) and(5) the(6) shopping(7) areas(8) are(9) right(10) around(11) the(12) corner(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			It(1) was(2) the(3) start(4) of(5) August(6) when(7) we(8) arrived(9) at(10) the(11) Brebant(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			There(1) is(2) a(3) small(4) narrow(5) lobby(6) in(7) the(8) shape(9) of(10) a(11) shoe(12) box(13) .(14) 
+			<opinion featWords="6" feature="lobby" opWords="4" polarity="-"/>
+			<opinion featWords="6" feature="lobby" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			The(1) desk(2) is(3) at(4) the(5) end(6) of(7) this(8) hall(9) .(10) 
+		</sentence>
+		<sentence id="12">
+			The(1) desk(2) clerks(3) and(4) bellmen(5) greeted(6) us(7) with(8) joviality(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			They(1) were(2) friendly(3) and(4) seemed(5) sincerely(6) glad(7) to(8) see(9) us(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			They(1) gave(2) us(3) two(4) double(5) rooms(6) on(7) the(8) second(9) floor(10) .(11) 
+		</sentence>
+		<sentence id="15">
+			We(1) were(2) amazed(3) at(4) how(5) large(6) these(7) rooms(8) were(9) .(10) 
+			<opinion featWords="8" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			There(1) were(2) two(3) double(4) beds(5) in(6) each(7) room(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			Our(1) rooms(2) were(3) on(4) the(5) front(6) of(7) the(8) hotel(9) and(10) overlooked(11) the(12) American(13) business(14) street(15) ,(16) Bld(17) Poissoniere(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			My(1) granddaughter(2) was(3) the(4) first(5) to(6) notice(7) a(8) large(9) window(10) air-conditioner(11) on(12) a(13) shelf(14) by(15) the(16) window(17) .(18) "(19) Let(20) 's(21) see(22) if(23) this(24) works(25) ,(26) "(27) she(28) said(29) .(30) 
+		</sentence>
+		<sentence id="19">
+			I(1) have(2) found(3) most(4) of(5) the(6) time(7) teen-agers(8) are(9) better(10) able(11) to(12) figure(13) out(14) the(15) complexities(16) of(17) operation(18) of(19) strange(20) appliances(21) than(22) people(23) my(24) age(25) .(26) 
+		</sentence>
+		<sentence id="20">
+			She(1) had(2) the(3) air-conditioning(4) running(5) in(6) a(7) matter(8) of(9) seconds(10) .(11) "(12) This(13) is(14) great(15) ,(16) "(17) she(18) said(19) .(20) "(21) This(22) is(23) good(24) old(25) fashion(26) frigid(27) Yankee(28) air-conditioning(29) .(30) "(31) It(32) was(33) the(34) first(35) time(36) we(37) had(38) Yankee(39) air-conditioning(40) in(41) Paris(42) all(43) summer(44) .(45) 
+		</sentence>
+		<sentence id="21">
+			I(1) do(2) not(3) know(4) exactly(5) what(6) the(7) French(8) consider(9) air-conditioning(10) but(11) it(12) is(13) not(14) our(15) idea(16) of(17) a(18) .(19) c(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			Even(1) the(2) four(3) and(4) five(5) star(6) hotels(7) do(8) not(9) have(10) frigid(11) air(12) conditioning(13) ,(14) but(15) the(16) Brebant(17) has(18) the(19) real(20) McCoy(21) .(22) 
+		</sentence>
+		<sentence id="23">
+			The(1) bathrooms(2) looked(3) brand(4) new(5) .(6) 
+			<opinion featWords="2" feature="bathroom" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			Again(1) the(2) deep(3) narrow(4) tub(5) with(6) the(7) hand(8) held(9) shower(10) .(11) 
+		</sentence>
+		<sentence id="25">
+			Plenty(1) of(2) bath(3) gel(4) ,(5) shampoos(6) ,(7) conditioners(8) ,(9) hand(10) mill(11) soaps(12) and(13) a(14) hair(15) dryer(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			Paris(1) was(2) under(3) a(4) heat(5) wave(6) and(7) we(8) would(9) have(10) been(11) miserable(12) without(13) air(14) .(15) 
+		</sentence>
+		<sentence id="27">
+			The(1) walls(2) were(3) blue(4) and(5) so(6) was(7) the(8) carpet(9) .(10) 
+		</sentence>
+		<sentence id="28">
+			The(1) bedspreads(2) were(3) white(4) and(5) there(6) were(7) light(8) cotton(9) blankets(10) nothing(11) heavy(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			There(1) was(2) tv(3) with(4) CNN(5) ,(6) mini(7) bar(8) ,(9) telephone(10) ,(11) a(12) safe(13) in(14) the(15) closet(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			We(1) had(2) a(3) continental(4) breakfast(5) included(6) in(7) the(8) price(9) of(10) the(11) room(12) .(13) 
+		</sentence>
+		<sentence id="31">
+			The(1) dining(2) room(3) was(4) on(5) an(6) upper(7) floor(8) .(9) 
+		</sentence>
+		<sentence id="32">
+			We(1) had(2) to(3) walk(4) quite(5) a(6) way(7) to(8) get(9) to(10) the(11) elevator(12) and(13) then(14) when(15) we(16) reached(17) the(18) upper(19) floor(20) it(21) was(22) quite(23) a(24) trek(25) to(26) the(27) dining(28) room(29) .(30) 
+		</sentence>
+		<sentence id="33">
+			We(1) had(2) the(3) usual(4) pastries(5) ,(6) yogurt(7) ,(8) juice(9) and(10) coffee(11) .(12) 
+		</sentence>
+		<sentence id="34">
+			On(1) the(2) way(3) to(4) the(5) dining(6) room(7) there(8) is(9) a(10) charming(11) little(12) lobby(13) .(14) 
+		</sentence>
+		<sentence id="35">
+			It(1) had(2) French(3) doors(4) and(5) was(6) decorated(7) in(8) pink(9) and(10) white(11) .(12) 
+		</sentence>
+		<sentence id="36">
+			It(1) was(2) feminine(3) which(4) is(5) unusual(6) for(7) a(8) lobby(9) .(10) 
+		</sentence>
+		<sentence id="37">
+			The(1) name(2) of(3) the(4) restaurant(5) is(6) LeVeui(7) Pressior(8) ,(9) a(10) Belle(11) Epoque(12) style(13) .(14) 
+		</sentence>
+		<sentence id="38">
+			I(1) think(2) it(3) had(4) a(5) complete(6) menu(7) .(8) 
+		</sentence>
+		<sentence id="39">
+			We(1) did(2) not(3) eat(4) anything(5) but(6) breakfast(7) but(8) the(9) dining(10) room(11) must(12) get(13) some(14) local(15) trade(16) because(17) it(18) would(19) be(20) too(21) difficult(22) to(23) find(24) since(25) it(26) is(27) buried(28) on(29) the(30) upper(31) floor(32) of(33) the(34) hotel(35) .(36) 
+		</sentence>
+		<sentence id="40">
+			We(1) laughed(2) that(3) we(4) would(5) have(6) to(7) do(8) like(9) Hansel(10) and(11) Gretel(12) and(13) sprinkle(14) bread(15) crumbs(16) to(17) find(18) our(19) way(20) back(21) to(22) our(23) rooms(24) .(25) 
+		</sentence>
+		<sentence id="41">
+			Mr(1) Hooterville(2) had(3) ordered(4) a(5) car(6) to(7) pick(8) us(9) up(10) and(11) take(12) us(13) to(14) the(15) airport(16) .(17) 
+		</sentence>
+		<sentence id="42">
+			I(1) was(2) checking(3) out(4) and(5) the(6) desk(7) clerk(8) said(9) for(10) us(11) to(12) go(13) have(14) breakfast(15) .(16) 
+		</sentence>
+		<sentence id="43">
+			He(1) would(2) send(3) someone(4) to(5) let(6) us(7) know(8) when(9) the(10) car(11) arrived(12) .(13) 
+		</sentence>
+		<sentence id="44">
+			The(1) employees(2) were(3) multi-lingual(4) and(5) most(6) helpful(7) .(8) 
+		</sentence>
+		<sentence id="45">
+			The(1) hotel(2) has(3) 122(4) guest(5) rooms(6) and(7) it(8) has(9) several(10) conference(11) rooms(12) .(13) 
+		</sentence>
+		<sentence id="46">
+			Brebant(1) Hotel(2) 32(3) Bld(4) .(5) 
+		</sentence>
+		<sentence id="47">
+			Poissonier(1) Paris(2) 75009(3) Tel(4) :(5) 33(6) 14702555(7) This(8) is(9) the(10) Great(11) Hotel(12) Write(13) off(14) 
+		</sentence>
+	</text>
+</review>

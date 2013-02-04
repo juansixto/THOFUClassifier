@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="220" item="Carousel  Beachfront Hotel &amp; Suites" rating="3">
+	<title>
+		<sentence id="1">
+			The(1) Carousel(2) Hotel(3) and(4) Condominiums(5) ,(6) Ocean(7) City(8) ,(9) Maryland(10) ....(11) That(12) 70(13) 's(14) Show(15) ?(16) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Condominium(1) rentals(2) are(3) relatively(4) inexpensive(5) in(6) the(7) off-season(8) ,(9) some(10) units(11) have(12) been(13) recently(14) renovated(15) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Public(1) areas(2) seem(3) crowded(4) and(5) somewhat(6) worn(7) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="place" opWords="7" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Carousel(2) does(3) have(4) some(5) decent(6) rooms(7) and(8) condos(9) for(10) rent(11) .(12) 
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Be(1) very(2) specific(3) about(4) what(5) you(6) want(7) before(8) booking(9) your(10) room(11) .(12) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Thanksgiving(1) in(2) Ocean(3) City(4) ?(5) 
+		</sentence>
+		<sentence id="2">
+			It(1) was(2) surely(3) an(4) odd(5) thought(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			My(1) oldest(2) brother(3) invited(4) me(5) to(6) come(7) along(8) for(9) a(10) quick(11) getaway(12) to(13) Ocean(14) City(15) for(16) Thanksgiving(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			While(1) the(2) prospect(3) of(4) blowing(5) winds(6) and(7) cold(8) water(9) may(10) not(11) appeal(12) to(13) everyone(14) ,(15) I(16) thought(17) it(18) would(19) certainly(20) be(21) a(22) different(23) sort(24) of(25) Thanksgiving(26) .(27) 
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) not(3) been(4) to(5) Ocean(6) City(7) since(8) I(9) was(10) six(11) years(12) old(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			The(1) Buildings(2) The(3) Carousel(4) was(5) built(6) some(7) time(8) in(9) the(10) early(11) 1960(12) 's(13) as(14) a(15) small(16) four(17) storied(18) beachfront(19) motel(20) at(21) the(22) northern(23) end(24) of(25) Ocean(26) City(27) 's(28) oceanfront(29) strip(30) .(31) 
+			<opinion featWords="20" feature="hotel" opWords="16" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			In(1) the(2) mid(3) 70(4) 's(5) ,(6) the(7) place(8) was(9) expanded(10) significantly(11) with(12) the(13) addition(14) of(15) a(16) 21(17) storied(18) tower(19) ((20) there(21) are(22) 258(23) units(24) )(25) ,(26) an(27) indoor(28) ice(29) rink(30) and(31) other(32) new(33) amenities(34) .(35) 
+		</sentence>
+		<sentence id="8">
+			Over(1) the(2) years(3) the(4) place(5) has(6) seen(7) a(8) lot(9) of(10) traffic(11) ,(12) but(13) has(14) managed(15) to(16) maintain(17) something(18) of(19) its(20) former(21) reputation(22) ,(23) even(24) if(25) reality(26) has(27) not(28) always(29) kept(30) up(31) with(32) the(33) hype(34) .(35) 
+		</sentence>
+		<sentence id="9">
+			Lobby(1) You(2) 'd(3) almost(4) expect(5) a(6) bigger(7) lobby(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			Theirs(1) is(2) surprisingly(3) small(4) for(5) such(6) a(7) large(8) place(9) --(10) essentially(11) little(12) more(13) than(14) a(15) hallway(16) with(17) a(18) long(19) registration(20) desk(21) .(22) 
+		</sentence>
+		<sentence id="11">
+			Maybe(1) it(2) was(3) the(4) proliferation(5) of(6) Christmas(7) decorations(8) ,(9) but(10) the(11) lobby(12) seemed(13) crowded(14) and(15) cramped(16) .(17) 
+			<opinion featWords="12" feature="lobby" opWords="14" polarity="-"/>
+			<opinion featWords="12" feature="lobby" opWords="16" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			The(1) staff(2) behind(3) the(4) desk(5) ran(6) the(7) gamut(8) from(9) taciturn(10) to(11) cheerful(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			I(1) could(2) never(3) quite(4) be(5) sure(6) which(7) we(8) 'd(9) get(10) .(11) 
+		</sentence>
+		<sentence id="14">
+			In(1) any(2) event(3) ,(4) the(5) vast(6) choice(7) of(8) rooms(9) we(10) 'd(11) had(12) when(13) booking(14) had(15) shriveled(16) down(17) to(18) nothing(19) by(20) the(21) time(22) we(23) arrived(24) at(25) about(26) 8:30(27) PM.(28) As(29) it(30) happened(31) ,(32) we(33) were(34) fairly(35) surprised(36) to(37) find(38) that(39) our(40) two(41) bedroom(42) condominium(43) was(44) in(45) good(46) order(47) .(48) 
+		</sentence>
+		<sentence id="15">
+			After(1) reading(2) a(3) few(4) reviews(5) of(6) the(7) property(8) ,(9) I(10) was(11) not(12) sure(13) what(14) to(15) expect(16) .(17) 
+		</sentence>
+		<sentence id="16">
+			The(1) Condo(2) Bear(3) in(4) mind(5) that(6) one(7) may(8) choose(9) from(10) hotel(11) rooms(12) ,(13) suites(14) and(15) two(16) or(17) three(18) bedroom(19) condos(20) .(21) 
+		</sentence>
+		<sentence id="17">
+			I(1) have(2) not(3) seen(4) the(5) rooms(6) ,(7) but(8) they(9) are(10) on(11) the(12) first(13) four(14) floors(15) of(16) both(17) buildings(18) .(19) 
+		</sentence>
+		<sentence id="18">
+			The(1) condos(2) are(3) in(4) the(5) tower(6) .(7) 
+		</sentence>
+		<sentence id="19">
+			Most(1) of(2) these(3) have(4) good(5) views(6) ,(7) but(8) choose(9) carefully(10) in(11) order(12) to(13) avoid(14) an(15) obstructed(16) view(17) .(18) 
+			<opinion featWords="6" feature="view" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			If(1) you(2) are(3) on(4) the(5) sixth(6) floor(7) or(8) below(9) ,(10) you(11) could(12) well(13) be(14) looking(15) out(16) at(17) the(18) gravel-topped(19) roof(20) instead(21) of(22) the(23) breakers(24) .(25) 
+		</sentence>
+		<sentence id="21">
+			Our(1) living(2) room(3) was(4) spacious(5) and(6) pleasant(7) ,(8) though(9) the(10) over-liberal(11) use(12) of(13) mirrors(14) was(15) a(16) bit(17) disconcerting(18) .(19) 
+			<opinion featWords="3" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			The(1) furniture(2) had(3) evidently(4) been(5) replaced(6) recently(7) and(8) the(9) paint(10) was(11) fresh(12) .(13) 
+		</sentence>
+		<sentence id="23">
+			The(1) general(2) look(3) of(4) the(5) place(6) was(7) much(8) as(9) you(10) would(11) expect(12) a(13) beach(14) pad(15) to(16) look(17) ...(18) lots(19) of(20) soft(21) pastel(22) prints(23) on(24) the(25) furniture(26) and(27) shells(28) and(29) the(30) like(31) for(32) decoration(33) here(34) and(35) there(36) .(37) 
+		</sentence>
+		<sentence id="24">
+			Even(1) though(2) this(3) was(4) owned(5) by(6) someone(7) ,(8) it(9) was(10) also(11) obvious(12) that(13) the(14) decoration(15) had(16) been(17) kept(18) to(19) a(20) fairly(21) uniform(22) standard(23) in(24) order(25) to(26) appeal(27) to(28) mass(29) tastes(30) .(31) 
+		</sentence>
+		<sentence id="25">
+			One(1) bedroom(2) overlooked(3) the(4) sea(5) and(6) the(7) other(8) had(9) a(10) view(11) of(12) the(13) bay(14) ((15) though(16) the(17) back(18) bedroom(19) had(20) such(21) small(22) windows(23) that(24) you(25) 'd(26) hardly(27) notice(28) the(29) view(30) )(31) .(32) 
+		</sentence>
+		<sentence id="26">
+			The(1) sleeper(2) sofa(3) in(4) the(5) living(6) room(7) provided(8) extra(9) space(10) for(11) sleeping(12) .(13) 
+		</sentence>
+		<sentence id="27">
+			The(1) dining(2) area(3) was(4) more(5) or(6) less(7) in(8) the(9) center(10) of(11) the(12) room(13) .(14) 
+		</sentence>
+		<sentence id="28">
+			I(1) did(2) not(3) care(4) much(5) for(6) the(7) immediate(8) proximity(9) of(10) the(11) kitchen(12) ,(13) but(14) it(15) can(16) not(17) be(18) doubted(19) that(20) the(21) kitchen(22) was(23) well(24) equipped(25) with(26) nearly(27) everything(28) needed(29) to(30) set(31) up(32) housekeeping(33) .(34) 
+		</sentence>
+		<sentence id="29">
+			We(1) did(2) ,(3) in(4) fact(5) ,(6) use(7) the(8) kitchen(9) for(10) the(11) preparation(12) of(13) our(14) Thanksgiving(15) dinner(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			As(1) far(2) as(3) I(4) could(5) see(6) ,(7) everything(8) was(9) in(10) good(11) working(12) order(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			We(1) had(2) been(3) upgraded(4) to(5) a(6) condo(7) with(8) a(9) larger(10) balcony(11) than(12) most(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			Large(1) it(2) was(3) ,(4) but(5) sitting(6) outside(7) in(8) the(9) November(10) chill(11) was(12) not(13) really(14) an(15) option(16) .(17) 
+		</sentence>
+		<sentence id="33">
+			Several(1) comfortable(2) chairs(3) and(4) tables(5) were(6) set(7) up(8) out(9) there(10) .(11) 
+			<opinion featWords="3" feature="chairs" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="34">
+			The(1) 8th(2) floor(3) is(4) non-smoking(5) and(6) it(7) did(8) not(9) seem(10) as(11) though(12) this(13) rule(14) had(15) been(16) broken(17) .(18) 
+		</sentence>
+		<sentence id="35">
+			Previous(1) reviews(2) have(3) suggested(4) that(5) this(6) may(7) not(8) always(9) be(10) the(11) case(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			If(1) this(2) is(3) important(4) to(5) you(6) ,(7) I(8) would(9) suggest(10) confirming(11) your(12) arrangements(13) as(14) best(15) you(16) can(17) before(18) you(19) arrive(20) .(21) 
+		</sentence>
+		<sentence id="37">
+			Baths(1) The(2) baths(3) are(4) not(5) large(6) ,(7) but(8) the(9) towel(10) supply(11) was(12) good(13) and(14) the(15) amenities(16) were(17) better(18) than(19) might(20) be(21) supposed(22) .(23) 
+			<opinion featWords="3" feature="tub" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="38">
+			Large(1) ((2) unused(3) )(4) bottles(5) of(6) good(7) shampoo(8) ,(9) various(10) skin(11) and(12) hand(13) creams(14) and(15) so(16) on(17) were(18) supplied(19) .(20) 
+		</sentence>
+		<sentence id="39">
+			The(1) soap(2) was(3) also(4) good(5) --(6) fairly(7) large(8) bars(9) of(10) decent(11) soap(12) .(13) 
+		</sentence>
+		<sentence id="40">
+			The(1) presence(2) of(3) a(4) washer(5) and(6) dryer(7) added(8) convenience(9) as(10) well(11) .(12) 
+		</sentence>
+		<sentence id="41">
+			Dining(1) The(2) dining(3) room(4) was(5) called(6) Seasons(7) and(8) occupied(9) a(10) series(11) of(12) cramped(13) looking(14) rooms(15) off(16) the(17) atrium(18) .(19) 
+			<opinion featWords="15" feature="rooms" opWords="13" polarity="-"/>
+		</sentence>
+		<sentence id="42">
+			As(1) we(2) had(3) a(4) condo(5) ,(6) there(7) was(8) no(9) need(10) to(11) try(12) it(13) .(14) 
+		</sentence>
+		<sentence id="43">
+			They(1) were(2) flogging(3) a(4) breakfast(5) buffet(6) for(7) something(8) like(9) $12.00(10) ,(11) possibly(12) a(13) bit(14) much(15) for(16) Ocean(17) City(18) .(19) 
+		</sentence>
+		<sentence id="44">
+			The(1) adjacent(2) bar(3) was(4) not(5) up(6) to(7) much(8) either(9) ,(10) but(11) might(12) be(13) more(14) lively(15) in(16) season(17) .(18) 
+		</sentence>
+		<sentence id="45">
+			There(1) was(2) a(3) snack(4) bar(5) with(6) an(7) enormous(8) advertisement(9) for(10) Starbuck(11) 's(12) coffee(13) .(14) 
+		</sentence>
+		<sentence id="46">
+			I(1) think(2) the(3) kids(4) went(5) down(6) there(7) several(8) times(9) ,(10) but(11) I(12) did(13) not(14) visit(15) .(16) 
+		</sentence>
+		<sentence id="47">
+			Pools(1) and(2) Recreation(3) The(4) small(5) outdoor(6) pool(7) was(8) closed(9) for(10) the(11) season(12) .(13) 
+			<opinion featWords="7" feature="swimming pool" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="48">
+			Fortunately(1) ,(2) there(3) was(4) an(5) indoor(6) pool(7) as(8) well(9) .(10) 
+		</sentence>
+		<sentence id="49">
+			The(1) kids(2) happily(3) splashed(4) away(5) while(6) I(7) sought(8) out(9) the(10) sauna(11) .(12) 
+		</sentence>
+		<sentence id="50">
+			I(1) found(2) it(3) soon(4) enough(5) .(6) 
+		</sentence>
+		<sentence id="51">
+			While(1) it(2) was(3) mildly(4) hot(5) ,(6) it(7) was(8) not(9) really(10) hot(11) enough(12) to(13) be(14) of(15) much(16) use(17) .(18) 
+		</sentence>
+		<sentence id="52">
+			The(1) whirlpool(2) adjacent(3) to(4) the(5) pool(6) was(7) always(8) so(9) full(10) of(11) children(12) that(13) I(14) never(15) got(16) near(17) it(18) .(19) 
+		</sentence>
+		<sentence id="53">
+			There(1) were(2) said(3) to(4) be(5) tennis(6) courts(7) somewhere(8) ,(9) but(10) in(11) November(12) ,(13) we(14) were(15) hardly(16) thinking(17) of(18) a(19) tennis(20) match(21) .(22) 
+		</sentence>
+		<sentence id="54">
+			There(1) was(2) also(3) a(4) large(5) exercise(6) room(7) .(8) 
+			<opinion featWords="6,7" feature="gym" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="55">
+			It(1) was(2) crowded(3) ,(4) so(5) I(6) passed(7) it(8) by(9) .(10) 
+		</sentence>
+		<sentence id="56">
+			My(1) main(2) complaint(3) with(4) the(5) sauna(6) and(7) changing(8) rooms(9) was(10) the(11) lack(12) of(13) maintenance(14) there(15) .(16) 
+		</sentence>
+		<sentence id="57">
+			The(1) pools(2) of(3) stagnant(4) water(5) made(6) me(7) glad(8) that(9) I(10) was(11) wearing(12) flip-flops(13) .(14) 
+		</sentence>
+		<sentence id="58">
+			Either(1) bring(2) flip-flops(3) or(4) Desenex(5) ,(6) the(7) choice(8) is(9) yours(10) .(11) 
+		</sentence>
+		<sentence id="59">
+			Ice(1) Skating(2) The(3) most(4) unusual(5) attribute(6) of(7) this(8) hotel(9) is(10) the(11) cavernous(12) four(13) storied(14) atrium(15) with(16) an(17) indoor(18) ice(19) skating(20) rink(21) .(22) 
+		</sentence>
+		<sentence id="60">
+			It(1) 's(2) open(3) all(4) year(5) ,(6) so(7) one(8) could(9) conceivably(10) go(11) ice(12) skating(13) in(14) July(15) if(16) desired(17) .(18) 
+		</sentence>
+		<sentence id="61">
+			Normally(1) ,(2) there(3) 's(4) a(5) $3.00(6) charge(7) for(8) ice(9) skates(10) ,(11) but(12) this(13) was(14) apparently(15) waived(16) on(17) Thanksgiving(18) .(19) 
+		</sentence>
+		<sentence id="62">
+			I(1) had(2) not(3) skated(4) in(5) ten(6) years(7) and(8) managed(9) to(10) stay(11) above(12) the(13) ice(14) .(15) 
+		</sentence>
+		<sentence id="63">
+			There(1) are(2) shows(3) on(4) the(5) weekends(6) as(7) well(8) .(9) 
+		</sentence>
+		<sentence id="64">
+			Beach(1) The(2) hotel(3) is(4) directly(5) on(6) the(7) beach(8) .(9) 
+		</sentence>
+		<sentence id="65">
+			This(1) is(2) all(3) the(4) way(5) up(6) at(7) 118th(8) Street(9) ,(10) so(11) you(12) will(13) not(14) have(15) the(16) lively(17) ((18) or(19) loud(20) )(21) activity(22) of(23) the(24) boardwalk(25) to(26) distract(27) you(28) .(29) 
+		</sentence>
+		<sentence id="66">
+			The(1) beach(2) looked(3) clean(4) ,(5) but(6) there(7) were(8) obviously(9) no(10) chairs(11) or(12) umbrellas(13) out(14) in(15) November(16) .(17) 
+			<opinion featWords="2" feature="beach" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="67">
+			Service(1) It(2) 's(3) best(4) to(5) remember(6) that(7) this(8) is(9) a(10) beach(11) hotel(12) with(13) a(14) large(15) condominium(16) component(17) .(18) 
+		</sentence>
+		<sentence id="68">
+			Consequently(1) ,(2) staffers(3) may(4) not(5) be(6) as(7) service(8) oriented(9) as(10) those(11) in(12) a(13) downtown(14) or(15) chain(16) property(17) .(18) 
+		</sentence>
+		<sentence id="69">
+			I(1) found(2) most(3) people(4) working(5) there(6) to(7) be(8) reasonably(9) friendly(10) ,(11) but(12) there(13) should(14) be(15) no(16) mistaking(17) this(18) for(19) a(20) grand(21) resort(22) hotel(23) .(24) 
+		</sentence>
+		<sentence id="70">
+			If(1) you(2) keep(3) your(4) expectations(5) in(6) the(7) right(8) place(9) ,(10) you(11) should(12) have(13) no(14) trouble(15) .(16) 
+		</sentence>
+		<sentence id="71">
+			This(1) is(2) more(3) of(4) a(5) family(6) resort(7) than(8) a(9) convention(10) hotel(11) ,(12) though(13) there(14) are(15) a(16) number(17) of(18) meeting(19) rooms(20) and(21) a(22) small(23) business(24) center(25) .(26) 
+		</sentence>
+		<sentence id="72">
+			As(1) for(2) housekeeping(3) ,(4) we(5) had(6) a(7) condo(8) ,(9) so(10) this(11) was(12) not(13) really(14) part(15) of(16) the(17) package(18) .(19) 
+		</sentence>
+		<sentence id="73">
+			I(1) did(2) call(3) down(4) to(5) the(6) desk(7) when(8) I(9) realized(10) we(11) 'd(12) forgotten(13) to(14) bring(15) coffee(16) filters(17) .(18) 
+		</sentence>
+		<sentence id="74">
+			In(1) no(2) time(3) at(4) all(5) they(6) had(7) someone(8) bounding(9) upstairs(10) bearing(11) packets(12) of(13) coffee(14) and(15) tea(16) ,(17) as(18) well(19) as(20) the(21) filters(22) .(23) 
+		</sentence>
+		<sentence id="75">
+			I(1) could(2) not(3) find(4) too(5) many(6) housekeeping(7) errors(8) in(9) our(10) rooms(11) ,(12) but(13) the(14) public(15) areas(16) of(17) the(18) hotel(19) seemed(20) worn(21) and(22) well(23) used(24) .(25) 
+		</sentence>
+		<sentence id="76">
+			Cost(1) In(2) November(3) ,(4) the(5) rates(6) are(7) going(8) to(9) be(10) low(11) .(12) 
+		</sentence>
+		<sentence id="77">
+			We(1) paid(2) something(3) like(4) $149.00(5) per(6) night(7) for(8) the(9) two(10) bedroom(11) condo(12) ,(13) a(14) slight(15) upgrade(16) from(17) the(18) standard(19) two(20) bedroom(21) condo(22) ((23) this(24) one(25) had(26) a(27) larger(28) balcony(29) )(30) .(31) 
+		</sentence>
+		<sentence id="78">
+			In(1) the(2) summer(3) ,(4) the(5) same(6) condo(7) would(8) be(9) $379.00(10) per(11) night(12) .(13) 
+		</sentence>
+		<sentence id="79">
+			If(1) in(2) doubt(3) ,(4) feel(5) free(6) to(7) negotiate(8) the(9) price(10) in(11) the(12) off-season(13) .(14) 
+		</sentence>
+		<sentence id="80">
+			do(1) not(2) even(3) try(4) it(5) in(6) the(7) summer(8) .(9) 
+		</sentence>
+		<sentence id="81">
+			Rates(1) for(2) the(3) hotel(4) rooms(5) begin(6) at(7) about(8) $119.00(9) in(10) the(11) off(12) season(13) and(14) go(15) up(16) to(17) about(18) $179.00(19) in(20) the(21) high(22) season(23) .(24) 
+		</sentence>
+		<sentence id="82">
+			Overall(1) ,(2) the(3) Carousel(4) might(5) meet(6) your(7) expectations(8) if(9) you(10) do(11) your(12) room(13) shopping(14) carefully(15) .(16) 
+		</sentence>
+		<sentence id="83">
+			Remember(1) that(2) you(3) are(4) at(5) the(6) beach(7) and(8) enjoy(9) the(10) weather(11) if(12) you(13) can(14) .(15) 
+		</sentence>
+		<sentence id="84">
+			The(1) Carousel(2) Resort(3) Hotel(4) and(5) Condominiums(6) 11700(7) Coastal(8) Highway(9) Ocean(10) City(11) ,(12) MD(13) 21842(14) Tel.(15) 410-524-1000(16) Toll(17) free(18) 800-641-0011(19) 
+		</sentence>
+	</text>
+</review>

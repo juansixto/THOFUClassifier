@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="148" item="Westgate Lakes Resort" rating="3">
+	<title>
+		<sentence id="1">
+			westgate(1) resort(2) &amp;(3) spa(4) orlando(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			close(1) to(2) international(3) drive(4) .(5) screen(6) balconies(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			on(1) a(2) side(3) road(4) .(5) will(6) need(7) transportation(8) .(9) roaches(10) in(11) rooms(12) .(13) was(14) charged(15) extra(16) $50(17) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			the(1) overall(2) stay(3) was(4) great(5) to(6) us(7) .(8) rooms(9) were(10) spacious(11) .(12) attraction(13) tickets(14) were(15) great(16) price(17) .(18) no(19) restauants(20) in(21) walking(22) distance(23) .(24) only(25) in(26) resort(27) .(28) 
+			<opinion featWords="9" feature="rooms" opWords="11" polarity="+"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="278" item="Best Western Plaza International" rating="1">
+	<title>
+		<sentence id="1">
+			Save(1) the(2) money(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) to(2) all(3) parks(4) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) !(2) !(3) would(4) not(5) stay(6) again(7) if(8) my(9) life(10) depended(11) on(12) it(13) !(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			This(1) was(2) the(3) worst(4) hotel(5) I(6) stayed(7) in(8) .(9) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			We(1) traveled(2) with(3) family(4) ,(5) who(6) arrived(7) a(8) day(9) early(10) .(11) 
+		</sentence>
+		<sentence id="3">
+			We(1) specially(2) requested(3) rooms(4) near(5) one(6) another(7) ...(8) at(9) least(10) in(11) the(12) same(13) building(14) since(15) we(16) had(17) small(18) children(19) .(20) 
+		</sentence>
+		<sentence id="4">
+			Family(1) arrived(2) early(3) and(4) was(5) assured(6) rooms(7) next(8) door(9) .(10) 
+		</sentence>
+		<sentence id="5">
+			We(1) arrived(2) day(3) later(4) and(5) were(6) not(7) even(8) in(9) the(10) same(11) building(12) .(13) 
+		</sentence>
+		<sentence id="6">
+			Only(1) way(2) we(3) could(4) move(5) was(6) to(7) get(8) a(9) suite(10) ,(11) which(12) we(13) finally(14) did(15) even(16) though(17) we(18) paid(19) more(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			Room(1) was(2) only(3) a(4) suite(5) in(6) the(7) sense(8) that(9) it(10) was(11) bigger(12) .(13) 
+		</sentence>
+		<sentence id="8">
+			Phone(1) didnt(2) work(3) ,(4) one(5) remote(6) was(7) lost(8) ,(9) tub(10) was(11) dirty(12) ,(13) floor(14) was(15) wet(16) ,(17) light(18) above(19) kitchenette(20) didnt(21) work(22) and(23) wires(24) were(25) exposed(26) ,(27) dresser(28) drawers(29) were(30) broken(31) .(32) 
+			<opinion featWords="10" feature="tub" opWords="12" polarity="-"/>
+			<opinion featWords="14" feature="grounds" opWords="16" polarity="-"/>
+			<opinion featWords="29" feature="drawers" opWords="31" polarity="-"/>
+		</sentence>
+		<sentence id="9">
+			Timeshare(1) selling(2) in(3) the(4) lobby(5) was(6) highly(7) annoying(8) .(9) 
+		</sentence>
+		<sentence id="10">
+			This(1) hotel(2) was(3) BIG(4) on(5) foreigners(6) and(7) it(8) felt(9) as(10) though(11) US(12) Citizens(13) were(14) given(15) the(16) shaft(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			Hotel(1) pool(2) is(3) not(4) staffed(5) and(6) it(7) was(8) a(9) suprising(10) visit(11) to(12) the(13) pool(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			Young(1) girls(2) swimming(3) topless(4) ,(5) men(6) swimming(7) in(8) actual(9) underwear(10) ,(11) adults(12) swimming(13) in(14) clothes(15) and(16) shoes(17) and(18) parents(19) sitting(20) around(21) drunk(22) in(23) the(24) bar(25) area(26) next(27) to(28) the(29) pool(30) while(31) their(32) kids(33) swim(34) .(35) 
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) unreal(3) !(4) 
+		</sentence>
+	</text>
+</review>

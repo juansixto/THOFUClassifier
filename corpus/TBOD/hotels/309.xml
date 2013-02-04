@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="309" item="Sea Crest Resort" rating="1">
+	<title>
+		<sentence id="1">
+			Sea(1) Crest(2) ?(3) 
+		</sentence>
+		<sentence id="2">
+			Sea(1) ya(2) later(3) !(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Located(1) on(2) the(3) beach(4) .(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) ;(2) shabby(3) ;(4) unbelievably(5) ,(6) seedy(7) elevator(8) ;(9) poorly-trained(10) front(11) desk(12) staff(13) ;(14) terribly(15) managed(16) .(17) 
+			<opinion feature="price" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="3" polarity="-"/>
+			<opinion featWords="8" feature="elevator" opWords="7" polarity="-"/>
+			<opinion featWords="11,12" feature="front desk" opWords="10" polarity="-"/>
+			<opinion feature="hotel" opWords="15,16" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			do(1) not(2) waste(3) your(4) money(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			This(1) hotel(2) could(3) have(4) offered(5) a(6) wonderful(7) experience(8) to(9) guests(10) ,(11) but(12) instead(13) ,(14) let(15) the(16) place(17) go(18) to(19) the(20) dogs(21) .(22) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Overview(1) :(2) After(3) staying(4) at(5) a(6) couple(7) of(8) bed(9) &amp;(10) breakfasts(11) and(12) motels(13) in(14) Cape(15) Cod(16) 's(17) Falmouth(18) and(19) Woods(20) Hole(21) areas(22) ,(23) I(24) was(25) really(26) looking(27) forward(28) to(29) staying(30) at(31) The(32) Sea(33) Crest(34) Resort(35) and(36) Conference(37) Center(38) ((39) www.seacrest-resort.com).(40) Unfortunately(41) ,(42) calling(43) itself(44) a(45) "(46) resort(47) "(48) is(49) simply(50) delusional(51) .(52) It(53) 's(54) a(55) resort(56) wannabee(57) .(58) At(59) $554(60) ((61) including(62) room(63) tax(64) )(65) for(66) only(67) 2(68) nights(69) ,(70) I(71) expected(72) a(73) more(74) polished(75) facility(76) .(77) 
+		</sentence>
+		<sentence id="2">
+			Entrance(1) &amp;(2) Lobby(3) :(4) Upon(5) approaching(6) the(7) entrance(8) to(9) the(10) lobby(11) ,(12) I(13) immediately(14) noticed(15) the(16) incredibly(17) shabby(18) vestibule(19) one(20) has(21) to(22) walk(23) through(24) before(25) entering(26) the(27) lobby(28) .(29) 
+		</sentence>
+		<sentence id="3">
+			Ugly(1) ,(2) aluminum(3) doors(4) one(5) must(6) pull(7) hard(8) to(9) open(10) ,(11) usher(12) the(13) guests(14) into(15) a(16) dismal(17) ,(18) ratty(19) ,(20) unadorned(21) ,(22) institutional-looking(23) vestibule(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			The(1) lobby(2) itself(3) did(4) look(5) well-attended(6) ,(7) so(8) I(9) regained(10) a(11) ray(12) of(13) hope(14) .(15) 
+			<opinion featWords="2" feature="lobby" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			I(1) had(2) a(3) chance(4) to(5) witness(6) the(7) front(8) desk(9) interacting(10) with(11) a(12) few(13) guests(14) .(15) 
+		</sentence>
+		<sentence id="6">
+			I(1) noticed(2) that(3) they(4) were(5) ill-trained(6) people(7) who(8) possessed(9) an(10) air(11) of(12) arrogance(13) and(14) impatience(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Elevator(1) :(2) There(3) is(4) only(5) one(6) elevator(7) in(8) the(9) main(10) building(11) that(12) takes(13) guests(14) to(15) the(16) second(17) and(18) third(19) floors(20) .(21) 
+		</sentence>
+		<sentence id="8">
+			Immediately(1) upon(2) entering(3) it(4) ,(5) I(6) was(7) almost(8) knocked(9) over(10) by(11) its(12) overwhelmingly(13) noxious(14) stench(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			It(1) literally(2) smelled(3) like(4) a(5) neglected(6) ,(7) men(8) 's(9) gym(10) locker(11) room(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Without(1) exaggeration(2) ,(3) the(4) inside(5) looked(6) like(7) it(8) was(9) from(10) a(11) seedy(12) ,(13) flophouse(14) motel(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			The(1) grey(2) ,(3) carpeted(4) floor(5) was(6) torn(7) and(8) badly(9) stained(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			The(1) walls(2) were(3) scuffed(4) and(5) marred(6) .(7) 
+			<opinion featWords="2" feature="walls" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="walls" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			The(1) florescent(2) lighting(3) in(4) the(5) ceiling(6) was(7) downright(8) depressing(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			Simply(1) put(2) ,(3) it(4) was(5) disgusting(6) !(7) 
+		</sentence>
+		<sentence id="15">
+			I(1) so(2) loathed(3) entering(4) it(5) ,(6) most(7) of(8) the(9) time(10) ,(11) I(12) used(13) the(14) stairwell(15) ,(16) instead(17) .(18) 
+		</sentence>
+		<sentence id="16">
+			At(1) one(2) point(3) ,(4) the(5) elevator(6) even(7) stopped(8) working(9) for(10) a(11) few(12) hours(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) Room(2) :(3) The(4) room(5) ,(6) itself(7) ,(8) was(9) barely(10) acceptable(11) .(12) 
+		</sentence>
+		<sentence id="18">
+			The(1) two(2) requested(3) double(4) beds(5) were(6) there(7) ,(8) however(9) ,(10) the(11) early-American(12) pine(13) furniture(14) was(15) cheap(16) and(17) in(18) shoddy(19) condition(20) .(21) 
+			<opinion featWords="14" feature="furnishings" opWords="16" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			The(1) lampshade(2) in(3) the(4) corner(5) of(6) the(7) room(8) was(9) profusely(10) stained(11) with(12) god-knows-what(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			One(1) corner(2) of(3) the(4) ceiling(5) had(6) bad(7) water(8) stains(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			The(1) small(2) refrigerator(3) located(4) under(5) the(6) TV(7) was(8) leaking(9) fluid(10) on(11) the(12) floor(13) of(14) its(15) discolored(16) wood(17) cubby(18) .(19) 
+		</sentence>
+		<sentence id="22">
+			The(1) bathroom(2) had(3) one(4) sink(5) which(6) was(7) dimly(8) lit(9) with(10) a(11) long(12) ,(13) florescent-tubed(14) fixture(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			The(1) light(2) fixture(3) over(4) the(5) bathtub(6) contained(7) silhouettes(8) of(9) something(10) that(11) resembled(12) dead(13) insects(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			The(1) toiletries(2) included(3) a(4) "(5) conditioning(6) shampoo(7) "(8) ,(9) rather(10) than(11) two(12) separate(13) viles(14) of(15) shampoo(16) and(17) conditioner(18) .(19) 
+		</sentence>
+		<sentence id="25">
+			The(1) View(2) :(3) I(4) had(5) requested(6) a(7) third(8) floor(9) ((10) top(11) )(12) "(13) oceanview(14) "(15) room(16) which(17) was(18) ,(19) in(20) fact(21) ,(22) granted(23) .(24) 
+		</sentence>
+		<sentence id="26">
+			However(1) ,(2) I(3) should(4) point(5) out(6) that(7) our(8) room(9) faced(10) 90(11) degrees(12) from(13) the(14) shoreline(15) .(16) 
+		</sentence>
+		<sentence id="27">
+			It(1) had(2) a(3) "(4) V(5) "(6) -(7) shaped(8) ,(9) bay(10) window(11) that(12) jut(13) out(14) at(15) a(16) 45(17) degree(18) angle(19) on(20) both(21) sides(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			One(1) side(2) faced(3) toward(4) the(5) beach(6) and(7) a(8) parking(9) lot(10) ;(11) the(12) other(13) side(14) faced(15) a(16) roadway(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			Even(1) though(2) we(3) did(4) have(5) an(6) "(7) ocean(8) view(9) "(10) ,(11) we(12) almost(13) had(14) to(15) crane(16) our(17) necks(18) to(19) see(20) it(21) .(22) 
+		</sentence>
+		<sentence id="30">
+			Business(1) Center(2) :(3) In(4) order(5) to(6) access(7) the(8) internet(9) ,(10) the(11) hotel(12) requires(13) guests(14) to(15) pay(16) either(17) $4.00(18) for(19) 1(20) hour(21) or(22) $7.00(23) for(24) 24(25) contiguous(26) hours(27) .(28) 
+		</sentence>
+		<sentence id="31">
+			I(1) paid(2) the(3) 7(4) bucks(5) .(6) 
+		</sentence>
+		<sentence id="32">
+			There(1) were(2) 2(3) computers(4) ((5) a(6) Mac(7) &amp;(8) a(9) PC(10) )(11) located(12) in(13) this(14) tiny(15) room(16) off(17) the(18) lobby(19) .(20) 
+		</sentence>
+		<sentence id="33">
+			Inside(1) ,(2) it(3) was(4) very(5) cold(6) ,(7) damp(8) and(9) smelled(10) of(11) mildew(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			When(1) I(2) tried(3) to(4) access(5) my(6) business(7) '(8) website(9) ,(10) an(11) error(12) message(13) appeared(14) .(15) 
+		</sentence>
+		<sentence id="35">
+			When(1) I(2) informed(3) the(4) front(5) desk(6) ,(7) the(8) clerk(9) dryly(10) mentioned(11) it(12) to(13) a(14) bellhop(15) ,(16) who(17) tried(18) to(19) fix(20) it(21) ,(22) but(23) could(24) not(25) .(26) 
+		</sentence>
+		<sentence id="36">
+			Food(1) :(2) Sorry(3) ;(4) did(5) not(6) dine(7) there(8) ,(9) but(10) I(11) can(12) say(13) that(14) all(15) the(16) tables(17) had(18) a(19) view(20) of(21) the(22) water(23) .(24) 
+		</sentence>
+		<sentence id="37">
+			Beach(1) :(2) Even(3) though(4) the(5) 700(6) foot(7) long(8) beach(9) was(10) fairly(11) crowded(12) ,(13) it(14) was(15) still(16) convenient(17) and(18) nice(19) to(20) be(21) able(22) to(23) walk(24) there(25) directly(26) from(27) the(28) hotel(29) .(30) 
+		</sentence>
+		<sentence id="38">
+			Sea(1) Crest(2) touts(3) that(4) the(5) beach(6) is(7) private(8) ,(9) but(10) in(11) fact(12) ,(13) anyone(14) can(15) walk(16) through(17) the(18) hotel(19) and(20) onto(21) the(22) beach(23) .(24) 
+		</sentence>
+		<sentence id="39">
+			It(1) does(2) not(3) require(4) people(5) to(6) show(7) their(8) room(9) key(10) to(11) hotel(12) personnel(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			There(1) is(2) supposed(3) to(4) be(5) someone(6) checking(7) vehicle(8) hotel(9) passes(10) hung(11) onto(12) rear-view(13) mirrors(14) as(15) you(16) drive(17) into(18) the(19) premises(20) ,(21) but(22) I(23) 've(24) only(25) seen(26) them(27) once(28) in(29) the(30) 2(31) days(32) we(33) stayed(34) in(35) the(36) hotel(37) .(38) 
+		</sentence>
+		<sentence id="41">
+			There(1) are(2) hotel(3) employees(4) on(5) the(6) beach(7) who(8) will(9) give(10) you(11) beach(12) towels(13) and(14) rent(15) you(16) umbrellas(17) .(18) 
+		</sentence>
+		<sentence id="42">
+			Exercise(1) Room(2) :(3) There(4) is(5) a(6) small(7) exercise(8) room(9) fitted(10) with(11) a(12) couple(13) of(14) StairMasters(15) and(16) a(17) dozen(18) or(19) so(20) ,(21) stationary(22) bicycles(23) .(24) 
+			<opinion featWords="8,9" feature="gym" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="43">
+			Bottom(1) Line(2) :(3) do(4) not(5) expect(6) a(7) beautifully-appointed(8) ,(9) well-managed(10) hotel(11) ;(12) you(13) 'll(14) be(15) disappointed(16) .(17) 
+		</sentence>
+	</text>
+</review>

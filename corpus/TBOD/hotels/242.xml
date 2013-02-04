@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="242" item="Royal Kona Resort" rating="1">
+	<title>
+		<sentence id="1">
+			Royal(1) Kona(2) Resort(3) ,(4) Roach(5) Motel(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rude(1) staff(2) ,(3) and(4) lots(5) of(6) roaches(7) in(8) all(9) 3(10) towers(11) ,(12) very(13) run(14) down(15) .(16) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="-"/>
+			<opinion feature="hotel" opWords="14,15" polarity="-" potency="13"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Our(1) family(2) stayed(3) in(4) Hawaii(5) for(6) two(7) weeks(8) .(9) 
+		</sentence>
+		<sentence id="2">
+			We(1) stayed(2) at(3) this(4) run(5) down(6) hotel(7) for(8) 3(9) days(10) and(11) it(12) was(13) 3(14) days(15) too(16) long(17) .(18) 
+			<opinion featWords="7" feature="hotel" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			The(1) staff(2) overall(3) was(4) rude(5) and(6) ignorant(7) ,(8) both(9) at(10) the(11) front(12) desk(13) and(14) the(15) breakfast(16) buffet(17) .(18) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-"/>
+			<opinion featWords="2" feature="staff" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			In(1) total(2) ,(3) I(4) looked(5) at(6) 4(7) ocean(8) front(9) rooms(10) in(11) all(12) 3(13) towers(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			Lucky(1) for(2) me(3) ,(4) I(5) checked(6) the(7) rooms(8) after(9) dark(10) to(11) turn(12) the(13) light(14) on(15) and(16) watch(17) the(18) roaches(19) scatter(20) in(21) 3(22) of(23) the(24) 4(25) rooms(26) !(27) 
+		</sentence>
+		<sentence id="6">
+			We(1) checked(2) out(3) late(4) in(5) the(6) day(7) and(8) the(9) front(10) desk(11) thought(12) their(13) "(14) big(15) favor(16) "(17) was(18) not(19) to(20) charge(21) us(22) for(23) that(24) day(25) .(26) 
+		</sentence>
+		<sentence id="7">
+			It(1) was(2) a(3) pleasure(4) to(5) get(6) out(7) of(8) there(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			We(1) found(2) the(3) Outrigger(4) Keahou(5) 10(6) mins(7) .(8) south(9) at(10) it(11) was(12) very(13) good(14) .(15) 
+		</sentence>
+	</text>
+</review>

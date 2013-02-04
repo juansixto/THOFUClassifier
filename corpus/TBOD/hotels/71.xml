@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="71" item="Holiday Inn HARRISBURG-EAST (AIRPORT AREA)" rating="2">
+	<title>
+		<sentence id="1">
+			Decent(1) Rooms(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Terrible(1) Service(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Easy(1) to(2) get(3) to(4) from(5) Interstates(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Nice(1) to(2) look(3) at(4) and(5) good(6) rooms(7) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) service(2) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Even(1) with(2) the(3) well(4) done(5) 2006(6) renovation(7) they(8) failed(9) to(10) have(11) service(12) personnel(13) to(14) match(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Avoid(1) it(2) .(3) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) just(2) returned(3) from(4) a(5) weekend(6) at(7) the(8) Holiday(9) Inn(10) East(11) in(12) Harrisburg(13) ,(14) PA(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			We(1) were(2) there(3) so(4) my(5) honey(6) could(7) spend(8) almost(9) all(10) her(11) hours(12) scrap(13) booking(14) and(15) so(16) I(17) could(18) spend(19) some(20) time(21) with(22) my(23) grown(24) daughter(25) who(26) lives(27) not(28) too(29) far(30) away(31) .(32) 
+		</sentence>
+		<sentence id="3">
+			There(1) are(2) four(3) things(4) I(5) look(6) at(7) in(8) a(9) place(10) to(11) stay(12) both(13) as(14) a(15) meeting(16) planner(17) and(18) as(19) a(20) user(21) of(22) the(23) place(24) .(25) 
+		</sentence>
+		<sentence id="4">
+			First(1) is(2) location(3) ,(4) then(5) the(6) other(7) three(8) in(9) approximate(10) equal(11) weight(12) are(13) facilities(14) ,(15) amenities(16) ,(17) and(18) service(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			A(1) quick(2) summary(3) ,(4) detail(5) to(6) follow(7) ,(8) is(9) that(10) the(11) location(12) is(13) okay(14) ,(15) the(16) facilities(17) are(18) a(19) little(20) better(21) than(22) expected(23) ,(24) the(25) amenities(26) were(27) above(28) average(29) ,(30) and(31) the(32) service(33) was(34) terrible(35) .(36) 
+			<opinion featWords="12" feature="place" opWords="14" polarity="+"/>
+			<opinion featWords="26" feature="amenities" opWords="28,29" polarity="+"/>
+			<opinion featWords="33" feature="service" opWords="35" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			Location(1) This(2) Holiday(3) Inn(4) is(5) situated(6) just(7) off(8) Interstate(9) 283(10) on(11) Lindle(12) Road(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			It(1) is(2) near(3) the(4) Southeast(5) edge(6) of(7) Harrisburg(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			From(1) this(2) hotel(3) it(4) is(5) easy(6) to(7) get(8) to(9) Lancaster(10) and(11) the(12) Amish(13) countryside(14) ,(15) to(16) Harrisburg(17) proper(18) ,(19) and(20) ((21) if(22) you(23) are(24) so(25) inclined(26) )(27) to(28) Three(29) Mile(30) Island(31) .(32) 
+		</sentence>
+		<sentence id="9">
+			It(1) is(2) an(3) easy(4) run(5) from(6) Baltimore(7) to(8) the(9) South(10) ,(11) Pittsburgh(12) to(13) the(14) West(15) ,(16) or(17) Philadelphia(18) to(19) the(20) East(21) ,(22) all(23) via(24) Interstates(25) .(26) 
+		</sentence>
+		<sentence id="10">
+			It(1) sits(2) on(3) a(4) hill(5) with(6) a(7) decent(8) view(9) and(10) is(11) well(12) landscaped(13) with(14) adequate(15) free(16) parking(17) .(18) 
+			<opinion featWords="17" feature="parking" opWords="15" polarity="+"/>
+			<opinion featWords="17" feature="parking" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			There(1) is(2) complimentary(3) 24(4) hour(5) shuttle(6) service(7) to(8) the(9) nearby(10) Harrisburg(11) Airport(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Facilities(1) The(2) hotel(3) won(4) an(5) award(6) for(7) its(8) renovation(9) in(10) 2006(11) .(12) 
+		</sentence>
+		<sentence id="13">
+			If(1) you(2) read(3) reviews(4) of(5) the(6) hotel(7) written(8) before(9) then(10) you(11) will(12) understand(13) it(14) was(15) sorely(16) needed(17) .(18) 
+		</sentence>
+		<sentence id="14">
+			The(1) lobby(2) is(3) large(4) ,(5) bright(6) ,(7) and(8) clean(9) .(10) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="6" polarity="+"/>
+			<opinion featWords="2" feature="lobby" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) hallways(2) to(3) the(4) rooms(5) were(6) already(7) starting(8) to(9) look(10) tired(11) and(12) a(13) little(14) dingy(15) a(16) year-and-a-half(17) later(18) ,(19) though(20) .(21) 
+			<opinion featWords="2" feature="lobby" opWords="11" polarity="-"/>
+			<opinion featWords="2" feature="lobby" opWords="15" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			The(1) 274(2) guest(3) rooms(4) are(5) a(6) mix(7) of(8) deluxe(9) suites(10) ,(11) double(12) queens(13) ,(14) and(15) kings(16) like(17) the(18) one(19) we(20) were(21) assigned(22) .(23) 
+		</sentence>
+		<sentence id="17">
+			All(1) the(2) rooms(3) I(4) peeked(5) in(6) were(7) clean(8) and(9) well(10) kept(11) with(12) quality(13) soft(14) goods(15) and(16) were(17) roomy(18) .(19) 
+			<opinion featWords="3" feature="rooms" opWords="8" polarity="+"/>
+			<opinion featWords="3" feature="rooms" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			This(1) is(2) a(3) list(4) of(5) the(6) guestroom(7) amenities(8) from(9) their(10) website(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			Guestroom(1) Amenities(2) Complimentary(3) bath(4) amenities(5) Hairdryers(6) Coffee(7) makers(8) with(9) coffee(10) and(11) tea(12) Remote(13) control(14) 27(15) Cable(16) TV(17) with(18) HBO(19) Complimentary(20) USA(21) Today(22) ((23) Mon(24) .(25) -(26) Fri(27) .(28) )(29) Iron(30) and(31) full-size(32) ironing(33) board(34) Refrigerators(35) ((36) Charge(37) Applies(38) )(39) Microwaves(40) ((41) Charge(42) Applies(43) )(44) Cribs(45) ((46) Available(47) Upon(48) Request(49) )(50) Kids(51) Eat(52) Free(53) -(54) ((55) Restrictions(56) Apply(57) )(58) We(59) had(60) both(61) a(62) refrigerator(63) and(64) a(65) microwave(66) in(67) our(68) room(69) and(70) were(71) not(72) charged(73) for(74) them(75) .(76) 
+		</sentence>
+		<sentence id="20">
+			In(1) addition(2) there(3) was(4) both(5) a(6) high(7) speed(8) internet(9) port(10) and(11) free(12) wi-fi(13) access(14) which(15) we(16) used(17) and(18) found(19) to(20) be(21) good(22) .(23) 
+			<opinion featWords="9" feature="internet" opWords="7,8" polarity="+"/>
+			<opinion featWords="9" feature="internet" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			We(1) rated(2) the(3) facilities(4) four(5) star(6) .(7) 
+		</sentence>
+		<sentence id="22">
+			This(1) hotel(2) has(3) 18(4) meeting(5) rooms(6) ranging(7) from(8) accommodations(9) for(10) 5(11) to(12) 600(13) people(14) .(15) 
+		</sentence>
+		<sentence id="23">
+			It(1) boasts(2) a(3) first(4) class(5) business(6) center(7) .(8) 
+		</sentence>
+		<sentence id="24">
+			The(1) meeting(2) space(3) was(4) well(5) done(6) with(7) modern(8) trappings(9) and(10) was(11) well(12) kept(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			The(1) state(2) of(3) the(4) art(5) media(6) meeting(7) room(8) with(9) permanent(10) seating(11) was(12) impressive(13) .(14) 
+		</sentence>
+		<sentence id="26">
+			All(1) public(2) areas(3) ,(4) with(5) the(6) exception(7) of(8) the(9) earlier(10) mentioned(11) hallways(12) were(13) clean(14) and(15) modern(16) looking(17) .(18) 
+			<opinion featWords="3" feature="place" opWords="14" polarity="+"/>
+			<opinion featWords="3" feature="place" opWords="16,17" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			We(1) rated(2) the(3) facilities(4) four(5) star(6) .(7) 
+		</sentence>
+		<sentence id="28">
+			Amenities(1) In(2) addition(3) to(4) the(5) full(6) service(7) restaurant(8) and(9) gift(10) shop(11) there(12) is(13) an(14) outdoor(15) pool(16) ,(17) an(18) indoor(19) pool(20) area(21) with(22) ping-pong(23) table(24) ,(25) pool(26) table(27) ,(28) and(29) a(30) large(31) area(32) to(33) lounge(34) in(35) .(36) 
+		</sentence>
+		<sentence id="29">
+			There(1) is(2) an(3) outdoor(4) hot(5) tub(6) that(7) looked(8) inviting(9) even(10) with(11) the(12) snow(13) piled(14) around(15) it(16) .(17) 
+		</sentence>
+		<sentence id="30">
+			There(1) is(2) an(3) adequate(4) workout(5) room(6) and(7) ,(8) as(9) mentioned(10) earlier(11) ,(12) free(13) parking(14) .(15) 
+			<opinion featWords="5,6" feature="gym" opWords="4" polarity="+"/>
+			<opinion featWords="14" feature="parking" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="31">
+			In(1) better(2) weather(3) the(4) well-landscaped(5) grounds(6) would(7) be(8) nice(9) for(10) a(11) stroll(12) or(13) as(14) a(15) getaway(16) from(17) some(18) intense(19) meeting(20) .(21) 
+		</sentence>
+		<sentence id="32">
+			There(1) is(2) a(3) bell(4) desk(5) that(6) was(7) manned(8) during(9) all(10) the(11) times(12) we(13) were(14) in(15) the(16) lobby(17) .(18) 
+		</sentence>
+		<sentence id="33">
+			There(1) are(2) food(3) and(4) drink(5) vending(6) machines(7) in(8) each(9) wing(10) .(11) 
+		</sentence>
+		<sentence id="34">
+			All(1) were(2) working(3) when(4) we(5) were(6) there(7) .(8) 
+		</sentence>
+		<sentence id="35">
+			For(1) this(2) class(3) of(4) hotel(5) the(6) amenities(7) are(8) four(9) stars(10) .(11) 
+		</sentence>
+		<sentence id="36">
+			Service(1) The(2) service(3) we(4) encountered(5) was(6) another(7) story(8) .(9) 
+		</sentence>
+		<sentence id="37">
+			It(1) significantly(2) lessened(3) our(4) overall(5) impression(6) of(7) the(8) hotel(9) .(10) 
+		</sentence>
+		<sentence id="38">
+			We(1) arrive(2) about(3) seven-thirty(4) on(5) the(6) evening(7) .(8) 
+		</sentence>
+		<sentence id="39">
+			The(1) registration(2) clerk(3) was(4) somewhere(5) between(6) untrained(7) and(8) incompetent(9) .(10) 
+			<opinion featWords="3" feature="front desk" opWords="7" polarity="-"/>
+			<opinion featWords="3" feature="front desk" opWords="9" polarity="-"/>
+		</sentence>
+		<sentence id="40">
+			We(1) had(2) to(3) find(4) the(5) meeting(6) planner(7) for(8) the(9) meeting(10) my(11) honey(12) was(13) attending(14) to(15) get(16) checked(17) into(18) the(19) room(20) .(21) 
+		</sentence>
+		<sentence id="41">
+			The(1) registration(2) clerk(3) absolutely(4) refused(5) to(6) find(7) someone(8) to(9) help(10) her(11) and(12) tried(13) to(14) use(15) a(16) running(17) patter(18) of(19) nonsense(20) to(21) convince(22) us(23) it(24) was(25) not(26) her(27) problem(28) .(29) 
+		</sentence>
+		<sentence id="42">
+			When(1) the(2) meeting(3) planner(4) was(5) located(6) ((7) we(8) had(9) to(10) do(11) that(12) )(13) it(14) was(15) quickly(16) resolved(17) .(18) 
+		</sentence>
+		<sentence id="43">
+			The(1) room(2) was(3) being(4) direct(5) billed(6) and(7) when(8) I(9) asked(10) her(11) to(12) set(13) up(14) a(15) separate(16) folio(17) for(18) incidentals(19) so(20) I(21) could(22) leave(23) an(24) imprint(25) she(26) was(27) totally(28) at(29) a(30) loss(31) as(32) to(33) what(34) I(35) was(36) talking(37) about(38) .(39) 
+		</sentence>
+		<sentence id="44">
+			I(1) gave(2) up(3) and(4) used(5) a(6) charge(7) card(8) instead(9) of(10) room(11) charges(12) .(13) 
+		</sentence>
+		<sentence id="45">
+			We(1) asked(2) for(3) help(4) in(5) unloading(6) the(7) van(8) and(9) were(10) told(11) none(12) was(13) available(14) .(15) 
+		</sentence>
+		<sentence id="46">
+			As(1) we(2) pushed(3) a(4) luggage(5) cart(6) up(7) the(8) ramp(9) we(10) passed(11) a(12) bellhop(13) .(14) 
+		</sentence>
+		<sentence id="47">
+			The(1) room(2) was(3) nice(4) and(5) it(6) was(7) warm(8) very(9) warm(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="48">
+			We(1) turned(2) the(3) heat(4) off(5) and(6) about(7) an(8) hour(9) later(10) it(11) got(12) down(13) to(14) a(15) tolerable(16) temperature(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			We(1) ventured(2) to(3) the(4) restaurant(5) and(6) twenty-five(7) minutes(8) later(9) left(10) without(11) having(12) been(13) waited(14) on(15) .(16) 
+		</sentence>
+		<sentence id="50">
+			It(1) was(2) ,(3) I(4) guess(5) ,(6) too(7) busy(8) .(9) 
+		</sentence>
+		<sentence id="51">
+			There(1) were(2) three(3) other(4) tables(5) with(6) people(7) at(8) them(9) .(10) 
+		</sentence>
+		<sentence id="52">
+			The(1) gift(2) shop(3) was(4) closed(5) so(6) I(7) went(8) to(9) the(10) desk(11) tog(12) get(13) change(14) for(15) the(16) machines(17) .(18) 
+		</sentence>
+		<sentence id="53">
+			Luckily(1) another(2) guest(3) was(4) at(5) the(6) desk(7) because(8) the(9) desk(10) did(11) 'nt(12) have(13) a(14) bank(15) to(16) make(17) change(18) .(19) 
+		</sentence>
+		<sentence id="54">
+			We(1) never(2) got(3) to(4) use(5) the(6) gift(7) shop(8) as(9) it(10) was(11) closed(12) more(13) during(14) the(15) time(16) we(17) were(18) there(19) than(20) it(21) was(22) open(23) .(24) 
+		</sentence>
+		<sentence id="55">
+			We(1) did(2) not(3) try(4) room(5) service(6) since(7) no(8) one(9) seemed(10) able(11) to(12) open(13) a(14) folio(15) for(16) charges(17) .(18) 
+		</sentence>
+		<sentence id="56">
+			When(1) I(2) asked(3) to(4) speak(5) to(6) the(7) duty(8) manager(9) the(10) next(11) morning(12) I(13) was(14) told(15) there(16) was(17) 'nt(18) one(19) .(20) 
+		</sentence>
+		<sentence id="57">
+			On(1) the(2) positive(3) side(4) the(5) rooms(6) were(7) cleaned(8) efficiently(9) and(10) well(11) and(12) those(13) employees(14) whom(15) we(16) encountered(17) casually(18) were(19) pleasant(20) and(21) tried(22) to(23) be(24) helpful(25) .(26) 
+			<opinion featWords="14" feature="staff" opWords="20" polarity="+"/>
+			<opinion featWords="14" feature="staff" opWords="25" polarity="+"/>
+		</sentence>
+		<sentence id="58">
+			My(1) honey(2) s(3) meeting(4) went(5) well(6) and(7) the(8) meeting(9) services(10) seemed(11) not(12) to(13) reflect(14) what(15) we(16) encountered(17) .(18) 
+		</sentence>
+		<sentence id="59">
+			Overall(1) this(2) would(3) have(4) been(5) a(6) pleasant(7) stay(8) if(9) the(10) service(11) we(12) encountered(13) had(14) been(15) better(16) .(17) 
+		</sentence>
+		<sentence id="60">
+			We(1) did(2) eat(3) the(4) buffet(5) breakfast(6) in(7) the(8) restaurant(9) .(10) 
+		</sentence>
+		<sentence id="61">
+			It(1) was(2) a(3) good(4) $6.00(5) buffet(6) .(7) 
+			<opinion featWords="6" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="62">
+			Unfortunately(1) it(2) cost(3) $10.00(4) .(5) 
+		</sentence>
+		<sentence id="63">
+			We(1) give(2) service(3) one-and-one-half(4) stars(5) and(6) that(7) is(8) generous(9) .(10) 
+		</sentence>
+		<sentence id="64">
+			For(1) an(2) overnight(3) stay(4) this(5) hotel(6) is(7) not(8) bad(9) .(10) 
+		</sentence>
+		<sentence id="65">
+			As(1) a(2) place(3) to(4) center(5) for(6) touring(7) the(8) area(9) it(10) is(11) adequate(12) .(13) 
+		</sentence>
+		<sentence id="66">
+			I(1) would(2) not(3) use(4) it(5) as(6) a(7) meeting(8) hotel(9) due(10) to(11) the(12) service(13) problems(14) .(15) 
+		</sentence>
+		<sentence id="67">
+			I(1) would(2) not(3) use(4) it(5) if(6) I(7) had(8) business(9) in(10) the(11) area(12) that(13) lasted(14) more(15) than(16) a(17) day(18) either(19) .(20) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="886" item="The Hay Adams Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Inside(1) Washington(2) at(3) the(4) Hay-Adams(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) history(3) and(4) service(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Reservations(1) are(2) sometimes(3) difficult(4) to(5) obtain(6) .(7) 
+		</sentence>
+		<sentence id="2">
+			Book(1) well(2) in(3) advance(4) .(5) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) highly(2) recommend(3) this(4) hotel(5) to(6) the(7) business(8) traveler(9) because(10) of(11) it(12) 's(13) atmosphere(14) ,(15) location(16) and(17) high(18) level(19) of(20) service(21) .(22) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) hotel(2) is(3) my(4) favorite(5) place(6) to(7) stay(8) in(9) Washington(10) .(11) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Situated(1) across(2) from(3) the(4) White(5) House(6) and(7) frequented(8) by(9) Washington(10) politicos(11) ,(12) it(13) offers(14) a(15) true(16) picture(17) of(18) the(19) city(20) unfettered(21) by(22) regular(23) tourists(24) and(25) monument(26) gawkers(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			You(1) really(2) can(3) get(4) a(5) sense(6) of(7) how(8) the(9) city(10) works(11) by(12) spending(13) time(14) in(15) the(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="4">
+			The(1) restaurant(2) is(3) frequented(4) by(5) many(6) political(7) figures(8) from(9) breakfast(10) through(11) dinner(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			Often(1) ,(2) visiting(3) dignitaries(4) stay(5) there(6) .(7) 
+		</sentence>
+		<sentence id="6">
+			do(1) not(2) miss(3) the(4) bar(5) downstairs(6) ,(7) Off(8) the(9) Record(10) .(11) 
+		</sentence>
+		<sentence id="7">
+			During(1) the(2) week(3) it(4) often(5) gets(6) crowed(7) as(8) people(9) stream(10) in(11) after(12) work(13) at(14) their(15) government(16) offices(17) .(18) 
+		</sentence>
+		<sentence id="8">
+			You(1) never(2) know(3) who(4) may(5) take(6) the(7) stool(8) next(9) to(10) you(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			The(1) bar(2) featured(3) on(4) the(5) TV(6) show(7) "(8) DAG(9) "(10) is(11) based(12) on(13) this(14) establishment(15) .(16) 
+		</sentence>
+		<sentence id="10">
+			Rooms(1) are(2) nicely(3) furnished(4) and(5) have(6) charm(7) unmatched(8) in(9) modern(10) corporate(11) hotels(12) .(13) 
+			<opinion featWords="12" feature="hotel" opWords="10" polarity="+"/>
+			<opinion featWords="1" feature="rooms" opWords="3,4" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) rooms(2) with(3) views(4) towards(5) the(6) White(7) House(8) are(9) more(10) expensive(11) but(12) worth(13) it(14) ,(15) at(16) least(17) for(18) your(19) first(20) stay(21) there(22) .(23) 
+		</sentence>
+		<sentence id="12">
+			The(1) entire(2) staff(3) is(4) a(5) tribute(6) to(7) the(8) industry(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			Many(1) have(2) made(3) a(4) point(5) to(6) call(7) me(8) by(9) name(10) and(11) remember(12) it(13) when(14) I(15) return(16) months(17) later(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			This(1) is(2) not(3) the(4) best(5) place(6) for(7) kids(8) .(9) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			I(1) recommend(2) it(3) mostly(4) for(5) business(6) travel(7) or(8) for(9) couples(10) .(11) 
+			<opinion featRef="hotel" featWords="3" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			I(1) stay(2) there(3) whenever(4) I(5) can(6) and(7) look(8) forward(9) to(10) my(11) next(12) visit(13) .(14) 
+		</sentence>
+	</text>
+</review>

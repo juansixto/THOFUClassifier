@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="730" item="The Westin Atlanta Airport" rating="4">
+	<title>
+		<sentence id="1">
+			Overall(1) Comfortable(2) ,(3) Positive(4) Experience(5) ,(6) Good(7) Service(8) ,(9) Will(10) Return(11) !(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) good(3) service(4) ,(5) friendly(6) and(7) attentive(8) staff(9) ,(10) pretty(11) lobby(12) ,(13) airport(14) view(15) ,(16) location(17) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="service" opWords="3" polarity="+"/>
+			<opinion featWords="9" feature="staff" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="staff" opWords="8" polarity="+"/>
+			<opinion featWords="12" feature="lobby" opWords="11" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			High(1) charge(2) for(3) internet(4) access(5) ,(6) unnecessary(7) parking(8) charges(9) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="-"/>
+			<opinion featWords="9" feature="price" opWords="7" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			We(1) had(2) an(3) enjoyable(4) experience(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Everything(1) was(2) clean(3) ;(4) service(5) was(6) good(7) .(8) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="5" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Great(1) hotel(2) for(3) layovers(4) ,(5) business(6) travelers(7) ,(8) couples(9) ,(10) or(11) families(12) .(13) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Cheaper(1) alternative(2) to(3) pricey(4) downtown(5) lodging(6) ,(7) but(8) good(9) location(10) .(11) 
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) chose(2) this(3) hotel(4) for(5) a(6) surprise(7) weekend(8) birthday(9) trip(10) for(11) my(12) boyfriend(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			I(1) chose(2) this(3) particular(4) hotel(5) for(6) several(7) reasons(8) :(9) it(10) is(11) in(12) close(13) proximity(14) to(15) downtown(16) Atlanta(17) and(18) things(19) to(20) do(21) ((22) just(23) hop(24) on(25) I-85(26) )(27) but(28) it(29) is(30) substantially(31) less(32) expensive(33) than(34) all(35) downtown(36) Atlanta(37) hotels(38) ;(39) the(40) Westin(41) name(42) is(43) known(44) for(45) its(46) high(47) reputation(48) and(49) high(50) level(51) of(52) comfort(53) and(54) class(55) ;(56) the(57) hotel(58) has(59) a(60) restaurant(61) ,(62) bar(63) ,(64) and(65) Starbucks(66) Coffee(67) inside(68) ;(69) and(70) finally(71) because(72) parking(73) would(74) not(75) be(76) a(77) problem(78) since(79) it(80) is(81) not(82) a(83) downtown(84) hotel(85) .(86) 
+		</sentence>
+		<sentence id="3">
+			After(1) our(2) positive(3) experience(4) at(5) the(6) Westin(7) ,(8) I(9) am(10) surprised(11) to(12) read(13) all(14) of(15) these(16) negative(17) reviews(18) .(19) 
+		</sentence>
+		<sentence id="4">
+			Overall(1) we(2) had(3) a(4) wonderful(5) experience(6) ,(7) with(8) only(9) a(10) few(11) minor(12) suggestions(13) for(14) improvement(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			CLEANLINESS(1) /(2) APPEARANCE(3) :(4) Our(5) room(6) was(7) very(8) clean(9) .(10) 
+			<opinion featWords="6" feature="rooms" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="6">
+			The(1) carpets(2) were(3) clean(4) ,(5) it(6) did(7) not(8) have(9) a(10) strong(11) odor(12) ,(13) and(14) the(15) bathroom(16) was(17) very(18) clean(19) .(20) 
+			<opinion featWords="2" feature="carpets" opWords="4" polarity="+"/>
+			<opinion featWords="16" feature="bathroom" opWords="19" polarity="+" potency="18"/>
+		</sentence>
+		<sentence id="7">
+			The(1) bright(2) solid(3) white(4) bedding(5) did(6) not(7) have(8) any(9) stains(10) and(11) was(12) very(13) clean(14) ;(15) this(16) surprised(17) me(18) because(19) it(20) is(21) often(22) difficult(23) to(24) keep(25) white(26) linens(27) from(28) looking(29) dingy(30) .(31) 
+			<opinion featWords="5" feature="bedding" opWords="2" polarity="+"/>
+			<opinion featWords="5" feature="bedding" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) bar(2) ,(3) lobby(4) ,(5) and(6) other(7) public(8) areas(9) of(10) the(11) hotel(12) were(13) also(14) very(15) clean(16) and(17) well(18) appointed(19) .(20) 
+			<opinion featWords="2" feature="food" opWords="16" polarity="+"/>
+			<opinion featWords="2" feature="food" opWords="18,19" polarity="+"/>
+			<opinion featWords="4" feature="lobby" opWords="16" polarity="+"/>
+			<opinion featWords="4" feature="lobby" opWords="18,19" polarity="+"/>
+			<opinion featWords="9" feature="place" opWords="16" polarity="+"/>
+			<opinion featWords="9" feature="place" opWords="18,19" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			The(1) lobby(2) area(3) is(4) very(5) pretty(6) and(7) nicely(8) decorated(9) with(10) several(11) waterfall(12) fountains(13) and(14) comfortable(15) areas(16) with(17) couches(18) and(19) chairs(20) for(21) lounging(22) and(23) relaxing(24) .(25) 
+			<opinion featWords="2" feature="lobby" opWords="6" polarity="+" potency="5"/>
+			<opinion featWords="2" feature="lobby" opWords="8,9" polarity="+"/>
+			<opinion featWords="16" feature="place" opWords="15" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			Even(1) the(2) gold(3) elevators(4) with(5) glass(6) windows(7) are(8) very(9) pretty(10) and(11) provide(12) a(13) nice(14) view(15) of(16) Atlanta(17) Airport(18) as(19) you(20) are(21) going(22) up(23) and(24) down(25) .(26) 
+			<opinion featWords="15" feature="view" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			COMFORT(1) :(2) The(3) Westin(4) is(5) known(6) for(7) its(8) "(9) heavenly(10) bed(11) "(12) and(13) "(14) heavenly(15) bath(16) "(17) experience(18) .(19) 
+		</sentence>
+		<sentence id="12">
+			The(1) bed(2) was(3) extremely(4) comfortable(5) .(6) 
+			<opinion featWords="2" feature="bed" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="13">
+			It(1) was(2) CLEAN(3) most(4) importantly(5) and(6) had(7) extra(8) pillows(9) and(10) very(11) comfortable(12) down(13) bedding(14) .(15) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="3" polarity="+"/>
+			<opinion featWords="14" feature="bedding" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="14">
+			We(1) both(2) slept(3) very(4) well(5) .(6) 
+		</sentence>
+		<sentence id="15">
+			The(1) bath(2) was(3) also(4) nice(5) because(6) of(7) the(8) Westin(9) shower(10) head(11) ,(12) which(13) is(14) actually(15) two(16) large(17) shower(18) heads(19) instead(20) of(21) one(22) single(23) head(24) .(25) 
+			<opinion featWords="2" feature="tub" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			This(1) made(2) for(3) a(4) nice(5) ,(6) soothing(7) shower(8) .(9) 
+		</sentence>
+		<sentence id="17">
+			SERVICE(1) :(2) The(3) staff(4) were(5) very(6) helpful(7) and(8) friendly(9) .(10) 
+			<opinion featWords="4" feature="staff" opWords="7" polarity="+" potency="6"/>
+			<opinion featWords="4" feature="staff" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			We(1) made(2) the(3) mistake(4) of(5) removing(6) some(7) items(8) from(9) the(10) mini-bar(11) to(12) decide(13) what(14) we(15) wanted(16) to(17) drink(18) without(19) realizing(20) that(21) the(22) mini-bar(23) functions(24) on(25) a(26) sensor(27) system(28) that(29) is(30) automatically(31) connected(32) to(33) the(34) lobby(35) computer(36) .(37) 
+		</sentence>
+		<sentence id="19">
+			Every(1) item(2) that(3) is(4) moved(5) or(6) removed(7) from(8) the(9) refrigerator(10) is(11) automatically(12) charged(13) to(14) your(15) bill(16) .(17) 
+		</sentence>
+		<sentence id="20">
+			We(1) did(2) not(3) realize(4) this(5) until(6) it(7) was(8) too(9) late(10) and(11) we(12) had(13) done(14) some(15) rearranging(16) !(17) 
+		</sentence>
+		<sentence id="21">
+			The(1) staff(2) at(3) the(4) reception(5) desk(6) were(7) very(8) kind(9) and(10) understanding(11) and(12) when(13) they(14) realized(15) the(16) mistake(17) we(18) made(19) ,(20) they(21) credited(22) the(23) items(24) that(25) we(26) had(27) not(28) used(29) to(30) our(31) bill(32) and(33) did(34) not(35) charge(36) us(37) ,(38) no(39) questions(40) asked(41) .(42) 
+			<opinion featWords="2" feature="staff" opWords="9" polarity="+" potency="8"/>
+			<opinion featWords="2" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			Housekeeping(1) was(2) very(3) attentive(4) and(5) kept(6) our(7) room(8) stocked(9) with(10) clean(11) towels(12) and(13) kept(14) it(15) tidy(16) ,(17) but(18) they(19) were(20) not(21) intrusive(22) .(23) 
+			<opinion featWords="1" feature="room service" opWords="4" polarity="+" potency="3"/>
+			<opinion featWords="12" feature="towels" opWords="11" polarity="+"/>
+			<opinion featWords="1" feature="room service" opWords="21,22" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			When(1) we(2) opted(3) to(4) sleep(5) in(6) and(7) placed(8) the(9) "(10) Do(11) Not(12) Disturb(13) "(14) sign(15) on(16) our(17) door(18) ,(19) we(20) were(21) left(22) alone(23) and(24) no(25) one(26) touched(27) our(28) room(29) until(30) we(31) had(32) left(33) the(34) hotel(35) .(36) 
+		</sentence>
+		<sentence id="24">
+			We(1) called(2) the(3) Westin(4) 's(5) "(6) Service(7) Express(8) "(9) service(10) anytime(11) we(12) had(13) a(14) question(15) or(16) needed(17) anything(18) at(19) all(20) .(21) 
+		</sentence>
+		<sentence id="25">
+			They(1) were(2) very(3) kind(4) and(5) helpful(6) .(7) 
+			<opinion featRef="staff" featWords="1" feature="staff" opWords="4" polarity="+" potency="3"/>
+			<opinion featRef="staff" featWords="1" feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="26">
+			There(1) was(2) a(3) wedding(4) on-site(5) during(6) our(7) stay(8) ,(9) but(10) for(11) the(12) most(13) part(14) the(15) hotel(16) was(17) quiet(18) and(19) not(20) over-crowded(21) at(22) all(23) .(24) 
+			<opinion featWords="16" feature="hotel" opWords="18" polarity="+"/>
+			<opinion featWords="16" feature="hotel" opWords="20,21" polarity="+"/>
+		</sentence>
+		<sentence id="27">
+			We(1) were(2) able(3) to(4) get(5) a(6) parking(7) spot(8) anytime(9) without(10) any(11) problems(12) .(13) 
+		</sentence>
+		<sentence id="28">
+			SUGGESTIONS(1) FOR(2) GUESTS(3) :(4) Request(5) a(6) room(7) on(8) one(9) of(10) the(11) higher(12) floors(13) ((14) preferably(15) the(16) 8th(17) )(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			You(1) have(2) a(3) neat(4) view(5) of(6) the(7) airport(8) and(9) we(10) enjoyed(11) watching(12) the(13) planes(14) landing(15) and(16) taking(17) off(18) ...(19) kids(20) especially(21) would(22) enjoy(23) this(24) !(25) 
+			<opinion featWords="5" feature="view" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="30">
+			It(1) makes(2) you(3) feel(4) as(5) if(6) you(7) still(8) have(9) a(10) "(11) city(12) view(13) "(14) without(15) being(16) downtown(17) and(18) paying(19) the(20) outrageous(21) prices(22) .(23) 
+			<opinion featWords="22" feature="price" opWords="21" polarity="-"/>
+		</sentence>
+		<sentence id="31">
+			ROOM(1) FOR(2) IMPROVEMENTS(3) :(4) Our(5) only(6) complaints(7) were(8) parking(9) charges(10) and(11) high-speed(12) internet(13) charges(14) .(15) 
+		</sentence>
+		<sentence id="32">
+			Parking(1) was(2) $6(3) per(4) night(5) ,(6) and(7) although(8) that(9) is(10) less(11) than(12) downtown(13) hotels(14) ,(15) we(16) thought(17) parking(18) should(19) have(20) been(21) complimentary(22) since(23) they(24) have(25) ample(26) parking(27) areas(28) and(29) the(30) hotel(31) is(32) not(33) located(34) in(35) a(36) major(37) traffic(38) area(39) like(40) downtown(41) .(42) 
+			<opinion featWords="27" feature="parking" opWords="26" polarity="+"/>
+		</sentence>
+		<sentence id="33">
+			The(1) room(2) rate(3) is(4) already(5) a(6) bit(7) steep(8) for(9) the(10) location(11) ,(12) so(13) the(14) additional(15) parking(16) fee(17) was(18) a(19) little(20) unnecessary(21) .(22) 
+			<opinion featWords="3" feature="price" opWords="8" polarity="-"/>
+			<opinion featWords="17" feature="price" opWords="21" polarity="-" potency="20"/>
+		</sentence>
+		<sentence id="34">
+			Also(1) ,(2) when(3) we(4) checked(5) in(6) ,(7) the(8) receptionist(9) at(10) the(11) desk(12) failed(13) to(14) give(15) us(16) the(17) "(18) self(19) parking(20) permit(21) "(22) that(23) allows(24) you(25) to(26) get(27) in(28) and(29) out(30) of(31) the(32) parking(33) lot(34) without(35) having(36) the(37) pay(38) the(39) attendant(40) each(41) time(42) .(43) 
+		</sentence>
+		<sentence id="35">
+			This(1) meant(2) that(3) when(4) we(5) left(6) the(7) first(8) night(9) to(10) go(11) to(12) dinner(13) ,(14) we(15) had(16) to(17) pay(18) the(19) attendant(20) for(21) the(22) short(23) time(24) we(25) had(26) been(27) parked(28) there(29) ,(30) and(31) in(32) addition(33) to(34) that(35) ,(36) we(37) STILL(38) had(39) to(40) pay(41) the(42) $6(43) for(44) that(45) night(46) .(47) 
+		</sentence>
+		<sentence id="36">
+			So(1) we(2) lost(3) several(4) bucks(5) needlessly(6) .(7) 
+		</sentence>
+		<sentence id="37">
+			If(1) we(2) had(3) not(4) realized(5) that(6) night(7) that(8) she(9) forgot(10) to(11) give(12) us(13) our(14) parking(15) permit(16) ,(17) we(18) would(19) have(20) been(21) paying(22) everytime(23) we(24) exited(25) the(26) lot(27) all(28) weekend(29) without(30) realizing(31) that(32) we(33) were(34) already(35) being(36) charged(37) to(38) park(39) on(40) our(41) bill(42) !(43) 
+		</sentence>
+		<sentence id="38">
+			The(1) charge(2) for(3) high-speed(4) internet(5) at(6) the(7) Westin(8) was(9) $12.95(10) per(11) day(12) .(13) 
+		</sentence>
+		<sentence id="39">
+			At(1) many(2) hotels(3) it(4) is(5) complimentary(6) .(7) 
+		</sentence>
+		<sentence id="40">
+			We(1) thought(2) that(3) was(4) quite(5) steep(6) ,(7) especially(8) when(9) it(10) is(11) standard(12) at(13) many(14) hotels(15) these(16) days(17) to(18) offer(19) it(20) for(21) free(22) .(23) 
+		</sentence>
+		<sentence id="41">
+			For(1) $12.95(2) per(3) day(4) ,(5) we(6) survived(7) without(8) checking(9) e-mail(10) until(11) we(12) got(13) home(14) !(15) 
+		</sentence>
+		<sentence id="42">
+			Also(1) ,(2) we(3) were(4) not(5) allowed(6) to(7) use(8) the(9) luggage(10) carts(11) in(12) the(13) lobby(14) ---(15) we(16) were(17) told(18) that(19) those(20) were(21) for(22) the(23) bellboys(24) and(25) attendants(26) use(27) only(28) .(29) 
+		</sentence>
+		<sentence id="43">
+			Overall(1) ,(2) a(3) pleasant(4) experience(5) with(6) good(7) service(8) and(9) a(10) clean(11) facility(12) .(13) 
+			<opinion featWords="8" feature="service" opWords="7" polarity="+"/>
+			<opinion featWords="12" feature="facilities" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="44">
+			We(1) would(2) definitely(3) return(4) again(5) .(6) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+	</text>
+</review>

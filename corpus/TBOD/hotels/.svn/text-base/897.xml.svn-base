@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="897" item="JW Marriott Orlando Grande Lakes" rating="5">
+	<title>
+		<sentence id="1">
+			Wonderful(1) hotel(2) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Food(1) ,(2) service(3) ,(4) rooms(5) .(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			It(1) can(2) be(3) pricey(4) if(5) you(6) do(7) not(8) find(9) any(10) specials(11) .(12) 
+			<opinion feature="price" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) place(2) ,(3) highly(4) recommended(5) ,(6) a(7) new(8) favorite(9) of(10) mine(11) .(12) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) stayed(5) at(6) the(7) JW(8) Marriott(9) Grande(10) Lakes(11) in(12) Sept(13) '(14) 05(15) ,(16) for(17) a(18) 2(19) night(20) getaway(21) ,(22) to(23) my(24) favorite(25) place(26) on(27) the(28) planet(29) ,(30) Orlando(31) .(32) 
+			<opinion featWords="26" feature="place" opWords="25" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			I(1) was(2) most(3) impressed(4) with(5) just(6) about(7) every(8) aspect(9) of(10) this(11) property(12) .(13) 
+		</sentence>
+		<sentence id="3">
+			The(1) Grande(2) Lakes(3) sits(4) on(5) a(6) shared(7) golf(8) course(9) with(10) the(11) Ritz(12) Carlton(13) Orlando(14) ,(15) and(16) guests(17) of(18) the(19) hotels(20) have(21) charging(22) privileges(23) at(24) either(25) property(26) .(27) 
+		</sentence>
+		<sentence id="4">
+			It(1) is(2) just(3) down(4) the(5) street(6) from(7) Sea(8) World(9) ,(10) a(11) few(12) minutes(13) from(14) Universal(15) and(16) the(17) Convention(18) Center(19) ,(20) and(21) a(22) few(23) minutes(24) more(25) from(26) Disney(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			A(1) great(2) location(3) ,(4) very(5) convenient(6) .(7) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+"/>
+			<opinion featWords="3" feature="place" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="6">
+			You(1) may(2) self-park(3) for(4) free(5) ,(6) or(7) valet(8) park(9) for(10) a(11) fee(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) lobby(2) is(3) large(4) ,(5) with(6) marble(7) flooring(8) ,(9) and(10) a(11) busy(12) bar(13) lobby(14) bar(15) .(16) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			We(1) used(2) Marriott(3) Reward(4) points(5) for(6) our(7) stay(8) ,(9) and(10) upon(11) check-in(12) ,(13) were(14) told(15) we(16) were(17) being(18) upgraded(19) to(20) a(21) junior(22) suite(23) .(24) 
+		</sentence>
+		<sentence id="9">
+			Let(1) me(2) tell(3) you(4) ,(5) this(6) suite(7) was(8) bigger(9) than(10) some(11) apartments(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			Off(1) the(2) entryway(3) is(4) a(5) "(6) kitchen(7) "(8) of(9) sorts(10) ,(11) with(12) a(13) fridge(14) ,(15) lots(16) of(17) counter(18) and(19) cabinet(20) space(21) ,(22) and(23) not(24) much(25) else(26) .(27) 
+		</sentence>
+		<sentence id="11">
+			I(1) suppose(2) you(3) could(4) use(5) this(6) for(7) setting(8) up(9) hors(10) d'oeuvres(11) for(12) entertaining(13) or(14) meetings(15) .(16) 
+		</sentence>
+		<sentence id="12">
+			The(1) living(2) area(3) had(4) comfy(5) seating(6) ,(7) with(8) a(9) flat(10) screen(11) TV(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			The(1) room(2) overlooked(3) the(4) golf(5) course(6) and(7) pool(8) area(9) .(10) 
+		</sentence>
+		<sentence id="14">
+			The(1) bedroom(2) was(3) large(4) and(5) luxurious(6) ,(7) with(8) a(9) huge(10) dresser-more(11) drawers(12) than(13) I(14) 've(15) ever(16) seen(17) in(18) a(19) hotel(20) .(21) 
+			<opinion featWords="2" feature="bedroom" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="bedroom" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) TV(2) was(3) held(4) in(5) the(6) usual(7) armoire(8) .(9) 
+		</sentence>
+		<sentence id="16">
+			The(1) bed(2) linens(3) were(4) luxurious(5) white(6) ,(7) with(8) the(9) hotel(10) logo(11) embroidered(12) on(13) them(14) .(15) 
+		</sentence>
+		<sentence id="17">
+			Fluffy(1) pillows(2) ,(3) and(4) a(5) most(6) wonderful(7) mattress(8) rounded(9) it(10) out(11) .(12) 
+			<opinion featWords="2" feature="bedding" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			The(1) bathroom(2) was(3) equally(4) luxurious(5) ,(6) with(7) marble(8) everywhere(9) ,(10) and(11) a(12) separate(13) shower(14) and(15) tub(16) .(17) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="19">
+			The(1) bathroom(2) had(3) plenty(4) of(5) room(6) ,(7) and(8) the(9) amenities(10) were(11) of(12) top(13) quality(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			The(1) JW(2) has(3) a(4) large(5) ,(6) free(7) form(8) swimming(9) pool(10) ,(11) with(12) lush(13) landscaping(14) ,(15) and(16) several(17) jacuzzis(18) .(19) 
+			<opinion featWords="10" feature="swimming pool" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			Somehow(1) ,(2) we(3) never(4) made(5) it(6) down(7) to(8) the(9) pool(10) ,(11) although(12) we(13) were(14) tempted(15) .(16) 
+		</sentence>
+		<sentence id="22">
+			It(1) was(2) very(3) hot(4) during(5) our(6) visit(7) .(8) 
+		</sentence>
+		<sentence id="23">
+			People(1) with(2) children(3) ,(4) or(5) those(6) who(7) just(8) like(9) to(10) lounge(11) ,(12) could(13) spend(14) several(15) days(16) here(17) and(18) never(19) leave(20) the(21) property(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			The(1) Ritz(2) Carlton(3) next(4) door(5) also(6) has(7) a(8) pool(9) ,(10) albeit(11) a(12) smaller(13) and(14) less(15) lush(16) one(17) .(18) 
+		</sentence>
+		<sentence id="25">
+			The(1) best(2) part(3) had(4) to(5) be(6) the(7) restaurants(8) .(9) 
+		</sentence>
+		<sentence id="26">
+			My(1) husband(2) is(3) a(4) chef(5) ,(6) and(7) he(8) is(9) particular(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			We(1) had(2) wonderful(3) food(4) for(5) every(6) meal(7) .(8) 
+			<opinion featWords="4" feature="food" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			Not(1) to(2) be(3) missed(4) is(5) Primo(6) ,(7) an(8) organic(9) restaurant(10) with(11) the(12) highest(13) quality(14) of(15) food(16) and(17) wine(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			My(1) grilled(2) vegetable(3) platter(4) was(5) the(6) best(7) I(8) 've(9) ever(10) had(11) ,(12) and(13) even(14) included(15) Jerusalem(16) artichokes(17) .(18) 
+		</sentence>
+		<sentence id="30">
+			Now(1) tell(2) me(3) ,(4) when(5) was(6) the(7) last(8) time(9) you(10) saw(11) that(12) on(13) your(14) plate(15) .(16) 
+		</sentence>
+		<sentence id="31">
+			The(1) fig(2) and(3) proscuitto(4) appetizer(5) was(6) equally(7) delicious(8) ,(9) as(10) were(11) the(12) desserts(13) .(14) 
+		</sentence>
+		<sentence id="32">
+			With(1) 3(2) courses(3) each(4) ,(5) a(6) glass(7) of(8) wine(9) ,(10) and(11) soda(12) ,(13) we(14) managed(15) to(16) spend(17) about(18) $90(19) with(20) tip(21) ,(22) which(23) really(24) is(25) a(26) bargain(27) for(28) such(29) a(30) fabulous(31) meal(32) .(33) 
+			<opinion featWords="32" feature="food" opWords="31" polarity="+"/>
+		</sentence>
+		<sentence id="33">
+			Citron(1) ,(2) the(3) main(4) restaurant(5) ,(6) has(7) a(8) most(9) amazing(10) breakfast(11) buffet(12) every(13) day(14) of(15) the(16) week(17) .(18) 
+			<opinion featWords="12" feature="food" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="34">
+			Fresh(1) fruit(2) ,(3) waffle(4) and(5) omelet(6) stations(7) ,(8) pastries(9) made(10) on-site(11) ,(12) smoked(13) fish(14) ,(15) salads(16) ,(17) you(18) name(19) it(20) ,(21) it(22) was(23) there(24) .(25) 
+		</sentence>
+		<sentence id="35">
+			You(1) may(2) also(3) order(4) from(5) the(6) menu(7) .(8) 
+		</sentence>
+		<sentence id="36">
+			The(1) lunches(2) and(3) dinners(4) are(5) all(6) off(7) the(8) menu(9) ,(10) no(11) buffet(12) .(13) 
+		</sentence>
+		<sentence id="37">
+			The(1) soups(2) were(3) particularly(4) good(5) ,(6) as(7) are(8) all(9) the(10) pastries(11) .(12) 
+		</sentence>
+		<sentence id="38">
+			They(1) also(2) have(3) ice(4) cream(5) to(6) go(7) .(8) 
+		</sentence>
+		<sentence id="39">
+			Service(1) was(2) impeccable-our(3) every(4) need(5) was(6) met(7) without(8) being(9) intrusive(10) .(11) 
+		</sentence>
+		<sentence id="40">
+			There(1) is(2) a(3) spa(4) at(5) the(6) Ritz(7) Carlton(8) ,(9) with(10) a(11) fitness(12) center(13) .(14) 
+		</sentence>
+		<sentence id="41">
+			It(1) is(2) an(3) easy(4) walk(5) between(6) the(7) two(8) hotels(9) .(10) 
+		</sentence>
+		<sentence id="42">
+			The(1) Ritz(2) has(3) more(4) upscale(5) restaurants(6) ,(7) if(8) you(9) really(10) want(11) to(12) blow(13) the(14) budget(15) .(16) 
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="43">
+			I(1) recommend(2) this(3) hotel(4) to(5) anyone(6) wanting(7) a(8) luxury(9) getaway(10) .(11) 
+			<opinion featWords="4" feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+		<sentence id="44">
+			If(1) you(2) are(3) a(4) Marriott(5) Rewards(6) member(7) ,(8) check(9) out(10) their(11) specials(12) .(13) 
+		</sentence>
+		<sentence id="45">
+			I(1) have(2) seen(3) the(4) hotel(5) for(6) as(7) little(8) as(9) $139(10) per(11) night(12) in(13) the(14) off(15) season(16) .(17) 
+		</sentence>
+		<sentence id="46">
+			Regular(1) prices(2) run(3) at(4) least(5) $250(6) and(7) up(8) .(9) 
+			<opinion featWords="2" feature="price" opWords="1" polarity="+"/>
+		</sentence>
+	</text>
+</review>

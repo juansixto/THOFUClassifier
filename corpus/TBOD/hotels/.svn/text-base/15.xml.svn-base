@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="15" item="Holiday Isle Beach Resorts and Marina" rating="1">
+	<title>
+		<sentence id="1">
+			Awful(1) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Lots(1) of(2) loud(3) music(4) ,(5) foul(6) smells(7) ,(8) filth(9) ,(10) and(11) drunk(12) people(13) .(14) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			It(1) was(2) one(3) of(4) the(5) dirtiest(6) places(7) I(8) have(9) ever(10) been(11) !(12) !(13) 
+			<opinion featWords="7" feature="place" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			If(1) you(2) are(3) a(4) drunken(5) college(6) student(7) ,(8) it(9) may(10) be(11) acceptable(12) ;(13) if(14) you(15) 're(16) on(17) vacation(18) with(19) a(20) significant(21) other(22) ,(23) "(24) Forget(25) about(26) it(27) .(28) "(29) We(30) went(31) to(32) our(33) room(34) and(35) were(36) in(37) awe(38) of(39) the(40) filth(41) .(42) 
+		</sentence>
+		<sentence id="3">
+			Allegedly(1) ,(2) housekeeping(3) had(4) just(5) been(6) there(7) ,(8) too(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			There(1) was(2) no(3) beach(4) and(5) the(6) water(7) was(8) full(9) of(10) sea(11) weed(12) .(13) 
+		</sentence>
+		<sentence id="5">
+			When(1) we(2) turned(3) down(4) the(5) sheets(6) ,(7) we(8) were(9) greeted(10) with(11) a(12) nice(13) hair(14) in(15) the(16) center(17) of(18) the(19) bed(20) !(21) 
+		</sentence>
+		<sentence id="6">
+			The(1) bathroom(2) was(3) filthy(4) ,(5) too(6) .(7) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			We(1) immediately(2) went(3) to(4) the(5) front(6) desk(7) and(8) told(9) them(10) we(11) would(12) not(13) be(14) staying(15) there(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			As(1) there(2) was(3) a(4) line(5) of(6) drunken(7) people(8) behind(9) us(10) ,(11) the(12) receptionist(13) seemingly(14) did(15) not(16) want(17) us(18) to(19) make(20) a(21) scene(22) ;(23) as(24) such(25) ,(26) she(27) said(28) we(29) would(30) not(31) be(32) charged(33) .(34) 
+		</sentence>
+		<sentence id="9">
+			We(1) then(2) scurried(3) to(4) find(5) other(6) accommodations(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			We(1) decided(2) to(3) have(4) lunch(5) on(6) premises(7) and(8) discovered(9) that(10) it(11) was(12) a(13) poor(14) decision(15) ,(16) too(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			We(1) decided(2) to(3) have(4) lunch(5) on(6) premises(7) and(8) discovered(9) that(10) it(11) was(12) a(13) poor(14) decision(15) ,(16) too(17) .(18) 
+		</sentence>
+	</text>
+</review>

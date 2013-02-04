@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="634" item="Westgate Town Center" rating="4">
+	<title>
+		<sentence id="1">
+			Honneymoon(1) Gift(2) that(3) was(4) above(5) average(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) ,(2) spacious(3) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			timeshare(1) presentation(2) that(3) was(4) not(5) supposed(6) to(7) happen(8) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Great(1) place(2) to(3) stay(4) ,(5) just(6) avoid(7) the(8) sales(9) reps(10) if(11) you(12) can(13) .(14) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) just(5) got(6) back(7) from(8) our(9) honneymoon(10) at(11) the(12) Westgate(13) Vacation(14) Villas(15) in(16) Florida(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) Location(2) of(3) the(4) estate(5) is(6) just(7) off(8) the(9) main(10) strip(11) so(12) you(13) get(14) the(15) benefits(16) of(17) the(18) strip(19) without(20) the(21) noise(22) and(23) hassle(24) .(25) 
+		</sentence>
+		<sentence id="3">
+			First(1) the(2) pros(3) :(4) Pros(5) :(6) Upon(7) arriving(8) at(9) the(10) resort(11) we(12) were(13) happy(14) to(15) see(16) the(17) manicured(18) lawns(19) and(20) the(21) attention(22) to(23) detail(24) that(25) surrounds(26) this(27) resort(28) .(29) 
+		</sentence>
+		<sentence id="4">
+			Buildings(1) appeared(2) in(3) good(4) shape(5) ,(6) the(7) flooring(8) was(9) in(10) good(11) shape(12) and(13) the(14) roads(15) were(16) well(17) paved(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			We(1) entered(2) the(3) main(4) building(5) to(6) check(7) in(8) .(9) ((10) This(11) vacation(12) was(13) a(14) wedding(15) gift(16) from(17) my(18) boss(19) who(20) owns(21) a(22) timeshare(23) at(24) the(25) resort(26) ,(27) we(28) were(29) told(30) that(31) we(32) would(33) be(34) treated(35) as(36) owners(37) and(38) given(39) the(40) proper(41) treatment(42) )(43) Upon(44) checking(45) in(46) we(47) were(48) told(49) a(50) security(51) deposit(52) was(53) required(54) on(55) a(56) major(57) credit(58) card(59) ,(60) no(61) problem(62) ((63) yet(64) )(65) Then(66) a(67) young(68) man(69) asked(70) us(71) to(72) follow(73) him(74) to(75) our(76) villa(77) .(78) 
+		</sentence>
+		<sentence id="6">
+			We(1) had(2) been(3) told(4) what(5) to(6) expect(7) from(8) my(9) boss(10) and(11) the(12) mental(13) image(14) lived(15) up(16) to(17) the(18) real(19) thing(20) .(21) 
+		</sentence>
+		<sentence id="7">
+			The(1) condo(2) was(3) beautiful(4) ,(5) everything(6) was(7) clean(8) and(9) well(10) appointed(11) .(12) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="10,11" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			The(1) master(2) bedroom(3) had(4) a(5) king(6) sized(7) bed(8) and(9) a(10) 2(11) person(12) jacuzzi(13) ((14) could(15) probably(16) hold(17) more(18) but(19) two(20) fit(21) perfectly(22) )(23) the(24) main(25) room(26) had(27) an(28) L(29) shaped(30) leather(31) sofa(32) with(33) a(34) screened(35) in(36) porch(37) .(38) 
+		</sentence>
+		<sentence id="9">
+			The(1) room(2) did(3) not(4) dissapoint(5) .(6) 
+		</sentence>
+		<sentence id="10">
+			Looking(1) out(2) of(3) our(4) room(5) was(6) one(7) of(8) the(9) many(10) pools(11) and(12) hot(13) tubs(14) throughout(15) the(16) complex(17) ,(18) it(19) too(20) was(21) clean(22) and(23) well(24) maintained(25) .(26) 
+			<opinion featWords="5" feature="rooms" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="11">
+			The(1) nights(2) were(3) quiet(4) enough(5) ,(6) our(7) pool(8) stayed(9) open(10) until(11) eleven(12) at(13) night(14) and(15) many(16) of(17) the(18) families(19) at(20) the(21) resort(22) took(23) advantage(24) of(25) this(26) fact(27) until(28) about(29) ten(30) or(31) ten(32) thirty(33) .(34) 
+		</sentence>
+		<sentence id="12">
+			They(1) were(2) not(3) loud(4) but(5) you(6) were(7) aware(8) they(9) were(10) in(11) the(12) pool(13) .(14) 
+		</sentence>
+		<sentence id="13">
+			Not(1) a(2) poblem(3) for(4) us(5) ,(6) but(7) thought(8) i(9) would(10) share(11) .(12) 
+		</sentence>
+		<sentence id="14">
+			Now(1) for(2) the(3) Con(4) :(5) There(6) really(7) is(8) not(9) a(10) big(11) con(12) to(13) this(14) place(15) except(16) for(17) the(18) fact(19) that(20) two(21) days(22) before(23) we(24) were(25) scheduled(26) to(27) check(28) out(29) we(30) got(31) a(32) note(33) on(34) our(35) door(36) from(37) one(38) of(39) the(40) staff(41) telling(42) us(43) we(44) needed(45) to(46) make(47) an(48) appointment(49) with(50) him(51) in(52) order(53) to(54) release(55) our(56) deposit(57) .(58) 
+		</sentence>
+		<sentence id="15">
+			Further(1) ,(2) upon(3) getting(4) into(5) the(6) condo(7) we(8) discovered(9) a(10) phone(11) message(12) from(13) this(14) same(15) person(16) telling(17) us(18) he(19) needed(20) to(21) meet(22) with(23) us(24) in(25) order(26) to(27) release(28) our(29) deposit(30) .(31) 
+		</sentence>
+		<sentence id="16">
+			I(1) have(2) to(3) say(4) ,(5) this(6) is(7) the(8) first(9) time(10) I(11) have(12) ever(13) heard(14) of(15) anything(16) like(17) this(18) .(19) 
+		</sentence>
+		<sentence id="17">
+			My(1) wife(2) and(3) I(4) went(5) down(6) the(7) main(8) office(9) right(10) away(11) in(12) order(13) to(14) get(15) this(16) taken(17) care(18) of(19) post(20) haste(21) .(22) however(23) ,(24) upon(25) arriving(26) we(27) were(28) told(29) by(30) the(31) gentleman(32) who(33) was(34) standing(35) right(36) in(37) front(38) of(39) us(40) ,(41) that(42) he(43) in(44) fact(45) needed(46) between(47) half(48) an(49) hour(50) and(51) an(52) hour(53) of(54) our(55) time(56) in(57) order(58) to(59) go(60) through(61) the(62) check(63) out(64) process(65) .(66) 
+		</sentence>
+		<sentence id="18">
+			This(1) made(2) no(3) sense(4) to(5) me(6) ,(7) i(8) advised(9) him(10) at(11) this(12) time(13) that(14) while(15) we(16) were(17) here(18) as(19) guests(20) of(21) owners(22) ,(23) we(24) had(25) no(26) interest(27) in(28) purchasing(29) a(30) time(31) share(32) and(33) had(34) no(35) interest(36) in(37) any(38) sort(39) of(40) tour(41) ,(42) and(43) could(44) he(45) just(46) give(47) us(48) the(49) forms(50) for(51) us(52) to(53) fill(54) out(55) and(56) we(57) would(58) get(59) them(60) back(61) to(62) him(63) .(64) 
+		</sentence>
+		<sentence id="19">
+			To(1) that(2) point(3) we(4) had(5) nothing(6) but(7) glowing(8) things(9) to(10) say(11) about(12) the(13) resort(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			He(1) said(2) he(3) could(4) not(5) do(6) that(7) and(8) further(9) could(10) not(11) meet(12) with(13) us(14) right(15) now(16) but(17) rather(18) at(19) some(20) later(21) time(22) .(23) 
+		</sentence>
+		<sentence id="21">
+			We(1) told(2) him(3) we(4) did(5) not(6) like(7) this(8) plan(9) but(10) he(11) intimated(12) that(13) if(14) we(15) did(16) not(17) have(18) the(19) meeting(20) the(21) deposit(22) would(23) be(24) up(25) in(26) the(27) air(28) .(29) we(30) agreed(31) to(32) meet(33) the(34) day(35) before(36) we(37) left(38) .(39) 
+		</sentence>
+		<sentence id="22">
+			We(1) met(2) another(3) sales(4) rep(5) that(6) morning(7) ,(8) and(9) to(10) no(11) ones(12) surprise(13) ,(14) this(15) meeting(16) was(17) not(18) about(19) checking(20) out(21) but(22) about(23) purchasing(24) a(25) time-share(26) .(27) twenty(28) minutes(29) later(30) ,(31) after(32) two(33) soft(34) sell(35) pitches(36) ,(37) and(38) an(39) assist(40) from(41) a(42) manager(43) we(44) were(45) told(46) all(47) we(48) had(49) to(50) do(51) to(52) check(53) out(54) was(55) call(56) the(57) front(58) desk(59) and(60) confirm(61) what(62) charges(63) had(64) been(65) made(66) to(67) our(68) account(69) ,(70) if(71) we(72) agreed(73) then(74) just(75) leave(76) the(77) key(78) cards(79) at(80) the(81) box(82) on(83) your(84) way(85) out(86) the(87) door(88) .(89) 
+		</sentence>
+		<sentence id="23">
+			Does(1) that(2) information(3) really(4) have(5) to(6) be(7) kept(8) top(9) secret(10) ?(11) anyway(12) ,(13) since(14) the(15) only(16) call(17) we(18) made(19) was(20) to(21) the(22) front(23) desk(24) to(25) request(26) the(27) charges(28) ,(29) there(30) were(31) no(32) charges(33) on(34) our(35) account(36) and(37) we(38) left(39) early(40) the(41) next(42) morning(43) for(44) our(45) trip(46) home(47) .(48) all(49) in(50) all(51) this(52) is(53) a(54) great(55) place(56) for(57) a(58) family(59) to(60) vacation(61) .(62) 
+		</sentence>
+		<sentence id="24">
+			You(1) will(2) save(3) time(4) and(5) money(6) by(7) staying(8) here(9) .(10) ((11) full(12) kitchen(13) with(14) dishwasher(15) and(16) washer(17) and(18) dryer(19) )(20) the(21) only(22) negative(23) is(24) on(25) the(26) sales(27) tactics(28) they(29) use(30) on(31) people(32) .(33) 
+		</sentence>
+		<sentence id="25">
+			I(1) guess(2) the(3) only(4) way(5) they(6) will(7) not(8) bother(9) you(10) is(11) if(12) you(13) are(14) the(15) owner(16) one(17) of(18) their(19) timeshares(20) .(21) 
+		</sentence>
+		<sentence id="26">
+			NO(1) THANKS(2) Would(3) i(4) go(5) there(6) again(7) ,(8) likely(9) ,(10) but(11) next(12) time(13) i(14) 'll(15) just(16) call(17) the(18) front(19) desk(20) myself(21) and(22) leave(23) the(24) cards(25) in(26) the(27) box(28) and(29) ignore(30) all(31) calls(32) from(33) the(34) staff(35) .(36) hopes(37) this(38) helps(39) someone(40) .(41) accomodation(42) five(43) stars(44) out(45) of(46) five(47) tactics(48) one(49) star(50) out(51) of(52) five(53) ,(54) i(55) gave(56) the(57) one(58) star(59) because(60) they(61) did(62) not(63) go(64) for(65) the(66) hard(67) sell(68) .(69) 
+		</sentence>
+	</text>
+</review>

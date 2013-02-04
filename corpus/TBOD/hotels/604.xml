@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="604" item="New Yorker Ramada" rating="4">
+	<title>
+		<sentence id="1">
+			Good(1) hotel(2) when(3) on(4) a(5) budget(6) !(7) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) location(2) !(3) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Would(1) recommend(2) to(3) anyone(4) who(5) wants(6) to(7) stay(8) in(9) the(10) heart(11) of(12) NYC(13) and(14) can(15) not(16) afford(17) a(18) 5-star(19) hotel(20) .(21) 
+			<opinion feature="hotel" opWords="2" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) Ramada(4) when(5) we(6) visited(7) New(8) York(9) city(10) for(11) the(12) first(13) time(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			I(1) do(2) not(3) see(4) why(5) so(6) many(7) people(8) wrote(9) bad(10) reviews(11) ,(12) we(13) enjoyed(14) staying(15) at(16) Ramada(17) a(18) lot(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Yes(1) ,(2) the(3) room(4) was(5) kind(6) of(7) small(8) ,(9) but(10) it(11) 's(12) New(13) York(14) !(15) 
+			<opinion featWords="4" feature="rooms" opWords="8" polarity="-" potency="6,7"/>
+		</sentence>
+		<sentence id="4">
+			To(1) get(2) a(3) big(4) room(5) you(6) have(7) to(8) pay(9) A(10) LOT(11) more(12) !(13) 
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) conveniently(4) situated(5) within(6) walking(7) distance(8) from(9) restaurants(10) ,(11) Time(12) Square(13) ,(14) wax(15) museum(16) ,(17) ...(18) etc.(19) All(20) you(21) have(22) to(23) do(24) is(25) walk(26) a(27) little(28) ,(29) or(30) catch(31) a(32) cab(33) if(34) you(35) 're(36) not(37) used(38) to(39) walking(40) .(41) 
+			<opinion feature="place" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			But(1) the(2) hotel(3) itself(4) was(5) not(6) that(7) bad(8) ,(9) they(10) have(11) a(12) booth(13) where(14) you(15) order(16) your(17) tickets(18) of(19) you(20) would(21) like(22) to(23) see(24) a(25) play(26) ,(27) and(28) they(29) can(30) actually(31) get(32) you(33) a(34) discount(35) too(36) .(37) 
+			<opinion featWords="3" feature="hotel" opWords="6,8" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			They(1) also(2) have(3) a(4) nice(5) restaurant(6) downstairs(7) ,(8) with(9) decent(10) prices(11) .(12) 
+			<opinion featWords="6" feature="food" opWords="5" polarity="+"/>
+			<opinion featWords="11" feature="price" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			Of(1) course(2) you(3) can(4) always(5) visit(6) McDonald(7) 's(8) across(9) the(10) street(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			I(1) feel(2) like(3) we(4) truly(5) got(6) to(7) experience(8) New(9) York(10) City(11) because(12) we(13) stayed(14) in(15) the(16) middle(17) of(18) Manhattan(19) ,(20) did(21) not(22) need(23) to(24) rent(25) a(26) car(27) ((28) you(29) do(30) NOT(31) want(32) to(33) drive(34) in(35) New(36) York(37) )(38) ,(39) most(40) of(41) the(42) places(43) we(44) wanted(45) to(46) visit(47) were(48) about(49) 10-15(50) minutes(51) walking(52) ,(53) which(54) is(55) not(56) that(57) bad(58) ((59) for(60) me(61) at(62) least(63) ,(64) maybe(65) it(66) 's(67) because(68) I(69) 'm(70) from(71) Europe(72) and(73) do(74) not(75) mind(76) walking(77) at(78) all(79) )(80) .(81) 
+		</sentence>
+		<sentence id="10">
+			But(1) ,(2) honestly(3) ,(4) for(5) the(6) price(7) ,(8) the(9) hotel(10) is(11) great(12) ,(13) and(14) I(15) 'm(16) not(17) sure(18) why(19) the(20) other(21) reviewers(22) are(23) complaining(24) so(25) much(26) .(27) 
+			<opinion featWords="10" feature="hotel" opWords="12" polarity="+"/>
+		</sentence>
+	</text>
+</review>

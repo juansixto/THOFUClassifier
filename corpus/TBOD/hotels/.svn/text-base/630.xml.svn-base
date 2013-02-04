@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="630" item="Wolcott Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			What(1) You(2) 'd(3) Expect(4) for(5) the(6) Price(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cost(1) ,(2) cleanliness(3) ,(4) charm(5) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Noisy(1) air(2) conditioner(3) ,(4) weird(5) hallway(6) smell(7) 
+			<opinion featWords="2,3" feature="air conditioning units" opWords="1" polarity="-"/>
+			<opinion featWords="6" feature="lobby" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) can(3) afford(4) more(5) ,(6) you(7) 're(8) probably(9) better(10) off(11) in(12) a(13) more(14) expensive(15) hotel(16) .(17) 
+		</sentence>
+		<sentence id="2">
+			But(1) if(2) on(3) a(4) budget(5) ,(6) Hotel(7) Wolcott(8) is(9) probably(10) as(11) good(12) as(13) it(14) gets(15) in(16) NYC(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) a(3) bit(4) concerned(5) when(6) I(7) made(8) my(9) reservation(10) at(11) the(12) Hotel(13) Wolcott(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			It(1) seemed(2) as(3) if(4) any(5) hotel(6) in(7) Manhattan(8) for(9) less(10) than(11) $200(12) a(13) night(14) would(15) be(16) a(17) dump(18) .(19) 
+		</sentence>
+		<sentence id="3">
+			Nevertheless(1) ,(2) $180(3) a(4) night(5) is(6) not(7) cheap(8) and(9) I(10) expected(11) a(12) certain(13) level(14) of(15) service(16) for(17) my(18) money(19) .(20) 
+			<opinion feature="price" opWords="7,8" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) hotel(2) did(3) not(4) disappoint(5) but(6) did(7) not(8) wow(9) either(10) .(11) 
+		</sentence>
+		<sentence id="5">
+			I(1) 'd(2) read(3) reviews(4) of(5) incredibly(6) slow(7) elevators(8) .(9) 
+			<opinion featWords="8" feature="elevator" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="6">
+			In(1) my(2) four(3) day(4) stay(5) ,(6) I(7) do(8) not(9) think(10) I(11) ever(12) waited(13) more(14) than(15) a(16) few(17) minutes(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			My(1) room(2) was(3) very(4) small(5) but(6) clean(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			In(1) fact(2) ,(3) it(4) was(5) very(6) clean(7) ,(8) which(9) was(10) my(11) biggest(12) concern(13) .(14) 
+			<opinion feature="rooms" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="9">
+			The(1) bathroom(2) was(3) spotless(4) and(5) the(6) shower(7) ,(8) while(9) tiny(10) had(11) great(12) pressure(13) and(14) temperature(15) control(16) .(17) 
+			<opinion featWords="2" feature="bathroom" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			My(1) biggest(2) complaint(3) was(4) the(5) air(6) conditioner(7) .(8) 
+		</sentence>
+		<sentence id="11">
+			It(1) sounded(2) like(3) I(4) was(5) sitting(6) by(7) the(8) engine(9) on(10) a(11) jet(12) airplane(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			What(1) made(2) it(3) worse(4) was(5) that(6) it(7) was(8) not(9) even(10) a(11) consistent(12) loud(13) hum(14) ,(15) which(16) I(17) could(18) have(19) slept(20) through(21) .(22) 
+		</sentence>
+		<sentence id="13">
+			It(1) started(2) and(3) stopped(4) in(5) fits(6) ,(7) waking(8) me(9) up(10) at(11) least(12) once(13) per(14) hour(15) .(16) 
+		</sentence>
+		<sentence id="14">
+			If(1) I(2) turned(3) it(4) off(5) ,(6) the(7) room(8) got(9) too(10) hot(11) to(12) sleep(13) very(14) quickly(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			The(1) hallway(2) smelled(3) a(4) little(5) funky(6) and(7) was(8) quite(9) hot(10) and(11) humid(12) .(13) 
+			<opinion featWords="2" feature="lobby" opWords="10" polarity="-" potency="9"/>
+			<opinion featWords="2" feature="lobby" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="16">
+			I(1) thought(2) perhaps(3) there(4) was(5) a(6) pool(7) on(8) my(9) floor(10) ,(11) but(12) there(13) is(14) no(15) pool(16) in(17) the(18) hotel(19) .(20) 
+		</sentence>
+		<sentence id="17">
+			Just(1) a(2) weird(3) smell(4) ,(5) I(6) guess(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			The(1) smell(2) was(3) not(4) evident(5) once(6) inside(7) the(8) room(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			I(1) used(2) the(3) gym(4) facilities(5) .(6) 
+		</sentence>
+		<sentence id="20">
+			Everything(1) was(2) modern(3) ,(4) in(5) working(6) condition(7) and(8) very(9) clean(10) .(11) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			The(1) lobby(2) was(3) small(4) but(5) nice(6) .(7) 
+			<opinion featWords="2" feature="lobby" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="lobby" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			They(1) had(2) a(3) solid(4) continental(5) breakfast(6) in(7) the(8) lobby(9) every(10) morning(11) .(12) 
+			<opinion featWords="6" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			The(1) staff(2) was(3) helpful(4) as(5) well(6) .(7) 
+			<opinion featWords="2" feature="staff" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="24">
+			Overall(1) ,(2) if(3) you(4) can(5) afford(6) to(7) spend(8) another(9) $50(10) per(11) night(12) ,(13) you(14) might(15) be(16) better(17) off(18) somewhere(19) else(20) due(21) to(22) the(23) inconveniences(24) that(25) a(26) 100(27) year(28) old(29) hotel(30) will(31) have(32) .(33) 
+			<opinion featWords="30" feature="hotel" opWords="29" polarity="-"/>
+		</sentence>
+		<sentence id="25">
+			However(1) ,(2) if(3) you(4) 're(5) on(6) a(7) budget(8) ,(9) the(10) Hotel(11) Wolcott(12) is(13) probably(14) as(15) good(16) as(17) you(18) 'll(19) get(20) in(21) New(22) York(23) City(24) for(25) under(26) $200(27) per(28) night(29) .(30) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="580" item="Hotel San Remo" rating="3">
+	<title>
+		<sentence id="1">
+			Provides(1) a(2) Bed(3) ,(4) But(5) ...(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Ideal(1) Location(2) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) Gaming(2) Floor(3) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Our(1) most(2) recent(3) trip(4) to(5) Las(6) Vegas(7) had(8) us(9) scouring(10) the(11) internet(12) and(13) travel(14) agencies(15) for(16) an(17) inexpensive(18) place(19) to(20) stay(21) while(22) I(23) tried(24) my(25) luck(26) at(27) the(28) tables(29) .(30) 
+			<opinion feature="price" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			The(1) San(2) Remo(3) was(4) listed(5) at(6) the(7) right(8) price(9) ((10) $30/night/1(11) week(12) stay(13) )(14) ,(15) so(16) we(17) decided(18) to(19) give(20) it(21) a(22) go(23) .(24) 
+			<opinion featWords="9" feature="price" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			I(1) have(2) good(3) things(4) to(5) say(6) and(7) bad(8) things(9) to(10) say(11) .(12) 
+		</sentence>
+		<sentence id="4">
+			First(1) the(2) bad(3) :(4) 1(5) )(6) Not(7) The(8) Largest(9) :(10) San(11) Remo(12) is(13) very(14) small(15) .(16) 
+			<opinion feature="hotel" opWords="15" polarity="-" potency="14"/>
+		</sentence>
+		<sentence id="5">
+			It(1) has(2) few(3) tables(4) ,(5) and(6) thus(7) less(8) range(9) of(10) table(11) limits(12) ,(13) and(14) less(15) tables(16) to(17) play(18) on(19) period(20) when(21) it(22) gets(23) crowded(24) .(25) 2(26) )(27) Low(28) Ceilings(29) :(30) The(31) ceilings(32) in(33) the(34) San(35) Remo(36) ,(37) while(38) not(39) oppressive(40) ,(41) do(42) harken(43) back(44) to(45) the(46) old(47) downtown(48) casinos(49) ,(50) with(51) much(52) less(53) clearance(54) than(55) some(56) of(57) the(58) newer(59) casinos(60) .(61) 
+		</sentence>
+		<sentence id="6">
+			The(1) result(2) is(3) a(4) thick(5) blanket(6) of(7) smoke(8) that(9) has(10) nowhere(11) to(12) go(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			Now(1) the(2) good(3) :(4) 1(5) )(6) Excellent(7) Location(8) :(9) The(10) San(11) Remo(12) is(13) located(14) virtually(15) across(16) the(17) street(18) from(19) New(20) York(21) New(22) York(23) and(24) within(25) easy(26) striking(27) distance(28) of(29) Luxor(30) and(31) others(32) .(33) 
+		</sentence>
+		<sentence id="8">
+			Top(1) notch(2) location(3) .(4) 2(5) )(6) Great(7) Price(8) :(9) Your(10) stay(11) here(12) will(13) be(14) easy(15) on(16) the(17) checkbook(18) ,(19) which(20) leaves(21) more(22) money(23) to(24) lose(25) on(26) the(27) tables(28) .(29) 3(30) )(31) No(32) Hassles(33) :(34) While(35) the(36) San(37) Remo(38) will(39) not(40) knock(41) your(42) socks(43) off(44) with(45) service(46) or(47) amenities(48) that(49) Robin(50) Leach(51) would(52) take(53) note(54) of(55) ,(56) neither(57) will(58) you(59) find(60) much(61) that(62) is(63) disagreeable(64) .(65) 
+			<opinion featWords="3" feature="place" opWords="1,2" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Check-in(1) and(2) check-out(3) were(4) uneventful(5) ,(6) just(7) like(8) we(9) hoped(10) ,(11) the(12) breakfast(13) buffet(14) was(15) adequate(16) ,(17) and(18) the(19) few(20) hands(21) of(22) blackjack(23) we(24) managed(25) while(26) stumbling(27) back(28) from(29) excursions(30) abroad(31) were(32) just(33) fine(34) .(35) 
+			<opinion featWords="14" feature="food" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			If(1) you(2) 're(3) cost-conscious(4) about(5) where(6) you(7) stay(8) ,(9) but(10) want(11) superb(12) access(13) to(14) many(15) major(16) casinos(17) ,(18) then(19) the(20) San(21) Remo(22) is(23) for(24) you(25) .(26) 
+		</sentence>
+		<sentence id="11">
+			And(1) may(2) your(3) cards(4) be(5) goods(6) .(7) 
+		</sentence>
+	</text>
+</review>

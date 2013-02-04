@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="478" item="Santa Fe Sage Inn" rating="3">
+	<title>
+		<sentence id="1">
+			New(1) Name(2) ,(3) Same(4) Place(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) ,(2) location(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Budget(1) hotel(2) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			If(1) you(2) want(3) to(4) save(5) a(6) few(7) dollars(8) stay(9) here(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Santa(2) Fe(3) Budget(4) Inn(5) recently(6) changed(7) their(8) name(9) to(10) Santa(11) Fe(12) Sage(13) Inn(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Most(1) travel(2) guides(3) ,(4) and(5) even(6) travel(7) websites(8) still(9) refer(10) to(11) it(12) as(13) the(14) Budget(15) Inn(16) .(17) 
+		</sentence>
+		<sentence id="3">
+			As(1) a(2) matter(3) of(4) fact(5) ,(6) even(7) the(8) shuttle(9) bus(10) I(11) took(12) to(13) the(14) hotel(15) from(16) the(17) airport(18) was(19) confused(20) when(21) I(22) said(23) the(24) Sage(25) Inn(26) ,(27) but(28) when(29) I(30) gave(31) him(32) the(33) address(34) ,(35) he(36) knew(37) right(38) away(39) it(40) was(41) the(42) old(43) Budget(44) Inn(45) .(46) 
+		</sentence>
+		<sentence id="4">
+			Calling(1) this(2) place(3) a(4) hotel(5) I(6) think(7) is(8) a(9) bit(10) of(11) a(12) fib(13) ,(14) as(15) the(16) set(17) up(18) is(19) much(20) more(21) similar(22) to(23) a(24) motel(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) is(3) not(4) a(5) horrible(6) place(7) ,(8) but(9) calling(10) it(11) the(12) Budget(13) Inn(14) was(15) much(16) more(17) honest(18) than(19) giving(20) it(21) a(22) boutique(23) hotel(24) name(25) .(26) 
+			<opinion featWords="7" feature="place" opWords="4,6" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			Check(1) in(2) was(3) fine(4) ,(5) there(6) is(7) a(8) small(9) office(10) located(11) in(12) the(13) front(14) of(15) the(16) hotel(17) ((18) much(19) like(20) a(21) motel(22) )(23) I(24) was(25) greeted(26) warmly(27) ,(28) however(29) the(30) girl(31) seemed(32) to(33) have(34) never(35) heard(36) of(37) Hotwire(38) ((39) where(40) I(41) had(42) prepaid(43) for(44) my(45) stay(46) )(47) She(48) had(49) to(50) call(51) another(52) employee(53) ,(54) who(55) luckily(56) knew(57) how(58) Hotwire(59) worked(60) ,(61) and(62) was(63) not(64) insistant(65) my(66) reservation(67) was(68) not(69) prepaid(70) )(71) I(72) was(73) issued(74) my(75) room(76) keys(77) and(78) directed(79) to(80) the(81) courtyard(82) outside(83) ,(84) and(85) up(86) to(87) the(88) second(89) floor(90) .(91) 
+		</sentence>
+		<sentence id="7">
+			There(1) is(2) no(3) elevator(4) at(5) the(6) hotel(7) ,(8) and(9) this(10) meant(11) lugging(12) my(13) heavy(14) luggage(15) up(16) two(17) flights(18) of(19) stairs(20) ((21) believe(22) me(23) it(24) was(25) a(26) challenge(27) to(28) someone(29) like(30) me(31) ,(32) who(33) had(34) never(35) been(36) in(37) a(38) city(39) at(40) such(41) an(42) altitude(43) ((44) Santa(45) Fe(46) is(47) 7000(48) feet(49) above(50) sea(51) level(52) )(53) ((54) To(55) say(56) I(57) was(58) winded(59) would(60) be(61) an(62) understatement(63) .(64) )(65) The(66) room(67) itself(68) was(69) rather(70) bland(71) ,(72) it(73) looked(74) to(75) have(76) been(77) decorated(78) several(79) decades(80) ago(81) ((82) again(83) similar(84) to(85) a(86) motel(87) )(88) But(89) then(90) at(91) a(92) budget(93) hotel(94) you(95) do(96) not(97) expect(98) luxury(99) ,(100) you(101) are(102) paying(103) less(104) with(105) that(106) in(107) mind(108) .(109) 
+		</sentence>
+		<sentence id="8">
+			There(1) were(2) 2(3) large(4) beds(5) ,(6) with(7) somewhat(8) worn(9) ,(10) but(11) acceptable(12) sheets(13) ,(14) and(15) surprisingly(16) nice(17) pillows(18) .(19) 
+			<opinion featWords="5" feature="bed" opWords="4" polarity="+"/>
+			<opinion featWords="13" feature="bedding" opWords="9" polarity="-" potency="8"/>
+			<opinion featWords="13" feature="bedding" opWords="12" polarity="+"/>
+			<opinion featWords="18" feature="bedding" opWords="17" polarity="+" potency="16"/>
+		</sentence>
+		<sentence id="9">
+			There(1) was(2) a(3) large(4) television(5) inside(6) an(7) armuoire(8) directly(9) in(10) front(11) of(12) the(13) beds(14) .(15) 
+			<opinion featWords="5" feature="tv" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) television(2) has(3) the(4) standard(5) local(6) channels(7) as(8) well(9) as(10) a(11) few(12) specialty(13) ones(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			To(1) the(2) right(3) of(4) the(5) armouire(6) was(7) a(8) large(9) desk(10) with(11) a(12) wheeled(13) chair(14) .(15) 
+		</sentence>
+		<sentence id="12">
+			I(1) used(2) the(3) desk(4) mostly(5) for(6) piling(7) up(8) my(9) souvenirs(10) ,(11) but(12) any(13) business(14) person(15) would(16) be(17) satisfied(18) with(19) it(20) .(21) 
+		</sentence>
+		<sentence id="13">
+			There(1) was(2) another(3) desk(4) of(5) sorts(6) next(7) to(8) the(9) window(10) ,(11) well(12) it(13) was(14) not(15) so(16) much(17) a(18) desk(19) as(20) a(21) piece(22) of(23) wood(24) bolted(25) to(26) the(27) wall(28) ,(29) but(30) again(31) it(32) was(33) good(34) for(35) keeping(36) things(37) off(38) the(39) floor(40) .(41) 
+		</sentence>
+		<sentence id="14">
+			The(1) window(2) itself(3) looked(4) out(5) to(6) the(7) stairway(8) that(9) led(10) to(11) the(12) room(13) and(14) the(15) entire(16) second(17) floor(18) .(19) 
+		</sentence>
+		<sentence id="15">
+			There(1) was(2) not(3) much(4) of(5) a(6) view(7) from(8) there(9) and(10) I(11) like(12) to(13) be(14) private(15) so(16) the(17) curtains(18) were(19) drawn(20) for(21) my(22) entire(23) stay(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			Under(1) the(2) window(3) was(4) an(5) antiquated(6) air(7) conditioning(8) /(9) heating(10) unit(11) .(12) 
+		</sentence>
+		<sentence id="17">
+			It(1) was(2) a(3) sad(4) old(5) machine(6) ,(7) and(8) on(9) our(10) last(11) night(12) there(13) it(14) showed(15) its(16) age(17) by(18) belching(19) black(20) smoke(21) as(22) if(23) there(24) was(25) some(26) sort(27) of(28) electrical(29) fire(30) inside(31) .(32) 
+		</sentence>
+		<sentence id="18">
+			I(1) turned(2) it(3) off(4) for(5) a(6) while(7) ,(8) and(9) when(10) I(11) turned(12) it(13) back(14) on(15) it(16) seemed(17) to(18) work(19) fine(20) .(21) 
+		</sentence>
+		<sentence id="19">
+			I(1) did(2) mention(3) the(4) black(5) smoke(6) upon(7) checkout(8) ,(9) and(10) the(11) person(12) at(13) the(14) front(15) desk(16) just(17) kind(18) of(19) shrugged(20) ,(21) so(22) I(23) imagine(24) this(25) is(26) not(27) the(28) first(29) occurance(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			The(1) room(2) had(3) a(4) large(5) closet(6) ,(7) and(8) provided(9) lots(10) of(11) hangers(12) .(13) 
+			<opinion featWords="6" feature="closet" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			Just(1) beside(2) the(3) closet(4) is(5) the(6) bathroom(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			I(1) liked(2) that(3) the(4) bathroom(5) only(6) contained(7) the(8) shower(9) ((10) standard(11) flimsy(12) shower(13) curtain(14) ,(15) but(16) great(17) water(18) pressure(19) and(20) heat(21) )(22) and(23) the(24) toilet(25) ((26) a(27) very(28) small(29) one(30) )(31) .(32) 
+		</sentence>
+		<sentence id="23">
+			The(1) sink(2) and(3) mirror(4) were(5) just(6) outside(7) the(8) bathroom(9) This(10) set(11) up(12) allows(13) more(14) than(15) one(16) person(17) to(18) get(19) ready(20) at(21) the(22) same(23) time(24) instead(25) of(26) crowding(27) the(28) bathroom(29) .(30) 
+		</sentence>
+		<sentence id="24">
+			There(1) is(2) lots(3) of(4) free(5) parking(6) in(7) their(8) own(9) lot(10) ((11) that(12) I(13) did(14) not(15) use(16) since(17) I(18) do(19) not(20) drive(21) )(22) but(23) sadly(24) no(25) swimming(26) pool(27) in(28) the(29) lot(30) ,(31) or(32) anywhere(33) else(34) on(35) the(36) property(37) .(38) 
+			<opinion featWords="6" feature="parking" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="25">
+			Also(1) in(2) the(3) lot(4) is(5) a(6) Mexican(7) restaurant(8) .(9) 
+		</sentence>
+		<sentence id="26">
+			I(1) did(2) not(3) have(4) a(5) chance(6) to(7) visit(8) it(9) ,(10) but(11) it(12) looked(13) nice(14) ,(15) and(16) there(17) were(18) some(19) nice(20) smells(21) coming(22) from(23) it(24) at(25) different(26) times(27) of(28) the(29) day(30) .(31) 
+		</sentence>
+		<sentence id="27">
+			Unfortunately(1) I(2) did(3) have(4) a(5) chance(6) to(7) visit(8) the(9) restaurant(10) beside(11) that(12) restaurant(13) ((14) McDonalds(15) )(16) The(17) location(18) is(19) fine(20) if(21) you(22) are(23) driving(24) .(25) 
+			<opinion featWords="18" feature="place" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			Even(1) if(2) you(3) are(4) not(5) driving(6) ((7) such(8) as(9) myself(10) )(11) it(12) 's(13) only(14) a(15) 20(16) minute(17) walk(18) to(19) the(20) centre(21) of(22) downtown(23) ,(24) or(25) you(26) could(27) spend(28) a(29) dollar(30) and(31) take(32) the(33) bus(34) downtown(35) ((36) there(37) is(38) a(39) stop(40) right(41) in(42) front(43) of(44) the(45) hotel(46) )(47) that(48) will(49) only(50) take(51) 5(52) minutes(53) .(54) 
+		</sentence>
+		<sentence id="29">
+			In(1) summary(2) ,(3) the(4) Sage(5) /(6) Budget(7) Inn(8) is(9) not(10) a(11) horrible(12) place(13) ((14) I(15) have(16) stayed(17) at(18) much(19) worse(20) )(21) but(22) if(23) you(24) can(25) afford(26) better(27) ,(28) I(29) 'd(30) spend(31) a(32) few(33) more(34) dollars(35) than(36) I(37) did(38) and(39) stay(40) in(41) a(42) real(43) hotel(44) .(45) 
+			<opinion featWords="13" feature="place" opWords="10,12" polarity="+"/>
+		</sentence>
+	</text>
+</review>

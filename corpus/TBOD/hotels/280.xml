@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="280" item="Newport News Travelodge" rating="1">
+	<title>
+		<sentence id="1">
+			Absolutely(1) Terrible(2) READ(3) This(4) before(5) Staying(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Price(1) and(2) being(3) so(4) close(5) to(6) airport(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			TOTAL(1) LACK(2) of(3) SHOWER(4) PRESSURE(5) ,(6) Dirty(7) sheets(8) .(9) 
+			<opinion featWords="8" feature="bedding" opWords="7" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Room(1) smell(2) .(3) 
+			<opinion featWords="1" feature="rooms" opWords="2" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Paper(1) thin(2) ceiling(3) .(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Do(1) not(2) stay(3) here(4) !(5) 
+		</sentence>
+		<sentence id="2">
+			Not(1) worth(2) the(3) money(4) .(5) after(6) a(7) long(8) day(9) of(10) traveling(11) and(12) you(13) 're(14) looking(15) for(16) a(17) nice(18) hot(19) shower(20) -(21) you(22) will(23) not(24) get(25) it(26) here(27) !(28) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) was(2) billed(3) $62.88(4) on(5) my(6) credit(7) card(8) when(9) my(10) reservation(11) amount(12) online(13) was(14) for(15) the(16) amount(17) of(18) $61.88(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			I(1) had(2) presented(3) my(4) reservation(5) at(6) the(7) time(8) of(9) check(10) in(11) ,(12) but(13) did(14) not(15) notice(16) the(17) amount(18) was(19) wrong(20) until(21) after(22) I(23) had(24) left(25) the(26) hotel(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			The(1) room(2) was(3) VERY(4) noisy(5) !(6) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			The(1) people(2) upstairs(3) were(4) I(5) believe(6) to(7) be(8) walking(9) around(10) normally(11) ,(12) not(13) stomping(14) ,(15) yet(16) I(17) could(18) tell(19) their(20) exact(21) location(22) in(23) the(24) room(25) and(26) all(27) conversation(28) that(29) was(30) held(31) the(32) entire(33) early(34) morning(35) hours(36) as(37) I(38) lay(39) there(40) trying(41) to(42) sleep(43) in(44) .(45) 
+		</sentence>
+		<sentence id="5">
+			The(1) sheets(2) on(3) the(4) bed(5) had(6) some(7) sort(8) of(9) grey(10) stains(11) on(12) them(13) -(14) I(15) was(16) praying(17) they(18) were(19) STAINS(20) and(21) not(22) just(23) plain(24) DIRTY(25) .(26) 
+		</sentence>
+		<sentence id="6">
+			The(1) walls(2) were(3) in(4) serious(5) need(6) of(7) cleaning(8) due(9) to(10) large(11) ((12) foot(13) long(14) )(15) marks(16) all(17) over(18) them(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			The(1) room(2) smelt(3) like(4) some(5) kind(6) of(7) baby(8) powder-must(9) and(10) was(11) not(12) clean(13) smelling(14) AT(15) ALL(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			My(1) worst(2) experience(3) was(4) trying(5) to(6) take(7) a(8) shower(9) .(10) 
+		</sentence>
+		<sentence id="9">
+			The(1) water(2) pressure(3) as(4) it(5) come(6) out(7) of(8) the(9) faucet(10) in(11) the(12) sink(13) and(14) tub(15) was(16) excellent(17) ,(18) but(19) as(20) soon(21) as(22) you(23) turned(24) it(25) to(26) the(27) shower(28) HEAD(29) hardly(30) any(31) water(32) was(33) coming(34) out(35) .(36) 
+			<opinion featWords="15" feature="tub" opWords="17" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) lack(2) of(3) pressure(4) was(5) to(6) obvious(7) that(8) I(9) truly(10) felt(11) I(12) could(13) shower(14) faster(15) in(16) the(17) grocery(18) store(19) in(20) the(21) vegetable(22) section(23) under(24) their(25) misting(26) devices(27) .(28) 
+		</sentence>
+		<sentence id="11">
+			It(1) has(2) never(3) taken(4) me(5) ,(6) in(7) my(8) whole(9) life(10) ,(11) 10(12) full(13) minutes(14) to(15) just(16) rinse(17) the(18) shampoo(19) out(20) of(21) my(22) hair(23) ((24) which(25) is(26) medium(27) in(28) length(29) )(30) .(31) 
+		</sentence>
+		<sentence id="12">
+			When(1) I(2) put(3) conditioner(4) in(5) I(6) finally(7) decided(8) to(9) just(10) turn(11) the(12) shower(13) head(14) OFF(15) and(16) rinse(17) my(18) hair(19) under(20) the(21) faucet(22) ,(23) otherwise(24) I(25) 'd(26) be(27) there(28) all(29) night(30) .(31) 
+		</sentence>
+		<sentence id="13">
+			Only(1) thing(2) is(3) when(4) you(5) turn(6) it(7) to(8) the(9) faucet(10) ,(11) I(12) was(13) soon(14) standing(15) in(16) a(17) full(18) tub(19) of(20) water(21) because(22) the(23) drain(24) was(25) not(26) letting(27) the(28) water(29) out(30) fast(31) enough(32) ,(33) due(34) to(35) partial(36) clogging(37) I(38) suppose(39) .(40) 
+		</sentence>
+		<sentence id="14">
+			Overall(1) ,(2) I(3) would(4) say(5) that(6) I(7) will(8) never(9) be(10) staying(11) at(12) that(13) hotel(14) again(15) .(16) 
+		</sentence>
+		<sentence id="15">
+			I(1) originally(2) chose(3) this(4) hotel(5) because(6) it(7) was(8) so(9) close(10) to(11) the(12) airport(13) and(14) was(15) very(16) inexpensive(17) .(18) 
+			<opinion feature="price" opWords="17" polarity="+" potency="16"/>
+		</sentence>
+		<sentence id="16">
+			Now(1) I(2) wished(3) I(4) had(5) spent(6) that(7) extra(8) $10(9) and(10) stayed(11) somewhere(12) else(13) -(14) I(15) guess(16) technically(17) $9(18) since(19) I(20) was(21) overcharged(22) .(23) 
+		</sentence>
+	</text>
+</review>

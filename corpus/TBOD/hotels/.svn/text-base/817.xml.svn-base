@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="817" item="Fiesta Americana Grand Coral Beach Cancun" rating="4">
+	<title>
+		<sentence id="1">
+			Loved(1) It(2) 
+			<opinion featRef="hotel" featWords="2" feature="hotel" opWords="1" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Secluded(1) feel(2) but(3) right(4) in(5) the(6) best(7) spot(8) in(9) Cancun(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Beautiful(1) beaches(2) and(3) fabulous(4) rooms(5) .(6) 
+			<opinion featWords="2" feature="beach" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Wish(1) the(2) evening(3) food(4) selection(5) was(6) better(7) ,(8) seafood(9) vs(10) .(11) 
+		</sentence>
+		<sentence id="2">
+			Italian(1) and(2) Mexican(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Fabulous(1) Hotel(2) with(3) superb(4) service(5) and(6) a(7) prime(8) location(9) .(10) 
+			<opinion featWords="5" feature="service" opWords="4" polarity="+"/>
+			<opinion featWords="9" feature="place" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Book(1) it(2) if(3) you(4) see(5) a(6) good(7) deal(8) ((9) may(10) need(11) to(12) hit(13) the(14) town(15) for(16) better(17) dinner(18) selection(19) and(20) spa(21) services(22) )(23) .(24) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			What(1) a(2) great(3) resort(4) .(5) 
+			<opinion featWords="4" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			Everything(1) you(2) need(3) is(4) right(5) there(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			My(1) favorite(2) part(3) about(4) the(5) hotel(6) was(7) the(8) room(9) .(10) 
+		</sentence>
+		<sentence id="4">
+			I(1) love(2) the(3) all(4) tile(5) floor(6) ((7) no(8) gross(9) carpet(10) to(11) step(12) on(13) )(14) and(15) the(16) separate(17) dining(18) area(19) in(20) the(21) room(22) .(23) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) know(4) if(5) we(6) had(7) a(8) standard(9) room(10) ,(11) but(12) I(13) 'm(14) assuming(15) we(16) did(17) .(18) 
+			<opinion featWords="10" feature="rooms" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			It(1) 's(2) so(3) nice(4) to(5) get(6) room(7) service(8) for(9) breakfast(10) when(11) you(12) can(13) actually(14) eat(15) at(16) a(17) real(18) table(19) and(20) chairs(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			Our(1) friends(2) got(3) a(4) suite(5) and(6) it(7) was(8) unbelievable(9) .(10) 
+		</sentence>
+		<sentence id="8">
+			The(1) pool(2) area(3) is(4) very(5) nice(6) and(7) I(8) love(9) the(10) way(11) the(12) resort(13) is(14) sort(15) of(16) on(17) a(18) tip(19) ,(20) so(21) you(22) really(23) do(24) not(25) see(26) other(27) hotels(28) on(29) either(30) side(31) of(32) you(33) .(34) 
+			<opinion featWords="2,3" feature="swimming pool" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+		<sentence id="9">
+			The(1) location(2) is(3) great(4) as(5) well(6) ((7) walk(8) right(9) to(10) the(11) main(12) flea(13) market(14) for(15) shopping(16) and(17) Coco(18) Bongo(19) for(20) dancing(21) )(22) .(23) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			It(1) was(2) nice(3) to(4) not(5) have(6) to(7) take(8) a(9) taxi(10) everywhere(11) like(12) you(13) have(14) to(15) do(16) from(17) other(18) resorts(19) I(20) have(21) stayed(22) at(23) ((24) Le(25) Meridien(26) &amp;(27) Marriott(28) Casa(29) Magna(30) )(31) .(32) 
+		</sentence>
+		<sentence id="11">
+			Both(1) are(2) great(3) hotels(4) but(5) further(6) away(7) from(8) everything(9) we(10) like(11) .(12) 
+			<opinion featWords="4" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			Lacking(1) at(2) FACB(3) is(4) the(5) spa(6) .(7) 
+		</sentence>
+		<sentence id="13">
+			Not(1) as(2) impressive(3) as(4) others(5) ((6) Le(7) Meridien(8) 's(9) is(10) fabulous(11) )(12) .(13) 
+		</sentence>
+		<sentence id="14">
+			Their(1) spa(2) is(3) worth(4) a(5) trip(6) no(7) matter(8) where(9) you(10) are(11) staying(12) in(13) Cancun(14) .(15) 
+		</sentence>
+		<sentence id="15">
+			The(1) poolside(2) food(3) and(4) breakfast(5) were(6) great(7) ((8) though(9) we(10) have(11) not(12) run(13) into(14) a(15) Cancun(16) resort(17) where(18) that(19) was(20) not(21) the(22) case(23) )(24) .(25) 
+			<opinion featWords="3" feature="food" opWords="7" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			The(1) dinner(2) was(3) more(4) lacking(5) .(6) 
+		</sentence>
+		<sentence id="17">
+			No(1) real(2) nice(3) restaurant(4) to(5) eat(6) at(7) .(8) 
+		</sentence>
+		<sentence id="18">
+			We(1) go(2) to(3) Cancun(4) for(5) the(6) seafood(7) ,(8) so(9) while(10) we(11) were(12) here(13) we(14) only(15) ate(16) out(17) for(18) dinner(19) ((20) did(21) not(22) feel(23) like(24) Italian(25) or(26) Mexican(27) ,(28) though(29) obviously(30) other(31) visitors(32) may(33) want(34) that(35) )(36) .(37) 
+		</sentence>
+		<sentence id="19">
+			Over(1) all(2) the(3) resort(4) is(5) great(6) .(7) 
+			<opinion featWords="4" feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			So(1) ,(2) feel(3) confident(4) when(5) booking(6) at(7) FACB(8) ,(9) you(10) will(11) not(12) regret(13) it(14) .(15) 
+		</sentence>
+	</text>
+</review>

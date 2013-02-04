@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="516" item="The Westin Tabor Center" rating="2">
+	<title>
+		<sentence id="1">
+			A(1) pointless(2) way(3) to(4) spend(5) $250(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Good(1) location(2) and(3) unique(4) pool(5) location(6) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="6" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Everything(1) was(2) too(3) expensive(4) 
+			<opinion feature="price" opWords="3,4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) whole(2) stay(3) was(4) not(5) worth(6) the(7) money(8) we(9) paid(10) .(11) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Over(1) spring(2) break(3) ,(4) my(5) grandmother(6) decided(7) she(8) wanted(9) to(10) treat(11) her(12) 4(13) grandchildren(14) to(15) an(16) expensive(17) downtown(18) Denver(19) trip(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			Going(1) shopping(2) and(3) staying(4) in(5) a(6) four-star(7) hotel(8) was(9) the(10) plan(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			We(1) found(2) The(3) Westin(4) on(5) hotels(6) .(7) com(8) and(9) were(10) interested(11) right(12) away(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) a(3) prestigious(4) hotel(5) with(6) great(7) accommodations(8) and(9) opportunities(10) .(11) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Located(1) on(2) 16th(3) street(4) ,(5) a(6) famous(7) walking(8) block(9) in(10) DTD(11) ,(12) the(13) setting(14) was(15) convenient(16) and(17) scenic(18) .(19) 
+			<opinion featWords="14" feature="decoration" opWords="16" polarity="+"/>
+			<opinion featWords="14" feature="decoration" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			So(1) we(2) decided(3) to(4) book(5) it(6) for(7) a(8) night(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			The(1) cost(2) for(3) this(4) was(5) $250(6) .(7) 
+		</sentence>
+		<sentence id="8">
+			Spring(1) break(2) is(3) a(4) very(5) busy(6) time(7) for(8) all(9) hotels(10) ,(11) but(12) this(13) one(14) was(15) not(16) worth(17) that(18) much(19) money(20) .(21) 
+		</sentence>
+		<sentence id="9">
+			The(1) moment(2) we(3) drove(4) up(5) ,(6) I(7) noticed(8) a(9) huge(10) sign(11) that(12) stated(13) PARKING(14) :(15) $6(16) an(17) hour(18) ,(19) $26(20) a(21) day(22) for(23) guests(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			When(1) I(2) am(3) on(4) vacation(5) ,(6) I(7) do(8) not(9) mind(10) spending(11) a(12) little(13) cash(14) .(15) 
+		</sentence>
+		<sentence id="11">
+			But(1) I(2) figured(3) the(4) price(5) for(6) parking(7) was(8) included(9) in(10) the(11) $250(12) .(13) 
+		</sentence>
+		<sentence id="12">
+			Once(1) inside(2) I(3) was(4) not(5) impressed(6) with(7) the(8) room(9) size(10) at(11) all(12) .(13) 
+			<opinion featWords="9" feature="rooms" opWords="5,6" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			I(1) could(2) have(3) gone(4) to(5) the(6) Holiday(7) Inn(8) ,(9) paid(10) $60(11) and(12) have(13) the(14) same(15) size(16) of(17) room(18) .(19) 
+		</sentence>
+		<sentence id="14">
+			The(1) only(2) difference(3) were(4) the(5) down(6) comforters(7) and(8) the(9) amazing(10) view(11) .(12) 
+			<opinion featWords="7" feature="bedding" opWords="6" polarity="+"/>
+			<opinion featWords="11" feature="view" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			After(1) settling(2) in(3) ,(4) we(5) decided(6) to(7) try(8) the(9) hot(10) tub(11) and(12) swimming(13) pool(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			They(1) both(2) were(3) located(4) on(5) the(6) fourth(7) floor(8) balcony(9) ,(10) which(11) was(12) unique(13) .(14) 
+		</sentence>
+		<sentence id="17">
+			The(1) pool(2) was(3) an(4) outside(5) /(6) inside(7) one(8) ,(9) which(10) was(11) also(12) interesting(13) .(14) 
+			<opinion featWords="2" feature="swimming pool" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			Unfortunately(1) ,(2) the(3) hot(4) tub(5) was(6) merely(7) luke(8) warm(9) and(10) uncomfortable(11) to(12) sit(13) in(14) .(15) 
+			<opinion featWords="5" feature="tub" opWords="8,9" polarity="-"/>
+			<opinion featWords="5" feature="tub" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="19">
+			After(1) many(2) attempts(3) to(4) get(5) a(6) worker(7) to(8) fix(9) it(10) ,(11) we(12) gave(13) up(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			No(1) one(2) came(3) down(4) to(5) even(6) look(7) at(8) it(9) .(10) 
+		</sentence>
+		<sentence id="21">
+			After(1) this(2) incident(3) ,(4) we(5) wanted(6) to(7) order(8) some(9) room(10) service(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			We(1) decided(2) two(3) pints(4) of(5) ice(6) cream(7) would(8) settle(9) the(10) four(11) of(12) us(13) .(14) 
+		</sentence>
+		<sentence id="23">
+			After(1) an(2) hour(3) wait(4) ,(5) it(6) finally(7) arrived(8) with(9) a(10) bill(11) of(12) $56(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			I(1) believe(2) $56(3) for(4) two(5) pints(6) of(7) ice(8) cream(9) is(10) ridicules(11) .(12) 
+		</sentence>
+		<sentence id="25">
+			Just(1) because(2) you(3) are(4) a(5) four(6) star(7) hotel(8) ,(9) does(10) not(11) mean(12) you(13) can(14) charge(15) that(16) much(17) money(18) for(19) so(20) little(21) ice(22) cream(23) .(24) 
+		</sentence>
+		<sentence id="26">
+			Instead(1) of(2) ordering(3) room(4) service(5) ,(6) we(7) decided(8) to(9) partake(10) in(11) the(12) breakfast(13) buffet(14) located(15) in(16) the(17) lobby(18) area(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			The(1) price(2) for(3) one(4) buffet(5) meal(6) was(7) $15(8) .(9) 
+		</sentence>
+		<sentence id="28">
+			For(1) that(2) much(3) money(4) ,(5) the(6) buffet(7) should(8) be(9) 20(10) feet(11) long(12) .(13) 
+		</sentence>
+		<sentence id="29">
+			Of(1) course(2) ,(3) it(4) was(5) 'nt(6) .(7) 
+		</sentence>
+		<sentence id="30">
+			The(1) buffet(2) consisted(3) of(4) scrambled(5) eggs(6) ,(7) bacon(8) ,(9) sausage(10) ,(11) and(12) hash(13) browns(14) .(15) 
+		</sentence>
+		<sentence id="31">
+			I(1) thought(2) this(3) was(4) a(5) ridicules(6) price(7) for(8) such(9) a(10) little(11) selection(12) .(13) 
+		</sentence>
+		<sentence id="32">
+			My(1) final(2) overview(3) of(4) this(5) hotel(6) is(7) unpleasant(8) .(9) 
+			<opinion featWords="6" feature="hotel" opWords="8" polarity="-"/>
+		</sentence>
+		<sentence id="33">
+			The(1) whole(2) stay(3) was(4) probably(5) double(6) the(7) price(8) it(9) should(10) have(11) been(12) .(13) 
+		</sentence>
+		<sentence id="34">
+			Unfortunately(1) ,(2) I(3) will(4) not(5) stay(6) there(7) again(8) .(9) 
+			<opinion feature="hotel" opWords="5,6" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="92" item="Breezes Punta Cana Resort Spa  by SuperClubs" rating="2">
+	<title>
+		<sentence id="1">
+			Barcelo(1) Punta(2) Cana(3) ((4) Formerly(5) Breezes(6) )(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Great(1) food(2) ,(3) beautiful(4) beach(5) ,(6) great(7) kids(8) program(9) ,(10) lots(11) of(12) sunbeds(13) ,(14) no(15) pushy(16) vendors(17) .(18) 
+			<opinion featWords="2" feature="food" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="beach" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Unfriendly(1) staff(2) ,(3) dirty(4) /(5) poorly(6) stocked(7) rooms(8) ,(9) rundown(10) areas(11) ,(12) lack(13) of(14) cleanliness(15) .(16) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="-"/>
+			<opinion featWords="8" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="11" feature="place" opWords="10" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			I(1) can(2) not(3) recommend(4) this(5) resort(6) at(7) this(8) time(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			I(1) feel(2) that(3) there(4) are(5) some(6) problems(7) which(8) must(9) be(10) worked(11) out(12) .(13) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) ,(3) our(4) two(5) children(6) and(7) I(8) recently(9) returned(10) from(11) our(12) Feb(13) '(14) 07(15) one(16) week(17) trip(18) to(19) this(20) resort(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			A(1) couple(2) of(3) months(4) before(5) we(6) went(7) ,(8) we(9) found(10) out(11) that(12) Barcelo(13) had(14) purchased(15) the(16) resort(17) from(18) Breezes(19) SuperClubs(20) .(21) 
+		</sentence>
+		<sentence id="3">
+			This(1) was(2) my(3) fourth(4) trip(5) to(6) the(7) Dominican(8) and(9) my(10) first(11) trip(12) to(13) Punta(14) Cana(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) was(2) really(3) looking(4) forward(5) to(6) the(7) beach(8) at(9) Punta(10) Cana(11) and(12) a(13) more(14) "(15) upscale(16) "(17) Dominican(18) experience(19) .(20) 
+		</sentence>
+		<sentence id="5">
+			The(1) beach(2) was(3) amazing(4) but(5) the(6) rest(7) was(8) a(9) huge(10) disappointment(11) .(12) 
+			<opinion featWords="2" feature="beach" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			We(1) arrived(2) at(3) the(4) airport(5) and(6) found(7) our(8) luggage(9) with(10) no(11) difficulty(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			We(1) were(2) then(3) told(4) our(5) bus(6) number(7) and(8) we(9) had(10) to(11) find(12) the(13) right(14) one(15) among(16) a(17) sea(18) of(19) buses(20) in(21) the(22) lot(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) it(2) was(3) absolutely(4) pouring(5) rain(6) and(7) our(8) bus(9) was(10) the(11) absolute(12) furthest(13) away(14) from(15) the(16) airport(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			We(1) ,(2) our(3) luggage(4) and(5) our(6) two(7) kids(8) were(9) completely(10) drenched(11) but(12) we(13) tried(14) to(15) look(16) forward(17) to(18) arriving(19) at(20) the(21) hotel(22) and(23) beginning(24) our(25) vacation(26) .(27) 
+		</sentence>
+		<sentence id="10">
+			When(1) we(2) arrived(3) at(4) the(5) hotel(6) the(7) hotel(8) reception(9) staff(10) were(11) not(12) at(13) all(14) friendly(15) and(16) did(17) not(18) even(19) smile(20) at(21) us(22) .(23) 
+			<opinion featWords="10" feature="staff" opWords="12,15" polarity="-"/>
+		</sentence>
+		<sentence id="11">
+			We(1) stood(2) at(3) the(4) counter(5) in(6) front(7) of(8) two(9) staff(10) who(11) completely(12) ignored(13) us(14) for(15) about(16) ten(17) minutes(18) until(19) we(20) assumed(21) that(22) we(23) were(24) in(25) the(26) wrong(27) line(28) .(29) 
+		</sentence>
+		<sentence id="12">
+			We(1) were(2) the(3) only(4) ones(5) in(6) our(7) group(8) whose(9) room(10) was(11) ready(12) .(13) 
+		</sentence>
+		<sentence id="13">
+			Everyone(1) else(2) had(3) to(4) wait(5) several(6) hours(7) .(8) 
+		</sentence>
+		<sentence id="14">
+			Our(1) room(2) was(3) very(4) disappointing(5) .(6) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			Our(1) travel(2) agent(3) had(4) specifically(5) requested(6) a(7) second(8) floor(9) bank(10) of(11) rooms(12) and(13) we(14) ended(15) up(16) on(17) the(18) main(19) level(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			The(1) rooms(2) were(3) small(4) and(5) very(6) ,(7) very(8) damp(9) .(10) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="-"/>
+			<opinion featWords="2" feature="rooms" opWords="9" polarity="-" potency="8"/>
+		</sentence>
+		<sentence id="17">
+			The(1) lampshades(2) were(3) badly(4) stained(5) ,(6) the(7) closet(8) door(9) would(10) not(11) slide(12) ,(13) the(14) drawers(15) in(16) the(17) dresser(18) were(19) not(20) sliding(21) properly(22) and(23) the(24) entire(25) room(26) was(27) really(28) rundown(29) .(30) 
+			<opinion featWords="15" feature="drawers" opWords="20,21" polarity="-"/>
+			<opinion featWords="26" feature="rooms" opWords="29" polarity="-" potency="28"/>
+		</sentence>
+		<sentence id="18">
+			The(1) ceramic(2) tiles(3) and(4) plaster(5) walls(6) were(7) crumbling(8) in(9) several(10) areas(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			The(1) fixtures(2) in(3) the(4) bathroom(5) were(6) corroded(7) .(8) 
+		</sentence>
+		<sentence id="20">
+			In(1) previous(2) trips(3) to(4) other(5) areas(6) of(7) the(8) Dominican(9) ,(10) the(11) rooms(12) were(13) spotless(14) and(15) the(16) cleaning(17) staff(18) would(19) create(20) beautiful(21) designs(22) out(23) of(24) the(25) towels(26) and(27) place(28) flowers(29) in(30) the(31) room(32) .(33) 
+			<opinion featWords="12" feature="rooms" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="21">
+			These(1) were(2) not(3) resorts(4) that(5) were(6) any(7) more(8) expensive(9) or(10) posh(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			Our(1) cleaning(2) staff(3) did(4) not(5) clean(6) the(7) floors(8) ((9) sweep(10) or(11) mop(12) )(13) for(14) over(15) four(16) days(17) .(18) 
+		</sentence>
+		<sentence id="23">
+			We(1) never(2) had(3) enough(4) towels(5) and(6) coffee(7) ,(8) sugar(9) ,(10) water(11) and(12) creamers(13) were(14) never(15) refilled(16) .(17) 
+		</sentence>
+		<sentence id="24">
+			I(1) finally(2) left(3) the(4) staff(5) a(6) note(7) each(8) day(9) requesting(10) the(11) things(12) we(13) needed(14) .(15) 
+		</sentence>
+		<sentence id="25">
+			Other(1) guests(2) that(3) we(4) spoke(5) to(6) also(7) had(8) significant(9) complaints(10) about(11) their(12) rooms(13) and(14) the(15) service(16) .(17) 
+		</sentence>
+		<sentence id="26">
+			People(1) complained(2) of(3) no(4) hot(5) water(6) ,(7) no(8) lamp(9) shades(10) ,(11) lack(12) of(13) towels(14) ,(15) dirty(16) /(17) pilled(18) /(19) smelly(20) bedding(21) ,(22) broken(23) blinds(24) ,(25) and(26) lack(27) of(28) cleaning(29) in(30) general(31) .(32) 
+		</sentence>
+		<sentence id="27">
+			One(1) day(2) someone(3) tracked(4) large(5) amounts(6) of(7) blood(8) all(9) the(10) way(11) down(12) the(13) pathway(14) and(15) through(16) the(17) whole(18) length(19) of(20) our(21) hall(22) .(23) 
+		</sentence>
+		<sentence id="28">
+			Each(1) spot(2) was(3) about(4) 3(5) "(6) wide(7) and(8) I(9) was(10) very(11) concerned(12) about(13) our(14) kids(15) stepping(16) in(17) it(18) .(19) By(20) that(21) evening(22) the(23) blood(24) was(25) still(26) not(27) mopped(28) up(29) and(30) so(31) I(32) called(33) the(34) front(35) desk(36) .(37) They(38) assured(39) me(40) that(41) it(42) would(43) be(44) cleaned(45) immediately(46) .(47) It(48) was(49) not(50) cleaned(51) until(52) the(53) next(54) evening(55) .(56) Overall(57) ,(58) the(59) staff(60) really(61) seemed(62) distant(63) .(64) I(65) could(66) honestly(67) count(68) on(69) both(70) hands(71) the(72) staff(73) that(74) were(75) warm(76) toward(77) us(78) .(79) In(80) previous(81) trips(82) to(83) other(84) Dominican(85) Resorts(86) ,(87) the(88) staff(89) made(90) an(91) effort(92) to(93) connect(94) with(95) us(96) .(97) The(98) bartenders(99) at(100) this(101) resort(102) were(103) stonefaced(104) and(105) would(106) more(107) often(108) than(109) not(110) just(111) point(112) at(113) us(114) when(115) they(116) wanted(117) the(118) order(119) .(120) Some(121) even(122) rolled(123) their(124) eyes(125) if(126) the(127) drinks(128) were(129) more(130) than(131) just(132) beers(133) .(134) The(135) food(136) was(137) FABULOUS(138) !(139) !(140) We(141) ate(142) at(143) the(144) pizza(145) counter(146) ,(147) main(148) buffet(149) or(150) the(151) poolside(152) buffet(153) for(154) every(155) meal(156) because(157) we(158) could(159) not(160) get(161) into(162) the(163) restaurants(164) .(165) Luckily(166) the(167) food(168) was(169) terrific(170) .(171) Every(172) night(173) there(174) was(175) a(176) different(177) general(178) theme(179) and(180) memorable(181) dishes(182) included(183) bacon(184) wrapped(185) tenderloin(186) ,(187) lobster(188) ,(189) lamb(190) ,(191) smoked(192) salmon(193) etc.(194) Everything(195) was(196) delicious(197) .(198) We(199) did(200) not(201) have(202) much(203) experience(204) with(205) watersports(206) although(207) we(208) tried(209) to(210) go(211) banana(212) boating(213) ((214) included(215) )(216) but(217) it(218) was(219) cancelled(220) twice(221) .(222) My(223) husband(224) took(225) our(226) son(227) on(228) the(229) snorkelling(230) trip(231) ((232) $29(233) pp(234) US(235) )(236) which(237) he(238) enjoyed(239) .(240) The(241) ocean(242) and(243) the(244) beach(245) were(246) gorgeous(247) !(248) There(249) were(250) a(251) lot(252) of(253) sunbeds(254) around(255) the(256) pool(257) and(258) so(259) we(260) never(261) went(262) without(263) .(264) There(265) were(266) many(267) on(268) the(269) beach(270) as(271) well(272) ,(273) which(274) was(275) very(276) nice(277) and(278) scattered(279) with(280) palm(281) trees(282) .(283) It(284) was(285) nice(286) not(287) to(288) be(289) bothered(290) by(291) any(292) pushy(293) sales(294) people(295) either(296) within(297) or(298) from(299) outside(300) of(301) the(302) resort(303) .(304) Our(305) son(306) enjoyed(307) the(308) kids(309) program(310) and(311) was(312) a(313) part(314) of(315) an(316) evening(317) circus(318) show(319) ,(320) which(321) was(322) a(323) little(324) late(325) in(326) the(327) evening(328) ((329) 9:30(330) )(331) but(332) fantastic(333) .(334) There(335) is(336) also(337) a(338) trapeze(339) and(340) a(341) rock(342) climbing(343) wall(344) ,(345) which(346) is(347) great(348) fun(349) .(350) Overall(351) ,(352) I(353) feel(354) that(355) it(356) may(357) be(358) that(359) Barcelo(360) is(361) either(362) experiencing(363) some(364) "(365) change(366) in(367) ownership(368) "(369) pains(370) or(371) dealing(372) with(373) old(374) Breezes(375) /(376) SuperClubs(377) difficulties(378) .(379) Either(380) way(381) ,(382) I(383) am(384) not(385) sure(386) that(387) things(388) are(389) looking(390) up(391) and(392) would(393) not(394) recommend(395) this(396) resort(397) unless(398) I(399) heard(400) more(401) positive(402) reviews(403) in(404) the(405) future(406) .(407) 
+			<opinion featWords="60" feature="staff" opWords="63" polarity="-" potency="61"/>
+			<opinion featWords="73" feature="staff" opWords="75" polarity="+"/>
+			<opinion featWords="168" feature="food" opWords="170" polarity="+"/>
+			<opinion featWords="242" feature="ocean" opWords="247" polarity="+"/>
+			<opinion featWords="245" feature="beach" opWords="247" polarity="+"/>
+		</sentence>
+	</text>
+</review>

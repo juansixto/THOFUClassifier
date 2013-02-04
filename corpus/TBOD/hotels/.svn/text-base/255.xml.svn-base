@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="255" item="Sheraton World" rating="2">
+	<title>
+		<sentence id="1">
+			Not(1) a(2) vacation(3) resort(4) ,(5) overpriced(6) 
+			<opinion feature="price" opWords="6" polarity="-"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) to(2) Sea(3) World(4) and(5) Convention(6) Center(7) are(8) convenient(9) .(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Web(1) site(2) deceiving(3) .(4) 
+		</sentence>
+		<sentence id="2">
+			Not(1) an(2) upscale(3) resort(4) .(5) 
+			<opinion featWords="4" feature="hotel" opWords="1,3" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Run(1) down(2) ,(3) with(4) motel(5) like(6) rooms(7) .(8) 
+			<opinion feature="hotel" opWords="1,2" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			No(1) security(2) .(3) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			would(1) not(2) recommend(3) it(4) to(5) anyone(6) other(7) than(8) a(9) business(10) traveler(11) needing(12) a(13) place(14) super(15) close(16) to(17) the(18) Convention(19) Center(20) .(21) 
+			<opinion featRef="hotel" featWords="4" feature="hotel" opWords="2,3" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			If(1) they(2) got(3) it(4) at(5) a(6) cheap(7) rate(8) .(9) 
+			<opinion featWords="8" feature="price" opWords="7" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) this(4) hotel(5) for(6) a(7) business(8) convention(9) a(10) couple(11) years(12) ago(13) and(14) we(15) were(16) disappointed(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			The(1) web(2) site(3) of(4) course(5) presents(6) an(7) image(8) of(9) lush(10) landscaping(11) surrounding(12) a(13) new(14) tower(15) of(16) rooms(17) .(18) 
+			<opinion featWords="11" feature="decoration" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) landscaping(2) is(3) nice(4) ,(5) what(6) there(7) is(8) ,(9) and(10) there(11) is(12) a(13) new(14) tower(15) ,(16) but(17) that(18) 's(19) where(20) it(21) ends(22) .(23) 
+			<opinion featWords="2" feature="decoration" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Sleeping(1) rooms(2) :(3) The(4) tower(5) rooms(6) are(7) nicer(8) and(9) newer(10) ,(11) adequate(12) for(13) most(14) business(15) or(16) vacation(17) travel(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			But(1) the(2) so-called(3) resort(4) rooms(5) are(6) in(7) shorter(8) ,(9) smaller(10) motel-like(11) buildings(12) that(13) surround(14) the(15) lobby(16) and(17) tower(18) buildings(19) .(20) 
+		</sentence>
+		<sentence id="6">
+			These(1) are(2) older(3) ,(4) smelly(5) ,(6) not(7) resort(8) quality(9) .(10) 
+		</sentence>
+		<sentence id="7">
+			Lobby(1) ,(2) meeting(3) areas(4) :(5) Needed(6) a(7) face(8) lift(9) when(10) I(11) was(12) last(13) there(14) .(15) 
+		</sentence>
+		<sentence id="8">
+			Too(1) many(2) marks(3) on(4) the(5) walls(6) and(7) floors(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			We(1) used(2) only(3) the(4) newer(5) tower(6) meeting(7) rooms(8) ,(9) which(10) were(11) much(12) nicer(13) .(14) 
+		</sentence>
+		<sentence id="10">
+			Others(1) :(2) As(3) I(4) was(5) there(6) on(7) business(8) ,(9) I(10) did(11) not(12) make(13) use(14) of(15) the(16) pool(17) or(18) other(19) amenities(20) .(21) 
+		</sentence>
+		<sentence id="11">
+			But(1) for(2) our(3) meeting(4) ,(5) we(6) did(7) have(8) the(9) hotel(10) cater(11) the(12) dinner(13) event(14) and(15) the(16) food(17) was(18) adequate(19) but(20) nothing(21) to(22) write(23) home(24) about(25) .(26) 
+			<opinion featWords="17" feature="food" opWords="19" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			The(1) parking(2) lot(3) was(4) unsecured(5) ,(6) which(7) was(8) questionable(9) since(10) half(11) the(12) hotel(13) rooms(14) have(15) easier(16) access(17) from(18) the(19) street(20) .(21) 
+			<opinion featWords="2,3" feature="parking" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="13">
+			Price(1) :(2) Through(3) most(4) web(5) sites(6) and(7) meeting(8) group(9) rates(10) ,(11) this(12) hotel(13) will(14) be(15) around(16) $100(17) which(18) is(19) way(20) too(21) much(22) .(23) 
+		</sentence>
+	</text>
+</review>

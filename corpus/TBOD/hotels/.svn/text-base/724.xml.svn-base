@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="724" item="Blue Bay Getaway &amp; Spa Cancun All Inclusive" rating="3">
+	<title>
+		<sentence id="1">
+			depends(1) what(2) you(3) want(4) !(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Fun(1) !(2) lovely(3) staff(4) 
+			<opinion featWords="4" feature="staff" opWords="3" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Basic(1) hotel(2) on(3) a(4) not(5) to(6) great(7) beach(8) !(9) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="8" feature="beach" opWords="5,7" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) friend(2) and(3) I(4) stay(5) at(6) the(7) blue(8) bay(9) in(10) early(11) May(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) a(3) really(4) good(5) time(6) the(7) staff(8) and(9) guess(10) are(11) very(12) friendly(13) .(14) 
+			<opinion featWords="8" feature="staff" opWords="13" polarity="+" potency="12"/>
+		</sentence>
+		<sentence id="3">
+			If(1) your(2) going(3) to(4) sit(5) round(6) the(7) sexy(8) pool(9) then(10) be(11) sure(12) your(13) up(14) for(15) it(16) !(17) 
+		</sentence>
+		<sentence id="4">
+			Once(1) the(2) entertainers(3) know(4) you(5) they(6) pick(7) on(8) you(9) !(10) !(11) !(12) 
+		</sentence>
+		<sentence id="5">
+			However(1) the(2) beach(3) is(4) not(5) what(6) I(7) expected(8) !(9) just(10) round(11) the(12) corner(13) is(14) so(15) different(16) !(17) 
+		</sentence>
+		<sentence id="6">
+			No(1) bath(2) in(3) the(4) basic(5) smelly(6) rooms(7) !(8) 
+			<opinion featWords="7" feature="rooms" opWords="5" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="7">
+			The(1) food(2) OK(3) in(4) the(5) buffet(6) but(7) the(8) restaurants(9) are(10) so(11) nice(12) .(13) 
+			<opinion featWords="2" feature="food" opWords="3" polarity="+"/>
+			<opinion featWords="9" feature="food" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="8">
+			We(1) spent(2) lots(3) more(4) money(5) then(6) we(7) intended(8) because(9) the(10) entertainment(11) at(12) the(13) hotel(14) all(15) finishes(16) at(17) 1am(18) !(19) 
+		</sentence>
+		<sentence id="9">
+			So(1) going(2) to(3) the(4) clubs(5) is(6) a(7) must(8) and(9) they(10) are(11) great(12) but(13) its(14) expensive(15) !(16) 
+			<opinion feature="price" opWords="15" polarity="-"/>
+		</sentence>
+		<sentence id="10">
+			Coca(1) Bongos(2) is(3) fab(4) !(5) 
+		</sentence>
+		<sentence id="11">
+			Its(1) no(2) way(3) a(4) 4(5) star(6) hotel(7) .(8) 
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="582" item="Hotel San Remo" rating="3">
+	<title>
+		<sentence id="1">
+			Average(1) hotel(2) ,(3) Great(4) location(5) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Value(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) Casino(2) ,(3) Older(4) rooms(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) the(4) Hotel(5) San(6) Remo(7) for(8) a(9) week(10) in(11) August(12) 2000(13) .(14) 
+		</sentence>
+		<sentence id="2">
+			The(1) location(2) and(3) price(4) are(5) what(6) attracted(7) me(8) to(9) this(10) property(11) .(12) 
+		</sentence>
+		<sentence id="3">
+			The(1) room(2) I(3) got(4) was(5) in(6) the(7) Gold(8) tower(9) and(10) room(11) was(12) decent(13) but(14) nothing(15) special(16) .(17) 
+			<opinion featWords="11" feature="rooms" opWords="13" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Typical(1) Holiday(2) Inn(3) quality(4) but(5) showing(6) their(7) age(8) .(9) 
+		</sentence>
+		<sentence id="5">
+			Bathroom(1) was(2) small(3) but(4) functional(5) .(6) 
+			<opinion featWords="1" feature="bathroom" opWords="3" polarity="-"/>
+			<opinion featWords="1" feature="bathroom" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			The(1) vents(2) were(3) caked(4) with(5) dirt(6) however(7) so(8) that(9) was(10) pretty(11) gross(12) .(13) 
+		</sentence>
+		<sentence id="7">
+			The(1) location(2) of(3) this(4) hotel(5) is(6) the(7) draw(8) .(9) 
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) right(3) near(4) the(5) intersection(6) of(7) Tropicana(8) &amp;(9) LV(10) Blvd(11) .(12) 
+		</sentence>
+		<sentence id="9">
+			Right(1) across(2) from(3) the(4) MGM(5) Grand(6) .(7) 
+		</sentence>
+		<sentence id="10">
+			After(1) a(2) day(3) of(4) wandering(5) through(6) the(7) Mega-Resorts(8) it(9) was(10) nice(11) to(12) come(13) back(14) to(15) the(16) more(17) relaxed(18) atmosphere(19) of(20) the(21) San(22) Remo(23) Casino(24) .(25) 
+		</sentence>
+		<sentence id="11">
+			The(1) Casino(2) is(3) small(4) but(5) has(6) a(7) good(8) variety(9) of(10) slots(11) and(12) video(13) poker(14) .(15) 
+			<opinion featWords="2" feature="casino" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="12">
+			They(1) have(2) 2(3) casino(4) bars(5) .(6) 
+		</sentence>
+		<sentence id="13">
+			Cocktail(1) service(2) is(3) quick(4) .(5) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="14">
+			The(1) table(2) game(3) variety(4) is(5) not(6) very(7) good(8) however(9) and(10) the(11) dealers(12) do(13) not(14) seem(15) very(16) friendly(17) .(18) 
+		</sentence>
+		<sentence id="15">
+			The(1) restaurants(2) are(3) good(4) here(5) also(6) .(7) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="16">
+			We(1) tried(2) the(3) sushi(4) bar(5) which(6) was(7) excellent(8) and(9) reasonably(10) priced(11) .(12) 
+			<opinion featWords="5" feature="food" opWords="8" polarity="+"/>
+			<opinion feature="price" opWords="10,11" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			The(1) coffee(2) shop(3) has(4) some(5) great(6) specials(7) like(8) $5.99(9) prime(10) rib(11) dinner(12) .(13) 
+		</sentence>
+		<sentence id="18">
+			Check(1) out(2) the(3) Paparazzi(4) Grill(5) for(6) a(7) Classy(8) ,(9) delicious(10) upscale(11) steakhouse(12) dinner(13) .(14) 
+		</sentence>
+		<sentence id="19">
+			The(1) parking(2) garage(3) is(4) close(5) so(6) it(7) will(8) not(9) take(10) long(11) from(12) your(13) car(14) to(15) your(16) room(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			You(1) will(2) need(3) to(4) walk(5) through(6) a(7) part(8) of(9) the(10) casino(11) but(12) not(13) very(14) far(15) to(16) get(17) to(18) the(19) room(20) elevators(21) .(22) 
+		</sentence>
+		<sentence id="21">
+			Checkin(1) was(2) quick(3) ,(4) and(5) all(6) hotel(7) employees(8) were(9) adequate(10) .(11) 
+			<opinion featWords="8" feature="staff" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="22">
+			Some(1) friendly(2) some(3) not(4) so(5) friendly(6) but(7) none(8) were(9) ever(10) rude(11) or(12) slow(13) with(14) requests(15) .(16) 
+		</sentence>
+		<sentence id="23">
+			I(1) would(2) not(3) hesitate(4) to(5) stay(6) here(7) again(8) if(9) the(10) rates(11) are(12) right(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			Sometimes(1) this(2) hotel(3) charges(4) the(5) same(6) as(7) the(8) Trop(9) or(10) Excalibur(11) and(12) on(13) those(14) nights(15) it(16) 's(17) not(18) really(19) as(20) good(21) a(22) value(23) but(24) when(25) the(26) strip(27) rates(28) soar(29) the(30) San(31) Remo(32) will(33) usually(34) be(35) the(36) best(37) value(38) around(39) .(40) 
+		</sentence>
+	</text>
+</review>

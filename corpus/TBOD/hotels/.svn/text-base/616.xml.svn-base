@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="616" item="Sirata Beach Resort" rating="4">
+	<title>
+		<sentence id="1">
+			St(1) Pete(2) Beach(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Sirata(1) Resort(2) was(3) great(4) ,(5) white(6) sand(7) ,(8) tranquility(9) ((10) relative(11) to(12) east(13) coast(14) Florida(15) )(16) 
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Not(1) many(2) entertainment(3) options(4) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			We(1) would(2) recommend(3) Sirata(4) Resort(5) to(6) anybody(7) .(8) 
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) spent(2) some(3) time(4) vacationing(5) in(6) St(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Pete(1) s(2) Beach(3) recently(4) ,(5) with(6) my(7) wife(8) ,(9) and(10) I(11) was(12) pleasantly(13) surprised(14) by(15) the(16) place(17) .(18) 
+		</sentence>
+		<sentence id="3">
+			For(1) the(2) past(3) five(4) years(5) ,(6) we(7) ve(8) always(9) been(10) going(11) to(12) Florida(13) s(14) east(15) coast(16) ,(17) namely(18) Miami(19) Beach(20) and(21) Ft(22) .(23) 
+		</sentence>
+		<sentence id="4">
+			Lauderdale(1) .(2) 
+		</sentence>
+		<sentence id="5">
+			And(1) we(2) enjoyed(3) those(4) places(5) very(6) much(7) ,(8) with(9) seemingly(10) never(11) ending(12) nightlife(13) and(14) shopping(15) opportunities(16) .(17) 
+		</sentence>
+		<sentence id="6">
+			West(1) coast(2) of(3) Florida(4) was(5) always(6) boring(7) in(8) my(9) mind(10) ;(11) more(12) reserved(13) for(14) crowd(15) over(16) 55(17) .(18) 
+		</sentence>
+		<sentence id="7">
+			While(1) it(2) still(3) may(4) be(5) true(6) ,(7) there(8) are(9) much(10) to(11) see(12) and(13) do(14) there(15) ,(16) just(17) maybe(18) different(19) things(20) to(21) see(22) and(23) do(24) than(25) in(26) Miami(27) .(28) 
+		</sentence>
+		<sentence id="8">
+			We(1) stayed(2) at(3) one(4) of(5) many(6) resorts(7) that(8) line(9) St(10) Petes(11) Beach(12) ,(13) namely(14) Sirata(15) Resort(16) .(17) 
+		</sentence>
+		<sentence id="9">
+			The(1) rooms(2) were(3) clean(4) and(5) there(6) were(7) many(8) amenities(9) onsite(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			There(1) were(2) no(3) rush(4) associated(5) with(6) Miami(7) ,(8) and(9) time(10) flowed(11) more(12) slowly(13) ,(14) at(15) least(16) in(17) my(18) mind(19) .(20) 
+		</sentence>
+		<sentence id="11">
+			One(1) main(2) attraction(3) of(4) Florida(5) s(6) gulf(7) coast(8) is(9) sand(10) .(11) 
+		</sentence>
+		<sentence id="12">
+			Beautiful(1) ,(2) white(3) ,(4) powder-like(5) substance(6) ,(7) that(8) is(9) so(10) hard(11) to(12) wash(13) off(14) ,(15) yet(16) so(17) nice(18) to(19) walk(20) on(21) in(22) a(23) blistering(24) mid-summer(25) heat(26) .(27) 
+		</sentence>
+		<sentence id="13">
+			The(1) sand(2) is(3) white(4) ,(5) feels(6) like(7) flour(8) under(9) your(10) feet(11) ,(12) and(13) is(14) cool(15) regardless(16) of(17) outside(18) temperature(19) or(20) sun(21) position(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			The(1) beach(2) is(3) seemingly(4) endless(5) ;(6) one(7) can(8) walk(9) for(10) hours(11) and(12) not(13) reach(14) an(15) end(16) ,(17) so(18) there(19) are(20) plenty(21) of(22) opportunities(23) for(24) sunset(25) walks(26) .(27) 
+			<opinion featWords="2" feature="beach" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="15">
+			We(1) actually(2) saw(3) dolphins(4) play(5) in(6) the(7) water(8) one(9) of(10) the(11) evenings(12) last(13) January(14) .(15) 
+		</sentence>
+		<sentence id="16">
+			The(1) Sirata(2) Resort(3) was(4) an(5) affordable(6) option(7) that(8) we(9) got(10) through(11) Priceline(12) .(13) 
+			<opinion feature="price" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			Our(1) room(2) was(3) very(4) clean(5) ,(6) with(7) impeccable(8) daily(9) housekeeping(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="10" feature="room service" opWords="8" polarity="+"/>
+			<opinion featWords="10" feature="room service" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			The(1) resort(2) has(3) three(4) pools(5) ,(6) and(7) they(8) were(9) never(10) crowded(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			They(1) were(2) clean(3) ,(4) as(5) were(6) the(7) jacuzzis(8) .(9) 
+			<opinion feature="swimming pool" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="20">
+			The(1) outside(2) bar(3) was(4) great(5) too(6) ,(7) albeit(8) with(9) slightly(10) overpriced(11) food(12) options(13) .(14) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="+"/>
+			<opinion feature="price" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+		<sentence id="21">
+			But(1) this(2) is(3) tourist(4) resort(5) ,(6) so(7) I(8) guess(9) that(10) 's(11) to(12) be(13) expected(14) .(15) 
+		</sentence>
+		<sentence id="22">
+			We(1) really(2) liked(3) the(4) hotel(5) .(6) 
+			<opinion featWords="5" feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			St(1) Petes(2) Beach(3) is(4) small(5) town(6) ,(7) but(8) it(9) is(10) very(11) close(12) to(13) St(14) Petersburg(15) and(16) about(17) 30(18) minute(19) drive(20) from(21) Tampa(22) .(23) 
+		</sentence>
+		<sentence id="24">
+			We(1) enjoyed(2) few(3) trips(4) into(5) town(6) ,(7) to(8) St(9) Petersburg(10) ,(11) and(12) spent(13) evenings(14) on(15) Pier(16) ,(17) as(18) well(19) as(20) at(21) the(22) Riverwalk(23) .(24) 
+		</sentence>
+		<sentence id="25">
+			Pier(1) closes(2) early(3) ,(4) and(5) there(6) s(7) not(8) much(9) going(10) on(11) ,(12) aside(13) from(14) people(15) fishing(16) from(17) the(18) pier(19) ,(20) and(21) limited(22) open(23) restaurants(24) .(25) 
+		</sentence>
+		<sentence id="26">
+			Maybe(1) in(2) future(3) there(4) will(5) be(6) more(7) things(8) to(9) do(10) .(11) 
+		</sentence>
+		<sentence id="27">
+			St(1) Pets(2) Beach(3) also(4) has(5) historic(6) downtown(7) ,(8) and(9) few(10) shopping(11) places(12) ,(13) as(14) well(15) as(16) local(17) and(18) national(19) chain(20) restaurants(21) that(22) are(23) open(24) reasonably(25) late(26) ((27) 10pm(28) and(29) later(30) )(31) ,(32) so(33) theoretically(34) you(35) do(36) 'nt(37) have(38) to(39) leave(40) town(41) to(42) have(43) some(44) fun(45) .(46) 
+		</sentence>
+		<sentence id="28">
+			There(1) are(2) plenty(3) attractions(4) available(5) at(6) the(7) beach(8) ;(9) parasailing(10) ,(11) kayaking(12) ,(13) jet-ski(14) rental(15) and(16) others(17) ,(18) available(19) for(20) hotel(21) guests(22) and(23) visitors(24) for(25) a(26) fee(27) .(28) 
+		</sentence>
+		<sentence id="29">
+			The(1) sunsets(2) at(3) the(4) beach(5) were(6) spectacular(7) ;(8) seems(9) like(10) it(11) s(12) a(13) daily(14) show(15) ,(16) cherished(17) by(18) all(19) the(20) hotel(21) guests(22) ,(23) and(24) every(25) evening(26) they(27) spill(28) out(29) onto(30) the(31) beach(32) to(33) watch(34) sunsets(35) ,(36) dolphins(37) ,(38) go(39) shell(40) picking(41) ,(42) or(43) just(44) go(45) for(46) a(47) stroll(48) along(49) the(50) beach(51) .(52) 
+		</sentence>
+		<sentence id="30">
+			This(1) was(2) a(3) great(4) experience(5) ,(6) and(7) I(8) can(9) 'nt(10) wait(11) to(12) go(13) back(14) there(15) again(16) .(17) 
+		</sentence>
+	</text>
+</review>

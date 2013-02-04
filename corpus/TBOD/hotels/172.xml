@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="172" item="Oasis Cancun - All Inclusive" rating="1">
+	<title>
+		<sentence id="1">
+			Not(1) for(2) Families(3) or(4) Adults(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) pool(2) ,(3) grounds(4) and(5) beach(6) areas(7) .(8) 
+			<opinion featWords="2" feature="swimming pool" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="grounds" opWords="1" polarity="+"/>
+			<opinion featWords="7" feature="place" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			no(1) a(2) /(3) c(4) in(5) lobby(6) ,(7) many(8) elevators(9) not(10) working(11) ,(12) drunk(13) young(14) crowd(15) ,(16) rooms(17) have(18) a(19) /(20) c(21) problem(22) 
+			<opinion featWords="9" feature="elevator" opWords="10,11" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Just(1) returned(2) from(3) 6(4) nights(5) at(6) the(7) Oasis(8) Cancun(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			Unless(1) you(2) are(3) a(4) teenager(5) or(6) in(7) your(8) early(9) 20(10) 's(11) this(12) is(13) not(14) for(15) you(16) !(17) 
+		</sentence>
+		<sentence id="3">
+			This(1) establishment(2) seems(3) to(4) care(5) less(6) about(7) their(8) guests(9) who(10) like(11) to(12) sleep(13) at(14) night(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			They(1) allow(2) their(3) young(4) drunk(5) inconsiderent(6) guests(7) to(8) run(9) the(10) place(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			They(1) hang(2) out(3) in(4) the(5) lobby(6) and(7) hallways(8) ,(9) slamming(10) their(11) room(12) doors(13) and(14) and(15) leaving(16) their(17) half(18) empty(19) drinks(20) everywhere(21) !(22) 
+		</sentence>
+		<sentence id="6">
+			Security(1) is(2) present(3) but(4) the(5) only(6) thing(7) they(8) seem(9) to(10) do(11) is(12) say(13) "(14) sshhhhh(15) .(16) Cancun(17) was(18) beautiful(19) with(20) lots(21) to(22) see(23) and(24) do(25) but(26) this(27) is(28) not(29) the(30) place(31) to(32) stay(33) .(34) Enjoyed(35) our(36) trip(37) to(38) Chicten(39) Itza(40) ,(41) snorkeling(42) and(43) other(44) water(45) sports(46) .(47) 
+		</sentence>
+	</text>
+</review>

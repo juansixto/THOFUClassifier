@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="4" item="Angelus Resort &amp; Spa" rating="1">
+	<title>
+		<sentence id="1">
+			Avoid(1) like(2) the(3) Plague(4) !(5) 
+			<opinion feature="hotel" opWords="1" polarity="-"/>
+		</sentence>
+		<sentence id="2">
+			Please(1) !(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Cheap(1) and(2) next(3) to(4) the(5) Marriott(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Dirty(1) sheets(2) and(3) real(4) estate(5) fraud(6) .(7) 
+			<opinion featWords="2" feature="bedding" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) make(2) a(3) big(4) mistake(5) and(6) took(7) my(8) family(9) to(10) the(11) Angelus(12) .(13) 
+		</sentence>
+		<sentence id="2">
+			Oh(1) my(2) God(3) !(4) 
+		</sentence>
+		<sentence id="3">
+			The(1) roof(2) leaked(3) ,(4) the(5) sheets(6) were(7) covered(8) in(9) "(10) left(11) overs(12) "(13) and(14) the(15) noise(16) !(17) 
+			<opinion featWords="2" feature="roof" opWords="3" polarity="-"/>
+		</sentence>
+		<sentence id="4">
+			Then(1) ,(2) to(3) add(4) insult(5) to(6) injury(7) ,(8) the(9) touts(10) there(11) followed(12) me(13) around(14) and(15) tried(16) to(17) sell(18) me(19) condos(20) all(21) the(22) time(23) .(24) 
+		</sentence>
+		<sentence id="5">
+			Then(1) ,(2) I(3) when(4) to(5) the(6) web(7) ((8) thank(9) you(10) for(11) the(12) web(13) !(14) )(15) and(16) poked(17) around(18) only(19) to(20) find(21) that(22) the(23) Angelus(24) has(25) a(26) $20M(27) USD(28) lawsuit(29) about(30) the(31) property(32) from(33) the(34) original(35) investors(36) who(37) were(38) told(39) to(40) kiss(41) off(42) by(43) the(44) new(45) owners(46) !(47) !(48) 
+		</sentence>
+		<sentence id="6">
+			do(1) not(2) believe(3) me(4) ?(5) 
+		</sentence>
+		<sentence id="7">
+			I(1) wish(2) I(3) have(4) read(5) the(6) details(7) on(8) this(9) site(10) before(11) I(12) ruined(13) my(14) family(15) vacation(16) .(17) 
+		</sentence>
+		<sentence id="8">
+			Read(1) for(2) yourself(3) !(4) http://www.angelusfacts.com(5) My(6) husband(7) is(8) going(9) to(10) divorce(11) me(12) !(13) 
+		</sentence>
+		<sentence id="9">
+			My(1) kids(2) hate(3) me(4) now(5) !(6) !(7) !(8) 
+		</sentence>
+	</text>
+</review>

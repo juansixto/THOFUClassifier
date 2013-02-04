@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="341" item="Sir Francis Drake" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) was(2) prepared(3) for(4) OLD(5) ,(6) but(7) not(8) MOLD(9) and(10) COLD(11) .(12) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) ,(2) Doorman(3) Tom(4) Sweeney(5) ,(6) Head(7) of(8) Security(9) Al(10) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) room(2) size(3) ,(4) general(5) poor(6) housekeeping(7) ,(8) ineffective(9) staff(10) .(11) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+			<opinion featWords="7" feature="room service" opWords="6" polarity="-"/>
+			<opinion featWords="10" feature="staff" opWords="9" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) hotel(2) is(3) 75(4) years(5) old(6) ,(7) it(8) shows(9) and(10) not(11) in(12) a(13) charming(14) way(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			Location(1) is(2) all(3) it(4) really(5) has(6) going(7) for(8) it(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) were(2) able(3) to(4) take(5) a(6) spur(7) of(8) the(9) moment(10) trip(11) this(12) past(13) holiday(14) season(15) ((16) Christmas(17) 2002(18) )(19) and(20) found(21) a(22) package(23) deal(24) online(25) that(26) included(27) accommodations(28) at(29) the(30) Sir(31) Francis(32) Drake(33) .(34) 
+		</sentence>
+		<sentence id="2">
+			Pressed(1) for(2) time(3) ,(4) we(5) went(6) to(7) their(8) website(9) and(10) all(11) looked(12) fine(13) ,(14) so(15) we(16) booked(17) the(18) deal(19) .(20) 
+		</sentence>
+		<sentence id="3">
+			Well(1) ,(2) upon(3) further(4) investigation(5) we(6) found(7) sites(8) like(9) this(10) one(11) with(12) consumer(13) reviews(14) ,(15) most(16) of(17) them(18) very(19) negative(20) ,(21) specifically(22) about(23) room(24) size(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			Figuring(1) we(2) would(3) not(4) be(5) in(6) our(7) room(8) too(9) much(10) as(11) it(12) was(13) my(14) first(15) trip(16) ,(17) we(18) thought(19) the(20) small(21) room(22) size(23) might(24) be(25) tolerable(26) .(27) 
+			<opinion featWords="22" feature="rooms" opWords="21" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			Armed(1) with(2) this(3) info(4) ,(5) we(6) called(7) and(8) asked(9) for(10) a(11) larger(12) room(13) if(14) available(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			Upon(1) arrival(2) ,(3) we(4) restated(5) this(6) request(7) and(8) were(9) shown(10) to(11) an(12) extremely(13) small(14) room(15) .(16) 
+			<opinion featWords="15" feature="rooms" opWords="14" polarity="-" potency="13"/>
+		</sentence>
+		<sentence id="7">
+			Luckily(1) ,(2) our(3) escort(4) ,(5) Al(6) ,(7) called(8) down(9) to(10) the(11) front(12) desk(13) and(14) got(15) us(16) another(17) room(18) .(19) 
+		</sentence>
+		<sentence id="8">
+			This(1) second(2) room(3) was(4) a(5) corner(6) room(7) with(8) 2(9) windows(10) ,(11) two(12) sitting(13) chairs(14) ,(15) a(16) desk(17) with(18) chair(19) and(20) a(21) very(22) large(23) closet(24) ((25) Large(26) enough(27) to(28) iron(29) in(30) and(31) store(32) all(33) luggage(34) ,(35) clothes(36) ,(37) etc.(38) )(39) All(40) was(41) fine(42) for(43) the(44) first(45) 3(46) days(47) and(48) we(49) were(50) very(51) glad(52) to(53) have(54) the(55) larger(56) room(57) as(58) it(59) rained(60) 7(61) out(62) of(63) the(64) 8(65) days(66) we(67) were(68) there(69) .(70) 
+			<opinion featWords="24" feature="closet" opWords="23" polarity="+" potency="22"/>
+		</sentence>
+		<sentence id="9">
+			Unfortunately(1) ,(2) at(3) 5:00(4) a.m.(5) on(6) the(7) 4th(8) day(9) ,(10) I(11) was(12) awoken(13) by(14) a(15) screaming(16) child(17) .(18) 
+		</sentence>
+		<sentence id="10">
+			The(1) hotel(2) had(3) placed(4) a(5) family(6) with(7) 2(8) toddlers(9) directly(10) across(11) the(12) hall(13) from(14) us(15) and(16) the(17) mother(18) was(19) standing(20) in(21) the(22) doorway(23) with(24) them(25) !(26) 
+		</sentence>
+		<sentence id="11">
+			I(1) realize(2) that(3) the(4) hotel(5) has(6) no(7) control(8) or(9) advanced(10) knowledge(11) of(12) how(13) their(14) guests(15) may(16) behave(17) ,(18) so(19) I(20) went(21) down(22) to(23) the(24) front(25) desk(26) to(27) speak(28) to(29) the(30) manager(31) .(32) 
+		</sentence>
+		<sentence id="12">
+			The(1) desk(2) clerk(3) had(4) a(5) poor(6) command(7) of(8) English(9) and(10) resolving(11) this(12) problem(13) was(14) difficult(15) .(16) 
+		</sentence>
+		<sentence id="13">
+			I(1) offered(2) to(3) move(4) to(5) a(6) new(7) room(8) ,(9) but(10) insisted(11) that(12) it(13) be(14) at(15) least(16) as(17) large(18) as(19) our(20) current(21) room(22) .(23) 
+		</sentence>
+		<sentence id="14">
+			Upon(1) arrival(2) back(3) at(4) my(5) room(6) ,(7) the(8) other(9) guest(10) now(11) had(12) her(13) 2(14) toddlers(15) running(16) up(17) and(18) down(19) the(20) hallway(21) !(22) 
+		</sentence>
+		<sentence id="15">
+			She(1) was(2) an(3) idiot(4) !(5) 
+		</sentence>
+		<sentence id="16">
+			Long(1) story(2) short(3) ,(4) after(5) the(6) hassle(7) of(8) repacking(9) we(10) were(11) moved(12) to(13) an(14) identical(15) room(16) ,(17) no(18) better(19) no(20) worse(21) than(22) the(23) corner(24) room(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			The(1) entire(2) situation(3) was(4) handled(5) rather(6) coldly(7) with(8) the(9) hotel(10) taking(11) no(12) responsibility(13) for(14) the(15) incident(16) and(17) making(18) no(19) apology(20) .(21) 
+		</sentence>
+		<sentence id="18">
+			About(1) the(2) mold(3) and(4) cold(5) ,(6) I(7) am(8) referring(9) to(10) the(11) bathrooms(12) .(13) 
+		</sentence>
+		<sentence id="19">
+			I(1) was(2) in(3) 4(4) different(5) rooms(6) during(7) my(8) stay(9) and(10) all(11) of(12) them(13) suffered(14) badly(15) with(16) mold(17) and(18) mildew(19) particularly(20) in(21) the(22) tub(23) and(24) window(25) areas(26) .(27) 
+		</sentence>
+		<sentence id="20">
+			The(1) bathrooms(2) have(3) no(4) vents(5) or(6) heating(7) ,(8) but(9) the(10) windows(11) open(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			Also(1) ,(2) no(3) heat(4) lamps(5) so(6) the(7) bathroom(8) was(9) unpleasantly(10) cold(11) .(12) 
+			<opinion featWords="8" feature="bathroom" opWords="11" polarity="-" potency="10"/>
+		</sentence>
+		<sentence id="22">
+			The(1) heater(2) in(3) the(4) room(5) worked(6) well(7) ,(8) but(9) did(10) not(11) transmit(12) heat(13) to(14) the(15) bathroom(16) .(17) 
+			<opinion featWords="2" feature="heaters" opWords="6,7" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			I(1) was(2) so(3) disappointed(4) at(5) the(6) time(7) ,(8) I(9) actually(10) took(11) pictures(12) of(13) the(14) moldy(15) areas(16) thinking(17) I(18) would(19) send(20) them(21) to(22) the(23) hotel(24) management(25) ,(26) but(27) figured(28) they(29) would(30) just(31) disregard(32) them(33) and(34) decided(35) to(36) warn(37) consumers(38) on(39) this(40) forum(41) instead(42) .(43) 
+			<opinion featWords="16" feature="place" opWords="15" polarity="-"/>
+		</sentence>
+		<sentence id="24">
+			We(1) were(2) high(3) enough(4) above(5) street(6) level(7) so(8) that(9) the(10) street(11) noises(12) sounded(13) quaint(14) ((15) cable(16) car(17) bells(18) ,(19) music(20) )(21) but(22) if(23) you(24) were(25) closer(26) to(27) the(28) street(29) ,(30) I(31) believe(32) they(33) would(34) disturb(35) your(36) sleep(37) and(38) peace(39) .(40) 
+		</sentence>
+		<sentence id="25">
+			We(1) ate(2) in(3) both(4) hotel(5) restaurants(6) -(7) many(8) times(9) in(10) the(11) cafe(12) and(13) once(14) in(15) Scala(16) 's(17) .(18) 
+		</sentence>
+		<sentence id="26">
+			It(1) was(2) difficult(3) to(4) get(5) in(6) to(7) Scala(8) 's(9) because(10) their(11) chef(12) was(13) just(14) awarded(15) Chef(16) of(17) the(18) Year(19) .(20) 
+		</sentence>
+		<sentence id="27">
+			We(1) stopped(2) in(3) at(4) lunch(5) time(6) and(7) were(8) able(9) to(10) get(11) a(12) booth(13) ,(14) but(15) only(16) if(17) we(18) promised(19) to(20) be(21) out(22) in(23) an(24) hour(25) because(26) there(27) was(28) a(29) reservation(30) for(31) it(32) .(33) 
+		</sentence>
+		<sentence id="28">
+			We(1) were(2) told(3) that(4) the(5) service(6) would(7) be(8) quick(9) enough(10) to(11) be(12) able(13) to(14) do(15) that(16) .(17) 
+			<opinion featWords="6" feature="service" opWords="9,10" polarity="+"/>
+		</sentence>
+		<sentence id="29">
+			Well(1) ,(2) we(3) did(4) make(5) it(6) out(7) in(8) an(9) hour(10) ,(11) but(12) felt(13) rushed(14) and(15) would(16) have(17) had(18) a(19) better(20) experience(21) if(22) we(23) could(24) have(25) lingered(26) .(27) 
+		</sentence>
+		<sentence id="30">
+			We(1) enjoyed(2) the(3) food(4) ,(5) but(6) the(7) atmosphere(8) left(9) something(10) to(11) be(12) desired(13) .(14) 
+		</sentence>
+		<sentence id="31">
+			The(1) cafe(2) food(3) was(4) adequate(5) and(6) it(7) was(8) usually(9) crowded(10) ,(11) but(12) there(13) is(14) no(15) continental(16) breakfast(17) ,(18) so(19) it(20) was(21) convenient(22) .(23) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="+"/>
+			<opinion featWords="3" feature="food" opWords="22" polarity="+"/>
+		</sentence>
+	</text>
+</review>

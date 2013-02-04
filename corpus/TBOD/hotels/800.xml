@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="800" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Suitably(1) located(2) hotel(3) for(4) entire(5) family(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			nice(1) location(2) ,(3) internet(4) facilities(5) ,(6) prompt(7) services(8) 
+			<opinion featWords="2" feature="place" opWords="1" polarity="+"/>
+			<opinion featWords="8" feature="service" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			nothing(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) chose(2) California(3) Suites(4) Hotel(5) for(6) our(7) family(8) vacation(9) primarily(10) because(11) of(12) its(13) convenient(14) location(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			But(1) then(2) we(3) found(4) that(5) the(6) hotel(7) had(8) much(9) more(10) to(11) offer(12) really(13) .(14) 
+		</sentence>
+		<sentence id="3">
+			The(1) kids(2) had(3) a(4) great(5) time(6) on(7) the(8) lawns(9) and(10) in(11) the(12) pool(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			Bill(1) ,(2) my(3) husband(4) was(5) relieved(6) to(7) be(8) able(9) to(10) check(11) his(12) mails(13) and(14) communicate(15) with(16) his(17) office(18) through(19) the(20) internet(21) connection(22) the(23) hotel(24) provided(25) .(26) 
+		</sentence>
+		<sentence id="5">
+			And(1) yes(2) ,(3) the(4) Sea(5) World(6) and(7) Zoo(8) and(9) the(10) beaches(11) were(12) just(13) a(14) few(15) minutes(16) away(17) so(18) we(19) could(20) take(21) the(22) kids(23) there(24) easily(25) without(26) wasting(27) time(28) travelling(29) .(30) 
+		</sentence>
+		<sentence id="6">
+			All(1) in(2) all(3) ,(4) a(5) good(6) experience(7) .(8) 
+		</sentence>
+		<sentence id="7">
+			We(1) are(2) planning(3) a(4) family(5) vacation(6) to(7) San(8) Diego(9) in(10) December(11) again(12) ,(13) and(14) I(15) would(16) definitely(17) prefer(18) staying(19) here(20) .(21) 
+		</sentence>
+	</text>
+</review>

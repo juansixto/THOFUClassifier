@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="193" item="Hudson" rating="1">
+	<title>
+		<sentence id="1">
+			Better(1) off(2) staying(3) on(4) the(5) bottom(6) of(7) the(8) Hudson(9) River(10) !(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			That(1) you(2) will(3) never(4) want(5) to(6) return(7) !(8) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			The(1) Staff(2) is(3) the(4) worst(5) of(6) any(7) hotel(8) !(9) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Words(1) can(2) not(3) adequately(4) describe(5) how(6) horrible(7) the(8) Hudson(9) "(10) experience(11) "(12) is(13) !(14) 
+		</sentence>
+		<sentence id="2">
+			The(1) staff(2) is(3) still(4) angry(5) from(6) being(7) rejected(8) from(9) a(10) gap(11) commercial(12) ((13) when(14) they(15) should(16) of(17) been(18) cast(19) as(20) a(21) corpse(22) on(23) CSI(24) )(25) and(26) are(27) more(28) interested(29) in(30) discussing(31) their(32) lovelife(33) while(34) crying(35) in(36) your(37) drink(38) ((39) thats(40) if(41) they(42) ever(43) arrive(44) )(45) ,(46) rather(47) than(48) assisting(49) the(50) clientele(51) .(52) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			Recommend(1) this(2) to(3) NO(4) ONE(5) ,(6) even(7) people(8) you(9) can(10) not(11) stand(12) !(13) 
+		</sentence>
+		<sentence id="4">
+			Some(1) staff(2) members(3) have(4) such(5) bad(6) breathe(7) that(8) even(9) 3(10) feet(11) away(12) is(13) too(14) close(15) and(16) thats(17) not(18) to(19) mention(20) a(21) "(22) manager(23) "(24) that(25) wears(26) a(27) CBGB(28) shirt(29) that(30) must(31) have(32) been(33) used(34) to(35) clean(36) CBGB(37) 's(38) bathrooms(39) !(40) 
+		</sentence>
+		<sentence id="5">
+			Busboys(1) that(2) are(3) arrogant(4) and(5) rude(6) will(7) round(8) out(9) what(10) is(11) destined(12) to(13) be(14) a(15) horrible(16) time(17) !(18) 
+		</sentence>
+	</text>
+</review>

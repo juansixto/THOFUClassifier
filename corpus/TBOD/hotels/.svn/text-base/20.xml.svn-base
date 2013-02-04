@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="20" item="Delta Vancouver Airport" rating="2">
+	<title>
+		<sentence id="1">
+			Better(1) Choices(2) Probably(3) Abound(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) staff(2) ,(3) WiFi(4) in(5) lobby(6) ,(7) not(8) far(9) from(10) airport(11) ,(12) slightly(13) cheaper(14) than(15) other(16) brands(17) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Scary(1) elevators(2) ,(3) room(4) service(5) ignored(6) calls(7) 
+			<opinion featWords="2" feature="elevator" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Try(1) another(2) hotel(3) .(4) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) at(3) the(4) Delta(5) during(6) an(7) overnight(8) stopover(9) to(10) catch(11) a(12) morning(13) flight(14) .(15) 
+		</sentence>
+		<sentence id="2">
+			Delta(1) is(2) priced(3) a(4) little(5) bit(6) cheaper(7) than(8) the(9) other(10) big(11) hotel(12) brands(13) ,(14) although(15) a(16) lot(17) of(18) Americans(19) have(20) probably(21) never(22) heard(23) of(24) this(25) Canadian(26) chain(27) .(28) 
+		</sentence>
+		<sentence id="3">
+			The(1) staff(2) was(3) overall(4) kind(5) and(6) attentive(7) .(8) 
+			<opinion featWords="2" feature="staff" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="2" feature="staff" opWords="7" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			The(1) only(2) annoying(3) thing(4) was(5) the(6) airport(7) shuttle(8) driver(9) ,(10) who(11) gave(12) a(13) big(14) song(15) and(16) dance(17) about(18) the(19) hotel(20) 's(21) restaurant(22) and(23) neighboring(24) restaurant(25) /(26) bar(27) .(28) 
+		</sentence>
+		<sentence id="5">
+			I(1) do(2) not(3) like(4) sitting(5) through(6) a(7) sales(8) pitch(9) after(10) flying(11) all(12) day(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			Just(1) tell(2) me(3) when(4) the(5) restaurants(6) close(7) and(8) any(9) other(10) important(11) info(12) and(13) take(14) me(15) to(16) the(17) hotel(18) .(19) 
+		</sentence>
+		<sentence id="7">
+			I(1) should(2) add(3) that(4) both(5) drivers(6) and(7) hotel(8) staff(9) are(10) very(11) helpful(12) when(13) it(14) comes(15) to(16) loading(17) /(18) unloading(19) your(20) bags(21) off(22) the(23) bus(24) and(25) the(26) hotel(27) is(28) only(29) about(30) 7(31) minutes(32) from(33) the(34) airport(35) .(36) 
+			<opinion featWords="9" feature="staff" opWords="12" polarity="+" potency="11"/>
+		</sentence>
+		<sentence id="8">
+			Shuttles(1) buses(2) leave(3) the(4) hotel(5) every(6) 20(7) minutes(8) .(9) 
+		</sentence>
+		<sentence id="9">
+			You(1) do(2) not(3) have(4) to(5) read(6) the(7) hotel(8) 's(9) PR(10) material(11) to(12) tell(13) this(14) is(15) a(16) 70s/early(17) 80s-built(18) hotel(19) that(20) recently(21) received(22) a(23) facelift(24) .(25) 
+		</sentence>
+		<sentence id="10">
+			It(1) has(2) this(3) weird(4) ,(5) sort(6) of(7) disguised(8) feel(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			Perhaps(1) if(2) they(3) had(4) gone(5) for(6) some(7) sort(8) of(9) 70s(10) retro(11) look(12) it(13) would(14) feel(15) more(16) natural(17) .(18) 
+		</sentence>
+		<sentence id="12">
+			I(1) stayed(2) in(3) a(4) "(5) Premier(6) "(7) room(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			It(1) is(2) supposed(3) to(4) be(5) a(6) level(7) above(8) their(9) regular(10) rooms(11) ,(12) but(13) it(14) just(15) seemed(16) like(17) a(18) 70s(19) hotel(20) room(21) that(22) 's(23) had(24) a(25) facelift(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			The(1) movie(2) service(3) did(4) not(5) work(6) ,(7) but(8) the(9) worst(10) was(11) that(12) no(13) one(14) would(15) answer(16) my(17) room(18) service(19) call(20) .(21) 
+		</sentence>
+		<sentence id="15">
+			A(1) hotel(2) that(3) offers(4) room(5) service(6) but(7) does(8) not(9) answer(10) the(11) phone(12) gets(13) a(14) strike(15) against(16) it(17) in(18) my(19) book(20) .(21) 
+		</sentence>
+		<sentence id="16">
+			I(1) just(2) wanted(3) a(4) beer(5) and(6) some(7) potato(8) chips(9) and(10) I(11) did(12) not(13) want(14) to(15) go(16) to(17) the(18) nearby(19) watering(20) hole(21) the(22) shuttle(23) bus(24) driver(25) touted(26) .(27) 
+		</sentence>
+		<sentence id="17">
+			I(1) agree(2) with(3) the(4) previous(5) poster(6) that(7) there(8) is(9) something(10) wrong(11) with(12) the(13) elevators(14) in(15) this(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="18">
+			It(1) was(2) not(3) that(4) they(5) were(6) slow(7) in(8) my(9) case(10) ,(11) but(12) after(13) the(14) doors(15) open(16) they(17) stop(18) a(19) few(20) inches(21) above(22) the(23) floor(24) ,(25) then(26) sink(27) down(28) to(29) an(30) even(31) level(32) .(33) 
+		</sentence>
+		<sentence id="19">
+			In(1) the(2) morning(3) ,(4) all(5) of(6) the(7) elevators(8) except(9) one(10) were(11) closed(12) due(13) to(14) technical(15) problems(16) ,(17) but(18) guests(19) were(20) invited(21) to(22) use(23) the(24) service(25) elevators(26) .(27) 
+			<opinion featWords="8" feature="elevator" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="20">
+			I(1) only(2) had(3) breakfast(4) there(5) ,(6) which(7) was(8) your(9) stereotypical(10) hotel(11) spread(12) ,(13) with(14) an(15) omelet(16) station(17) ,(18) tons(19) of(20) cereal(21) ,(22) etc.(23) Not(24) bad(25) ,(26) but(27) not(28) worth(29) $16(30) Canadian(31) dollars(32) .(33) 
+		</sentence>
+		<sentence id="21">
+			Save(1) your(2) money(3) and(4) eat(5) breakfast(6) at(7) Vancouver(8) 's(9) beautiful(10) airport(11) .(12) 
+		</sentence>
+		<sentence id="22">
+			If(1) I(2) had(3) to(4) do(5) this(6) again(7) ,(8) I(9) would(10) rather(11) spend(12) more(13) to(14) stay(15) at(16) the(17) Fairmont(18) at(19) the(20) airport(21) ,(22) which(23) seems(24) to(25) be(26) getting(27) rave(28) reviews(29) .(30) 
+		</sentence>
+	</text>
+</review>

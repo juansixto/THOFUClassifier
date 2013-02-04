@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="227" item="Carousel  Beachfront Hotel &amp; Suites" rating="2">
+	<title>
+		<sentence id="1">
+			Needs(1) serious(2) upgrade(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Activities(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rooms(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			Ocean(1) front(2) room(3) ,(4) we(5) got(6) key(7) ,(8) checked(9) our(10) room(11) out(12) ,(13) felt(14) like(15) ocean(16) view(17) prison(18) cell(19) and(20) we(21) walked(22) back(23) and(24) dropped(25) off(26) key(27) .(28) 
+		</sentence>
+		<sentence id="2">
+			Very(1) noisy(2) since(3) our(4) room(5) faced(6) ocean(7) on(8) one(9) side(10) but(11) room(12) door(13) faced(14) skating(15) rink(16) .(17) 
+			<opinion featWords="5" feature="rooms" opWords="2" polarity="-" potency="1"/>
+		</sentence>
+		<sentence id="3">
+			Like(1) sharing(2) a(3) room(4) attached(5) to(6) a(7) 1,000(8) person(9) conference(10) room(11) .(12) 
+		</sentence>
+	</text>
+</review>

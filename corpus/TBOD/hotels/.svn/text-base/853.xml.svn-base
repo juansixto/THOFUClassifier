@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="853" item="Lc Sheraton Grande Sukhumvit" rating="5">
+	<title>
+		<sentence id="1">
+			Excellent(1) Hospitality(2) ,(3) Not(4) The(5) Greatest(6) Location(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) service(2) ,(3) comfortable(4) rooms(5) ,(6) great(7) pool(8) &amp;(9) fitness(10) center(11) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="swimming pool" opWords="7" polarity="+"/>
+			<opinion featWords="10,11" feature="gym" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Location(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Very(1) comfortable(2) and(3) enjoyable(4) stay(5) .(6) 
+			<opinion feature="hotel" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			You(1) 'll(2) get(3) great(4) service(5) and(6) come(7) away(8) well(9) rested(10) !(11) 
+			<opinion featWords="5" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			We(1) stayed(2) at(3) the(4) Sheraton(5) Grande(6) Sukhumvit(7) for(8) three(9) nights(10) in(11) July(12) ?(13) and(14) thoroughly(15) enjoyed(16) our(17) stay(18) .(19) 
+		</sentence>
+		<sentence id="2">
+			The(1) hospitality(2) and(3) service(4) were(5) excellent(6) and(7) the(8) rooms(9) were(10) very(11) clean(12) and(13) comfortable(14) .(15) 
+			<opinion featWords="4" feature="service" opWords="6" polarity="+"/>
+			<opinion featWords="9" feature="rooms" opWords="12" polarity="+" potency="11"/>
+			<opinion featWords="9" feature="rooms" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			We(1) arrived(2) straight(3) from(4) the(5) airport(6) ,(7) which(8) cost(9) about(10) 400(11) THB(12) ((13) $15(14) )(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			The(1) bell(2) hops(3) immediately(4) unloaded(5) our(6) luggage(7) and(8) held(9) it(10) while(11) we(12) checked(13) in(14) .(15) 
+		</sentence>
+		<sentence id="5">
+			The(1) front(2) desk(3) associates(4) were(5) extremely(6) nice(7) and(8) very(9) efficient(10) since(11) we(12) were(13) Starwood(14) Gold(15) she(16) offered(17) to(18) give(19) us(20) five(21) clothing(22) items(23) to(24) be(25) laundered(26) for(27) free(28) .(29) 
+			<opinion featWords="2,3" feature="front desk" opWords="7" polarity="+" potency="6"/>
+			<opinion featWords="2,3" feature="front desk" opWords="10" polarity="+" potency="9"/>
+		</sentence>
+		<sentence id="6">
+			Once(1) we(2) were(3) checked(4) in(5) ,(6) she(7) actually(8) escorted(9) us(10) up(11) to(12) our(13) room(14) and(15) spent(16) a(17) minute(18) explaining(19) the(20) amenities(21) in(22) the(23) room(24) .(25) 
+		</sentence>
+		<sentence id="7">
+			The(1) best(2) being(3) a(4) personal(5) butler(6) whom(7) you(8) can(9) call(10) at(11) any(12) time(13) to(14) make(15) you(16) a(17) cup(18) of(19) coffee(20) ,(21) tea(22) ,(23) or(24) simply(25) bring(26) you(27) more(28) bottled(29) water(30) !(31) 
+		</sentence>
+		<sentence id="8">
+			I(1) found(2) the(3) room(4) furnishings(5) to(6) be(7) in(8) excellent(9) condition(10) and(11) very(12) comfortable(13) .(14) 
+			<opinion featWords="5" feature="furnishings" opWords="13" polarity="+" potency="12"/>
+		</sentence>
+		<sentence id="9">
+			The(1) bed(2) was(3) excellent(4) with(5) several(6) types(7) of(8) pillow(9) with(10) different(11) firmness(12) and(13) very(14) soft(15) sheets(16) .(17) 
+			<opinion featWords="2" feature="bed" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			The(1) room(2) decor(3) was(4) a(5) little(6) dated(7) ,(8) but(9) the(10) room(11) was(12) still(13) very(14) spacious(15) and(16) the(17) bathroom(18) was(19) superb(20) with(21) a(22) both(23) a(24) bath(25) tub(26) and(27) separate(28) showers(29) .(30) 
+			<opinion featWords="18" feature="bathroom" opWords="20" polarity="+"/>
+			<opinion featWords="11" feature="rooms" opWords="15" polarity="+" potency="14"/>
+			<opinion featWords="2" feature="rooms" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="11">
+			The(1) room(2) also(3) contained(4) a(5) flat(6) screen(7) TV(8) ,(9) DVD(10) player(11) ,(12) desk(13) ,(14) safe(15) ,(16) and(17) mini(18) bar(19) .(20) 
+		</sentence>
+		<sentence id="12">
+			We(1) spent(2) several(3) days(4) lounging(5) at(6) the(7) pool(8) .(9) 
+		</sentence>
+		<sentence id="13">
+			The(1) pool(2) is(3) 'nt(4) the(5) largest(6) ,(7) but(8) it(9) offers(10) a(11) unique(12) design(13) as(14) it(15) winds(16) around(17) islands(18) filled(19) with(20) trees(21) and(22) shrubbery(23) .(24) 
+		</sentence>
+		<sentence id="14">
+			The(1) pool(2) bar(3) is(4) fantastic(5) ,(6) with(7) an(8) above(9) average(10) scotch(11) offering(12) and(13) provides(14) some(15) nice(16) tables(17) where(18) you(19) can(20) sit(21) ((22) or(23) lay(24) )(25) next(26) to(27) and(28) enjoy(29) a(30) meal(31) and(32) a(33) drink(34) .(35) 
+			<opinion featWords="3" feature="food" opWords="5" polarity="+"/>
+			<opinion featWords="17" feature="tables" opWords="16" polarity="+"/>
+		</sentence>
+		<sentence id="15">
+			The(1) only(2) drawback(3) is(4) there(5) are(6) not(7) a(8) lot(9) of(10) pool(11) chairs(12) so(13) the(14) area(15) can(16) fill(17) up(18) during(19) peak(20) season(21) .(22) 
+		</sentence>
+		<sentence id="16">
+			The(1) fitness(2) center(3) is(4) located(5) adjacent(6) to(7) the(8) pool(9) and(10) offers(11) free(12) weights(13) ,(14) tread(15) mills(16) ,(17) and(18) a(19) yoga(20) area(21) .(22) 
+		</sentence>
+		<sentence id="17">
+			All(1) equipment(2) is(3) in(4) good(5) condition(6) and(7) the(8) fitness(9) area(10) is(11) a(12) reasonably(13) good(14) size(15) .(16) 
+		</sentence>
+		<sentence id="18">
+			In(1) addition(2) ,(3) I(4) was(5) surprised(6) to(7) find(8) that(9) the(10) hotel(11) offers(12) free(13) personal(14) training(15) to(16) anyone(17) who(18) wants(19) to(20) do(21) weight(22) training(23) ,(24) which(25) is(26) a(27) great(28) amenity(29) !(30) 
+		</sentence>
+		<sentence id="19">
+			We(1) did(2) 'nt(3) dine(4) at(5) the(6) hotel(7) restaurant(8) or(9) downstairs(10) bar(11) ,(12) but(13) did(14) order(15) room(16) service(17) .(18) 
+		</sentence>
+		<sentence id="20">
+			The(1) food(2) was(3) very(4) good(5) ,(6) and(7) much(8) cheaper(9) than(10) you(11) would(12) expect(13) room(14) service(15) to(16) cost(17) ((18) I(19) think(20) we(21) paid(22) around(23) $30(24) for(25) dinner(26) for(27) two(28) )(29) .(30) 
+			<opinion featWords="2" feature="food" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="21">
+			The(1) only(2) drawback(3) to(4) the(5) this(6) hotel(7) is(8) the(9) location(10) ,(11) which(12) is(13) in(14) more(15) of(16) a(17) business(18) are(19) of(20) Bangkok(21) and(22) as(23) such(24) there(25) are(26) quite(27) a(28) few(29) prostitutes(30) lurking(31) outside(32) the(33) hotel(34) and(35) down(36) the(37) street(38) .(39) 
+		</sentence>
+		<sentence id="22">
+			In(1) addition(2) ,(3) there(4) are(5) not(6) many(7) good(8) restaurants(9) within(10) walking(11) distance(12) .(13) 
+			<opinion featWords="9" feature="food" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			However(1) ,(2) the(3) train(4) can(5) be(6) accessed(7) directly(8) outside(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="24">
+			Overall(1) ,(2) we(3) thoroughly(4) enjoyed(5) our(6) stay(7) and(8) would(9) definitely(10) return(11) on(12) our(13) next(14) visit(15) to(16) Bangkok(17) !(18) 
+			<opinion feature="hotel" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+	</text>
+</review>

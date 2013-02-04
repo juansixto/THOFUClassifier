@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="383" item="Hyatt West Hollywood" rating="2">
+	<title>
+		<sentence id="1">
+			Hyatt(1) West(2) Hollywood(3) :(4) Clearly(5) not(6) as(7) much(8) fun(9) as(10) when(11) the(12) Doors(13) stayed(14) here(15) !(16) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) was(2) okay(3) ,(4) very(5) large(6) room(7) ,(8) service(9) 
+			<opinion featWords="1" feature="place" opWords="3" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="6" polarity="+" potency="5"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Expensive(1) parking(2) ,(3) nickel(4) and(5) dime(6) charging(7) ,(8) overpriced(9) 
+			<opinion featWords="2" feature="parking" opWords="1" polarity="-"/>
+			<opinion feature="price" opWords="9" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			An(1) overrated(2) and(3) overpriced(4) hotel(5) on(6) the(7) Sunset(8) Strip(9) .(10) 
+			<opinion featWords="5" feature="hotel" opWords="2" polarity="-"/>
+			<opinion feature="price" opWords="4" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) stayed(2) in(3) the(4) Hyatt(5) West(6) Hollywood(7) in(8) October(9) 2006(10) when(11) I(12) traveled(13) to(14) L.A.(15) for(16) business(17) .(18) 
+		</sentence>
+		<sentence id="2">
+			Talk(1) about(2) riding(3) out(4) a(5) reputation(6) .(7) 
+		</sentence>
+		<sentence id="3">
+			The(1) Hyatt(2) West(3) Hollywood(4) bills(5) itself(6) as(7) a(8) Rock(9) and(10) Roll(11) hotel(12) .(13) 
+		</sentence>
+		<sentence id="4">
+			Given(1) the(2) advertising(3) ,(4) I(5) had(6) to(7) ask(8) what(9) was(10) so(11) Rock(12) and(13) Roll(14) about(15) it(16) ?(17) 
+		</sentence>
+		<sentence id="5">
+			Actually(1) ,(2) nothing(3) .(4) 
+		</sentence>
+		<sentence id="6">
+			Sure(1) ,(2) maybe(3) the(4) Doors(5) and(6) Led(7) Zepplin(8) stayed(9) there(10) once(11) many(12) years(13) ago(14) but(15) ,(16) unfortunately(17) ,(18) they(19) did(20) not(21) leave(22) behind(23) anything(24) that(25) made(26) the(27) hotel(28) special(29) or(30) interesting(31) .(32) 
+		</sentence>
+		<sentence id="7">
+			THE(1) LOBBY(2) The(3) lobby(4) of(5) this(6) Hyatt(7) was(8) quite(9) small(10) and(11) generic(12) .(13) 
+			<opinion featWords="4" feature="lobby" opWords="10" polarity="-" potency="9"/>
+			<opinion featWords="4" feature="lobby" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="8">
+			When(1) you(2) walked(3) in(4) ,(5) there(6) was(7) a(8) glass(9) wall(10) facing(11) the(12) street(13) .(14) 
+		</sentence>
+		<sentence id="9">
+			The(1) check(2) in(3) desk(4) lined(5) one(6) side(7) of(8) the(9) narrow(10) space(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			There(1) were(2) no(3) places(4) to(5) congregate(6) and(7) no(8) special(9) features(10) such(11) as(12) a(13) fireplace(14) or(15) lounge(16) area(17) .(18) 
+		</sentence>
+		<sentence id="11">
+			THE(1) RESTAURANT(2) There(3) is(4) a(5) restaurant(6) in(7) the(8) hotel(9) that(10) looked(11) like(12) it(13) served(14) Chinese(15) food(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			The(1) restaurant(2) was(3) very(4) stylized(5) and(6) looked(7) like(8) it(9) would(10) be(11) a(12) fun(13) place(14) to(15) eat(16) dinner(17) .(18) 
+		</sentence>
+		<sentence id="13">
+			The(1) entrance(2) was(3) off(4) the(5) lobby(6) .(7) 
+		</sentence>
+		<sentence id="14">
+			I(1) did(2) not(3) eat(4) in(5) the(6) restaurant(7) but(8) they(9) had(10) a(11) coffee(12) service(13) out(14) in(15) the(16) morning(17) that(18) purported(19) to(20) be(21) Starbucks(22) coffee(23) .(24) 
+		</sentence>
+		<sentence id="15">
+			I(1) got(2) a(3) medium-sized(4) coffee(5) for(6) $2(7) .(8) 
+		</sentence>
+		<sentence id="16">
+			The(1) coffee(2) was(3) weak(4) and(5) cold(6) and(7) the(8) only(9) choice(10) for(11) milk(12) was(13) whole(14) milk(15) .(16) 
+		</sentence>
+		<sentence id="17">
+			Given(1) that(2) most(3) nice(4) hotels(5) provide(6) morning(7) coffee(8) for(9) free(10) ,(11) I(12) found(13) this(14) to(15) be(16) a(17) silly(18) charge(19) given(20) the(21) self-service(22) and(23) weak(24) coffee(25) .(26) 
+			<opinion featWords="5" feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="18">
+			There(1) was(2) a(3) breakfast(4) buffet(5) available(6) in(7) the(8) morning(9) .(10) 
+		</sentence>
+		<sentence id="19">
+			The(1) sad-looking(2) buffet(3) had(4) a(5) few(6) stations(7) sporting(8) eggs(9) and(10) breakfast(11) meats(12) .(13) 
+		</sentence>
+		<sentence id="20">
+			I(1) do(2) not(3) know(4) how(5) much(6) it(7) cost(8) as(9) I(10) quickly(11) departed(12) after(13) viewing(14) the(15) choices(16) .(17) 
+		</sentence>
+		<sentence id="21">
+			I(1) highly(2) suggest(3) you(4) get(5) breakfast(6) elsewhere(7) .(8) 
+		</sentence>
+		<sentence id="22">
+			THE(1) ROOM(2) The(3) room(4) was(5) very(6) ,(7) very(8) large(9) .(10) 
+			<opinion featWords="4" feature="rooms" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="23">
+			However(1) ,(2) most(3) of(4) it(5) was(6) floor(7) space(8) and(9) not(10) filled(11) with(12) furniture(13) .(14) 
+		</sentence>
+		<sentence id="24">
+			Still(1) ,(2) the(3) vastness(4) was(5) nice(6) and(7) made(8) it(9) feel(10) open(11) and(12) airy(13) .(14) 
+		</sentence>
+		<sentence id="25">
+			The(1) bed(2) was(3) very(4) comfortable(5) .(6) 
+			<opinion featWords="2" feature="bed" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="26">
+			The(1) sheets(2) and(3) covers(4) felt(5) like(6) natural(7) fibers(8) ,(9) were(10) soft(11) and(12) did(13) not(14) smell(15) of(16) bleach(17) .(18) 
+		</sentence>
+		<sentence id="27">
+			The(1) pillows(2) were(3) lofty(4) -(5) more(6) than(7) I(8) prefer(9) .(10) 
+			<opinion featWords="2" feature="bedding" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="28">
+			I(1) like(2) hotels(3) that(4) provide(5) a(6) couple(7) pillow(8) choices(9) but(10) this(11) hotel(12) was(13) not(14) one(15) of(16) them(17) .(18) 
+		</sentence>
+		<sentence id="29">
+			The(1) TV(2) was(3) contained(4) in(5) an(6) entertainment(7) center(8) with(9) some(10) storage(11) .(12) 
+		</sentence>
+		<sentence id="30">
+			I(1) did(2) not(3) watch(4) much(5) TV(6) but(7) it(8) looks(9) like(10) you(11) could(12) get(13) movies(14) on(15) demand(16) and(17) play(18) games(19) .(20) 
+		</sentence>
+		<sentence id="31">
+			There(1) was(2) also(3) cable(4) with(5) a(6) lot(7) of(8) chanels(9) .(10) 
+		</sentence>
+		<sentence id="32">
+			The(1) desk(2) was(3) nice(4) and(5) the(6) desk(7) chair(8) was(9) comfortable(10) .(11) 
+		</sentence>
+		<sentence id="33">
+			There(1) was(2) a(3) power(4) strip(5) with(6) several(7) outlets(8) so(9) I(10) could(11) plug(12) in(13) my(14) laptop(15) ,(16) charge(17) my(18) camera(19) battery(20) and(21) charge(22) my(23) cell(24) phone(25) all(26) at(27) the(28) same(29) time(30) .(31) 
+		</sentence>
+		<sentence id="34">
+			The(1) hotel(2) had(3) wireless(4) through(5) TMobile(6) and(7) I(8) had(9) to(10) pay(11) $9.99(12) per(13) day(14) to(15) get(16) wireless(17) through(18) a(19) TMobile(20) site(21) .(22) 
+		</sentence>
+		<sentence id="35">
+			I(1) found(2) that(3) charge(4) annoying(5) since(6) most(7) hotels(8) provide(9) free(10) wireless(11) nowadays(12) .(13) 
+		</sentence>
+		<sentence id="36">
+			Other(1) than(2) the(3) bed(4) ,(5) two(6) nightstands(7) ,(8) the(9) entertainment(10) center(11) and(12) desk(13) ,(14) there(15) was(16) no(17) furniture(18) in(19) the(20) room(21) .(22) 
+		</sentence>
+		<sentence id="37">
+			There(1) was(2) a(3) closet(4) with(5) mirrored(6) doors(7) for(8) storage(9) .(10) 
+		</sentence>
+		<sentence id="38">
+			There(1) were(2) about(3) 10(4) hangers(5) in(6) the(7) closet(8) which(9) is(10) more(11) than(12) most(13) hotels(14) .(15) 
+		</sentence>
+		<sentence id="39">
+			They(1) provided(2) an(3) ironing(4) board(5) and(6) iron(7) as(8) well(9) .(10) 
+		</sentence>
+		<sentence id="40">
+			There(1) was(2) a(3) safe(4) although(5) I(6) did(7) not(8) use(9) it(10) .(11) 
+		</sentence>
+		<sentence id="41">
+			The(1) bathroom(2) was(3) pretty(4) generic(5) .(6) 
+			<opinion featWords="2" feature="bathroom" opWords="5" polarity="-" potency="4"/>
+		</sentence>
+		<sentence id="42">
+			They(1) provided(2) two(3) kinds(4) of(5) soap(6) ,(7) shampoo(8) and(9) conditioner(10) .(11) 
+		</sentence>
+		<sentence id="43">
+			The(1) toiletries(2) were(3) average(4) quality(5) instead(6) of(7) the(8) spa(9) quality(10) I(11) would(12) expect(13) in(14) this(15) price(16) range(17) .(18) 
+		</sentence>
+		<sentence id="44">
+			The(1) provided(2) a(3) hair(4) dryer(5) that(6) kept(7) falling(8) off(9) the(10) wall(11) when(12) I(13) tried(14) to(15) use(16) it(17) .(18) 
+		</sentence>
+		<sentence id="45">
+			The(1) towels(2) were(3) thick(4) but(5) small(6) .(7) 
+			<opinion featWords="2" feature="towels" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="towels" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="46">
+			They(1) did(2) not(3) provide(4) robes(5) or(6) slippers(7) .(8) 
+		</sentence>
+		<sentence id="47">
+			The(1) water(2) pressure(3) was(4) good(5) and(6) the(7) temperature(8) stayed(9) steady(10) .(11) 
+		</sentence>
+		<sentence id="48">
+			However(1) the(2) generic(3) vinyl(4) walls(5) and(6) plastic(7) shower(8) curtain(9) were(10) boring(11) for(12) a(13) Rock(14) and(15) Roll(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			The(1) room(2) 's(3) color(4) theme(5) was(6) black(7) ,(8) white(9) and(10) grey(11) .(12) 
+		</sentence>
+		<sentence id="50">
+			The(1) halls(2) to(3) the(4) room(5) had(6) an(7) interesting(8) color(9) block(10) rug(11) in(12) those(13) colors(14) but(15) ,(16) for(17) the(18) most(19) part(20) ,(21) the(22) theme(23) colors(24) came(25) off(26) as(27) boring(28) .(29) 
+		</sentence>
+		<sentence id="51">
+			Our(1) room(2) ((3) 1222(4) )(5) looked(6) out(7) over(8) a(9) parking(10) lot(11) ,(12) although(13) we(14) did(15) get(16) a(17) nice(18) view(19) of(20) the(21) houses(22) in(23) the(24) hills(25) above(26) .(27) 
+			<opinion featWords="19" feature="view" opWords="18" polarity="+"/>
+		</sentence>
+		<sentence id="52">
+			The(1) thing(2) I(3) actually(4) hated(5) about(6) this(7) hotel(8) was(9) all(10) of(11) the(12) noise(13) .(14) 
+		</sentence>
+		<sentence id="53">
+			The(1) first(2) night(3) I(4) stayed(5) there(6) was(7) a(8) Thursday(9) and(10) I(11) heard(12) cars(13) and(14) car(15) alarms(16) literally(17) all(18) night(19) long(20) .(21) 
+		</sentence>
+		<sentence id="54">
+			I(1) got(2) virtually(3) no(4) sleep(5) .(6) 
+		</sentence>
+		<sentence id="55">
+			The(1) second(2) night(3) was(4) a(5) Friday(6) and(7) the(8) street(9) noise(10) was(11) better(12) but(13) I(14) would(15) not(16) stay(17) here(18) again(19) just(20) because(21) it(22) was(23) hard(24) to(25) get(26) a(27) good(28) night(29) 's(30) sleep(31) .(32) 
+		</sentence>
+		<sentence id="56">
+			I(1) know(2) I(3) can(4) not(5) blame(6) the(7) hotel(8) for(9) street(10) noise(11) ,(12) however(13) the(14) windows(15) were(16) ancient(17) and(18) could(19) have(20) been(21) updated(22) and(23) sealed(24) to(25) block(26) some(27) of(28) the(29) noise(30) better(31) .(32) 
+		</sentence>
+		<sentence id="57">
+			They(1) also(2) could(3) add(4) heavier(5) curtains(6) to(7) diffuse(8) some(9) of(10) the(11) noise(12) .(13) 
+		</sentence>
+		<sentence id="58">
+			The(1) other(2) thing(3) I(4) did(5) not(6) like(7) about(8) the(9) hotel(10) was(11) the(12) climate(13) control(14) .(15) 
+		</sentence>
+		<sentence id="59">
+			There(1) was(2) a(3) thermostat(4) in(5) the(6) room(7) but(8) it(9) did(10) not(11) seem(12) to(13) regulate(14) the(15) temperature(16) so(17) there(18) was(19) cold(20) air(21) blowing(22) most(23) of(24) the(25) time(26) .(27) 
+		</sentence>
+		<sentence id="60">
+			SERVICE(1) I(2) thought(3) the(4) service(5) in(6) the(7) hotel(8) was(9) decent(10) .(11) 
+		</sentence>
+		<sentence id="61">
+			Check(1) in(2) went(3) very(4) quickly(5) and(6) they(7) quickly(8) pulled(9) up(10) my(11) reservation(12) by(13) my(14) last(15) name(16) .(17) 
+		</sentence>
+		<sentence id="62">
+			I(1) stayed(2) two(3) nights(4) .(5) 
+		</sentence>
+		<sentence id="63">
+			On(1) the(2) second(3) morning(4) ,(5) they(6) provided(7) a(8) bill(9) slipped(10) under(11) my(12) door(13) .(14) 
+		</sentence>
+		<sentence id="64">
+			I(1) checked(2) out(3) by(4) leaving(5) a(6) voicemail(7) .(8) 
+		</sentence>
+		<sentence id="65">
+			You(1) could(2) also(3) check(4) out(5) via(6) the(7) tv(8) or(9) the(10) front(11) desk(12) .(13) 
+		</sentence>
+		<sentence id="66">
+			When(1) I(2) called(3) the(4) front(5) desk(6) for(7) something(8) ,(9) they(10) always(11) addressed(12) me(13) by(14) my(15) name(16) .(17) 
+		</sentence>
+		<sentence id="67">
+			I(1) got(2) my(3) wakeup(4) calls(5) as(6) requested(7) .(8) 
+		</sentence>
+		<sentence id="68">
+			The(1) front(2) desk(3) staff(4) were(5) polite(6) but(7) I(8) would(9) not(10) call(11) them(12) friendly(13) .(14) 
+			<opinion featWords="2,3" feature="front desk" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="69">
+			Housekeeping(1) did(2) a(3) good(4) job(5) but(6) they(7) were(8) pretty(9) much(10) invisible(11) .(12) 
+		</sentence>
+		<sentence id="70">
+			PARKING(1) Parking(2) was(3) another(4) one(5) of(6) those(7) areas(8) that(9) was(10) overpriced(11) .(12) 
+			<opinion feature="price" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="71">
+			They(1) charged(2) $23(3) per(4) day(5) to(6) valet(7) park(8) the(9) car(10) .(11) 
+		</sentence>
+		<sentence id="72">
+			It(1) was(2) $18(3) per(4) day(5) to(6) self(7) park(8) .(9) 
+		</sentence>
+		<sentence id="73">
+			The(1) lot(2) is(3) right(4) behind(5) the(6) hotel(7) and(8) you(9) can(10) enter(11) through(12) the(13) back(14) door(15) yourself(16) easily(17) so(18) there(19) is(20) really(21) no(22) need(23) to(24) valet(25) park(26) .(27) 
+		</sentence>
+		<sentence id="74">
+			LOCATION(1) This(2) Hyatt(3) is(4) located(5) on(6) the(7) Sunset(8) Strip(9) next(10) to(11) the(12) Comedy(13) Store(14) .(15) 
+		</sentence>
+		<sentence id="75">
+			The(1) House(2) of(3) Blues(4) was(5) across(6) the(7) street(8) .(9) 
+		</sentence>
+		<sentence id="76">
+			The(1) location(2) was(3) near(4) a(5) lot(6) of(7) L.A.(8) attractions(9) including(10) a(11) lot(12) of(13) shopping(14) but(15) L.A.(16) is(17) pretty(18) spread(19) out(20) so(21) no(22) hotel(23) will(24) be(25) near(26) everything(27) .(28) 
+		</sentence>
+		<sentence id="77">
+			AMENITIES(1) There(2) was(3) a(4) pool(5) and(6) gym(7) but(8) I(9) did(10) not(11) use(12) either(13) .(14) 
+		</sentence>
+		<sentence id="78">
+			I(1) did(2) order(3) from(4) room(5) service(6) twice(7) .(8) 
+		</sentence>
+		<sentence id="79">
+			Once(1) for(2) lunch(3) and(4) once(5) for(6) dinner(7) .(8) 
+		</sentence>
+		<sentence id="80">
+			Both(1) times(2) the(3) food(4) was(5) overpriced(6) but(7) all(8) room(9) service(10) is(11) overpriced(12) .(13) 
+			<opinion feature="price" opWords="12" polarity="-"/>
+		</sentence>
+		<sentence id="81">
+			The(1) food(2) was(3) okay(4) but(5) nothing(6) to(7) write(8) home(9) about(10) .(11) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="food" opWords="6,7,8,9,10" polarity="-"/>
+		</sentence>
+		<sentence id="82">
+			PRICE(1) I(2) paid(3) $189(4) for(5) a(6) Thursday(7) night(8) and(9) $220(10) for(11) a(12) Friday(13) night(14) at(15) this(16) hotel(17) .(18) 
+		</sentence>
+		<sentence id="83">
+			However(1) ,(2) internet(3) was(4) $9.99(5) per(6) day(7) ,(8) parking(9) was(10) $18(11) per(12) day(13) and(14) I(15) paid(16) $2(17) for(18) coffee(19) in(20) the(21) morning(22) that(23) should(24) have(25) been(26) free(27) .(28) 
+		</sentence>
+		<sentence id="84">
+			I(1) thought(2) this(3) hotel(4) was(5) extremely(6) overpriced(7) and(8) would(9) not(10) recommend(11) it(12) on(13) that(14) basis(15) .(16) 
+			<opinion feature="price" opWords="7" polarity="-"/>
+			<opinion featWords="4" feature="hotel" opWords="10,11" polarity="-"/>
+		</sentence>
+		<sentence id="85">
+			FINAL(1) RECOMMENDATION(2) I(3) thought(4) my(5) hotel(6) room(7) was(8) just(9) okay(10) but(11) the(12) street(13) noise(14) made(15) the(16) whole(17) experience(18) unpleasant(19) .(20) 
+		</sentence>
+		<sentence id="86">
+			They(1) should(2) consider(3) sealing(4) the(5) windows(6) better(7) .(8) 
+		</sentence>
+		<sentence id="87">
+			I(1) did(2) not(3) like(4) the(5) fact(6) that(7) they(8) tacked(9) on(10) extra(11) charges(12) instead(13) of(14) providing(15) some(16) service(17) for(18) free(19) ,(20) especially(21) given(22) the(23) price(24) they(25) already(26) charged(27) for(28) the(29) room(30) .(31) 
+		</sentence>
+		<sentence id="88">
+			They(1) should(2) try(3) to(4) add(5) more(6) value(7) such(8) as(9) nicer(10) toiletries(11) and(12) free(13) coffee(14) and(15) wireless(16) .(17) 
+		</sentence>
+		<sentence id="89">
+			I(1) can(2) not(3) recommend(4) this(5) hotel(6) .(7) 
+			<opinion featWords="6" feature="hotel" opWords="3,4" polarity="-"/>
+		</sentence>
+	</text>
+</review>

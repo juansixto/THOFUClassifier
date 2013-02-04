@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="118" item="Doubletree? Club New York/Jfk Airport" rating="2">
+	<title>
+		<sentence id="1">
+			a(1) dive(2) compared(3) to(4) other(5) Doubletrees(6) !(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			JFK(1) proximity(2) ,(3) friendly(4) check-in(5) staff(6) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			amenities(1) lacking(2) ,(3) noisy(4) rooms(5) ,(6) general(7) lack(8) of(9) quality(10) .(11) 
+			<opinion featWords="5" feature="rooms" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) dive(2) for(3) the(4) Doubletree(5) chain(6) ...(7) avoid(8) this(9) one(10) unless(11) you(12) have(13) no(14) other(15) choice(16) .(17) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			I(1) have(2) always(3) considered(4) Doubletree(5) hotels(6) consistently(7) good(8) based(9) on(10) my(11) experience(12) on(13) a(14) number(15) of(16) stays(17) in(18) various(19) locales(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			So(1) thinking(2) that(3) surely(4) the(5) Doubletree(6) at(7) JFK(8) would(9) be(10) consistent(11) in(12) quality(13) to(14) the(15) others(16) ,(17) I(18) stayed(19) there(20) for(21) a(22) brief(23) trip(24) to(25) NY(26) .(27) 
+		</sentence>
+		<sentence id="3">
+			I(1) was(2) extremely(3) disappointed(4) because(5) it(6) seemed(7) more(8) like(9) your(10) middle(11) of(12) the(13) road(14) motel(15) chain(16) than(17) a(18) quality(19) hotel(20) .(21) 
+		</sentence>
+		<sentence id="4">
+			We(1) booked(2) what(3) the(4) hotel(5) touts(6) as(7) a(8) "(9) corner(10) room(11) "(12) in(13) order(14) to(15) have(16) extra(17) privacy(18) and(19) although(20) our(21) room(22) was(23) at(24) the(25) end(26) of(27) a(28) corridor(29) ,(30) we(31) could(32) hear(33) doors(34) slamming(35) ,(36) loud(37) voices(38) and(39) partying(40) down(41) the(42) hall(43) .(44) 
+		</sentence>
+		<sentence id="5">
+			The(1) bathroom(2) amenities(3) were(4) scarce(5) ,(6) and(7) we(8) had(9) to(10) request(11) additional(12) towels(13) .(14) 
+			<opinion featWords="3" feature="amenities" opWords="5" polarity="-"/>
+		</sentence>
+		<sentence id="6">
+			The(1) main(2) restaurant(3) ,(4) and(5) the(6) hotel(7) environment(8) in(9) general(10) lacked(11) the(12) quality(13) touches(14) I(15) was(16) accustomed(17) to(18) at(19) other(20) Doubletrees(21) .(22) 
+		</sentence>
+		<sentence id="7">
+			I(1) stayed(2) there(3) thinking(4) that(5) I(6) could(7) conveniently(8) catch(9) the(10) hotel(11) shuttle(12) back(13) to(14) JFK(15) but(16) this(17) to(18) proved(19) to(20) be(21) substandard(22) with(23) slow(24) infrequent(25) service(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			I(1) ended(2) up(3) taking(4) a(5) taxi(6) .(7) 
+		</sentence>
+		<sentence id="9">
+			What(1) a(2) waste(3) .(4) 
+		</sentence>
+		<sentence id="10">
+			When(1) I(2) pay(3) over(4) $200(5) for(6) a(7) hotel(8) room(9) on(10) a(11) weekend(12) I(13) expect(14) more(15) .(16) 
+		</sentence>
+		<sentence id="11">
+			If(1) you(2) want(3) the(4) bare(5) basics(6) ,(7) that(8) 's(9) all(10) you(11) 'll(12) get(13) here(14) and(15) you(16) can(17) save(18) yourself(19) a(20) lot(21) of(22) money(23) and(24) disappointment(25) by(26) booking(27) at(28) one(29) of(30) the(31) many(32) competitors(33) in(34) the(35) JFK(36) vicinity(37) .(38) 
+		</sentence>
+	</text>
+</review>

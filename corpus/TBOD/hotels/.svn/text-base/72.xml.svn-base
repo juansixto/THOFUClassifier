@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="72" item="Holiday Inn HARRISBURG-EAST (AIRPORT AREA)" rating="1">
+	<title>
+		<sentence id="1">
+			I(1) thought(2) Holiday(3) Inn(4) was(5) supposed(6) to(7) be(8) a(9) family(10) chain(11) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			clean(1) room(2) ,(3) easy(4) to(5) get(6) to(7) from(8) the(9) interstate(10) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			horrible(1) service(2) ,(3) noisy(4) bar(5) kept(6) me(7) up(8) till(9) 2am(10) ,(11) no(12) security(13) cameras(14) 
+			<opinion featWords="2" feature="service" opWords="1" polarity="-"/>
+			<opinion featWords="5" feature="food" opWords="4" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			DO(1) NOT(2) STAY(3) AT(4) THIS(5) HOTEL(6) !(7) !(8) !(9) !(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) were(5) passing(6) through(7) Pennsylvania(8) and(9) needed(10) a(11) place(12) to(13) stay(14) for(15) the(16) night(17) that(18) was(19) close(20) to(21) the(22) interstate(23) so(24) we(25) booked(26) a(27) room(28) at(29) the(30) Holiday(31) Inn(32) Harrisburg(33) for(34) a(35) Saturday(36) night(37) .(38) 
+		</sentence>
+		<sentence id="2">
+			We(1) got(2) held(3) up(4) in(5) some(6) some(7) traffic(8) and(9) did(10) not(11) arrive(12) at(13) the(14) hotel(15) until(16) almost(17) 11:00(18) pm.(19) When(20) we(21) pulled(22) in(23) there(24) was(25) not(26) a(27) parking(28) spot(29) to(30) be(31) found(32) anywhere(33) .(34) 
+		</sentence>
+		<sentence id="3">
+			So(1) I(2) dropped(3) my(4) wife(5) off(6) at(7) the(8) door(9) to(10) check(11) in(12) while(13) i(14) circled(15) the(16) lot(17) to(18) find(19) a(20) spot(21) .(22) 
+		</sentence>
+		<sentence id="4">
+			Shortly(1) after(2) I(3) let(4) her(5) out(6) was(7) when(8) I(9) realized(10) why(11) the(12) place(13) was(14) so(15) crowded(16) .(17) 
+		</sentence>
+		<sentence id="5">
+			A(1) Girls(2) Gone(3) Wild(4) tour(5) bus(6) was(7) parked(8) outside(9) the(10) entrance(11) to(12) the(13) hotel(14) bar(15) .(16) 
+		</sentence>
+		<sentence id="6">
+			I(1) understand(2) that(3) there(4) was(5) a(6) lot(7) of(8) money(9) to(10) be(11) made(12) from(13) hosting(14) such(15) an(16) event(17) ,(18) but(19) I(20) feel(21) that(22) a(23) brand(24) that(25) hypes(26) itself(27) as(28) being(29) family(30) friendly(31) should(32) not(33) be(34) hosting(35) a(36) Girls(37) Gone(38) Wild(39) party(40) .(41) 
+		</sentence>
+		<sentence id="7">
+			After(1) 10(2) minutes(3) of(4) circling(5) the(6) parking(7) lot(8) I(9) finally(10) found(11) a(12) spot(13) on(14) the(15) opposite(16) side(17) of(18) the(19) hotel(20) from(21) our(22) room(23) .(24) 
+		</sentence>
+		<sentence id="8">
+			There(1) were(2) no(3) bellmen(4) to(5) help(6) with(7) luggage(8) so(9) we(10) drug(11) our(12) bags(13) to(14) the(15) room(16) ourselves(17) .(18) 
+		</sentence>
+		<sentence id="9">
+			Our(1) room(2) was(3) about(4) as(5) far(6) from(7) the(8) bar(9) as(10) you(11) can(12) get(13) and(14) the(15) noise(16) was(17) still(18) so(19) loud(20) that(21) I(22) was(23) not(24) able(25) to(26) get(27) to(28) sleep(29) until(30) 2am(31) when(32) the(33) party(34) finally(35) stopped(36) .(37) 
+		</sentence>
+		<sentence id="10">
+			In(1) the(2) morning(3) as(4) we(5) were(6) checking(7) out(8) ,(9) I(10) complained(11) about(12) the(13) noise(14) and(15) tried(16) to(17) get(18) a(19) little(20) something(21) taken(22) off(23) our(24) bill(25) for(26) having(27) been(28) put(29) through(30) such(31) a(32) horrible(33) night(34) .(35) 
+		</sentence>
+		<sentence id="11">
+			The(1) desk(2) clerk(3) refused(4) any(5) sort(6) of(7) refund(8) .(9) 
+		</sentence>
+		<sentence id="12">
+			The(1) worst(2) part(3) came(4) after(5) we(6) had(7) checked(8) out(9) .(10) 
+		</sentence>
+		<sentence id="13">
+			I(1) went(2) out(3) to(4) pull(5) the(6) car(7) around(8) and(9) someone(10) ((11) who(12) I(13) 'm(14) sure(15) was(16) leaving(17) the(18) bar(19) drunk(20) )(21) had(22) bashed(23) into(24) our(25) car(26) .(27) 
+		</sentence>
+		<sentence id="14">
+			The(1) back(2) bumper(3) had(4) to(5) be(6) completely(7) replaced(8) .(9) 
+		</sentence>
+		<sentence id="15">
+			So(1) I(2) went(3) back(4) inside(5) and(6) demanded(7) to(8) speak(9) to(10) management(11) .(12) 
+		</sentence>
+		<sentence id="16">
+			The(1) only(2) manager(3) the(4) desk(5) clerk(6) was(7) able(8) to(9) get(10) was(11) the(12) banquet(13) manager(14) ,(15) who(16) clearly(17) acted(18) as(19) if(20) I(21) were(22) wasting(23) his(24) time(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			I(1) told(2) him(3) what(4) had(5) happened(6) and(7) even(8) took(9) him(10) outside(11) and(12) showed(13) him(14) my(15) car(16) .(17) 
+		</sentence>
+		<sentence id="18">
+			He(1) said(2) that(3) they(4) had(5) no(6) security(7) cameras(8) in(9) the(10) parking(11) lot(12) and(13) so(14) there(15) was(16) nothing(17) he(18) could(19) do(20) besides(21) call(22) the(23) police(24) ,(25) but(26) with(27) no(28) security(29) cameras(30) to(31) see(32) who(33) did(34) it(35) ,(36) that(37) would(38) be(39) a(40) pointless(41) .(42) 
+		</sentence>
+		<sentence id="19">
+			I(1) asked(2) for(3) the(4) name(5) and(6) number(7) of(8) the(9) General(10) Manager(11) and(12) furiously(13) left(14) .(15) 
+		</sentence>
+		<sentence id="20">
+			I(1) called(2) the(3) GM(4) at(5) least(6) 10(7) times(8) and(9) left(10) 4(11) voice(12) messages(13) and(14) never(15) received(16) a(17) call(18) back(19) .(20) 
+		</sentence>
+		<sentence id="21">
+			DO(1) NOT(2) STAY(3) AT(4) THIS(5) HOTEL(6) !(7) !(8) !(9) !(10) !(11) 
+		</sentence>
+		<sentence id="22">
+			The(1) customer(2) service(3) is(4) terrible(5) ,(6) there(7) is(8) no(9) security(10) ,(11) and(12) they(13) care(14) more(15) about(16) making(17) money(18) in(19) their(20) bar(21) than(22) they(23) do(24) about(25) their(26) guests(27) or(28) about(29) their(30) "(31) family-friendly(32) "(33) image(34) .(35) 
+			<opinion featWords="3" feature="service" opWords="5" polarity="-"/>
+		</sentence>
+	</text>
+</review>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="650" item="Best Western Lake Buena Vista Resort Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			More(1) Shuttles(2) than(3) Cape(4) Canaveral(5) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Clean(1) &amp;(2) Comfortable(3) Beds(4) ,(5) Location(6) ,(7) Shuttles(8) ,(9) Good(10) View(11) of(12) Fireworks(13) ((14) $(15) )(16) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Rude(1) Bellman(2) ,(3) Timeshare(4) Sales(5) in(6) the(7) Lobby(8) ,(9) Not(10) as(11) Nifty(12) as(13) a(14) Disney(15) Resort(16) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			A(1) pretty(2) good(3) hotel(4) near(5) Downtown(6) Disney(7) .(8) 
+			<opinion featWords="4" feature="hotel" opWords="3" polarity="+" potency="2"/>
+		</sentence>
+		<sentence id="2">
+			Good(1) for(2) families(3) and(4) the(5) prices(6) are(7) very(8) reasonable(9) .(10) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="6" feature="price" opWords="9" polarity="+" potency="8"/>
+		</sentence>
+		<sentence id="3">
+			With(1) all(2) the(3) shuttles(4) you(5) can(6) ditch(7) the(8) car(9) .(10) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Hotel(2) :(3) Best(4) Western(5) Lake(6) Buena(7) Vista(8) Resort(9) Hotel(10) ...(11) The(12) Best(13) Western(14) Lake(15) Buena(16) Vista(17) Resort(18) is(19) located(20) on(21) the(22) grounds(23) of(24) Walt(25) Disney(26) World(27) at(28) the(29) far(30) Northeastern(31) side(32) of(33) the(34) park(35) in(36) the(37) area(38) that(39) was(40) formerly(41) known(42) as(43) Walt(44) Disney(45) World(46) Village(47) ,(48) but(49) just(50) known(51) as(52) the(53) hotels(54) near(55) Downtown(56) Disney(57) .(58) 
+		</sentence>
+		<sentence id="2">
+			It(1) is(2) a(3) 19-story(4) beige(5) colored(6) balcony(7) clad(8) building(9) with(10) three(11) inward(12) curved(13) sides(14) .(15) 
+		</sentence>
+		<sentence id="3">
+			It(1) was(2) built(3) in(4) 1972(5) ,(6) and(7) looks(8) like(9) it(10) .(11) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) formerly(3) known(4) as(5) the(6) Travelodge(7) Hotel(8) and(9) Viscount(10) Hotel(11) ,(12) and(13) probably(14) other(15) names(16) before(17) that(18) .(19) 
+		</sentence>
+		<sentence id="5">
+			The(1) hotel(2) has(3) free(4) self(5) parking(6) on(7) site(8) .(9) 
+			<opinion featWords="6" feature="parking" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			There(1) are(2) frequent(3) complimentary(4) shuttles(5) to(6) Downtown(7) Disney(8) ,(9) Magic(10) Kingdom(11) ,(12) Epcot(13) ,(14) Animal(15) Kingdom(16) ,(17) etc.(18) ,(19) etc.(20) The(21) Welcome(22) :(23) Bring(24) a(25) blunt(26) object(27) to(28) whack(29) the(30) bellman(31) and(32) the(33) timeshares(34) salespeople(35) ...(36) Welcome(37) Ratings(38) :(39) Curb(40) Appeal(41) =(42) 2.5(43) Stars(44) ;(45) Interior(46) Design(47) =(48) 3(49) Stars(50) ;(51) Staff(52) Quality(53) =(54) 2(55) Stars(56) The(57) front(58) entrance(59) is(60) quite(61) attractive(62) with(63) a(64) nice(65) updated(66) porte(67) cochere(68) and(69) cobblestone(70) walks(71) .(72) 
+		</sentence>
+		<sentence id="7">
+			This(1) gives(2) way(3) to(4) a(5) small(6) foyer(7) with(8) bellstaff(9) ((10) one(11) was(12) a(13) total(14) jerk(15) and(16) I(17) dismissed(18) his(19) services(20) )(21) and(22) then(23) into(24) the(25) lobby(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			The(1) lobby(2) was(3) nicely(4) decorated(5) in(6) a(7) Fun(8) Contemporary(9) style(10) .(11) 
+			<opinion featWords="2" feature="lobby" opWords="4,5" polarity="+"/>
+		</sentence>
+		<sentence id="9">
+			Typical(1) furniture(2) ,(3) with(4) fun(5) colors(6) and(7) whimsical(8) light(9) fixtures(10) .(11) 
+			<opinion featWords="2" feature="furnishings" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			There(1) were(2) cream(3) colored(4) marble(5) floors(6) and(7) purple(8) rugs(9) .(10) 
+		</sentence>
+		<sentence id="11">
+			On(1) one(2) side(3) was(4) a(5) gift(6) shop(7) and(8) the(9) other(10) a(11) Disney(12) Store(13) .(14) 
+		</sentence>
+		<sentence id="12">
+			Our(1) desk(2) clerk(3) was(4) friendly(5) and(6) asked(7) if(8) we(9) wanted(10) to(11) upgrade(12) to(13) a(14) fireworks(15) side(16) of(17) the(18) building(19) for(20) $5/night(21) .(22) 
+			<opinion featWords="2" feature="front desk" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			We(1) accepted(2) .(3) 
+		</sentence>
+		<sentence id="14">
+			I(1) requested(2) the(3) highest(4) floor(5) available(6) ,(7) and(8) he(9) gave(10) me(11) the(12) 12th(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			Not(1) too(2) bad(3) ,(4) but(5) I(6) have(7) preferred(8) higher(9) .(10) 
+		</sentence>
+		<sentence id="16">
+			I(1) then(2) wrestled(3) all(4) of(5) our(6) luggage(7) together(8) to(9) go(10) to(11) our(12) room(13) ,(14) as(15) I(16) refused(17) to(18) use(19) the(20) bellman(21) after(22) his(23) bad(24) attitude(25) .(26) 
+		</sentence>
+		<sentence id="17">
+			I(1) wonder(2) who(3) was(4) the(5) most(6) affected(7) by(8) my(9) decision(10) ?(11) 
+		</sentence>
+		<sentence id="18">
+			Just(1) right(2) of(3) the(4) front(5) desk(6) is(7) a(8) Guest(9) Services(10) Coordinator(11) .(12) 
+		</sentence>
+		<sentence id="19">
+			I(1) guess(2) that(3) s(4) what(5) they(6) call(7) Concierge(8) in(9) a(10) Family(11) Style(12) Hotel(13) .(14) 
+		</sentence>
+		<sentence id="20">
+			He(1) smiled(2) to(3) us(4) and(5) offered(6) his(7) services(8) as(9) we(10) walked(11) by(12) .(13) 
+		</sentence>
+		<sentence id="21">
+			On(1) the(2) short(3) walk(4) to(5) the(6) elevator(7) lobby(8) ,(9) though(10) ,(11) we(12) were(13) annoyed(14) by(15) the(16) Sheraton(17) Vistana(18) Timeshare(19) solicitors(20) .(21) 
+		</sentence>
+		<sentence id="22">
+			This(1) would(2) not(3) be(4) the(5) last(6) time(7) ,(8) either(9) .(10) 
+		</sentence>
+		<sentence id="23">
+			I(1) can(2) not(3) believe(4) a(5) hotel(6) would(7) allow(8) these(9) sharks(10) to(11) patrol(12) their(13) lobby(14) .(15) 
+		</sentence>
+		<sentence id="24">
+			They(1) must(2) get(3) a(4) nice(5) kick-back(6) from(7) it(8) .(9) 
+		</sentence>
+		<sentence id="25">
+			I(1) also(2) can(3) not(4) believe(5) a(6) company(7) as(8) reputable(9) as(10) Starwood(11) ,(12) owner(13) of(14) Sheraton(15) ,(16) would(17) resort(18) to(19) such(20) measures(21) to(22) sell(23) it(24) s(25) product(26) .(27) 
+		</sentence>
+		<sentence id="26">
+			But(1) hey(2) ,(3) this(4) is(5) 'nt(6) a(7) Starwood(8) branded(9) hotel(10) ,(11) so(12) what(13) s(14) their(15) loss(16) ?(17) 
+		</sentence>
+		<sentence id="27">
+			We(1) finally(2) made(3) it(4) the(5) 20(6) to(7) the(8) elevator(9) lobby(10) .(11) 
+		</sentence>
+		<sentence id="28">
+			My(1) 2-1/2(2) year(3) old(4) daughter(5) pressed(6) the(7) UP(8) button(9) ,(10) which(11) she(12) really(13) loves(14) to(15) do(16) for(17) us(18) .(19) 
+		</sentence>
+		<sentence id="29">
+			A(1) cab(2) arrived(3) quickly(4) and(5) the(6) trip(7) to(8) the(9) 12th(10) floor(11) was(12) very(13) fast(14) .(15) 
+		</sentence>
+		<sentence id="30">
+			Good(1) elevators(2) ...(3) a(4) nice(5) change(6) on(7) this(8) trip(9) .(10) 
+			<opinion featWords="2" feature="elevator" opWords="1" polarity="+"/>
+		</sentence>
+		<sentence id="31">
+			The(1) corridors(2) are(3) lit(4) acceptably(5) and(6) the(7) decor(8) was(9) kinda(10) cool(11) with(12) vivid(13) jewel(14) tones(15) and(16) neat(17) patterns(18) .(19) 
+			<opinion featWords="8" feature="decoration" opWords="11" polarity="+" potency="10"/>
+		</sentence>
+		<sentence id="32">
+			You(1) have(2) to(3) wind(4) your(5) way(6) though(7) some(8) archaic(9) passages(10) to(11) get(12) to(13) another(14) wing(15) ,(16) as(17) this(18) is(19) an(20) odd(21) shaped(22) rounded(23) three(24) wing(25) ,(26) three(27) sided(28) hotel(29) .(30) 
+		</sentence>
+		<sentence id="33">
+			It(1) s(2) hard(3) to(4) explain(5) .(6) 
+		</sentence>
+		<sentence id="34">
+			We(1) stuck(2) our(3) key(4) card(5) in(6) the(7) door(8) and(9) the(10) green(11) light(12) comes(13) on(14) .(15) 
+		</sentence>
+		<sentence id="35">
+			Turn(1) the(2) knob(3) though(4) ...(5) and(6) nothing(7) .(8) 
+		</sentence>
+		<sentence id="36">
+			Next(1) try(2) my(3) wife(4) did(5) it(6) ...(7) same(8) thing(9) ,(10) green(11) light(12) ,(13) but(14) no(15) entry(16) .(17) 
+		</sentence>
+		<sentence id="37">
+			Third(1) time(2) was(3) the(4) charm(5) ,(6) this(7) time(8) I(9) actually(10) heard(11) the(12) lock(13) engage(14) with(15) the(16) green(17) light(18) .(19) 
+		</sentence>
+		<sentence id="38">
+			This(1) problem(2) with(3) our(4) door(5) was(6) a(7) frequent(8) occurrence(9) during(10) our(11) stay(12) .(13) 
+		</sentence>
+		<sentence id="39">
+			The(1) Room(2) :(3) They(4) say(5) their(6) rooms(7) were(8) designed(9) by(10) Disney(11) decorators(12) ,(13) but(14) I(15) do(16) 'nt(17) see(18) it(19) ...(20) Room(21) Ratings(22) :(23) Bed(24) =(25) 3(26) Stars(27) ;(28) Bedding(29) =(30) 3(31) Stars(32) ;(33) Design(34) =(35) 2.5(36) Stars(37) The(38) door(39) opened(40) up(41) to(42) reveal(43) a(44) pie(45) shaped(46) room(47) .(48) 
+		</sentence>
+		<sentence id="40">
+			The(1) entrance(2) side(3) is(4) the(5) wide(6) side(7) and(8) it(9) gets(10) narrower(11) toward(12) the(13) balcony(14) .(15) 
+		</sentence>
+		<sentence id="41">
+			It(1) tapered(2) quite(3) gradually(4) and(5) is(6) 'nt(7) as(8) annoying(9) as(10) it(11) may(12) seem(13) .(14) 
+		</sentence>
+		<sentence id="42">
+			Room(1) decorations(2) were(3) a(4) contemporary(5) family(6) style(7) with(8) pale(9) driftwood(10) colored(11) wood(12) furniture(13) and(14) vivid(15) rainbow(16) colored(17) patterns(18) on(19) the(20) beds(21) and(22) drapes(23) .(24) 
+		</sentence>
+		<sentence id="43">
+			It(1) was(2) pretty(3) clean(4) and(5) furniture(6) was(7) in(8) good(9) condition(10) for(11) the(12) amount(13) of(14) use(15) these(16) rooms(17) must(18) get(19) ,(20) especially(21) the(22) number(23) of(24) kids(25) that(26) must(27) stay(28) here(29) .(30) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="44">
+			Our(1) furnishings(2) consisted(3) of(4) two(5) queen(6) beds(7) with(8) a(9) nightstand(10) separating(11) them(12) ((13) telephone(14) and(15) alarm(16) clock(17) radio(18) here(19) )(20) ,(21) an(22) armoire(23) with(24) TV(25) ((26) PPV(27) and(28) video(29) games(30) )(31) ,(32) two(33) credenzas(34) and(35) a(36) wobbly(37) round(38) table(39) with(40) two(41) sitting(42) chairs(43) .(44) 
+		</sentence>
+		<sentence id="45">
+			We(1) had(2) floor(3) to(4) ceiling(5) sliding(6) glass(7) doors(8) with(9) a(10) good(11) view(12) over(13) Walt(14) Disney(15) World(16) .(17) 
+			<opinion featWords="12" feature="view" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="46">
+			Beyond(1) this(2) was(3) a(4) small(5) balcony(6) with(7) room(8) to(9) stand(10) and(11) fit(12) their(13) two(14) lawn(15) chairs(16) and(17) matching(18) table(19) .(20) 
+		</sentence>
+		<sentence id="47">
+			This(1) was(2) a(3) great(4) place(5) to(6) watch(7) fireworks(8) displays(9) over(10) EPCOT(11) at(12) 9PM(13) ,(14) the(15) Magic(16) Kingdom(17) at(18) 10PM(19) and(20) Downtown(21) Disney(22) at(23) Midnight(24) .(25) 
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="48">
+			This(1) was(2) the(3) schedule(4) during(5) our(6) stay(7) ,(8) but(9) I(10) do(11) 'nt(12) know(13) if(14) that(15) s(16) typical(17) .(18) 
+		</sentence>
+		<sentence id="49">
+			The(1) beds(2) were(3) surprisingly(4) comfortable(5) .(6) 
+			<opinion featWords="2" feature="bed" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="50">
+			Pillows(1) pretty(2) good(3) and(4) linens(5) immaculately(6) clean(7) .(8) 
+			<opinion featWords="1" feature="bedding" opWords="3" polarity="+" potency="2"/>
+			<opinion featWords="5" feature="bedding" opWords="7" polarity="+" potency="6"/>
+		</sentence>
+		<sentence id="51">
+			This(1) was(2) the(3) quality(4) I(5) get(6) at(7) a(8) Hilton(9) Garden(10) Inn(11) .(12) 
+		</sentence>
+		<sentence id="52">
+			The(1) Air(2) Conditioner(3) was(4) controlled(5) by(6) a(7) wall-mounted(8) thermostat(9) and(10) it(11) worked(12) acceptably(13) well(14) ,(15) however(16) slightly(17) loud(18) .(19) 
+		</sentence>
+		<sentence id="53">
+			The(1) bathroom(2) was(3) off(4) the(5) front(6) entry(7) ,(8) with(9) a(10) small(11) vanity(12) area(13) and(14) closet(15) first(16) .(17) 
+			<opinion featWords="13" feature="place" opWords="11" polarity="-"/>
+		</sentence>
+		<sentence id="54">
+			The(1) vanity(2) was(3) a(4) nice(5) area(6) to(7) get(8) ready(9) ,(10) with(11) a(12) small(13) counter(14) ,(15) power(16) outlets(17) and(18) a(19) convenient(20) chair(21) ((22) no(23) sink(24) )(25) .(26) 
+			<opinion featWords="6" feature="place" opWords="5" polarity="+"/>
+			<opinion featWords="21" feature="chairs" opWords="20" polarity="+"/>
+		</sentence>
+		<sentence id="55">
+			It(1) also(2) housed(3) the(4) coffeemaker(5) and(6) wall-mounted(7) hairdryer(8) .(9) 
+		</sentence>
+		<sentence id="56">
+			The(1) closet(2) had(3) mirrored(4) doors(5) and(6) it(7) was(8) of(9) average(10) size(11) .(12) 
+		</sentence>
+		<sentence id="57">
+			It(1) stored(2) an(3) iron(4) ,(5) ironing(6) board(7) and(8) a(9) safe(10) ((11) awkward(12) to(13) use(14) and(15) it(16) took(17) a(18) credit(19) card(20) swipe(21) to(22) lock(23) it(24) and(25) open(26) it(27) )(28) .(29) 
+		</sentence>
+		<sentence id="58">
+			The(1) water(2) closet(3) beyond(4) held(5) a(6) bathtub(7) ,(8) toilet(9) and(10) vanity(11) .(12) 
+		</sentence>
+		<sentence id="59">
+			It(1) was(2) a(3) little(4) on(5) the(6) small(7) side(8) and(9) had(10) white(11) tile(12) floors(13) and(14) cultured(15) marble(16) sink(17) /(18) vanity(19) area(20) .(21) 
+		</sentence>
+		<sentence id="60">
+			It(1) was(2) pretty(3) clean(4) .(5) 
+			<opinion featRef="hotel" featWords="1" feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="61">
+			The(1) shower(2) had(3) a(4) Water-Pik(5) multi-setting(6) showerhead(7) ...(8) which(9) was(10) pleasant(11) ,(12) but(13) Best(14) Westerns(15) offer(16) Jhirmack(17) branded(18) bath(19) care(20) products(21) .(22) 
+		</sentence>
+		<sentence id="62">
+			I(1) did(2) 'nt(3) even(4) know(5) they(6) still(7) made(8) this(9) stuff(10) .(11) 
+		</sentence>
+		<sentence id="63">
+			I(1) can(2) 'nt(3) say(4) I(5) cared(6) for(7) them(8) .(9) 
+		</sentence>
+		<sentence id="64">
+			The(1) towels(2) were(3) teal(4) colored(5) and(6) it(7) was(8) refreshing(9) to(10) see(11) something(12) different(13) than(14) bleached(15) white(16) .(17) 
+		</sentence>
+		<sentence id="65">
+			I(1) know(2) you(3) germ(4) freaks(5) would(6) disagree(7) .(8) 
+		</sentence>
+		<sentence id="66">
+			The(1) Grub(2) :(3) No(4) thanks(5) we(6) ll(7) eat(8) at(9) Disney(10) if(11) you(12) do(13) 'nt(14) mind(15) !(16) 
+		</sentence>
+		<sentence id="67">
+			Food(1) Ratings(2) :(3) Restaurant(4) =(5) ?(6) ?(7) ?(8) ;(9) Lounge(10) =(11) ?(12) ?(13) ?(14) ;(15) Room(16) Service(17) =(18) ?(19) ?(20) ?(21) 
+		</sentence>
+		<sentence id="68">
+			The(1) LBVR(2) ,(3) at(4) it(5) is(6) affectionately(7) referred(8) to(9) on(10) Shuttle(11) Buses(12) ,(13) has(14) one(15) restaurant(16) and(17) an(18) internet(19) /(20) coffee(21) cafe(22) .(23) 
+		</sentence>
+		<sentence id="69">
+			The(1) main(2) dining(3) restaurant(4) looked(5) pleasant(6) enough(7) and(8) you(9) could(10) order(11) off(12) a(13) menu(14) or(15) eat(16) their(17) buffet(18) for(19) all(20) 3(21) meals(22) a(23) day(24) .(25) 
+		</sentence>
+		<sentence id="70">
+			Also(1) you(2) can(3) get(4) Pizza(5) Hut(6) at(7) any(8) of(9) their(10) restaurants(11) or(12) room(13) service(14) .(15) 
+		</sentence>
+		<sentence id="71">
+			We(1) did(2) not(3) eat(4) any(5) meals(6) in(7) the(8) hotel(9) .(10) 
+		</sentence>
+		<sentence id="72">
+			We(1) had(2) dinner(3) at(4) Medieval(5) Times(6) one(7) night(8) and(9) took(10) the(11) rest(12) of(13) our(14) meals(15) in(16) Walt(17) Disney(18) World(19) .(20) 
+		</sentence>
+		<sentence id="73">
+			I(1) can(2) not(3) recommend(4) Disney(5) Character(6) Dining(7) enough(8) .(9) 
+		</sentence>
+		<sentence id="74">
+			Additionally(1) ,(2) there(3) are(4) 100(5) s(6) of(7) great(8) restaurants(9) in(10) the(11) area(12) .(13) 
+		</sentence>
+		<sentence id="75">
+			Seems(1) like(2) a(3) waste(4) to(5) eat(6) in(7) a(8) hotel(9) .(10) 
+		</sentence>
+		<sentence id="76">
+			Downtown(1) Disney(2) is(3) just(4) down(5) the(6) street(7) and(8) there(9) are(10) many(11) fine(12) restaurants(13) there(14) ,(15) including(16) a(17) Wolfgang(18) Pucks(19) .(20) 
+		</sentence>
+		<sentence id="77">
+			I(1) tried(2) to(3) go(4) to(5) the(6) coffee(7) bar(8) one(9) morning(10) to(11) use(12) the(13) internet(14) and(15) get(16) lattes(17) and(18) pastries(19) ((20) because(21) there(22) is(23) no(24) broadband(25) internet(26) access(27) in(28) the(29) room(30) )(31) ,(32) but(33) their(34) internet(35) service(36) was(37) down(38) .(39) 
+		</sentence>
+		<sentence id="78">
+			The(1) clerk(2) told(3) me(4) it(5) had(6) been(7) down(8) for(9) weeks(10) and(11) did(12) 'nt(13) know(14) if(15) it(16) would(17) ever(18) be(19) back(20) up(21) again(22) .(23) 
+		</sentence>
+		<sentence id="79">
+			They(1) sent(2) me(3) to(4) the(5) Business(6) Center(7) off(8) the(9) lobby(10) ,(11) but(12) the(13) computer(14) was(15) down(16) there(17) too(18) .(19) 
+		</sentence>
+		<sentence id="80">
+			There(1) was(2) no(3) internet(4) access(5) anywhere(6) .(7) 
+		</sentence>
+		<sentence id="81">
+			Argh(1) ,(2) I(3) guess(4) I(5) had(6) better(7) go(8) have(9) fun(10) instead(11) .(12) 
+		</sentence>
+		<sentence id="82">
+			The(1) Recreation(2) :(3) No(4) whirlpool(5) ?(6) 
+		</sentence>
+		<sentence id="83">
+			Sheesh(1) ...(2) Recreation(3) Ratings(4) :(5) Pool(6) =(7) 3(8) Stars(9) ;(10) Fitness(11) Center(12) =(13) 2(14) Stars(15) The(16) Lake(17) Buena(18) Vista(19) Resort(20) has(21) a(22) nice(23) pool(24) area(25) with(26) a(27) large(28) heated(29) pool(30) .(31) 
+		</sentence>
+		<sentence id="84">
+			It(1) is(2) shaped(3) in(4) three(5) curved(6) wings(7) to(8) match(9) the(10) hotel(11) .(12) 
+		</sentence>
+		<sentence id="85">
+			It(1) was(2) fairly(3) nice(4) and(5) liberally(6) sprinkled(7) with(8) children(9) ...(10) go(11) figure(12) .(13) 
+		</sentence>
+		<sentence id="86">
+			Amazingly(1) it(2) had(3) a(4) real(5) deep(6) end(7) going(8) up(9) to(10) 8(11) feet(12) ,(13) a(14) rarity(15) anymore(16) .(17) 
+		</sentence>
+		<sentence id="87">
+			There(1) was(2) a(3) kiddy(4) pool(5) and(6) a(7) playground(8) ,(9) but(10) oddly(11) no(12) spa(13) .(14) 
+		</sentence>
+		<sentence id="88">
+			There(1) is(2) a(3) bar(4) just(5) inside(6) the(7) hotel(8) to(9) get(10) drinks(11) .(12) 
+		</sentence>
+		<sentence id="89">
+			Additionally(1) ,(2) there(3) is(4) a(5) very(6) small(7) fitness(8) center(9) with(10) an(11) even(12) smaller(13) selection(14) of(15) equipment(16) .(17) 
+		</sentence>
+		<sentence id="90">
+			My(1) wife(2) said(3) she(4) saw(5) a(6) small(7) video(8) arcade(9) ,(10) but(11) I(12) did(13) 'nt(14) check(15) it(16) out(17) .(18) 
+		</sentence>
+		<sentence id="91">
+			The(1) Verdict(2) :(3) Perfectly(4) Acceptable(5) ,(6) but(7) so(8) many(9) better(10) places(11) in(12) the(13) neighborhood(14) ...(15) Grades(16) :(17) Market(18) Percentile(19) =(20) 50(21) %(22) ;(23) Class(24) Percentile(25) ((26) Midscale(27) )(28) =(29) 60(30) %(31) My(32) conclusion(33) is(34) the(35) Best(36) Western(37) Lake(38) Buena(39) Vista(40) Resort(41) is(42) a(43) decent(44) place(45) to(46) stay(47) in(48) a(49) good(50) location(51) .(52) 
+			<opinion feature="hotel" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="92">
+			I(1) would(2) definitely(3) stay(4) here(5) rather(6) than(7) an(8) equivalent(9) place(10) out(11) of(12) park(13) .(14) 
+			<opinion feature="hotel" opWords="4" polarity="+" potency="3"/>
+		</sentence>
+		<sentence id="93">
+			This(1) is(2) hands(3) down(4) the(5) best(6) Best(7) Western(8) I(9) ve(10) ever(11) stayed(12) at(13) .(14) 
+		</sentence>
+		<sentence id="94">
+			The(1) location(2) is(3) good(4) and(5) Downtown(6) Disney(7) is(8) close(9) by(10) .(11) 
+			<opinion featWords="2" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="95">
+			The(1) shuttle(2) system(3) to(4) Disney(5) Parks(6) works(7) well(8) ,(9) but(10) one(11) late(12) night(13) return(14) trip(15) involved(16) a(17) bus(18) with(19) no(20) air(21) conditioning(22) .(23) 
+		</sentence>
+		<sentence id="96">
+			Very(1) humid(2) and(3) we(4) were(5) miserable(6) ,(7) looking(8) like(9) we(10) had(11) been(12) in(13) a(14) sauna(15) by(16) the(17) time(18) we(19) got(20) off(21) .(22) 
+		</sentence>
+		<sentence id="97">
+			We(1) got(2) a(3) fantastic(4) rate(5) and(6) the(7) LBV(8) was(9) well(10) worth(11) it(12) .(13) 
+			<opinion featWords="5" feature="price" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="98">
+			Given(1) some(2) bad(3) reviews(4) and(5) the(6) fact(7) this(8) is(9) a(10) Best(11) Western(12) ,(13) I(14) was(15) expecting(16) this(17) place(18) to(19) be(20) the(21) least(22) desirable(23) during(24) our(25) two(26) week(27) vacation(28) .(29) 
+		</sentence>
+		<sentence id="99">
+			I(1) have(2) to(3) admit(4) though(5) that(6) I(7) was(8) pleasantly(9) surprised(10) .(11) 
+		</sentence>
+		<sentence id="100">
+			Maybe(1) the(2) hotel(3) suffers(4) from(5) consistency(6) problems(7) ?(8) 
+		</sentence>
+		<sentence id="101">
+			However(1) ,(2) with(3) the(4) many(5) ,(6) many(7) choices(8) in(9) this(10) area(11) ...(12) I(13) do(14) 'nt(15) know(16) if(17) we(18) stay(19) here(20) again(21) .(22) 
+		</sentence>
+		<sentence id="102">
+			I(1) must(2) try(3) them(4) all(5) !(6) 
+		</sentence>
+		<sentence id="103">
+			As(1) a(2) Hotel(3) Dork(4) ,(5) I(6) rarely(7) stay(8) the(9) same(10) place(11) twice(12) .(13) 
+		</sentence>
+		<sentence id="104">
+			Robert(1) Herron(2) Fernley(3) ,(4) Nevada(5) e-mail(6) :(7) general@herronweb.com(8) Best(9) Western(10) Lake(11) Buena(12) Vista(13) Resort(14) Reference(15) Section(16) :(17) Address(18) :(19) 2000(20) Hotel(21) Plaza(22) Boulevard(23) ,(24) Lake(25) Buena(26) Vista(27) ,(28) FL(29) 32830(30) Phone(31) :(32) ((33) 407(34) )(35) 828-2424(36) Website(37) :(38) http://www.orlandoresorthotel.com/(39) Rooms(40) :(41) 293(42) Year(43) Built(44) :(45) 1972(46) Last(47) Renovated(48) :(49) 1999(50) 
+		</sentence>
+	</text>
+</review>

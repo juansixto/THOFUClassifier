@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="927" item="Ritz Carlton Pentagon City" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) Property(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Location(1) and(2) Service(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			You(1) will(2) pay(3) a(4) lot(5) in(6) DC(7) even(8) for(9) a(10) moderate(11) hotel(12) ,(13) so(14) why(15) not(16) go(17) Ritz(18) ?(19) 
+			<opinion featWords="12" feature="hotel" opWords="11" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			This(1) property(2) is(3) very(4) nice(5) .(6) 
+		</sentence>
+		<sentence id="2">
+			Although(1) it(2) is(3) a(4) very(5) urban(6) setting(7) ,(8) they(9) make(10) up(11) in(12) details(13) to(14) attention(15) .(16) 
+		</sentence>
+		<sentence id="3">
+			It(1) is(2) only(3) 2(4) miles(5) from(6) Reagan(7) National(8) airport(9) and(10) 10(11) minutes(12) from(13) downtown(14) DC(15) .(16) 
+		</sentence>
+		<sentence id="4">
+			I(1) have(2) spent(3) almost(4) 3(5) weeks(6) this(7) year(8) at(9) this(10) property(11) and(12) would(13) highly(14) recommend(15) you(16) visit(17) .(18) 
+			<opinion feature="hotel" opWords="15" polarity="+" potency="14"/>
+		</sentence>
+		<sentence id="5">
+			There(1) is(2) a(3) mall(4) attached(5) to(6) the(7) property(8) and(9) the(10) Metro(11) ((12) public(13) transit(14) )(15) is(16) right(17) in(18) front(19) of(20) the(21) property(22) .(23) 
+		</sentence>
+		<sentence id="6">
+			One(1) of(2) the(3) nicest(4) things(5) they(6) have(7) is(8) a(9) program(10) called(11) "(12) flight(13) bites(14) "(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			If(1) you(2) are(3) leaving(4) for(5) the(6) day(7) or(8) checking(9) out(10) ,(11) they(12) will(13) pack(14) you(15) a(16) breakfast(17) ,(18) lunch(19) ,(20) or(21) snack(22) for(23) your(24) journey(25) .(26) 
+		</sentence>
+		<sentence id="8">
+			Ask(1) for(2) a(3) corner(4) room(5) when(6) checking(7) in(8) because(9) they(10) offer(11) marble(12) stand(13) up(14) showers(15) .(16) 
+		</sentence>
+		<sentence id="9">
+			Enjoy(1) .(2) 
+		</sentence>
+	</text>
+</review>

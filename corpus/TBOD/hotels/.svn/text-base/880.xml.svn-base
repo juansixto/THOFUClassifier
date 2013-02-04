@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="880" item="Renaissance London Chancery Court Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Pure(1) Luxury(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) Staff(2) .(3) 
+		</sentence>
+		<sentence id="2">
+			Central(1) Location(2) .(3) 
+		</sentence>
+		<sentence id="3">
+			Beautiful(1) accommodation(2) .(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			None(1) .(2) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) wife(2) and(3) I(4) Honeymooned(5) here(6) during(7) the(8) Queen(9) 's(10) Golden(11) Jubilee(12) and(13) World(14) Cup(15) .(16) 
+		</sentence>
+		<sentence id="2">
+			A(1) great(2) hotel(3) ,(4) centrally(5) located(6) .(7) 
+			<opinion featWords="3" feature="hotel" opWords="2" polarity="+"/>
+			<opinion feature="place" opWords="5,6" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			Friendly(1) staff(2) ,(3) comfortable(4) bar(5) .(6) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="food" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			If(1) you(2) live(3) your(4) life(5) without(6) going(7) to(8) the(9) UK(10) ,(11) I(12) just(13) pity(14) you(15) .(16) 
+		</sentence>
+		<sentence id="5">
+			Go(1) .(2) 
+		</sentence>
+		<sentence id="6">
+			Now(1) .(2) 
+		</sentence>
+	</text>
+</review>

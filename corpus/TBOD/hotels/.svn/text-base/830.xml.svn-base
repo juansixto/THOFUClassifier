@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="830" item="Halekulani" rating="5">
+	<title>
+		<sentence id="1">
+			Nothing(1) But(2) The(3) Best(4) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Excellent(1) Service(2) ,(3) quiet(4) ,(5) peaceful(6) setting(7) in(8) a(9) hurried(10) Waikiki(11) ,(12) on(13) beach(14) 
+			<opinion feature="hotel" opWords="4" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			not(1) for(2) bargain(3) hunters(4) ,(5) very(6) expensive(7) but(8) worth(9) it(10) 
+			<opinion feature="price" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			The(1) Halekulani(2) is(3) superb(4) in(5) service(6) ,(7) location(8) and(9) romantic(10) .(11) 
+			<opinion featWords="6" feature="service" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="place" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="2">
+			A(1) little(2) bit(3) of(4) paradise(5) in(6) hectic(7) Waikiki(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			You(1) will(2) not(3) go(4) wrong(5) staying(6) here(7) .(8) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			If(1) you(2) are(3) looking(4) for(5) a(6) premier(7) hotel(8) to(9) stay(10) at(11) in(12) Waikiki(13) then(14) Halekulani(15) is(16) the(17) place(18) for(19) you(20) .(21) 
+		</sentence>
+		<sentence id="2">
+			I(1) have(2) stayed(3) here(4) many(5) times(6) in(7) the(8) past(9) and(10) for(11) the(12) money(13) ,(14) convience(15) and(16) superb(17) ambience(18) nothing(19) beats(20) it(21) .(22) 
+		</sentence>
+		<sentence id="3">
+			When(1) you(2) mention(3) to(4) some(5) people(6) Hawaii(7) ,(8) they(9) immediately(10) say(11) "(12) oh(13) ,(14) I(15) 'd(16) never(17) go(18) there(19) ,(20) it(21) 's(22) so(23) commercialized(24) "(25) .(26) 
+		</sentence>
+		<sentence id="4">
+			Well(1) ,(2) yes(3) if(4) you(5) only(6) stay(7) in(8) Honolulu(9) and(10) never(11) venture(12) to(13) the(14) other(15) Islands(16) OR(17) if(18) you(19) stay(20) a(21) block(22) or(23) two(24) off(25) the(26) beach(27) and(28) you(29) stay(30) in(31) a(32) chain(33) hotel(34) .(35) 
+		</sentence>
+		<sentence id="5">
+			If(1) you(2) have(3) the(4) money(5) and(6) truley(7) want(8) a(9) wonderful(10) ,(11) peaceful(12) place(13) to(14) stay(15) the(16) Halekulani(17) is(18) it(19) .(20) 
+			<opinion featWords="13" feature="place" opWords="12" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			The(1) Halekulani(2) is(3) located(4) on(5) Waikiki(6) Beach(7) ,(8) setting(9) about(10) in(11) the(12) middle(13) .(14) 
+		</sentence>
+		<sentence id="7">
+			The(1) minute(2) you(3) step(4) in(5) the(6) open(7) air(8) foyer(9) you(10) forget(11) you(12) 're(13) in(14) Waikiki(15) .(16) 
+		</sentence>
+		<sentence id="8">
+			It(1) 's(2) amazing(3) what(4) this(5) hotel(6) has(7) done(8) to(9) keep(10) all(11) the(12) noise(13) and(14) craziness(15) of(16) Waikiki(17) outside(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Your(1) check-in(2) is(3) done(4) in(5) your(6) room(7) without(8) any(9) hassle(10) or(11) inconvience(12) .(13) 
+		</sentence>
+		<sentence id="10">
+			There(1) are(2) many(3) room(4) types(5) to(6) chose(7) from(8) ,(9) going(10) from(11) oceanview(12) ,(13) Diamond(14) Head(15) view(16) to(17) first(18) floor(19) lanais(20) that(21) open(22) into(23) the(24) large(25) lawn(26) and(27) pool(28) area(29) ((30) my(31) choice(32) )(33) .(34) 
+		</sentence>
+		<sentence id="11">
+			The(1) pool(2) area(3) is(4) large(5) and(6) fronting(7) right(8) on(9) the(10) beach(11) area(12) .(13) 
+			<opinion featWords="2,3" feature="swimming pool" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="12">
+			One(1) note(2) of(3) caution(4) --(5) if(6) you(7) want(8) a(9) large(10) beach(11) area(12) this(13) is(14) not(15) the(16) place(17) for(18) you(19) .(20) 
+			<opinion featWords="11" feature="beach" opWords="10" polarity="+"/>
+		</sentence>
+		<sentence id="13">
+			The(1) beach(2) in(3) front(4) of(5) the(6) Halekulani(7) is(8) very(9) small(10) to(11) say(12) the(13) least(14) .(15) 
+			<opinion featWords="2" feature="beach" opWords="10" polarity="-" potency="9"/>
+		</sentence>
+		<sentence id="14">
+			When(1) the(2) tide(3) is(4) in(5) the(6) beach(7) is(8) almost(9) gone(10) !(11) 
+		</sentence>
+		<sentence id="15">
+			But(1) this(2) is(3) not(4) to(5) say(6) that(7) you(8) can(9) not(10) move(11) down(12) a(13) couple(14) of(15) yards(16) and(17) be(18) on(19) a(20) bigger(21) area(22) of(23) beach(24) .(25) 
+		</sentence>
+		<sentence id="16">
+			The(1) service(2) is(3) excellent(4) --(5) your(6) want(7) is(8) their(9) command(10) .(11) 
+			<opinion featWords="2" feature="service" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="17">
+			They(1) treat(2) you(3) like(4) kings(5) here(6) .(7) 
+		</sentence>
+		<sentence id="18">
+			The(1) open(2) air(3) restaurant(4) for(5) breakfast(6) and(7) lunch(8) is(9) fronting(10) the(11) beach(12) and(13) Le(14) Mer(15) is(16) rated(17) as(18) one(19) of(20) the(21) best(22) restaurants(23) in(24) Hawaii(25) .(26) 
+			<opinion featWords="23" feature="food" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="19">
+			You(1) can(2) walk(3) to(4) all(5) the(6) shops(7) and(8) open(9) air(10) markets(11) plus(12) the(13) hotels(14) are(15) lined(16) up(17) in(18) a(19) row(20) ,(21) so(22) you(23) can(24) see(25) what(26) the(27) competition(28) is(29) like(30) .(31) 
+		</sentence>
+		<sentence id="20">
+			Who(1) knows(2) you(3) may(4) see(5) a(6) movie(7) star(8) staying(9) here(10) .(11) 
+		</sentence>
+		<sentence id="21">
+			We(1) did(2) ,(3) Bette(4) Midler(5) with(6) her(7) daughter(8) .(9) 
+		</sentence>
+		<sentence id="22">
+			The(1) rooms(2) are(3) nice(4) ,(5) and(6) quite(7) large(8) with(9) a(10) beautiful(11) bathroom(12) .(13) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+			<opinion featWords="2" feature="rooms" opWords="8" polarity="+" potency="7"/>
+			<opinion featWords="12" feature="bathroom" opWords="11" polarity="+"/>
+		</sentence>
+		<sentence id="23">
+			There(1) are(2) two(3) other(4) hotels(5) in(6) Honolulu(7) ,(8) which(9) are(10) on(11) the(12) same(13) price(14) range(15) as(16) the(17) Halekulani(18) and(19) I(20) have(21) stayed(22) at(23) both(24) .(25) 
+		</sentence>
+		<sentence id="24">
+			One(1) is(2) in(3) the(4) Diamond(5) Head(6) section(7) and(8) the(9) other(10) is(11) quite(12) a(13) distance(14) out(15) of(16) town(17) for(18) my(19) taste(20) .(21) 
+		</sentence>
+		<sentence id="25">
+			I(1) would(2) still(3) come(4) back(5) to(6) the(7) Halekulani(8) .(9) 
+			<opinion feature="hotel" opWords="4,5" polarity="+"/>
+		</sentence>
+	</text>
+</review>

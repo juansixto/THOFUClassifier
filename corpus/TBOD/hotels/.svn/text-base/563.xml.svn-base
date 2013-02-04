@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="563" item="Westgate Miami Beach" rating="4">
+	<title>
+		<sentence id="1">
+			Inexpensive(1) and(2) Convenient(3) 
+			<opinion feature="price" opWords="1" polarity="+"/>
+			<opinion feature="hotel" opWords="3" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Inexpensive(1) Convenient(2) location(3) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Beds(1) and(2) pillows(3) are(4) MUCH(5) too(6) hard(7) 
+			<opinion featWords="1" feature="bed" opWords="6,7" polarity="-" potency="5"/>
+			<opinion featWords="3" feature="bedding" opWords="6,7" polarity="-" potency="5"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Clean(1) ,(2) friendly(3) staff(4) ,(5) convenient(6) ,(7) very(8) good(9) value(10) !(11) 
+			<opinion feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="4" feature="staff" opWords="3" polarity="+"/>
+			<opinion feature="hotel" opWords="6" polarity="+"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			Very(1) convenient(2) location(3) in(4) the(5) Sunny(6) Isles(7) area(8) of(9) Miami(10) Beach(11) ((12) about(13) 15(14) miles(15) north(16) of(17) South(18) Beach(19) )(20) .(21) 
+			<opinion featWords="3" feature="place" opWords="2" polarity="+" potency="1"/>
+		</sentence>
+		<sentence id="2">
+			We(1) stayed(2) there(3) for(4) 4(5) nights(6) recently(7) .(8) 
+		</sentence>
+		<sentence id="3">
+			Got(1) a(2) good(3) rate(4) ((5) $79(6) )(7) using(8) the(9) hotel(10) 's(11) website(12) .(13) 
+			<opinion featWords="4" feature="price" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			That(1) rate(2) was(3) for(4) the(5) limited(6) view(7) room(8) with(9) 2(10) beds(11) .(12) 
+		</sentence>
+		<sentence id="5">
+			There(1) 's(2) a(3) $6-per-day(4) charge(5) for(6) valet(7) parking(8) ,(9) but(10) you(11) can(12) avoid(13) that(14) by(15) parking(16) yourself(17) across(18) the(19) street(20) .(21) 
+		</sentence>
+		<sentence id="6">
+			There(1) 's(2) a(3) fridge(4) ,(5) ironing(6) board(7) &amp;(8) iron(9) ,(10) hair(11) dryer(12) ,(13) and(14) coffee(15) maker(16) in(17) the(18) room(19) .(20) 
+		</sentence>
+		<sentence id="7">
+			However(1) ,(2) the(3) coffee(4) is(5) awful(6) !(7) 
+		</sentence>
+		<sentence id="8">
+			You(1) can(2) get(3) coffee(4) in(5) the(6) lobby(7) at(8) about(9) $1.50(10) per(11) cup(12) .(13) 
+		</sentence>
+		<sentence id="9">
+			There(1) is(2) a(3) breakfast(4) buffet(5) ,(6) but(7) I(8) found(9) it(10) to(11) be(12) expensive(13) at(14) around(15) $10(16) pp.(17) The(18) pool(19) area(20) is(21) large(22) ,(23) and(24) there(25) is(26) a(27) kiddie(28) pool(29) .(30) 
+			<opinion feature="price" opWords="13" polarity="-"/>
+			<opinion featWords="19,20" feature="swimming pool" opWords="22" polarity="+"/>
+		</sentence>
+		<sentence id="10">
+			But(1) ,(2) there(3) is(4) very(5) limited(6) shade(7) area(8) around(9) the(10) pool(11) .(12) 
+		</sentence>
+		<sentence id="11">
+			The(1) hotel(2) is(3) on(4) the(5) beach(6) .(7) 
+		</sentence>
+		<sentence id="12">
+			The(1) place(2) is(3) very(4) clean(5) ,(6) &amp;(7) the(8) staff(9) is(10) friendly(11) .(12) 
+			<opinion featWords="2" feature="place" opWords="5" polarity="+" potency="4"/>
+			<opinion featWords="9" feature="staff" opWords="11" polarity="+"/>
+		</sentence>
+	</text>
+</review>

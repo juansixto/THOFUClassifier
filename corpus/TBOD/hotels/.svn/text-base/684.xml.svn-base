@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="684" item="Almond Beach Club" rating="5">
+	<title>
+		<sentence id="1">
+			wonderful(1) honeymoon(2) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Food(1) ,(2) service(3) ,(4) cleanliness(5) ,(6) friendly(7) staff(8) ,(9) beautiful(10) island(11) .(12) 
+			<opinion featWords="8" feature="staff" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Small(1) beach(2) area(3) .(4) 
+			<opinion featWords="2" feature="beach" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			My(1) husband(2) and(3) I(4) booked(5) the(6) Almond(7) Beach(8) Club(9) for(10) our(11) honeymoon(12) two(13) years(14) ago(15) and(16) absolutely(17) loved(18) it(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			We(1) had(2) a(3) suite(4) right(5) on(6) the(7) water(8) .(9) 
+		</sentence>
+		<sentence id="3">
+			I(1) could(2) walk(3) onto(4) our(5) patio(6) and(7) sunbathe(8) at(9) the(10) water(11) 's(12) edge(13) .(14) 
+		</sentence>
+		<sentence id="4">
+			The(1) food(2) was(3) delicious(4) and(5) the(6) service(7) outstanding(8) .(9) 
+			<opinion featWords="2" feature="food" opWords="4" polarity="+"/>
+			<opinion featWords="7" feature="service" opWords="8" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			Everyone(1) was(2) incredibly(3) friendly(4) and(5) accommodating(6) .(7) 
+			<opinion feature="staff" opWords="4" polarity="+" potency="3"/>
+			<opinion feature="staff" opWords="6" polarity="+"/>
+		</sentence>
+		<sentence id="6">
+			We(1) say(2) this(3) as(4) frequent(5) travellers(6) and(7) visitors(8) to(9) other(10) caribbean(11) destinations(12) ,(13) that(14) we(15) love(16) Barbados(17) and(18) the(19) Almond(20) Beach(21) Club(22) .(23) 
+		</sentence>
+		<sentence id="7">
+			We(1) are(2) actually(3) returning(4) this(5) week(6) for(7) our(8) two(9) year(10) anniversary(11) .(12) 
+		</sentence>
+		<sentence id="8">
+			We(1) have(2) booked(3) a(4) standard(5) room(6) this(7) time(8) ,(9) but(10) expect(11) it(12) will(13) still(14) be(15) a(16) wonderful(17) vacation(18) .(19) 
+		</sentence>
+		<sentence id="9">
+			Will(1) post(2) a(3) review(4) on(5) that(6) trip(7) upon(8) our(9) return(10) .(11) 
+		</sentence>
+	</text>
+</review>

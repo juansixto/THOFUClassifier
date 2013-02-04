@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="806" item="California Suites Hotel" rating="5">
+	<title>
+		<sentence id="1">
+			Awesome(1) hotel(2) at(3) an(4) unbeatable(5) price(6) 
+			<opinion featWords="2" feature="hotel" opWords="1" polarity="+"/>
+			<opinion featWords="6" feature="price" opWords="5" polarity="+"/>
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Friendly(1) staff(2) ,(3) great(4) location(5) ,(6) furnished(7) rooms(8) 
+			<opinion featWords="2" feature="staff" opWords="1" polarity="+"/>
+			<opinion featWords="5" feature="place" opWords="4" polarity="+"/>
+			<opinion featWords="8" feature="rooms" opWords="7" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Cleanliness(1) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) stayed(3) at(4) California(5) Suites(6) Hotel(7) several(8) times(9) over(10) the(11) last(12) few(13) years(14) and(15) have(16) always(17) liked(18) it(19) .(20) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) has(3) a(4) friendly(5) staff(6) ,(7) a(8) great(9) location(10) with(11) plenty(12) of(13) restaurants(14) ,(15) theaters(16) ,(17) and(18) shopping(19) centers(20) within(21) walking(22) distance(23) and(24) just(25) a(26) stone(27) 's(28) throw(29) away(30) from(31) all(32) the(33) major(34) tourist(35) spots(36) .(37) 
+			<opinion featWords="6" feature="staff" opWords="5" polarity="+"/>
+			<opinion featWords="10" feature="place" opWords="9" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) rooms(2) are(3) fully(4) furnished(5) with(6) comfortable(7) beds(8) and(9) other(10) necessary(11) stuff(12) one(13) needs(14) for(15) oneself(16) ,(17) such(18) as(19) voice(20) mail(21) ,(22) etc.(23) And(24) the(25) best(26) part(27) is(28) their(29) wonderful(30) breakfast(31) buffet(32) ,(33) which(34) comes(35) free(36) !(37) 
+			<opinion featWords="2" feature="rooms" opWords="4,5" polarity="+"/>
+			<opinion featWords="8" feature="bed" opWords="7" polarity="+"/>
+			<opinion featWords="32" feature="food" opWords="30" polarity="+"/>
+			<opinion featWords="32" feature="food" opWords="36" polarity="+"/>
+		</sentence>
+		<sentence id="4">
+			Try(1) it(2) out(3) .(4) 
+		</sentence>
+		<sentence id="5">
+			This(1) hotel(2) is(3) value(4) for(5) money(6) .(7) 
+		</sentence>
+	</text>
+</review>

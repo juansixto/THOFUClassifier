@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="151" item="Oasis Cancun - All Inclusive" rating="1">
+	<title>
+		<sentence id="1">
+			Find(1) somewhere(2) else(3) to(4) stay(5) .(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			Nice(1) beach(2) .(3) 
+			<opinion featWords="2" feature="beach" opWords="1" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Terrible(1) room(2) ,(3) service(4) ,(5) and(6) food(7) .(8) 
+			<opinion featWords="2" feature="rooms" opWords="1" polarity="-"/>
+			<opinion featWords="4" feature="service" opWords="1" polarity="-"/>
+			<opinion featWords="7" feature="food" opWords="1" polarity="-"/>
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			This(1) hotel(2) 's(3) unhelpful(4) ((5) rude(6) )(7) and(8) understaffed(9) front(10) desk(11) ,(12) musty(13) rooms(14) and(15) substandard(16) food(17) demonstrate(18) that(19) once(20) you(21) 've(22) paid(23) ,(24) they(25) do(26) not(27) care(28) about(29) the(30) rest(31) of(32) your(33) stay(34) .(35) 
+			<opinion featWords="10,11" feature="front desk" opWords="4" polarity="-"/>
+			<opinion featWords="10,11" feature="front desk" opWords="6" polarity="-"/>
+			<opinion featWords="10,11" feature="front desk" opWords="9" polarity="-"/>
+			<opinion featWords="14" feature="rooms" opWords="13" polarity="-"/>
+			<opinion featWords="17" feature="food" opWords="16" polarity="-"/>
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			The(1) Oasis(2) Cancun(3) looks(4) decent(5) on(6) paper...3-4(7) stars(8) ((9) depending(10) on(11) the(12) vacation(13) provider(14) )(15) ,(16) oceanview(17) rooms(18) ,(19) multiple(20) restaurants(21) .(22) 
+		</sentence>
+		<sentence id="2">
+			Unfortunately(1) ,(2) the(3) place(4) is(5) horrible(6) .(7) 
+			<opinion featWords="4" feature="place" opWords="6" polarity="-"/>
+		</sentence>
+		<sentence id="3">
+			When(1) I(2) arrived(3) ,(4) I(5) had(6) to(7) wait(8) in(9) line(10) at(11) a(12) front(13) desk(14) that(15) was(16) horribly(17) understaffed(18) ,(19) and(20) undergo(21) a(22) "(23) check-in(24) "(25) procedure(26) that(27) took(28) about(29) 20(30) minutes(31) per(32) room(33) .(34) 
+		</sentence>
+		<sentence id="4">
+			During(1) this(2) "(3) check-in(4) "(5) procedure(6) ,(7) I(8) was(9) told(10) that(11) I(12) either(13) needed(14) to(15) make(16) a(17) refundable(18) deposit(19) of(20) $100(21) US(22) CASH(23) ((24) no(25) credit(26) cards(27) accepted(28) !(29) )(30) or(31) pay(32) a(33) non-refundable(34) fee(35) of(36) $20(37) US(38) for(39) "(40) room(41) insurance(42) "(43) .(44) 
+		</sentence>
+		<sentence id="5">
+			Being(1) an(2) "(3) all-inclusive(4) "(5) vacation(6) ,(7) I(8) do(9) not(10) know(11) how(12) many(13) couples(14) carry(15) around(16) $200(17) US(18) cash(19) that(20) they(21) can(22) afford(23) to(24) just(25) leave(26) at(27) the(28) front(29) desk(30) for(31) the(32) duration(33) of(34) their(35) stay(36) ,(37) but(38) this(39) is(40) an(41) obvious(42) money-grab(43) .(44) 
+		</sentence>
+		<sentence id="6">
+			Anyways(1) ,(2) after(3) paying(4) the(5) $40(6) ,(7) my(8) girlfriend(9) and(10) I(11) went(12) to(13) our(14) room(15) .(16) 
+		</sentence>
+		<sentence id="7">
+			Now(1) it(2) was(3) not(4) an(5) oceanview(6) ,(7) which(8) was(9) fine(10) ,(11) because(12) about(13) 75(14) %(15) of(16) the(17) rooms(18) at(19) the(20) resort(21) do(22) not(23) face(24) the(25) ocean(26) .(27) 
+		</sentence>
+		<sentence id="8">
+			Unfortunately(1) ,(2) the(3) room(4) was(5) terribly(6) musty(7) .(8) 
+			<opinion featWords="4" feature="rooms" opWords="7" polarity="-" potency="6"/>
+		</sentence>
+		<sentence id="9">
+			Not(1) sure(2) why(3) ,(4) but(5) it(6) was(7) .(8) 
+		</sentence>
+		<sentence id="10">
+			Since(1) we(2) had(3) had(4) enough(5) of(6) waiting(7) at(8) the(9) front(10) desk(11) and(12) arguing(13) at(14) the(15) front(16) desk(17) for(18) one(19) night(20) ,(21) we(22) decided(23) to(24) get(25) something(26) to(27) eat(28) .(29) 
+		</sentence>
+		<sentence id="11">
+			The(1) only(2) place(3) open(4) at(5) 11:00(6) p.m.(7) was(8) a(9) "(10) sports(11) bar(12) "(13) that(14) offered(15) snacks(16) .(17) 
+		</sentence>
+		<sentence id="12">
+			There(1) we(2) had(3) a(4) very(5) tasteless(6) sandwich(7) and(8) some(9) fries(10) ,(11) and(12) met(13) a(14) guy(15) who(16) said(17) that(18) when(19) he(20) checked(21) in(22) they(23) had(24) said(25) the(26) refundable(27) deposit(28) was(29) $50(30) and(31) the(32) non-refundable(33) fee(34) $20(35) .(36) 
+		</sentence>
+		<sentence id="13">
+			Go(1) figure(2) .(3) 
+		</sentence>
+		<sentence id="14">
+			Anyways(1) ,(2) the(3) next(4) day(5) ,(6) I(7) went(8) to(9) request(10) a(11) new(12) room(13) .(14) 
+		</sentence>
+		<sentence id="15">
+			I(1) asked(2) for(3) an(4) oceanview(5) ,(6) which(7) was(8) not(9) available(10) ,(11) then(12) for(13) something(14) on(15) the(16) 4th(17) floor(18) ,(19) as(20) opposed(21) to(22) the(23) 1st(24) floor(25) .(26) 
+		</sentence>
+		<sentence id="16">
+			The(1) gentleman(2) looked(3) it(4) up(5) ,(6) and(7) said(8) I(9) could(10) get(11) a(12) room(13) on(14) the(15) 4th(16) floor(17) ,(18) and(19) just(20) to(21) come(22) back(23) at(24) 12:00(25) and(26) check(27) to(28) see(29) if(30) it(31) 's(32) ready(33) .(34) 
+		</sentence>
+		<sentence id="17">
+			So(1) I(2) was(3) like(4) ,(5) great(6) !(7) 
+		</sentence>
+		<sentence id="18">
+			So(1) I(2) came(3) back(4) at(5) 12:00(6) ,(7) and(8) told(9) the(10) guy(11) ((12) a(13) different(14) guy(15) )(16) I(17) was(18) there(19) to(20) see(21) if(22) my(23) room(24) was(25) ready(26) .(27) 
+		</sentence>
+		<sentence id="19">
+			He(1) just(2) started(3) shaking(4) his(5) head(6) and(7) saying(8) ,(9) "(10) Sorry(11) ,(12) we(13) have(14) no(15) other(16) rooms(17) "(18) .(19) 
+		</sentence>
+		<sentence id="20">
+			So(1) I(2) tried(3) to(4) explain(5) to(6) him(7) that(8) I(9) had(10) been(11) there(12) earlier(13) and(14) already(15) had(16) a(17) room(18) ,(19) but(20) he(21) would(22) just(23) shake(24) his(25) head(26) and(27) say(28) "(29) Sorry(30) .(31) "(32) Just(33) then(34) the(35) guy(36) I(37) had(38) talked(39) to(40) earlier(41) came(42) out(43) from(44) the(45) back(46) ,(47) so(48) I(49) told(50) him(51) to(52) tell(53) the(54) new(55) guy(56) about(57) my(58) room(59) ,(60) which(61) he(62) did(63) ,(64) and(65) then(66) he(67) told(68) me(69) it(70) was(71) not(72) ready(73) ,(74) to(75) come(76) back(77) at(78) 1:00(79) .(80) 
+		</sentence>
+		<sentence id="21">
+			So(1) I(2) said(3) ,(4) "(5) Okay(6) ,(7) thanks(8) .(9) "(10) I(11) go(12) back(13) to(14) the(15) beach(16) to(17) sit(18) with(19) my(20) girlfriend(21) .(22) 
+		</sentence>
+		<sentence id="22">
+			I(1) walk(2) back(3) to(4) the(5) hotel(6) at(7) 1:00(8) ,(9) and(10) ask(11) the(12) guy(13) ((14) another(15) guy(16) )(17) at(18) the(19) counter(20) about(21) my(22) room(23) .(24) 
+		</sentence>
+		<sentence id="23">
+			He(1) says(2) ,(3) sorry(4) ,(5) it(6) 's(7) not(8) ready(9) yet(10) ,(11) come(12) back(13) at(14) 2:00(15) .(16) 
+		</sentence>
+		<sentence id="24">
+			He(1) says(2) this(3) barely(4) looking(5) up(6) at(7) me(8) ,(9) not(10) checking(11) any(12) book(13) ,(14) nothing(15) .(16) 
+		</sentence>
+		<sentence id="25">
+			At(1) this(2) point(3) I(4) 'm(5) beginning(6) to(7) think(8) that(9) they(10) really(11) do(12) not(13) want(14) to(15) give(16) me(17) another(18) room(19) .(20) 
+		</sentence>
+		<sentence id="26">
+			So(1) I(2) come(3) back(4) at(5) 2(6) ,(7) and(8) guess(9) what(10) ?(11) 
+		</sentence>
+		<sentence id="27">
+			It(1) 's(2) check-in(3) time(4) .(5) 
+		</sentence>
+		<sentence id="28">
+			There(1) 's(2) a(3) huge(4) lineup(5) of(6) people(7) who(8) will(9) have(10) to(11) wait(12) an(13) hour(14) in(15) line(16) to(17) get(18) their(19) room(20) .(21) 
+		</sentence>
+		<sentence id="29">
+			So(1) I(2) go(3) to(4) the(5) front(6) of(7) the(8) line(9) ,(10) flag(11) down(12) the(13) last(14) guy(15) I(16) spoke(17) to(18) ,(19) and(20) said(21) I(22) 'd(23) like(24) to(25) get(26) my(27) room(28) .(29) 
+		</sentence>
+		<sentence id="30">
+			He(1) looks(2) at(3) me(4) ,(5) looks(6) at(7) the(8) huge(9) lineup(10) and(11) says(12) ,(13) "(14) We(15) have(16) to(17) get(18) all(19) these(20) people(21) checked(22) in(23) .(24) Come(25) back(26) at(27) 3:00(28) .(29) "(30) I(31) do(32) not(33) know(34) why(35) I(36) did(37) not(38) just(39) take(40) a(41) stand(42) there(43) ,(44) but(45) I(46) just(47) left(48) .(49) 
+		</sentence>
+		<sentence id="31">
+			Came(1) back(2) later(3) ,(4) and(5) this(6) time(7) I(8) ask(9) a(10) lady(11) about(12) my(13) room(14) and(15) surprise(16) surprise(17) ...(18) my(19) request(20) was(21) cancelled(22) !(23) 
+		</sentence>
+		<sentence id="32">
+			She(1) looks(2) at(3) the(4) book(5) and(6) says(7) ,(8) "(9) Well(10) ,(11) it(12) says(13) here(14) your(15) request(16) has(17) been(18) cancelled(19) .(20) Sorry(21) ,(22) you(23) 'll(24) have(25) to(26) talk(27) to(28) the(29) manager(30) .(31) "(32) And(33) of(34) course(35) ,(36) the(37) manager(38) 's(39) not(40) there(41) right(42) now(43) ...(44) I(45) 'll(46) have(47) to(48) come(49) back(50) later(51) .(52) 
+		</sentence>
+		<sentence id="33">
+			Anyways(1) ,(2) I(3) wasted(4) a(5) good(6) part(7) of(8) my(9) first(10) day(11) with(12) this(13) sad(14) ,(15) sad(16) runaround(17) .(18) 
+		</sentence>
+		<sentence id="34">
+			And(1) do(2) not(3) forget(4) ,(5) a(6) couple(7) of(8) those(9) times(10) I(11) went(12) back(13) to(14) the(15) desk(16) I(17) probably(18) waited(19) around(20) for(21) a(22) good(23) 20(24) minutes(25) or(26) so(27) before(28) being(29) able(30) to(31) talk(32) to(33) someone(34) ...(35) having(36) 2(37) people(38) at(39) the(40) front(41) desk(42) of(43) a(44) hotel(45) with(46) over(47) a(48) thousand(49) occupants(50) ...(51) not(52) good(53) .(54) 
+		</sentence>
+		<sentence id="35">
+			About(1) the(2) food(3) :(4) do(5) not(6) be(7) fooled(8) by(9) the(10) presence(11) of(12) "(13) a(14) la(15) carte(16) "(17) restaurants(18) .(19) 
+		</sentence>
+		<sentence id="36">
+			They(1) have(2) the(3) same(4) menu(5) of(6) 4(7) items(8) every(9) night(10) ,(11) and(12) 3(13) out(14) of(15) the(16) 4(17) items(18) are(19) some(20) form(21) of(22) "(23) taco(24) "(25) or(26) "(27) burrito(28) "(29) .(30) 
+		</sentence>
+		<sentence id="37">
+			In(1) fact(2) ,(3) they(4) 're(5) exactly(6) the(7) same(8) as(9) what(10) you(11) can(12) get(13) at(14) the(15) taco(16) stand(17) down(18) at(19) the(20) beach(21) ,(22) except(23) that(24) they(25) 're(26) served(27) on(28) a(29) bigger(30) plate(31) .(32) 
+		</sentence>
+		<sentence id="38">
+			Couple(1) more(2) things(3) :(4) The(5) hotel(6) itself(7) is(8) not(9) air(10) conditioned(11) .(12) 
+			<opinion featWords="6" feature="hotel" opWords="9,10,11" polarity="-"/>
+		</sentence>
+		<sentence id="39">
+			The(1) only(2) thing(3) that(4) 's(5) air-conditioned(6) in(7) the(8) hotel(9) are(10) the(11) guest(12) rooms(13) .(14) 
+		</sentence>
+		<sentence id="40">
+			And(1) the(2) pool(3) ...(4) the(5) pool(6) looks(7) okay(8) in(9) the(10) pictures(11) ,(12) and(13) it(14) 's(15) real(16) big(17) ,(18) but(19) the(20) surrounding(21) hotels(22) have(23) pools(24) that(25) are(26) infinitely(27) nicer(28) ,(29) with(30) multiple(31) levels(32) ,(33) waterfalls(34) ,(35) and(36) real(37) deck(38) chairs(39) with(40) cushions(41) instead(42) of(43) just(44) bare(45) plastic(46) .(47) 
+			<opinion featWords="6" feature="swimming pool" opWords="8" polarity="+"/>
+			<opinion featWords="6" feature="swimming pool" opWords="17" polarity="+" potency="16"/>
+		</sentence>
+		<sentence id="41">
+			The(1) TV(2) system(3) also(4) does(5) not(6) allow(7) you(8) to(9) check(10) your(11) account(12) status(13) or(14) watch(15) movies(16) ,(17) even(18) though(19) the(20) TV(21) says(22) "(23) press(24) MENU(25) for(26) account(27) status(28) or(29) in-room(30) movies(31) "(32) .(33) 
+		</sentence>
+		<sentence id="42">
+			The(1) pool(2) /(3) beach(4) also(5) ran(6) out(7) of(8) towels(9) while(10) we(11) were(12) there(13) .(14) 
+		</sentence>
+		<sentence id="43">
+			Oh(1) ,(2) and(3) one(4) day(5) when(6) I(7) was(8) looking(9) forward(10) to(11) a(12) hot(13) shower(14) they(15) ran(16) out(17) of(18) hot(19) water(20) too(21) .(22) 
+		</sentence>
+		<sentence id="44">
+			But(1) I(2) suppose(3) those(4) last(5) two(6) things(7) could(8) happen(9) at(10) any(11) hotel(12) ...(13) Anyways(14) ,(15) besides(16) the(17) hotel(18) ,(19) here(20) 's(21) the(22) verdict(23) on(24) Cancun(25) .(26) 
+		</sentence>
+		<sentence id="45">
+			If(1) looking(2) for(3) a(4) place(5) to(6) party(7) ,(8) go(9) to(10) Cancun(11) during(12) March(13) Break(14) .(15) 
+		</sentence>
+		<sentence id="46">
+			I(1) went(2) in(3) late(4) May(5) ,(6) and(7) it(8) was(9) a(10) rather(11) half-hearted(12) party(13) scene(14) ...(15) clubs(16) were(17) half-empty(18) and(19) the(20) marketplaces(21) during(22) the(23) day(24) were(25) completely(26) empty(27) .(28) 
+		</sentence>
+		<sentence id="47">
+			If(1) you(2) 're(3) not(4) going(5) to(6) party(7) ,(8) i(9) .(10) e(11) .(12) if(13) you(14) 're(15) looking(16) for(17) a(18) relaxing(19) vacation(20) ,(21) do(22) not(23) go(24) to(25) Cancun(26) .(27) 
+		</sentence>
+		<sentence id="48">
+			Cancun(1) is(2) set(3) up(4) for(5) people(6) who(7) want(8) to(9) drink(10) a(11) lot(12) ,(13) get(14) smashed(15) ,(16) and(17) do(18) not(19) care(20) much(21) about(22) the(23) rest(24) .(25) 
+		</sentence>
+		<sentence id="49">
+			I(1) went(2) to(3) the(4) ruins(5) at(6) Chichen(7) Itza(8) and(9) Coba(10) ,(11) and(12) those(13) were(14) the(15) highlight(16) of(17) my(18) trip(19) .(20) 
+		</sentence>
+		<sentence id="50">
+			But(1) the(2) time(3) and(4) money(5) might(6) have(7) been(8) better(9) spent(10) going(11) to(12) Cuba(13) or(14) the(15) Dominican(16) Republic(17) ...(18) a(19) lot(20) cheaper(21) ,(22) and(23) ,(24) from(25) what(26) I(27) hear(28) ,(29) better(30) hotels(31) with(32) better(33) service(34) and(35) better(36) food(37) .(38) 
+		</sentence>
+		<sentence id="51">
+			Anyways(1) ,(2) I(3) hope(4) that(5) wherever(6) you(7) decide(8) to(9) go(10) ,(11) you(12) come(13) back(14) here(15) and(16) write(17) a(18) review(19) .(20) 
+		</sentence>
+		<sentence id="52">
+			Consumers(1) need(2) to(3) share(4) information(5) about(6) their(7) experiences(8) so(9) that(10) other(11) consumers(12) can(13) make(14) informed(15) decisions(16) .(17) 
+		</sentence>
+	</text>
+</review>

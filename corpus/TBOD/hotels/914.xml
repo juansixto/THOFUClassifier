@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="914" item="Crowne Plaza Hotel ORLANDO-UNIVERSAL" rating="5">
+	<title>
+		<sentence id="1">
+			Great(1) Place(2) for(3) Business(4) Stay(5) !(6) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			You(1) are(2) close(3) to(4) all(5) the(6) attractions(7) .(8) 
+		</sentence>
+		<sentence id="2">
+			Right(1) in(2) the(3) heart(4) of(5) things(6) .(7) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			Could(1) not(2) find(3) anything(4) wrong(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			We(1) stay(2) at(3) this(4) hotel(5) for(6) 7(7) days(8) while(9) on(10) business(11) .(12) 
+		</sentence>
+		<sentence id="2">
+			We(1) booked(2) through(3) priceline(4) .(5) 
+		</sentence>
+		<sentence id="3">
+			We(1) arrived(2) late(3) and(4) asked(5) for(6) a(7) king(8) room(9) they(10) did(11) not(12) have(13) any(14) left(15) so(16) they(17) upgraded(18) us(19) to(20) a(21) junior(22) suite(23) .(24) 
+		</sentence>
+		<sentence id="4">
+			It(1) was(2) beautiful(3) !(4) 
+			<opinion feature="rooms" opWords="3" polarity="+"/>
+		</sentence>
+		<sentence id="5">
+			We(1) also(2) had(3) to(4) have(5) packages(6) ship(7) to(8) the(9) hotel(10) for(11) our(12) convention(13) .(14) 
+		</sentence>
+		<sentence id="6">
+			It(1) was(2) 8(3) boxes(4) .(5) 
+		</sentence>
+		<sentence id="7">
+			They(1) where(2) great(3) about(4) it(5) and(6) then(7) after(8) the(9) convention(10) was(11) over(12) I(13) had(14) boxes(15) left(16) to(17) ship(18) back(19) and(20) they(21) where(22) very(23) helpful(24) .(25) 
+		</sentence>
+		<sentence id="8">
+			The(1) only(2) problem(3) I(4) had(5) was(6) that(7) I(8) used(9) the(10) iron(11) and(12) it(13) had(14) a(15) sharp(16) edge(17) on(18) it(19) and(20) it(21) snagged(22) my(23) blouse(24) .(25) 
+		</sentence>
+		<sentence id="9">
+			I(1) talked(2) with(3) the(4) front(5) desk(6) and(7) they(8) made(9) it(10) right(11) .(12) 
+		</sentence>
+		<sentence id="10">
+			I(1) will(2) be(3) staying(4) here(5) again(6) next(7) year(8) for(9) our(10) convention(11) .(12) 
+		</sentence>
+	</text>
+</review>

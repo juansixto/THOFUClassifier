@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="401" item="Ambassador Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			Beauty(1) with(2) a(3) little(4) Beast(5) in(6) it(7) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			The(1) most(2) comfortable(3) and(4) beautiful(5) hotel(6) room(7) I(8) have(9) ever(10) stayed(11) in(12) .(13) 
+			<opinion featWords="7" feature="rooms" opWords="3" polarity="+"/>
+			<opinion featWords="7" feature="rooms" opWords="5" polarity="+"/>
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			They(1) overbooked(2) and(3) had(4) to(5) send(6) me(7) elsewhere(8) the(9) first(10) night(11) .(12) 
+		</sentence>
+	</cons>
+	<bottomLine>
+		<sentence id="1">
+			Best(1) room(2) for(3) the(4) money(5) -(6) makes(7) up(8) for(9) the(10) short(11) walk(12) to(13) the(14) French(15) Quarter(16) action(17) !(18) 
+		</sentence>
+	</bottomLine>
+	<text>
+		<sentence id="1">
+			To(1) be(2) fair(3) ,(4) I(5) did(6) arrive(7) at(8) @(9) 11pm(10) without(11) warning(12) them(13) ,(14) and(15) maybe(16) I(17) should(18) be(19) thankful(20) that(21) my(22) reservation(23) had(24) not(25) been(26) cancelled(27) by(28) that(29) time(30) !(31) 
+		</sentence>
+		<sentence id="2">
+			But(1) yes(2) ,(3) they(4) were(5) overbooked(6) ,(7) and(8) they(9) transported(10) me(11) to(12) a(13) nearby(14) hotel(15) for(16) the(17) night(18) -(19) free(20) of(21) charge(22) ((23) the(24) hotel(25) and(26) transportation(27) )(28) !(29) 
+		</sentence>
+		<sentence id="3">
+			The(1) hotel(2) is(3) a(4) few(5) blocks(6) from(7) Canal(8) Street(9) and(10) the(11) French(12) Quarter(13) so(14) it(15) 's(16) not(17) in(18) the(19) middle(20) of(21) any(22) excitement(23) ,(24) but(25) it(26) 's(27) not(28) a(29) bad(30) walk(31) to(32) the(33) action(34) .(35) 
+		</sentence>
+		<sentence id="4">
+			There(1) is(2) a(3) small(4) restaurant(5) serving(6) New(7) Orleans(8) dishes(9) ,(10) but(11) the(12) rooms(13) are(14) what(15) I(16) will(17) go(18) back(19) for(20) !(21) 
+			<opinion featWords="5" feature="food" opWords="4" polarity="-"/>
+		</sentence>
+		<sentence id="5">
+			You(1) know(2) how(3) most(4) hotel(5) rooms(6) look(7) pretty(8) much(9) the(10) same(11) ((12) drab(13) )(14) no(15) matter(16) what(17) the(18) price(19) ?(20) 
+		</sentence>
+		<sentence id="6">
+			These(1) rooms(2) were(3) beautiful(4) !(5) 
+			<opinion featWords="2" feature="rooms" opWords="4" polarity="+"/>
+		</sentence>
+		<sentence id="7">
+			Dark(1) hardwood(2) floors(3) ,(4) leather(5) recliner(6) ,(7) ceiling(8) fan(9) and(10) the(11) most(12) wonderful(13) fluffy(14) comforter(15) on(16) the(17) bed(18) .(19) 
+			<opinion featWords="3" feature="grounds" opWords="2" polarity="+"/>
+			<opinion featWords="15" feature="bedding" opWords="13" polarity="+"/>
+			<opinion featWords="15" feature="bedding" opWords="14" polarity="+"/>
+		</sentence>
+		<sentence id="8">
+			If(1) given(2) he(3) option(4) of(5) another(6) hotel(7) in(8) the(9) same(10) price(11) range(12) ,(13) I(14) would(15) choose(16) the(17) Ambassador(18) for(19) the(20) rooms(21) .(22) 
+		</sentence>
+		<sentence id="9">
+			Even(1) if(2) you(3) spend(4) most(5) of(6) your(7) time(8) out(9) on(10) the(11) town(12) ,(13) that(14) bed(15) is(16) a(17) great(18) thing(19) to(20) come(21) back(22) to(23) !(24) 
+		</sentence>
+	</text>
+</review>

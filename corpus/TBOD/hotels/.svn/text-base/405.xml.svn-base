@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><review id="405" item="Ameritania Hotel" rating="3">
+	<title>
+		<sentence id="1">
+			lack(1) of(2) enthusiasm(3) 
+		</sentence>
+	</title>
+	<pros>
+		<sentence id="1">
+			location(1) 
+		</sentence>
+	</pros>
+	<cons>
+		<sentence id="1">
+			cold(1) people(2) at(3) the(4) reception(5) 
+		</sentence>
+	</cons>
+	<text>
+		<sentence id="1">
+			I(1) have(2) been(3) there(4) last(5) summer(6) for(7) 5(8) days(9) .(10) 
+		</sentence>
+		<sentence id="2">
+			The(1) hotel(2) location(3) was(4) great(5) ,(6) but(7) this(8) is(9) the(10) only(11) thing(12) I(13) really(14) liked(15) .(16) 
+			<opinion featWords="3" feature="place" opWords="5" polarity="+"/>
+		</sentence>
+		<sentence id="3">
+			The(1) rest(2) was(3) without(4) praise(5) or(6) blame(7) .(8) 
+		</sentence>
+		<sentence id="4">
+			People(1) at(2) the(3) reception(4) appeared(5) like(6) if(7) they(8) do(9) not(10) like(11) their(12) work(13) very(14) much(15) ....(16) the(17) welcome(18) has(19) been(20) pretty(21) cold(22) and(23) there(24) was(25) a(26) general(27) lack(28) of(29) enthusiasm(30) .(31) 
+		</sentence>
+		<sentence id="5">
+			My(1) room(2) was(3) sufficiently(4) comfortable(5) ,(6) but(7) the(8) curtain(9) was(10) damaged(11) and(12) I(13) could(14) not(15) close(16) it(17) completely(18) .(19) 
+			<opinion featWords="2" feature="rooms" opWords="5" polarity="+" potency="4"/>
+		</sentence>
+		<sentence id="6">
+			Not(1) a(2) tragedy(3) ,(4) but(5) I(6) understood(7) they(8) do(9) not(10) take(11) care(12) of(13) details(14) too(15) much(16) .(17) 
+		</sentence>
+		<sentence id="7">
+			S.(1) Leoni(2) -(3) Italy(4) 
+		</sentence>
+	</text>
+</review>
