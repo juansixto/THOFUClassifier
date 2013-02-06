@@ -29,29 +29,29 @@ import edu.stanford.nlp.util.CoreMap;
 public class CorpusTestGenerator {
 
 	private final static String[] NEGATION_TOKENS = {"not", "nt", "neither", "nor"};
-	static int TestSplit = 10; //%
-	int Num_Test = 0;
-	int Num_Train = 0;
+	static int testSplit = 10; //%
+	int numTest = 0;
+	int numTrain = 0;
 	TaxonomyClass myTC = new TaxonomyClass();
-	List<String> RoomSentences = new ArrayList<String>();
-	List<String> ServiceSentences = new ArrayList<String>();
-	List<String> StaffSentences = new ArrayList<String>();
-	List<String> FacilitiesSentences = new ArrayList<String>();
+	List<String> roomSentences = new ArrayList<String>();
+	List<String> serviceSentences = new ArrayList<String>();
+	List<String> staffSentences = new ArrayList<String>();
+	List<String> facilitiesSentences = new ArrayList<String>();
 
 
 	public String generate(Corpus corpus) throws IOException{
 		String generatorData = "";
 
-		int CorpusMax= (corpus.size())*TestSplit/100;
+		int corpusMax= (corpus.size())*testSplit/100;
 		QWordNetDB qwordnet = QWordNetDB.createInstance();
-		int Num_Test = 0;
-		int Num_Train = 0;
+		int numTest = 0;
+		int numTrain = 0;
 		Properties props = new Properties();
 		props.put("annotators", "tokenize, ssplit, pos, lemma");
-		String  tFichero = "data/THOFUDemo.test";
-		String  trFichero = "data/THOFUDemo.train";
-		File  TrainFile = new File (trFichero);
-		File  TestFile = new File (tFichero);
+		String  testFilePath = "data/THOFUDemo.test";
+		String  trainFilePath = "data/THOFUDemo.train";
+		File  trainFile = new File (trainFilePath);
+		File  testFile = new File (testFilePath);
 
 
 		StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
@@ -167,26 +167,26 @@ public class CorpusTestGenerator {
 
 
 
-			if ((rnd > TestSplit) &&( Num_Test <=CorpusMax)){
-				BufferedWriter  trainf = new BufferedWriter (new FileWriter (TrainFile));
+			if ((rnd > testSplit) &&( numTest <=corpusMax)){
+				BufferedWriter  trainf = new BufferedWriter (new FileWriter (trainFile));
 				trainf.write(doc.getClassification() +"	" +temp+"\n");
 				trainf.close();	
-				Num_Train++;
+				numTrain++;
 			} else{
-				BufferedWriter  testf = new BufferedWriter (new FileWriter (TestFile));
+				BufferedWriter  testf = new BufferedWriter (new FileWriter (testFile));
 				testf.write(doc.getClassification() +"	" +temp+"\n");
 				testf.close();
-				Num_Test++;}
+				numTest++;}
 
 
 		}
 
-		String resp = "Total items: " + (Num_Test+Num_Train) + " Total test items: " + Num_Test + " Total train items: " + Num_Train ;
-		System.out.println(CorpusMax);
+		String resp = "Total items: " + (numTest+numTrain) + " Total test items: " + numTest + " Total train items: " + numTrain ;
+		System.out.println(corpusMax);
 		System.out.println("Data files created");
-		System.out.println("Total items: " + (Num_Test+Num_Train));
-		System.out.println("Total test items: " + Num_Test);
-		System.out.println("Total train items: " + Num_Train);
+		System.out.println("Total items: " + (numTest+numTrain));
+		System.out.println("Total test items: " + numTest);
+		System.out.println("Total train items: " + numTrain);
 
 
 		return resp;
@@ -195,19 +195,19 @@ public class CorpusTestGenerator {
 	public void printResults(){
 
 		System.out.println("Data files created");
-		System.out.println("Total items: " + (this.Num_Test + this.Num_Train));
-		System.out.println("Total test items: " + this.Num_Test);
-		System.out.println("Total train items: " + this.Num_Train);
+		System.out.println("Total items: " + (this.numTest + this.numTrain));
+		System.out.println("Total test items: " + this.numTest);
+		System.out.println("Total train items: " + this.numTrain);
 	}
 
 
 
 	public String generateSentence(String INsentence) throws IOException
 	{
-		this.RoomSentences = new ArrayList<String>();
-		this.ServiceSentences = new ArrayList<String>();
-		this.StaffSentences = new ArrayList<String>();
-		this.FacilitiesSentences = new ArrayList<String>();
+		this.roomSentences = new ArrayList<String>();
+		this.serviceSentences = new ArrayList<String>();
+		this.staffSentences = new ArrayList<String>();
+		this.facilitiesSentences = new ArrayList<String>();
 
 		QWordNetDB qwordnet = QWordNetDB.createInstance();
 
@@ -334,16 +334,16 @@ public class CorpusTestGenerator {
 
 			}
 			if(roomFeat){
-				this.RoomSentences.add(sentence.toString());
+				this.roomSentences.add(sentence.toString());
 			}
 			if(serviceFeat){
-				this.ServiceSentences.add(sentence.toString());
+				this.serviceSentences.add(sentence.toString());
 			}
 			if(staffFeat){
-				this.StaffSentences.add(sentence.toString());
+				this.staffSentences.add(sentence.toString());
 			}
 			if(facilityFeat){
-				this.FacilitiesSentences.add(sentence.toString());
+				this.facilitiesSentences.add(sentence.toString());
 			}
 		}
 
