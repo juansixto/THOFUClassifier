@@ -134,9 +134,11 @@ public class QWordNetDB {
 		} else return 0;
 	}
 	
+	/* I suppose that this was used to do some kind of testing, now we will test it using jUnit
 	public static void main(String[] args) {
 		QWordNetDB qwordnet = new QWordNetDB();
 		qwordnet.load();
 
 	}
+	*/
 }
