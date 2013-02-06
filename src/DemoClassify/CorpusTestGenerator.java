@@ -40,7 +40,7 @@ public class CorpusTestGenerator {
 	List<String> FacilitiesSentences = new ArrayList<String>();
 
 
-	public String Generate(Corpus corpus) throws IOException{
+	public String generate(Corpus corpus) throws IOException{
 		//int max = 0; NOT USED, DELETE?
 		//int featC = 0; NOT USED, DELETE?
 		String generatorData = "";
@@ -195,7 +195,7 @@ public class CorpusTestGenerator {
 		return resp;
 	}
 
-	public void PrintResults(){
+	public void printResults(){
 
 		System.out.println("Data files created");
 		System.out.println("Total items: " + (this.Num_Test + this.Num_Train));
@@ -205,10 +205,8 @@ public class CorpusTestGenerator {
 
 
 
-	public String GenerateSentence(String INsentence) throws IOException
+	public String generateSentence(String INsentence) throws IOException
 	{
-
-
 		this.RoomSentences = new ArrayList<String>();
 		this.ServiceSentences = new ArrayList<String>();
 		this.StaffSentences = new ArrayList<String>();
@@ -342,13 +340,7 @@ public class CorpusTestGenerator {
 		}
 
 		String temp = featureCounter.toString();
-
-
 		String resp = "AA" + "	" +temp;
-
-
-
-
 
 		return resp;
 	}

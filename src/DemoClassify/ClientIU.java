@@ -346,7 +346,7 @@ public class ClientIU {
 			public void actionPerformed(ActionEvent arg0) {
 				try {
 					String Sentence = ClientIU.this.TextPanel.getText();
-					Sentence = ClientIU.this.myCTG.GenerateSentence(Sentence);
+					Sentence = ClientIU.this.myCTG.generateSentence(Sentence);
 					
 					String resp = "";
 					resp = ClientIU.this.ct.GetClassify(Sentence);
@@ -363,7 +363,7 @@ public class ClientIU {
 					ClientIU.this.editorPane2.setText(ClientIU.this.myCTG.ServiceSentences.toString());
 					ClientIU.this.editorPane3.setText(ClientIU.this.myCTG.StaffSentences.toString());
 					ClientIU.this.editorPane4.setText(ClientIU.this.myCTG.FacilitiesSentences.toString());
-					Sentence = ClientIU.this.myCTG.GenerateSentence(ClientIU.this.editorPane.getText());
+					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane.getText());
 					resp = ClientIU.this.ct.GetClassify(Sentence);
 					if (resp.contains("POSITIVE"))
 					{	
@@ -373,7 +373,7 @@ public class ClientIU {
 					{	
 						ClientIU.this.label_room.setIcon(ClientIU.this.iconPoor);
 					}
-					Sentence = ClientIU.this.myCTG.GenerateSentence(ClientIU.this.editorPane2.getText());
+					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane2.getText());
 					resp = ClientIU.this.ct.GetClassify(Sentence);
 					if (resp.contains("POSITIVE"))
 					{	
@@ -384,7 +384,7 @@ public class ClientIU {
 						ClientIU.this.label_service.setIcon(ClientIU.this.iconPoor);
 					}
 					
-					Sentence = ClientIU.this.myCTG.GenerateSentence(ClientIU.this.editorPane3.getText());
+					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane3.getText());
 					resp = ClientIU.this.ct.GetClassify(Sentence);
 					if (resp.contains("POSITIVE"))
 					{	
@@ -395,7 +395,7 @@ public class ClientIU {
 						ClientIU.this.label_staff.setIcon(ClientIU.this.iconPoor);
 					}
 					
-					Sentence = ClientIU.this.myCTG.GenerateSentence(ClientIU.this.editorPane4.getText());
+					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane4.getText());
 					resp = ClientIU.this.ct.GetClassify(Sentence);
 					if (resp.contains("POSITIVE"))
 					{	
@@ -426,7 +426,7 @@ public class ClientIU {
 			
 			//Generate the corpus (.train y .test)
 			this.myCTG = new CorpusTestGenerator();
-			this.myCTG.Generate(corpus);
+			this.myCTG.generate(corpus);
 			
 			//Create the trainer
 			this.ct = new ClassifyTrainer("data/THOFUDemo.prop");
