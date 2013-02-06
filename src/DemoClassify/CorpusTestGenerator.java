@@ -26,7 +26,6 @@ import edu.stanford.nlp.stats.ClassicCounter;
 import edu.stanford.nlp.util.CoreMap;
 
 
-
 public class CorpusTestGenerator {
 
 	private final static String[] NEGATION_TOKENS = {"not", "nt", "neither", "nor"};
@@ -41,8 +40,6 @@ public class CorpusTestGenerator {
 
 
 	public String generate(Corpus corpus) throws IOException{
-		//int max = 0; NOT USED, DELETE?
-		//int featC = 0; NOT USED, DELETE?
 		String generatorData = "";
 
 		int CorpusMax= (corpus.size())*TestSplit/100;
@@ -184,7 +181,7 @@ public class CorpusTestGenerator {
 
 		}
 
-		String resp = "Total items: " + (Num_Test+Num_Train) + "Total test items: " + Num_Test + "Total train items: " + Num_Train ;
+		String resp = "Total items: " + (Num_Test+Num_Train) + " Total test items: " + Num_Test + " Total train items: " + Num_Train ;
 		System.out.println(CorpusMax);
 		System.out.println("Data files created");
 		System.out.println("Total items: " + (Num_Test+Num_Train));
@@ -255,10 +252,21 @@ public class CorpusTestGenerator {
 				String word = token.get(TextAnnotation.class).toLowerCase();
 				String wordPos = token.get(PartOfSpeechAnnotation.class);
 
-				if(this.myTC.searchFeature(word,0)){ roomFeat = true;}
-				if(this.myTC.searchFeature(word,1)){ serviceFeat = true;}
-				if(this.myTC.searchFeature(word,2)){ staffFeat = true;}
-				if(this.myTC.searchFeature(word,3)){ facilityFeat = true;}
+				if(this.myTC.searchFeature(word,0)){ 
+					roomFeat = true;
+				}
+				
+				if(this.myTC.searchFeature(word,1)){ 
+					serviceFeat = true;
+				}
+				
+				if(this.myTC.searchFeature(word,2)){ 
+					staffFeat = true;
+				}
+				
+				if(this.myTC.searchFeature(word,3)){ 
+					facilityFeat = true;
+				}
 
 				boolean located = false;
 				if(wordPos.startsWith("NN") || wordPos.startsWith("JJ") || wordPos.startsWith("RB")) {
