@@ -161,11 +161,4 @@ public class TBODCorpusLoader implements CorpusLoader {
 			return this.pattern.matcher(name).matches();
 		}	
 	}
-	
-	/* I suppose that this was used to do some tests, now test will be done using jUnit
-	public static void main(String[] args) throws CorpusLoaderException {
-		//final TBODCorpusLoader loader = new TBODCorpusLoader(LabelSet.FIVE_LABEL); NOT USED, DELETE?
-		//final Corpus corpus = loader.load(); NOT USED, DELETE?
-	}
-	*/
 }
