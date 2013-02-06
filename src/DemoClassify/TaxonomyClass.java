@@ -12,59 +12,45 @@ import org.jdom2.JDOMException;
 import org.jdom2.input.SAXBuilder;
 
 
-
 public class TaxonomyClass {
 
 	private final static String TAXONOMY_PATH = "data/THOFUTaxonomy.xml";
+	private final static String ITEM = "item";
+	private final static String FEAT_WORDS = "featWords";
+	private final static String SEPARATOR = "item";
 	
-/*	NOT USED, DELETE?
- 
-	private final static String TAXONOMY_NODE = "taxonomy";
-	private final static String ITEM_NODE = "Item";
-	private final static String FEATURE_NODE = "feature";
-	private final static String WORDS_NODE = "featWords";
-*/
-	
-	private final List<List<String>> feats = new ArrayList<List<String>>();
+	private final List<List<String>> features = new ArrayList<List<String>>();
 
 
 	public TaxonomyClass(){
-		this.GenerateTaxonomy();
+		this.generateTaxonomy();
 	}
 
-	public void GenerateTaxonomy(){
+	public void generateTaxonomy(){
 		
 		SAXBuilder builder = new SAXBuilder();
 		File xmlFile = new File(TAXONOMY_PATH);
 		try {
-			//Se crea el documento a traves del archivo
 	        Document document = (Document) builder.build(xmlFile);
 	 
-	        //Se obtiene la raiz 'tables'
+	        //get the root of 'tables'
 	        Element rootNode = document.getRootElement();
 	 
-	        //Se obtiene la lista de hijos de la raiz 'Item'
-	        List<Element> list = rootNode.getChildren( "Item" );
+	        List<Element> list = rootNode.getChildren(ITEM);
 	        for ( int i = 0; i < list.size(); i++ )
 	        {
-	            Element item = (Element) list.get(i);
-	 
-	            //String nameItem = item.getAttributeValue("name"); NOT USED, DELETE?
-	 
-	 
+	            Element item = (Element) list.get(i);	 
+	        
 	            List<Element> list_features = item.getChildren();
-	 
 	 
 	            List<String> myList = new ArrayList<String>();
 	            for ( int j = 0; j < list_features.size(); j++ )
 	            {
 	                Element feature = (Element)list_features.get( j );
 
-	                //String Sname = feature.getAttributeValue("name");  NOT USED, DELETE?
-
-	                String Sfeats = feature.getAttributeValue("featWords");
+	                String Sfeats = feature.getAttributeValue(FEAT_WORDS);
 	                
-	                StringTokenizer st = new StringTokenizer(Sfeats, ",");
+	                StringTokenizer st = new StringTokenizer(Sfeats, SEPARATOR);
 	                while(st.hasMoreTokens()) {
 
 	                	   String Sfeat = st.nextToken();               	 
@@ -72,7 +58,7 @@ public class TaxonomyClass {
 	                	   myList.add(Sfeat);
 	                	   }
 	               }
-	            this.feats.add(myList);
+	            this.features.add(myList);
 	        }
 	    }catch ( IOException io ) {
 	        System.out.println( io.getMessage() );
@@ -81,10 +67,10 @@ public class TaxonomyClass {
 	    }
 	}
 	
-	public boolean SearchFeature(String word, int n){
+	public boolean searchFeature(String word, int n){
 		boolean resp = false;
 		List<String> mList = new ArrayList<String>();
-		mList = this.feats.get(n);
+		mList = this.features.get(n);
 		  for ( int j = 0; j < mList.size(); j++ )
           {
 			  if(word.contentEquals(mList.get(j))){
@@ -92,18 +78,17 @@ public class TaxonomyClass {
 				  break;
 			  }
           }
-		
-		
+		  
 		return resp;
 	}
 	
-	public boolean SearchAllFeature(String word){
+	public boolean searchAllFeatures(String word){
 		boolean resp = false;
 		List<String> mList = new ArrayList<String>();
-		mList = this.feats.get(0);
-		mList.addAll(this.feats.get(1));
-		mList.addAll(this.feats.get(2));
-		mList.addAll(this.feats.get(3));
+		mList = this.features.get(0);
+		mList.addAll(this.features.get(1));
+		mList.addAll(this.features.get(2));
+		mList.addAll(this.features.get(3));
 		  for ( int j = 0; j < mList.size(); j++ )
           {
 			  if(word.contentEquals(mList.get(j))){

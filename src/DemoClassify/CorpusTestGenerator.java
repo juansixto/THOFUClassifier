@@ -257,10 +257,10 @@ public class CorpusTestGenerator {
 				String word = token.get(TextAnnotation.class).toLowerCase();
 				String wordPos = token.get(PartOfSpeechAnnotation.class);
 
-				if(this.myTC.SearchFeature(word,0)){ roomFeat = true;}
-				if(this.myTC.SearchFeature(word,1)){ serviceFeat = true;}
-				if(this.myTC.SearchFeature(word,2)){ staffFeat = true;}
-				if(this.myTC.SearchFeature(word,3)){ facilityFeat = true;}
+				if(this.myTC.searchFeature(word,0)){ roomFeat = true;}
+				if(this.myTC.searchFeature(word,1)){ serviceFeat = true;}
+				if(this.myTC.searchFeature(word,2)){ staffFeat = true;}
+				if(this.myTC.searchFeature(word,3)){ facilityFeat = true;}
 
 				boolean located = false;
 				if(wordPos.startsWith("NN") || wordPos.startsWith("JJ") || wordPos.startsWith("RB")) {
