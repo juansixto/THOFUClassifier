@@ -18,22 +18,22 @@ public class QWordNetDB {
 	private HashMap<String, String> posMappings = new HashMap<String, String>();
 	
 	private QWordNetDB() {
-		posMappings.put("JJ", "a");
-		posMappings.put("JJR", "a");
-		posMappings.put("JJS", "a");
-		posMappings.put("NN", "n");
-		posMappings.put("NNS", "n");
-		posMappings.put("NP", "n");
-		posMappings.put("NPS", "n");
-		posMappings.put("RB", "r");
-		posMappings.put("RBR", "r");
-		posMappings.put("RBS", "r");
-		posMappings.put("VB", "v");
-		posMappings.put("VBD", "v");
-		posMappings.put("VBG", "v");
-		posMappings.put("VBN", "v");
-		posMappings.put("VBP", "v");
-		posMappings.put("VBZ", "v");
+		this.posMappings.put("JJ", "a");
+		this.posMappings.put("JJR", "a");
+		this.posMappings.put("JJS", "a");
+		this.posMappings.put("NN", "n");
+		this.posMappings.put("NNS", "n");
+		this.posMappings.put("NP", "n");
+		this.posMappings.put("NPS", "n");
+		this.posMappings.put("RB", "r");
+		this.posMappings.put("RBR", "r");
+		this.posMappings.put("RBS", "r");
+		this.posMappings.put("VB", "v");
+		this.posMappings.put("VBD", "v");
+		this.posMappings.put("VBG", "v");
+		this.posMappings.put("VBN", "v");
+		this.posMappings.put("VBP", "v");
+		this.posMappings.put("VBZ", "v");
 	}
 	
 	public static QWordNetDB createInstance() {
@@ -47,15 +47,15 @@ public class QWordNetDB {
 		private int negCount = 0;
 		
 		private void incrementPositive() {
-			posCount++;
+			this.posCount++;
 		}
 		
 		private void incrementNegative() {
-			negCount++;
+			this.negCount++;
 		}
 		
 		private int getPolarity() {
-			if(posCount < negCount){
+			if(this.posCount < this.negCount){
 				return -1;
 			} else return 1; 
 
@@ -78,35 +78,35 @@ public class QWordNetDB {
 		@Override
 		public void startElement(String uri, String lName, String qName, Attributes attributes) throws SAXException {
 			if(qName.equals(SENSE_TAG)) {
-				polarity = attributes.getValue(SENSE_POLARITY_ATTRIBUTE);
-				pos = attributes.getValue(SENSE_PART_OF_SPEECH_ATTRIBUTE);
-				if(pos.equals("s")) {
-					pos = "a";
+				this.polarity = attributes.getValue(SENSE_POLARITY_ATTRIBUTE);
+				this.pos = attributes.getValue(SENSE_PART_OF_SPEECH_ATTRIBUTE);
+				if(this.pos.equals("s")) {
+					this.pos = "a";
 				}
 			} else if(qName.equals(LEMMA_TAG)) {
-				text = new StringBuilder();
+				this.text = new StringBuilder();
 			}
 		}
 		
 		@Override
 		public void endElement(String uri, String lName, String qName) throws SAXException {
 			if(qName.equals(LEMMA_TAG)) {
-				String index = text.append(".").append(pos).toString();
-				if(!polarities.containsKey(index)) {
-					polarities.put(index, new QWordNetPolarityCounter());
+				final String index = this.text.append(".").append(this.pos).toString();
+				if(!QWordNetDB.this.polarities.containsKey(index)) {
+					QWordNetDB.this.polarities.put(index, new QWordNetPolarityCounter());
 				}
 				
-				if(polarity.equals(SENSE_POSITIVE_POLARITY_VALUE)) {
-					polarities.get(index).incrementPositive();
+				if(this.polarity.equals(SENSE_POSITIVE_POLARITY_VALUE)) {
+					QWordNetDB.this.polarities.get(index).incrementPositive();
 				} else {
-					polarities.get(index).incrementNegative();
+					QWordNetDB.this.polarities.get(index).incrementNegative();
 				}
 			}
 		}
 		
 		@Override
 		public void characters(char[] chars, int start, int length) throws SAXException {
-			text.append(chars, start, length);
+			this.text.append(chars, start, length);
 		}
 	}
 	
@@ -126,10 +126,10 @@ public class QWordNetDB {
 	}
 	
 	public int getPolarity(final String lemma, String pos) {
-		if(posMappings.containsKey(pos)) {
-			String index = lemma + "." + posMappings.get(pos);
-			if(polarities.containsKey(index)) {
-				return polarities.get(index).getPolarity();
+		if(this.posMappings.containsKey(pos)) {
+			final String index = lemma + "." + this.posMappings.get(pos);
+			if(this.polarities.containsKey(index)) {
+				return this.polarities.get(index).getPolarity();
 			} else return 0;
 		} else return 0;
 	}

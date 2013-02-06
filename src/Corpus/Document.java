@@ -13,13 +13,13 @@ public class Document {
 	}
 	
 	public String getClassification() {
-		return classification;
+		return this.classification;
 	}
 	
 	public String getText() {
-		return text;
+		return this.text;
 	}
 	public String getRating() {
-		return rating;
+		return this.rating;
 	}
 }

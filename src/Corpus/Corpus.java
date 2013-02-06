@@ -17,67 +17,67 @@ public class Corpus implements Collection<Document>, Iterable<Document>{
 
 	@Override
 	public boolean add(Document arg0) {
-		return documents.add(arg0);
+		return this.documents.add(arg0);
 	}
 
 	@Override
 	public boolean addAll(Collection<? extends Document> arg0) {
-		return documents.addAll(arg0);
+		return this.documents.addAll(arg0);
 	}
 
 	@Override
 	public void clear() {
-		documents.clear();
+		this.documents.clear();
 	}
 
 	@Override
 	public boolean contains(Object arg0) {
-		return documents.contains(arg0);
+		return this.documents.contains(arg0);
 	}
 
 	@Override
 	public boolean containsAll(Collection<?> arg0) {
-		return documents.containsAll(arg0);
+		return this.documents.containsAll(arg0);
 	}
 
 	@Override
 	public boolean isEmpty() {
-		return documents.isEmpty();
+		return this.documents.isEmpty();
 	}
 
 	@Override
 	public Iterator<Document> iterator() {
-		return documents.iterator();
+		return this.documents.iterator();
 	}
 
 	@Override
 	public boolean remove(Object arg0) {
-		return documents.remove(arg0);
+		return this.documents.remove(arg0);
 	}
 
 	@Override
 	public boolean removeAll(Collection<?> arg0) {
-		return documents.removeAll(arg0);
+		return this.documents.removeAll(arg0);
 	}
 
 	@Override
 	public boolean retainAll(Collection<?> arg0) {
-		return documents.removeAll(arg0);
+		return this.documents.removeAll(arg0);
 	}
 
 	@Override
 	public int size() {
-		return documents.size();
+		return this.documents.size();
 	}
 
 	@Override
 	public Object[] toArray() {
-		return documents.toArray();
+		return this.documents.toArray();
 	}
 
 	@Override
 	public <T> T[] toArray(T[] arg0) {
-		return documents.toArray(arg0);
+		return this.documents.toArray(arg0);
 	}
 	
 }

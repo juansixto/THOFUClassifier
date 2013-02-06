@@ -6,7 +6,6 @@ import java.io.FileInputStream;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.charset.Charset;
 import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Vector;
@@ -20,11 +19,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
-
-import Corpus.Corpus;
-import Corpus.CorpusLoader;
-import Corpus.CorpusLoaderException;
-import Corpus.Document;
 
 public class TBODCorpusLoader implements CorpusLoader {
 	private final static String CORPUS_PATH = "corpus/TBOD/hotels";
@@ -55,28 +49,28 @@ public class TBODCorpusLoader implements CorpusLoader {
 	
 	public TBODCorpusLoader(final LabelSet labelSet) {
 		if(labelSet == LabelSet.TWO_LABEL) {
-			labelMappings.put("1", POOR_LABEL);
-			labelMappings.put("2", POOR_LABEL);
-			labelMappings.put("3", GOOD_LABEL);
-			labelMappings.put("4", GOOD_LABEL);
-			labelMappings.put("5", GOOD_LABEL);
-			ratingMappings.put("1", VERY_POOR_LABEL);
-			ratingMappings.put("2", POOR_LABEL);
-			ratingMappings.put("3", FAIR_LABEL);
-			ratingMappings.put("4", GOOD_LABEL);
-			ratingMappings.put("5", VERY_GOOD_LABEL);
+			this.labelMappings.put("1", POOR_LABEL);
+			this.labelMappings.put("2", POOR_LABEL);
+			this.labelMappings.put("3", GOOD_LABEL);
+			this.labelMappings.put("4", GOOD_LABEL);
+			this.labelMappings.put("5", GOOD_LABEL);
+			this.ratingMappings.put("1", VERY_POOR_LABEL);
+			this.ratingMappings.put("2", POOR_LABEL);
+			this.ratingMappings.put("3", FAIR_LABEL);
+			this.ratingMappings.put("4", GOOD_LABEL);
+			this.ratingMappings.put("5", VERY_GOOD_LABEL);
 		} else if(labelSet == LabelSet.THREE_LABEL) {
-			labelMappings.put("1", POOR_LABEL);
-			labelMappings.put("2", POOR_LABEL);
-			labelMappings.put("3", FAIR_LABEL);
-			labelMappings.put("4", GOOD_LABEL);
-			labelMappings.put("5", GOOD_LABEL);
+			this.labelMappings.put("1", POOR_LABEL);
+			this.labelMappings.put("2", POOR_LABEL);
+			this.labelMappings.put("3", FAIR_LABEL);
+			this.labelMappings.put("4", GOOD_LABEL);
+			this.labelMappings.put("5", GOOD_LABEL);
 		} else {
-			labelMappings.put("1", VERY_POOR_LABEL);
-			labelMappings.put("2", POOR_LABEL);
-			labelMappings.put("3", FAIR_LABEL);
-			labelMappings.put("4", GOOD_LABEL);
-			labelMappings.put("5", VERY_GOOD_LABEL);
+			this.labelMappings.put("1", VERY_POOR_LABEL);
+			this.labelMappings.put("2", POOR_LABEL);
+			this.labelMappings.put("3", FAIR_LABEL);
+			this.labelMappings.put("4", GOOD_LABEL);
+			this.labelMappings.put("5", VERY_GOOD_LABEL);
 		}
 	}
 	
@@ -95,8 +89,8 @@ public class TBODCorpusLoader implements CorpusLoader {
 				for(final File documentFile: documentFiles) {
 					try {
 						org.w3c.dom.Document xmlDocument = builder.parse(new InputSource(new BufferedReader ( new InputStreamReader( new FileInputStream(documentFile), "UTF-8"))));
-						final String rating = labelMappings.get(xmlDocument.getDocumentElement().getAttribute(RATING_ATTRIBUTE));
-						final String fiverat = ratingMappings.get(xmlDocument.getDocumentElement().getAttribute(RATING_ATTRIBUTE));
+						final String rating = this.labelMappings.get(xmlDocument.getDocumentElement().getAttribute(RATING_ATTRIBUTE));
+						final String fiverat = this.ratingMappings.get(xmlDocument.getDocumentElement().getAttribute(RATING_ATTRIBUTE));
 						
 						if(!rating.equals(DISCARD_LABEL)) {
 							final NodeList titlesNodes = ((Element)xmlDocument.getDocumentElement().getElementsByTagName(TITLE_NODE).item(0)).getElementsByTagName(SENTENCE_NODE);
@@ -164,15 +158,12 @@ public class TBODCorpusLoader implements CorpusLoader {
 		
 		@Override
 		public boolean accept(File dir, String name) {
-			return pattern.matcher(name).matches();
+			return this.pattern.matcher(name).matches();
 		}	
 	}
 	
 	public static void main(String[] args) throws CorpusLoaderException {
-		final TBODCorpusLoader loader = new TBODCorpusLoader(LabelSet.FIVE_LABEL);
-		final Corpus corpus = loader.load();
-		
-
-		
+		//final TBODCorpusLoader loader = new TBODCorpusLoader(LabelSet.FIVE_LABEL); NOT USED, DELETE?
+		//final Corpus corpus = loader.load(); NOT USED, DELETE?
 	}
 }

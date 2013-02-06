@@ -5,8 +5,9 @@ public class myResult {
 	private String calcRes;
 	private String oriRes;
 	private double res;
+	
 	public double getRes() {
-		return res;
+		return this.res;
 	}
 	public void setRes(double res) {
 		this.res = res;
@@ -27,13 +28,13 @@ public class myResult {
 		this.oriRes = "";
 	}
 	public String getCalcRes() {
-		return calcRes;
+		return this.calcRes;
 	}
 	public void setCalcRes(String calcRes) {
 		this.calcRes = calcRes;
 	}
 	public String getOriRes() {
-		return oriRes;
+		return this.oriRes;
 	}
 	public void setOriRes(String oriRes) {
 		this.oriRes = oriRes;
