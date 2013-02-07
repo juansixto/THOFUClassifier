@@ -12,7 +12,9 @@ import edu.stanford.nlp.stats.Counter;
 
 public class ClassifyTrainer {
 	
-	public final static String PROP_FILE_PATH = ("data/THOFUDemo.prop");
+	public final static String PROP_FILE_PATH = "data/THOFUDemo.prop";
+	public final static String POSITIVE = "POSITIVE";
+	public final static String NEGATIVE = "NEGATIVE";
 
 
 	ColumnDataClassifier cdc;
@@ -31,8 +33,8 @@ public class ClassifyTrainer {
 		this.cl =this.cdc.makeClassifier(this.cdc.readTrainingExamples(string));
 	}
 
-	public List<myResult> setTest(String string) throws IOException {
-		List<myResult> ListRating = new ArrayList<myResult>();
+	public List<MyResult> setTest(String string) throws IOException {
+		List<MyResult> ListRating = new ArrayList<MyResult>();
 
 		for (String line : ObjectBank.getLineIterator(string)) {
 			Datum<String,String> d = this.cdc.makeDatumFromLine(line, 0);
@@ -43,7 +45,7 @@ public class ClassifyTrainer {
 
 			double i=Double.parseDouble(resultado);
 			String res = Double.toString(i);
-			myResult mr = new myResult(res,"");
+			MyResult mr = new MyResult(res,"");
 			ListRating.add(mr);
 			if(line.substring(0,4).contains(this.cl.classOf(d)))
 			{
@@ -71,10 +73,10 @@ public class ClassifyTrainer {
 		resp = (this.cl.classOf(d)).toString();
 
 		if(resp.contains("PR")){
-			resp = "NEGATIVE";
+			resp = NEGATIVE;
 		}
 		else if(resp.contains("GD")){
-			resp = "POSITIVE";
+			resp = POSITIVE;
 		}
 
 

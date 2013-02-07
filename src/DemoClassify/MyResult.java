@@ -1,6 +1,6 @@
 package DemoClassify;
 
-public class myResult {
+public class MyResult {
 
 	private String calcRes;
 	private String oriRes;
@@ -12,17 +12,17 @@ public class myResult {
 	public void setRes(double res) {
 		this.res = res;
 	}
-	public myResult(String calcRes, String oriRes) {
+	public MyResult(String calcRes, String oriRes) {
 		super();
 		this.calcRes = calcRes;
 		this.oriRes = oriRes;
 	}
-	public myResult(String oriRes) {
+	public MyResult(String oriRes) {
 		super();
 		this.calcRes = "";
 		this.oriRes = oriRes;
 	}
-	public myResult() {
+	public MyResult() {
 		super();
 		this.calcRes = "";
 		this.oriRes = "";

@@ -345,11 +345,11 @@ public class ClientIU {
 		this.btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				try {
-					String Sentence = ClientIU.this.TextPanel.getText();
-					Sentence = ClientIU.this.myCTG.generateSentence(Sentence);
+					String sentence = ClientIU.this.TextPanel.getText();
+					sentence = ClientIU.this.myCTG.generateSentence(sentence);
 					
 					String resp = "";
-					resp = ClientIU.this.ct.getClassify(Sentence);
+					resp = ClientIU.this.ct.getClassify(sentence);
 					ClientIU.this.lblResultNegative.setText(resp);
 					if (resp.contains("POSITIVE"))
 					{	
@@ -363,8 +363,8 @@ public class ClientIU {
 					ClientIU.this.editorPane2.setText(ClientIU.this.myCTG.serviceSentences.toString());
 					ClientIU.this.editorPane3.setText(ClientIU.this.myCTG.staffSentences.toString());
 					ClientIU.this.editorPane4.setText(ClientIU.this.myCTG.facilitiesSentences.toString());
-					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane.getText());
-					resp = ClientIU.this.ct.getClassify(Sentence);
+					sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane.getText());
+					resp = ClientIU.this.ct.getClassify(sentence);
 					if (resp.contains("POSITIVE"))
 					{	
 						ClientIU.this.label_room.setIcon(ClientIU.this.iconGood);
@@ -373,8 +373,8 @@ public class ClientIU {
 					{	
 						ClientIU.this.label_room.setIcon(ClientIU.this.iconPoor);
 					}
-					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane2.getText());
-					resp = ClientIU.this.ct.getClassify(Sentence);
+					sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane2.getText());
+					resp = ClientIU.this.ct.getClassify(sentence);
 					if (resp.contains("POSITIVE"))
 					{	
 						ClientIU.this.label_service.setIcon(ClientIU.this.iconGood);
@@ -384,8 +384,8 @@ public class ClientIU {
 						ClientIU.this.label_service.setIcon(ClientIU.this.iconPoor);
 					}
 					
-					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane3.getText());
-					resp = ClientIU.this.ct.getClassify(Sentence);
+					sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane3.getText());
+					resp = ClientIU.this.ct.getClassify(sentence);
 					if (resp.contains("POSITIVE"))
 					{	
 						ClientIU.this.label_staff.setIcon(ClientIU.this.iconGood);
@@ -395,8 +395,8 @@ public class ClientIU {
 						ClientIU.this.label_staff.setIcon(ClientIU.this.iconPoor);
 					}
 					
-					Sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane4.getText());
-					resp = ClientIU.this.ct.getClassify(Sentence);
+					sentence = ClientIU.this.myCTG.generateSentence(ClientIU.this.editorPane4.getText());
+					resp = ClientIU.this.ct.getClassify(sentence);
 					if (resp.contains("POSITIVE"))
 					{	
 						ClientIU.this.label_facilities.setIcon(ClientIU.this.iconGood);
