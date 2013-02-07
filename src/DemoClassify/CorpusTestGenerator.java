@@ -29,8 +29,8 @@ import edu.stanford.nlp.util.CoreMap;
 public class CorpusTestGenerator {
 
 	private final static String[] NEGATION_TOKENS = {"not", "nt", "neither", "nor"};
-	private final static String TEST_FILE_PATH = "data/THOFUDemo.test";
-	private final static String TRAIN_FILE_PATH = "data/THOFUDemo.train";
+	public final static String TEST_FILE_PATH = "data/THOFUDemo.test";
+	public final static String TRAIN_FILE_PATH = "data/THOFUDemo.train";
 	private final static boolean DEBUG = true;
 	
 	static int testSplit = 10; //%

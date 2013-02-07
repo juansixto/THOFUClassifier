@@ -11,33 +11,29 @@ import edu.stanford.nlp.objectbank.ObjectBank;
 import edu.stanford.nlp.stats.Counter;
 
 public class ClassifyTrainer {
+	
+	public final static String PROP_FILE_PATH = ("data/THOFUDemo.prop");
+
+
 	ColumnDataClassifier cdc;
 	Classifier<String,String> cl;
 	int Tp = 0;
 	int Fp = 0;
 	int Tn = 0;
 	int Fn = 0;
-	String  trFile = "data/THOFUSecond.train";
-	String  tRating = "data/THOFUSecond.test";
-
-
-
 
 	public ClassifyTrainer (String prop)
 	{
 		this.cdc = new ColumnDataClassifier(prop);
 	}
 
-	public void SetTrainingExamples(String string) {
-
+	public void setTrainingExamples(String string) {
 		this.cl =this.cdc.makeClassifier(this.cdc.readTrainingExamples(string));
-
-
 	}
 
-	public List<myResult> SetTest(String string) throws IOException {
+	public List<myResult> setTest(String string) throws IOException {
 		List<myResult> ListRating = new ArrayList<myResult>();
-		//int jj=0; NOT USED, DELETE?
+
 		for (String line : ObjectBank.getLineIterator(string)) {
 			Datum<String,String> d = this.cdc.makeDatumFromLine(line, 0);
 
@@ -68,14 +64,11 @@ public class ClassifyTrainer {
 		}
 		return ListRating;
 	}
-	public String GetClassify(String item) {
+	public String getClassify(String item) {
 		String resp = "No resp";
 		Datum<String,String> d = this.cdc.makeDatumFromLine(item,0);
 
-
 		resp = (this.cl.classOf(d)).toString();
-		//Counter<String> record = cl.scoresOf(d); NOT USED, DELETE?
-
 
 		if(resp.contains("PR")){
 			resp = "NEGATIVE";
