@@ -29,6 +29,10 @@ import edu.stanford.nlp.util.CoreMap;
 public class CorpusTestGenerator {
 
 	private final static String[] NEGATION_TOKENS = {"not", "nt", "neither", "nor"};
+	private final static String TEST_FILE_PATH = "data/THOFUDemo.test";
+	private final static String TRAIN_FILE_PATH = "data/THOFUDemo.train";
+	private final static boolean DEBUG = true;
+	
 	static int testSplit = 10; //%
 	int numTest = 0;
 	int numTrain = 0;
@@ -37,26 +41,39 @@ public class CorpusTestGenerator {
 	List<String> serviceSentences = new ArrayList<String>();
 	List<String> staffSentences = new ArrayList<String>();
 	List<String> facilitiesSentences = new ArrayList<String>();
+	
+	String  testFilePath = TEST_FILE_PATH;
+	String  trainFilePath = TRAIN_FILE_PATH;
+	
+	public CorpusTestGenerator(){
+		this.testFilePath = TEST_FILE_PATH;
+		this.trainFilePath = TRAIN_FILE_PATH;
+	}
+	
+	public CorpusTestGenerator(String testFilePath, String trainFileParg){
+		this.testFilePath = testFilePath;
+		this.trainFilePath = trainFileParg;
+	}
 
 
-	public String generate(Corpus corpus) throws IOException{
+	public void generate(Corpus corpus) throws IOException{
 		String generatorData = "";
 
 		int corpusMax= (corpus.size())*testSplit/100;
 		QWordNetDB qwordnet = QWordNetDB.createInstance();
-		int numTest = 0;
-		int numTrain = 0;
+		this.numTest = 0;
+		this.numTrain = 0;
 		Properties props = new Properties();
 		props.put("annotators", "tokenize, ssplit, pos, lemma");
-		String  testFilePath = "data/THOFUDemo.test";
-		String  trainFilePath = "data/THOFUDemo.train";
-		File  trainFile = new File (trainFilePath);
-		File  testFile = new File (testFilePath);
+		
+		File  trainFile = new File (this.trainFilePath);
+		File  testFile = new File (this.testFilePath);
+		BufferedWriter  trainf = new BufferedWriter (new FileWriter (trainFile));
+		BufferedWriter  testf = new BufferedWriter (new FileWriter (testFile));
 
 
 		StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 		RVFDataset<String, String> dataset = new RVFDataset<String, String>();
-		// int nDoc = 1;  NOT USED, DELETE?
 
 		for (Document doc : corpus) {
 
@@ -167,29 +184,24 @@ public class CorpusTestGenerator {
 
 
 
-			if ((rnd > testSplit) &&( numTest <=corpusMax)){
-				BufferedWriter  trainf = new BufferedWriter (new FileWriter (trainFile));
+			if ((rnd > testSplit) &&( this.numTest <=corpusMax)){
 				trainf.write(doc.getClassification() +"	" +temp+"\n");
-				trainf.close();	
-				numTrain++;
-			} else{
-				BufferedWriter  testf = new BufferedWriter (new FileWriter (testFile));
+				this.numTrain++;
+			} else{	
 				testf.write(doc.getClassification() +"	" +temp+"\n");
-				testf.close();
-				numTest++;}
+				this.numTest++;
+			}
 
 
 		}
+		
+		trainf.close();	
+		testf.close();
 
-		String resp = "Total items: " + (numTest+numTrain) + " Total test items: " + numTest + " Total train items: " + numTrain ;
-		System.out.println(corpusMax);
-		System.out.println("Data files created");
-		System.out.println("Total items: " + (numTest+numTrain));
-		System.out.println("Total test items: " + numTest);
-		System.out.println("Total train items: " + numTrain);
-
-
-		return resp;
+		if (DEBUG) {
+			System.out.println(corpusMax);
+			this.printResults();
+		}
 	}
 
 	public void printResults(){
