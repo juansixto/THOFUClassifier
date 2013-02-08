@@ -1,24 +1,21 @@
 package DemoClassify;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 import java.io.File;
 import java.util.List;
 
-import org.jdom2.Document;
-import org.junit.Ignore;
 import org.junit.Test;
-
-import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
-import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.util.CoreMap;
 
 import Corpus.Corpus;
 import Corpus.TBODCorpusLoader;
 import Corpus.TBODCorpusLoader.LabelSet;
-import Qwordnet.QWordNetDB;
+import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
+import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.pipeline.Annotation;
+import edu.stanford.nlp.util.CoreMap;
 
 public class CorpusTestGeneratorTest {
 
@@ -59,7 +56,7 @@ public class CorpusTestGeneratorTest {
 	public void testClearText() {
 		CorpusTestGenerator ctg = new CorpusTestGenerator();
 
-		if(ctg.CLEAR_TEXT){
+		if(CorpusTestGenerator.CLEAR_TEXT){
 			Annotation document = new Annotation("Today, is the day.");
 			ctg.pipeline.annotate(document);
 			List<CoreMap> sentences = document.get(SentencesAnnotation.class);
@@ -74,7 +71,7 @@ public class CorpusTestGeneratorTest {
 	@Test
 	public void testaddPolarity() {
 		CorpusTestGenerator ctg = new CorpusTestGenerator();
-		if(ctg.POLARITY_TAGGING){
+		if(CorpusTestGenerator.POLARITY_TAGGING){
 			String lemma = "good";
 			String prevLemma = "hotel";
 			String polarityFeature = "lemma_" + prevLemma + "_" + lemma ;
@@ -90,9 +87,8 @@ public class CorpusTestGeneratorTest {
 	@Test
 	public void testposTagging() {
 		CorpusTestGenerator ctg = new CorpusTestGenerator();
-		if(ctg.PART_OF_SPEECH){
+		if(CorpusTestGenerator.PART_OF_SPEECH){
 			String lemma = "good";
-			String prevLemma = "hotel";
 			ctg.posTagging(lemma, "JJ");
 			assertEquals("{lemma_good_POS_JJ=1.0}", ctg.featureCounter.toString());
 		}				
@@ -100,7 +96,7 @@ public class CorpusTestGeneratorTest {
 	@Test
 	public void testcheckNegate() {
 		CorpusTestGenerator ctg = new CorpusTestGenerator();
-		if(ctg.NEGATIVE_TAGGING){
+		if(CorpusTestGenerator.NEGATIVE_TAGGING){
 			ctg.checkNegate("hello");
 			assertFalse(ctg.negate);
 			ctg.checkNegate("nor");
