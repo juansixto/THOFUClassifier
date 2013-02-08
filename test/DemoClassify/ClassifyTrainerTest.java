@@ -21,8 +21,7 @@ public class ClassifyTrainerTest {
 	@Before 
 	public void initialize()  throws Exception {
 		this.loader = new TBODCorpusLoader(LabelSet.TWO_LABEL);
-		this.corpus = this.loader.load();
-		
+		this.corpus = this.loader.load();		
 		this.myCTG = new CorpusTestGenerator();
 		this.myCTG.generate(this.corpus);
 	}

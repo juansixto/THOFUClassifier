@@ -31,8 +31,17 @@ public class CorpusTestGenerator {
 	private final static String[] NEGATION_TOKENS = {"not", "nt", "neither", "nor"};
 	public final static String TEST_FILE_PATH = "data/THOFUDemo.test";
 	public final static String TRAIN_FILE_PATH = "data/THOFUDemo.train";
+	public final static boolean CLEAR_TEXT = true;
+	public final static boolean PART_OF_SPEECH = true;
+	public final static boolean POLARITY_TAGGING = true;
+	public final static boolean NEGATIVE_TAGGING = true;
 	private final static boolean DEBUG = true;
 	
+	static 	Properties props;
+	static 	StanfordCoreNLP pipeline;
+	static QWordNetDB qwordnet;
+	static boolean negate;
+	static ClassicCounter<String> featureCounter;
 	static int testSplit = 10; //%
 	int numTest = 0;
 	int numTrain = 0;
@@ -48,23 +57,89 @@ public class CorpusTestGenerator {
 	public CorpusTestGenerator(){
 		this.testFilePath = TEST_FILE_PATH;
 		this.trainFilePath = TRAIN_FILE_PATH;
+		this.featureCounter = new ClassicCounter<String>();
+		this.qwordnet = QWordNetDB.createInstance();
+		this.props = new Properties();
+		props.put("annotators", "tokenize, ssplit, pos, lemma");
+		this.pipeline = new StanfordCoreNLP(props);
 	}
 	
 	public CorpusTestGenerator(String testFilePath, String trainFileParg){
 		this.testFilePath = testFilePath;
 		this.trainFilePath = trainFileParg;
+		this.featureCounter = new ClassicCounter<String>();
+		this.qwordnet = QWordNetDB.createInstance();
+		this.props = new Properties();
+		props.put("annotators", "tokenize, ssplit, pos, lemma");
+		this.pipeline = new StanfordCoreNLP(props);
 	}
 
-
+	public List<CoreLabel> clearText (CoreMap core){
+		List<CoreLabel> tokens = core.get(TokensAnnotation.class);
+		Iterator<CoreLabel> it = tokens.iterator();
+		if(CLEAR_TEXT){
+		while(it.hasNext()) {
+			final String pos = it.next().get(PartOfSpeechAnnotation.class);
+			if(pos.equals(".") || pos.equals(",") || pos.equals("``")) {
+				it.remove();
+			}
+		}
+		}
+		return tokens;
+		
+	}
+	
+	public void addPolarity(String lemma, String wordPos, String polarityFeature){
+		if(POLARITY_TAGGING){
+			boolean negative = (negate != (( qwordnet.getPolarity(lemma, wordPos)) < 0));
+			if(negative) {
+				featureCounter.decrementCount(polarityFeature);
+			} else {
+				featureCounter.incrementCount(polarityFeature);
+			}
+		}
+	}
+	public void posTagging(String lemma, String wordPos){
+		if(PART_OF_SPEECH){
+			if(!POLARITY_TAGGING){
+				if(!negate){
+					featureCounter.incrementCount("lemma_" + lemma + "_POS_" + wordPos);	
+				} else {
+					featureCounter.incrementCount("not_lemma_" + lemma + "_POS_" + wordPos);		
+				}		
+			}else {
+				boolean negative = (negate != (( qwordnet.getPolarity(lemma, wordPos)) < 0));
+				if(negative) {
+					featureCounter.decrementCount("lemma_" + lemma + "_POS_" + wordPos);
+				} else {
+					featureCounter.incrementCount("lemma_" + lemma + "_POS_" + wordPos);
+				}
+				
+				
+			}
+		}
+	}
+	
+	public void checkNegate(String word){
+		if(!negate) {
+			for(String negationToken: NEGATION_TOKENS) {
+				if(negationToken.equals(word)) {
+					negate = true;
+					break;
+				}
+			}
+		}
+	}
+		
+	
+	
 	public void generate(Corpus corpus) throws IOException{
 		String generatorData = "";
 
 		int corpusMax= (corpus.size())*testSplit/100;
-		QWordNetDB qwordnet = QWordNetDB.createInstance();
 		this.numTest = 0;
 		this.numTrain = 0;
-		Properties props = new Properties();
-		props.put("annotators", "tokenize, ssplit, pos, lemma");
+
 		
 		File  trainFile = new File (this.trainFilePath);
 		File  testFile = new File (this.testFilePath);
@@ -72,7 +147,7 @@ public class CorpusTestGenerator {
 		BufferedWriter  testf = new BufferedWriter (new FileWriter (testFile));
 
 
-		StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+
 		RVFDataset<String, String> dataset = new RVFDataset<String, String>();
 
 		for (Document doc : corpus) {
@@ -82,20 +157,12 @@ public class CorpusTestGenerator {
 
 			final List<CoreMap> sentences = document.get(SentencesAnnotation.class);
 
-			ClassicCounter<String> featureCounter = new ClassicCounter<String>();
+			featureCounter = new ClassicCounter<String>();
 			for (int h = 0; h < sentences.size(); h++) {
 				final CoreMap sentence = sentences.get(h);
-				final List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
-				final Iterator<CoreLabel> it = tokens.iterator();
+				final List<CoreLabel> tokens = clearText(sentence);
 
-				while(it.hasNext()) {
-					final String pos = it.next().get(PartOfSpeechAnnotation.class);
-					if(pos.equals(".") || pos.equals(",") || pos.equals("``")) {
-						it.remove();
-					}
-				}
-
-				boolean negate = false;
+				negate = false;
 
 				for (int i = 0; i < tokens.size(); i++) {		
 
@@ -108,8 +175,7 @@ public class CorpusTestGenerator {
 
 					if(wordPos.startsWith("NN") || wordPos.startsWith("JJ") || wordPos.startsWith("RB")) {
 						featureCounter.incrementCount("lemma_" + lemma);
-
-
+						posTagging(lemma, wordPos);
 						if(negate) {
 							featureCounter.incrementCount("not_lemma_" + lemma);
 						}
@@ -117,35 +183,20 @@ public class CorpusTestGenerator {
 
 
 					if(wordPos.startsWith("JJ") | wordPos.startsWith("JJR")| wordPos.startsWith("JJS")) {
-						//String RelWord = ""; NOT USED, DELETE?
 						for(int j = 1; j < 3; j++) {
 							if(i+j<tokens.size()){
 								if(tokens.get(i+j).get(PartOfSpeechAnnotation.class).startsWith("NN")|tokens.get(i+j).get(PartOfSpeechAnnotation.class).startsWith("NNS")| tokens.get(i+j).get(PartOfSpeechAnnotation.class).startsWith("NNP")| tokens.get(i+j).get(PartOfSpeechAnnotation.class).startsWith("NNPS")) {
-									//RelWord = tokens.get(i+j).get(TextAnnotation.class).toLowerCase(); NOT USED, DELETE?
 									String prevLemma = tokens.get(i+j).get(LemmaAnnotation.class).toLowerCase();
-									//String prevLemmaPos = tokens.get(i+j).get(PartOfSpeechAnnotation.class); NOT USED, DELETE?
 									final String polarityFeature = "lemma_" + prevLemma + "_" + lemma ;
-									final boolean negative = negate != (( qwordnet.getPolarity(lemma, wordPos)) < 0);
-									if(negative) {
-										featureCounter.decrementCount(polarityFeature);
-									} else {
-										featureCounter.incrementCount(polarityFeature);
-									}
+									addPolarity(lemma,wordPos,polarityFeature);
 									located = true;
 								}
 							}
 							if ((i-j)>0){
 								if(tokens.get(i-j).get(PartOfSpeechAnnotation.class).startsWith("NN") |tokens.get(i-j).get(PartOfSpeechAnnotation.class).startsWith("NNP") |tokens.get(i-j).get(PartOfSpeechAnnotation.class).startsWith("NNS") |tokens.get(i-j).get(PartOfSpeechAnnotation.class).startsWith("NNPS")) {
-									//RelWord = tokens.get(i-j).get(TextAnnotation.class).toLowerCase(); NOT USED, DELETE?
 									String prevLemma = tokens.get(i-j).get(LemmaAnnotation.class).toLowerCase();
-									//String prevLemmaPos = tokens.get(i-j).get(PartOfSpeechAnnotation.class); NOT USED, DELETE?
 									final String polarityFeature = "lemma_" + prevLemma + "_" + lemma ;
-									final boolean negative = negate != (( qwordnet.getPolarity(lemma, wordPos)) < 0);
-									if(negative) {
-										featureCounter.decrementCount(polarityFeature);
-									} else {
-										featureCounter.incrementCount(polarityFeature);
-									}
+									addPolarity(lemma,wordPos,polarityFeature);
 									located = true;
 								}
 							}
@@ -156,15 +207,7 @@ public class CorpusTestGenerator {
 							}
 						}
 					} 
-
-					if(!negate) {
-						for(String negationToken: NEGATION_TOKENS) {
-							if(negationToken.equals(word)) {
-								negate = true;
-								break;
-							}
-						}
-					}
+					checkNegate(word);
 				}
 			}
 			dataset.add(new RVFDatum<String, String>(featureCounter, doc.getClassification()));
@@ -236,21 +279,12 @@ public class CorpusTestGenerator {
 
 		final List<CoreMap> sentences = document.get(SentencesAnnotation.class);
 
-		ClassicCounter<String> featureCounter = new ClassicCounter<String>();
+		featureCounter = new ClassicCounter<String>();
 		for (int h = 0; h < sentences.size(); h++) {
 			final CoreMap sentence = sentences.get(h);
-			final List<CoreLabel> tokens = sentence.get(TokensAnnotation.class);
+			final List<CoreLabel> tokens = clearText(sentence);
 
-			final Iterator<CoreLabel> it = tokens.iterator();
-
-			while(it.hasNext()) {
-				final String pos = it.next().get(PartOfSpeechAnnotation.class);
-				if(pos.equals(".") || pos.equals(",") || pos.equals("``")) {
-					it.remove();
-				}
-			}
-
-			boolean negate = false;
+			negate = false;
 			boolean roomFeat = false;
 			boolean serviceFeat = false;
 			boolean staffFeat = false;
@@ -283,8 +317,7 @@ public class CorpusTestGenerator {
 				boolean located = false;
 				if(wordPos.startsWith("NN") || wordPos.startsWith("JJ") || wordPos.startsWith("RB")) {
 					featureCounter.incrementCount("lemma_" + lemma);
-
-
+					posTagging(lemma, wordPos);
 					if(negate) {
 						featureCounter.incrementCount("not_lemma_" + lemma);
 					}
@@ -300,12 +333,7 @@ public class CorpusTestGenerator {
 								String prevLemma = tokens.get(i+j).get(LemmaAnnotation.class).toLowerCase();
 								//String prevLemmaPos = tokens.get(i+j).get(PartOfSpeechAnnotation.class);  NOT USED, DELETE?
 								final String polarityFeature = "lemma_" + prevLemma + "_" + lemma ;
-								final boolean negative = negate != (( qwordnet.getPolarity(lemma, wordPos)) < 0);
-								if(negative) {
-									featureCounter.decrementCount(polarityFeature);
-								} else {
-									featureCounter.incrementCount(polarityFeature);
-								}
+								addPolarity(lemma,wordPos,polarityFeature);
 								located = true;
 							}
 						}
@@ -315,12 +343,7 @@ public class CorpusTestGenerator {
 								String prevLemma = tokens.get(i-j).get(LemmaAnnotation.class).toLowerCase();
 								//String prevLemmaPos = tokens.get(i-j).get(PartOfSpeechAnnotation.class);  NOT USED, DELETE?
 								final String polarityFeature = "lemma_" + prevLemma + "_" + lemma ;
-								final boolean negative = negate != (( qwordnet.getPolarity(lemma, wordPos)) < 0);
-								if(negative) {
-									featureCounter.decrementCount(polarityFeature);
-								} else {
-									featureCounter.incrementCount(polarityFeature);
-								}
+								addPolarity(lemma,wordPos,polarityFeature);
 								located = true;
 							}
 						}
@@ -335,14 +358,7 @@ public class CorpusTestGenerator {
 
 				/////////////////////////////////////////////////
 
-				if(!negate) {
-					for(String negationToken: NEGATION_TOKENS) {
-						if(negationToken.equals(word)) {
-							negate = true;
-							break;
-						}
-					}
-				}
+				checkNegate(word);
 
 			}
 			if(roomFeat){
