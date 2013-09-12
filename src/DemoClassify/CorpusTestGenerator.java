@@ -37,12 +37,12 @@ public class CorpusTestGenerator {
 	public final static boolean NEGATIVE_TAGGING = true;
 	private final static boolean DEBUG = true;
 	
-	static 	Properties props;
-	static 	StanfordCoreNLP pipeline;
-	static QWordNetDB qwordnet;
-	static boolean negate;
-	static ClassicCounter<String> featureCounter;
-	static int testSplit = 10; //%
+	final Properties props;
+	final StanfordCoreNLP pipeline;
+	final QWordNetDB qwordnet;
+	boolean negate;
+	ClassicCounter<String> featureCounter;
+	final int testSplit = 10; //%
 	int numTest = 0;
 	int numTrain = 0;
 	TaxonomyClass myTC = new TaxonomyClass();
@@ -263,8 +263,6 @@ public class CorpusTestGenerator {
 		this.serviceSentences = new ArrayList<String>();
 		this.staffSentences = new ArrayList<String>();
 		this.facilitiesSentences = new ArrayList<String>();
-
-		QWordNetDB qwordnet = QWordNetDB.createInstance();
 
 		Properties props = new Properties();
 		props.put("annotators", "tokenize, ssplit, pos, lemma");
