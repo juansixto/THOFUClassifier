@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-classifier.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-2012-07-06-models.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-2012-07-09-sources.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-2012-07-09.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="lib/xom.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/org.json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

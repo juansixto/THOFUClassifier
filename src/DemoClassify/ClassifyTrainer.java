@@ -69,7 +69,7 @@ public class ClassifyTrainer {
 	public String getClassify(String item) {
 		String resp = "No resp";
 		Datum<String,String> d = this.cdc.makeDatumFromLine(item,0);
-
+		System.out.println("Classify: --> "+item);
 		resp = (this.cl.classOf(d)).toString();
 
 		if(resp.contains("PR")){

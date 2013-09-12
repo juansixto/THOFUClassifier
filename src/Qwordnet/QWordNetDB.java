@@ -126,9 +126,11 @@ public class QWordNetDB {
 	}
 	
 	public int getPolarity(final String lemma, String pos) {
+		System.out.println("Buscando polaridad: " +pos + " " + lemma);
 		if(this.posMappings.containsKey(pos)) {
 			final String index = lemma + "." + this.posMappings.get(pos);
 			if(this.polarities.containsKey(index)) {
+				System.out.println(lemma + pos + this.polarities.get(index).getPolarity());
 				return this.polarities.get(index).getPolarity();
 			} else return 0;
 		} else return 0;
