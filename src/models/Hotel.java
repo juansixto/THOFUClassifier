@@ -82,7 +82,7 @@ public class Hotel {
 	public void setService(int service) {
 		this.service = service;
 	}
-	public void getRatingsPercentages(){
+	public int[][] getRatingsPercentages(){
 		double[] rating = new double[this.reviews.size()];
 		double[] values = new double[this.reviews.size()];
 		double[] location = new double[this.reviews.size()];
@@ -100,29 +100,32 @@ public class Hotel {
 			service[i] = this.reviews.get(i).getService();
 		}
 		
-		
+		int[][] ratings = new int[7][]; 
 		System.out.println("===================================");
 		System.out.println("Reviews Number: " + this.reviews.size());
 		System.out.println("Rating Numbers:");
-		printRatings(rating);
+		ratings[0] = printRatings(rating);
+		System.out.println("!!!!"+printRatings(rating));
 		System.out.println("Value Numbers:");
-		printRatings(values);
+		ratings[1] = printRatings(values);
 		System.out.println("Location Numbers:");
-		printRatings(location);
+		ratings[2] = printRatings(location);
 		System.out.println("SleepQ Numbers:");
-		printRatings(sleepQ);
+		ratings[3] = printRatings(sleepQ);
 		System.out.println("Rooms Numbers:");
-		printRatings(rooms);
+		ratings[4] = printRatings(rooms);
 		System.out.println("Clearliness Numbers:");
-		printRatings(clearliness);
+		ratings[5] = printRatings(clearliness);
 		System.out.println("Service Numbers:");
-		printRatings(service);
+		ratings[6] = printRatings(service);
 	
 		
 		System.out.println("===================================");
+		System.out.println("Ratings;"+ratings);
+		return ratings;
 	}
 	
-	public void printRatings(double[] items){
+	public int[] printRatings(double[] items){
 		Arrays.sort(items);
 		int[] classif = {0,0,0,0,0};
 		for(int i = 0; i < items.length; i++){
@@ -150,6 +153,8 @@ public class Hotel {
 		System.out.println("3 Star: " + classif[2] + graphicPercent(classif[2], items.length));
 		System.out.println("4 Star: " + classif[3] + graphicPercent(classif[3], items.length));
 		System.out.println("5 Star: " + classif[4] + graphicPercent(classif[4], items.length));
+		System.out.println("###"+classif[0]);
+		return classif;
 	}
 	
 	public String graphicPercent(int c, int t){
